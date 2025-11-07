@@ -34,6 +34,11 @@
 
         if (product?.images?.main) add(product.images.main);
         if (product?.images?.hover) add(product.images.hover);
+        if (product?.otherImages) {
+            product.otherImages.forEach((img) => {
+                add(img)
+            });
+        }
 
         if (Array.isArray(product?.colors)) {
             product.colors.forEach((color) => {

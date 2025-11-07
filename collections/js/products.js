@@ -1,4 +1,4 @@
-const watch_tag = new Set(['men', 'women', 'kids', 'luxury', 'smart']);
+const watch_tag = new Set(['men', 'women', 'kids', 'luxury', 'smart', 'best-seller']);
 
 function getWhatsAppUrl(message) {
     const encodedMessage = encodeURIComponent(message);
@@ -19,6 +19,10 @@ const products = [
             main: "../images/products/watch/GM 2110D-2ADR/silver blue/1761903742884.jpg",
             hover: "../images/products/watch/GM 2110D-2ADR/silver blue/1761904319881.jpg"
         },
+        otherImages: [
+            '../images/products/watch/GM 2110D-2ADR/silver blue/1761906371651.jpg',
+            '../images/products/watch/GM 2110D-2ADR/silver blue/1761916480614.jpg'
+        ],
         tags: ["men" , "casio", "popular"],
         availability: "In stock",
         brand: "casio",
@@ -28,7 +32,7 @@ const products = [
             {
                 name: "Silver Blue",
                 class: "bg-blue",
-                image: "../images/products/product-21.jpg"
+                image: "../images/products/watch/GM 2110D-2ADR/silver blue/1761904319881.jpg"
             }
         ]
     },
@@ -46,6 +50,10 @@ const products = [
             main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761676594529.jpg",
             hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761680124603.jpg"
         },
+        otherImages: [
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761677454253.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761679137693.jpg',
+        ],
         availability: "In stock",
         brand: "casio",
         badge: "20% OFF",
@@ -60,7 +68,7 @@ const products = [
     },
     {
         id: 3,
-        name: "G-Shock Casio GM-2100-1A Generic",
+        name: "G-Shock Casio GM-2100-1A Generic - Full Black",
         description: "Premium watch with advanced features and durable design",
         details: "Water resistant, shock resistant, and built to last with premium materials",
         price: {
@@ -68,14 +76,18 @@ const products = [
             new: "₹1499"
         },
         images: {
-            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761676594529.jpg",
-            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761679137693.jpg"
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760900947186.jpg",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901170829.jpg"
         },
+        otherImages: [
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901293700.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901406873.jpg',
+        ],
         tags: ["all"],
         availability: "In stock",
         brand: "casio",
         badge: "Sale",
-        whatsappUrl: "https://wa.me/1234567890?text=Hi!%20I'm%20interested%20in%20G-Shock%20Casio%20GM-2100-1A%20Generic",
+        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – Full Black Edition"),
         colors: [
             {
                 name: "Black",
