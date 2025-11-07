@@ -1,59 +1,60 @@
 const watch_tag = new Set(['men', 'women', 'kids', 'luxury', 'smart']);
+
+function getWhatsAppUrl(message) {
+    const encodedMessage = encodeURIComponent(message);
+    return `https://wa.me/918097949357?text=${encodedMessage}`;
+}
+
 const products = [
     {
         id: 1,
-        name: "Summer two piece set",
-        description: "Super soft and comfy fabric, skin-friendly and breathable. Women's tops dressy casual, round neck cute lightweight tops, loose fit basic tees",
-        details: "Warm up or cool down with this essential 3/4 sleeve t-shirts, featured in an loose fit and Pleated sleeve design with sew seaming front for a lived-in look.",
+        name: "GM 2110D-2ADR",
+        description: "Shine in silver and blue — elegance redefined. Now at just ₹1,499! Click to buy on WhatsApp — pay ₹100 now, rest on delivery.",
+        details: "Where elegance meets value. The GM 2110D-2ADR (Silver Blue) brings timeless design and modern charm together — now at a special price of ₹1,499 only! Order easily on WhatsApp — just pay ₹100 now, and the rest via Cash on Delivery.",
         price: {
-            old: "$99,99",
-            new: "$69,99"
+            old: "₹3599",
+            new: "₹1699"
         },
         images: {
-            main: "../images/products/product-21.jpg",
-            hover: "../images/products/product-22.jpg"
+            main: "../images/products/watch/GM 2110D-2ADR/silver blue/1761903742884.jpg",
+            hover: "../images/products/watch/GM 2110D-2ADR/silver blue/1761904319881.jpg"
         },
-        tags: ["men" , "retro"],
+        tags: ["men" , "casio", "popular"],
         availability: "In stock",
-        brand: "automet",
+        brand: "casio",
         badge: "Hot",
-        whatsappUrl: "https://wa.me/1234567890?text=Hi!%20I'm%20interested%20in%20Summer%20two%20piece%20set",
+        whatsappUrl: getWhatsAppUrl("Hi! GM 2110D-2ADR – Silver Blue Edition"),
         colors: [
             {
-                name: "Dark",
-                class: "bg-dark-charcoal",
+                name: "Silver Blue",
+                class: "bg-blue",
                 image: "../images/products/product-21.jpg"
             }
         ]
     },
     {
         id: 2,
-        name: "Seamless breathable thong",
-        description: "Comfortable and breathable seamless design for everyday wear",
-        details: "Made with premium quality fabric for ultimate comfort and fit",
+        name: "G-Shock Casio GM-2100-1A Generic",
+        description: "Bold, rugged, and built to impress — the G-Shock GM-2100-1A. Now at just ₹1,499! Click to buy on WhatsApp — pay ₹100 now, rest on delivery.",
+        details: "Unleash your style with the G-Shock Casio GM-2100-1A, a watch that blends strength, durability, and bold aesthetics. Designed for those who live life on the edge, this timepiece features G-Shock’s signature shock resistance and a sleek, modern profile that commands attention. Now available at an exclusive price of ₹1,499 only — an unbeatable deal for true watch enthusiasts. Order directly via WhatsApp — pay ₹100 now to confirm your order and the rest on delivery.",
         price: {
-            old: "$99,99",
-            new: "$69,99"
+            old: "₹3499",
+            new: "₹1499"
         },
-        tags: ["women"],
+        tags: ["men", "popular", "casio", "g-shock"],
         images: {
-            main: "../images/products/underwear/product-1.jpg",
-            hover: "../images/products/underwear/product-2.jpg"
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761676594529.jpg",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761680124603.jpg"
         },
         availability: "In stock",
-        brand: "fisoew",
+        brand: "casio",
         badge: "20% OFF",
-        whatsappUrl: "https://wa.me/1234567890?text=Hi!%20I'm%20interested%20in%20Seamless%20breathable%20thong",
+        whatsappUrl: getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – Copper Edition"),
         colors: [
             {
-                name: "Sage Green",
-                class: "bg-sage-green",
-                image: "../images/products/underwear/product-1.jpg"
-            },
-            {
-                name: "Light Orange",
-                class: "bg-tomato",
-                image: "../images/products/underwear/product-3.jpg"
+                name: "Copper",
+                class: "bg-copper",
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761680124603.jpg"
             }
         ]
     },
