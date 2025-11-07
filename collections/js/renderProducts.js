@@ -126,12 +126,6 @@ function createProductCard(product, layout = 'grid') {
                     </a>
                     <ul class="product-action_list">
                         <li>
-                            <a href="#compare" data-bs-toggle="offcanvas" class="hover-tooltip tooltip-left box-icon">
-                                <span class="icon icon-compare"></span>
-                                <span class="tooltip">Compare</span>
-                            </a>
-                        </li>
-                        <li>
                             <a href="#quickView" data-bs-toggle="modal" class="hover-tooltip tooltip-left box-icon quick-view-btn" data-product-id="${product.id}">
                                 <span class="icon icon-view"></span>
                                 <span class="tooltip">Quick view</span>
@@ -174,18 +168,6 @@ function createProductCard(product, layout = 'grid') {
                             <a href="${product.whatsappUrl}" target="_blank" class="hover-tooltip tooltip-left box-icon">
                                 <span class="icon icon-shopping-cart-simple"></span>
                                 <span class="tooltip">Buy on WhatsApp</span>
-                            </a>
-                        </li>
-                        <li class="wishlist">
-                            <a href="javascript:void(0);" class="hover-tooltip tooltip-left box-icon">
-                                <span class="icon icon-heart"></span>
-                                <span class="tooltip">Add to Wishlist</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#compare" data-bs-toggle="offcanvas" class="hover-tooltip tooltip-left box-icon">
-                                <span class="icon icon-compare"></span>
-                                <span class="tooltip">Compare</span>
                             </a>
                         </li>
                         <li>
