@@ -1,6 +1,4 @@
-// Products Array - Contains all product information
-// To update WhatsApp number for all products, use: updateWhatsAppNumber('1234567890') in renderProducts.js
-// WhatsApp URL format: https://wa.me/PHONENUMBER?text=MESSAGE (use encodeURIComponent for message)
+const watch_tag = new Set(['men', 'women', 'kids', 'luxury', 'smart']);
 const products = [
     {
         id: 1,
@@ -15,7 +13,7 @@ const products = [
             main: "../images/products/product-21.jpg",
             hover: "../images/products/product-22.jpg"
         },
-        tags: ["men"],
+        tags: ["men" , "retro"],
         availability: "In stock",
         brand: "automet",
         badge: "Hot",
@@ -69,8 +67,8 @@ const products = [
             new: "₹1499"
         },
         images: {
-            main: "../images/products/watch-1.jpg",
-            hover: "../images/products/watch-1-hover.jpg"
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761676594529.jpg",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761679137693.jpg"
         },
         tags: ["all"],
         availability: "In stock",

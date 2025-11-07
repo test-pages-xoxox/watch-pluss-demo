@@ -283,7 +283,7 @@
                                 <!--                                                                    Together</a>-->
                                 <!--                                                            </li>-->
                                 <!--                                                            <li>-->
-                                <!--                                                                <a href="product-countdown-timer.html" class="sub-menu_link">Countdown Timer</a>-->
+                                <!--                                                                <a href="product-detail.html" class="sub-menu_link">Countdown Timer</a>-->
                                 <!--                                                            </li>-->
                                 <!--                                                            <li>-->
                                 <!--                                                                <a href="product-volume-discount.html" class="sub-menu_link">Volume Discount</a>-->
@@ -446,7 +446,7 @@
                             <div class="tf-product-media-wrap sticky-top">
                                 <div class="product-thumbs-slider">
                                     <div dir="ltr" class="swiper tf-product-media-thumbs other-image-zoom" data-direction="vertical" data-preview="4.7">
-                                        <div class="swiper-wrapper stagger-wrap">
+                                        <div class="swiper-wrapper stagger-wrap" id="productThumbsWrapper">
                                             <div class="swiper-slide stagger-item" data-size="XS" data-color="blue">
                                                 <div class="item">
                                                     <img class="lazyload" data-src="images/products/fashion/product-1.jpg" src="images/products/fashion/product-1.jpg" alt="img-product">
@@ -506,7 +506,7 @@
                                     </div>
                                     <div class="flat-wrap-media-product">
                                         <div dir="ltr" class="swiper tf-product-media-main" id="gallery-swiper-started">
-                                            <div class="swiper-wrapper">
+                                            <div class="swiper-wrapper" id="productGalleryWrapper">
                                                 <div class="swiper-slide" data-size="XS" data-color="blue">
                                                     <a href="images/products/fashion/product-1.jpg" target="_blank" class="item" data-pswp-width="860px" data-pswp-height="1146px">
                                                         <img class="tf-image-zoom lazyload" data-zoom="images/products/fashion/product-1.jpg" data-src="images/products/fashion/product-1.jpg" src="images/products/fashion/product-1.jpg" alt="">
@@ -1791,7 +1791,7 @@
             <div class="container">
                 <h1 class="sect-title text-center">You May Also Like</h1>
                 <div dir="ltr" class="swiper tf-swiper wrap-sw-over" data-preview="4" data-tablet="3" data-mobile-sm="2" data-mobile="2" data-space-lg="48" data-space-md="30" data-space="12" data-pagination="2" data-pagination-sm="2" data-pagination-md="3" data-pagination-lg="4">
-                    <div class="swiper-wrapper">
+                    <div class="swiper-wrapper" id="alsoLikeWrapper">
                         <!-- Product 1 -->
                         <div class="swiper-slide">
                             <div class="card-product">
@@ -2214,7 +2214,7 @@
             <div class="container">
                 <h1 class="sect-title text-center">Related Products</h1>
                 <div dir="ltr" class="swiper tf-swiper wrap-sw-over" data-preview="4" data-tablet="3" data-mobile-sm="2" data-mobile="2" data-space-lg="48" data-space-md="30" data-space="12" data-pagination="2" data-pagination-sm="2" data-pagination-md="3" data-pagination-lg="4">
-                    <div class="swiper-wrapper">
+                    <div class="swiper-wrapper" id="relatedProductsWrapper">
                         <!-- Product 1 -->
                         <div class="swiper-slide">
                             <div class="card-product">
@@ -4415,6 +4415,9 @@
     <script src="js/parallaxie.js"></script>
     <script src="js/count-down.js"></script>
     <script src="js/drift.min.js"></script>
+    <script src="collections/js/products.js"></script>
+    <script src="collections/js/renderProducts.js"></script>
+    <script src="js/product-detail-dynamic.js"></script>
     <script src="js/main.js"></script>
 
     <script src="js/sibforms.js" defer=""></script>

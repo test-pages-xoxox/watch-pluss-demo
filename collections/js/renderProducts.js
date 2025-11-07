@@ -1,5 +1,5 @@
 // Define whitelist of allowed tags
-const whitelist = new Set(['men', 'women', 'kids', 'luxury', 'smart']);
+
 
 function getCategory() {
     const params = new URLSearchParams(window.location.search);
@@ -26,7 +26,7 @@ function renderProducts(productsArray, containerId, layout = 'grid') {
     // Build filtered list
     let filteredProducts;
 
-    if (category && whitelist.has(category)) {
+    if (category && watch_tag.has(category)) {
         // Filter efficiently using Set + Array.some
         filteredProducts = productsArray.filter(p => p.tags.some(tag => tag.toLowerCase() === category)
         );
@@ -120,7 +120,7 @@ function createProductCard(product, layout = 'grid') {
         card.innerHTML = `
             <div class="card-product ${layoutClass}" data-availability="${product.availability}" data-brand="${product.brand}">
                 <div class="card-product_wrapper">
-                    <a href="product-detail.html" class="product-img">
+                    <a href="../product-detail.html?pid=${product.id}" class="product-img">
                         <img class="lazyload img-product" src="${product.images.main}" data-src="${product.images.main}" alt="${product.name}">
                         ${product.images.hover ? `<img class="lazyload img-hover" src="${product.images.hover}" data-src="${product.images.hover}" alt="${product.name}">` : ''}
                     </a>
@@ -142,7 +142,7 @@ function createProductCard(product, layout = 'grid') {
                 </div>
                 <div class="card-product_info">
                     <div class="product-info_list">
-                        <a href="product-detail.html" class="name-product h3 link">${product.name}</a>
+                        <a href="../product-detail.html?pid=${product.id}" class="name-product h3 link">${product.name}</a>
                         ${priceHTML}
                         ${colorSwatchesHTML}
                         ${descriptionHTML}
@@ -165,7 +165,7 @@ function createProductCard(product, layout = 'grid') {
         card.innerHTML = `
             <div class="card-product ${layoutClass}" data-availability="${product.availability}" data-brand="${product.brand}">
                 <div class="card-product_wrapper">
-                    <a href="product-detail.html" class="product-img">
+                    <a href="../product-detail.html?pid=${product.id}" class="product-img">
                         <img class="lazyload img-product" src="${product.images.main}" data-src="${product.images.main}" alt="${product.name}">
                         ${product.images.hover ? `<img class="lazyload img-hover" src="${product.images.hover}" data-src="${product.images.hover}" alt="${product.name}">` : ''}
                     </a>
@@ -198,7 +198,7 @@ function createProductCard(product, layout = 'grid') {
                     ${badgeHTML}
                 </div>
                 <div class="card-product_info">
-                    <a href="product-detail.html" class="name-product h4 link">${product.name}</a>
+                    <a href="product-detail.html?pid=${product.id}" class="name-product h4 link">${product.name}</a>
                     ${priceHTML}
                     ${colorSwatchesHTML}
                 </div>
