@@ -92,7 +92,7 @@ const products = [
             {
                 name: "Black",
                 class: "bg-black",
-                image: "../images/products/watch-1.jpg"
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901406873.jpg"
             }
         ]
     }

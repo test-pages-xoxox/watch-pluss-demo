@@ -272,6 +272,21 @@ document.addEventListener('DOMContentLoaded', function() {
                 buyBtn.setAttribute('target', '_blank');
                 buyBtn.innerHTML = `BUY ON WHATSAPP <i class="icon icon-shopping-cart-simple"></i>`;
             }
+
+            // Update product name link to point to specific product
+            if (nameEl && nameEl.tagName === 'A') {
+                nameEl.setAttribute('href', `product-detail.html?pid=${product.id}`);
+            }
+
+            // Update "View full details" link to point to specific product and open in new tab
+            const viewDetailsLink = modal.querySelector('a.tf-btn-line');
+            if (viewDetailsLink) {
+                const spanText = viewDetailsLink.querySelector('span.h5');
+                if (spanText && spanText.textContent.trim().toLowerCase().includes('view full details')) {
+                    viewDetailsLink.setAttribute('href', `product-detail.html?pid=${product.id}`);
+                    viewDetailsLink.setAttribute('target', '_blank');
+                }
+            }
         }
 
         document.addEventListener('click', function(e) {
