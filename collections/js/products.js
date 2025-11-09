@@ -1,4 +1,4 @@
-const watch_tag = new Set(['men', 'women', 'kids', 'luxury', 'smart', 'best-seller']);
+const watch_tag = new Set(['men', 'women', 'kids', 'luxury', 'smart', 'best-seller', 'casio']);
 
 function getWhatsAppUrl(message) {
     const encodedMessage = encodeURIComponent(message);
@@ -12,7 +12,7 @@ const products = [
         description: "Shine in silver and blue — elegance redefined. Now at just ₹1,499! Click to buy on WhatsApp — pay ₹100 now, rest on delivery.",
         details: "Where elegance meets value. The GM 2110D-2ADR (Silver Blue) brings timeless design and modern charm together — now at a special price of ₹1,499 only! Order easily on WhatsApp — just pay ₹100 now, and the rest via Cash on Delivery.",
         price: {
-            old: "₹3599",
+            old: "₹2999",
             new: "₹1699"
         },
         images: {
@@ -42,7 +42,7 @@ const products = [
         description: "Bold, rugged, and built to impress — the G-Shock GM-2100-1A. Now at just ₹1,499! Click to buy on WhatsApp — pay ₹100 now, rest on delivery.",
         details: "Unleash your style with the G-Shock Casio GM-2100-1A, a watch that blends strength, durability, and bold aesthetics. Designed for those who live life on the edge, this timepiece features G-Shock’s signature shock resistance and a sleek, modern profile that commands attention. Now available at an exclusive price of ₹1,499 only — an unbeatable deal for true watch enthusiasts. Order directly via WhatsApp — pay ₹100 now to confirm your order and the rest on delivery.",
         price: {
-            old: "₹3499",
+            old: "₹2499",
             new: "₹1499"
         },
         tags: ["men", "popular", "casio", "g-shock"],
@@ -56,7 +56,7 @@ const products = [
         ],
         availability: "In stock",
         brand: "casio",
-        badge: "20% OFF",
+        badge: "50% OFF",
         whatsappUrl: getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – Copper Edition"),
         colors: [
             {
@@ -72,7 +72,7 @@ const products = [
         description: "Premium watch with advanced features and durable design",
         details: "Water resistant, shock resistant, and built to last with premium materials",
         price: {
-            old: "₹5499",
+            old: "₹2499",
             new: "₹1499"
         },
         images: {
@@ -93,6 +93,37 @@ const products = [
                 name: "Black",
                 class: "bg-black",
                 image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901406873.jpg"
+            }
+        ]
+    },
+    
+    {
+        id: 4,
+        name: "G-Shock Casio GM-2100-1A Generic - Silver Blue",
+        description: "Premium watch with advanced features and durable design",
+        details: "Day/Date/Digital Time/ analog time/ all chronograph working. Trust issue live video calling option available. Provide customer's Feedback pdf. Provide live packaging video order dispatch time",
+        price: {
+            old: "₹2499",
+            new: "₹1499"
+        },
+        images: {
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761852837371.jpg",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761853220380.jpg"
+        },
+        otherImages: [
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761853626398.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761854009633.jpg',
+        ],
+        tags: ["all", "men", "casio", "formal"],
+        availability: "In stock",
+        brand: "casio",
+        badge: "Sale",
+        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – silver blue Edition"),
+        colors: [
+            {
+                name: "silver blue",
+                class: "bg-black",
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761852837371.jpg"
             }
         ]
     }
