@@ -168,7 +168,7 @@
             dot.className = `dot-color ${product.colors[0].class}`;
         }
 
-        const stickyBtn = sticky.querySelector(".tf-sticky-atc-btns .btn-add-to-cart");
+        const stickyBtn = document.querySelector(".tf-sticky-atc-btns .btn-add-to-cart");
         if (stickyBtn) {
             stickyBtn.href = product.whatsappUrl || "#";
             stickyBtn.target = "_blank";
@@ -288,6 +288,21 @@
                 priceOldEl.classList.add("d-none");
             }
         }
+
+        setTimeout(() => {
+            const priceOldElem = document.querySelector(
+                ".tf-product-info-list .product-info-price .price-old"
+            );
+            if (priceOldElem) {
+                if (product?.price?.old) {
+                    priceOldElem.textContent = product.price.old;
+                    priceOldElem.classList.remove("d-none");
+                } else {
+                    priceOldElem.textContent = "";
+                    priceOldElem.classList.add("d-none");
+                }
+            }
+        }, 200);
 
         const priceWrap = document.querySelector(".tf-product-info-list .product-info-price");
         updateDiscountBadge(priceWrap, product?.price?.new, product?.price?.old);
