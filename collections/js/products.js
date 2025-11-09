@@ -142,7 +142,7 @@ const products = [
         },
         otherImages: [
             '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0007.jpg',
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0001.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gwatch_sincere-20250914-0001.jpg',
         ],
         tags: ["all", "men", "casio", "formal"],
         availability: "In stock",
