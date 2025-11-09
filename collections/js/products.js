@@ -126,6 +126,36 @@ const products = [
                 image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761852837371.jpg"
             }
         ]
+    },
+    {
+        id: 5,
+        name: "G-Shock Casio GM-2100-1A Generic - Silver Grey",
+        description: "Premium watch with advanced features and durable design",
+        details: "Day/Date/Digital Time/ analog time/ all chronograph working. Trust issue live video calling option available. Provide customer's Feedback pdf. Provide live packaging video order dispatch time",
+        price: {
+            old: "₹2499",
+            new: "₹1499"
+        },
+        images: {
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0005.jpg",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0006.jpg"
+        },
+        otherImages: [
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0007.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0001.jpg',
+        ],
+        tags: ["all", "men", "casio", "formal"],
+        availability: "In stock",
+        brand: "casio",
+        badge: "Trending",
+        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – silver Grey Edition"),
+        colors: [
+            {
+                name: "silver Grey",
+                class: "bg-black",
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0005.jpg"
+            }
+        ]
     }
 ];
 
