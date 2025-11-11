@@ -8,7 +8,7 @@ function getWhatsAppUrl(message) {
 const products = [
     {
         id: 1,
-        name: "GM 2110D-2ADR",
+        name: "G-Shock Casio GM 2110D-2ADR Generic - Silver Blue",
         description: "Shine in silver and blue — elegance redefined. Now at just ₹1,499! Click to buy on WhatsApp — pay ₹100 now, rest on delivery.",
         details: "Where elegance meets value. The GM 2110D-2ADR (Silver Blue) brings timeless design and modern charm together — now at a special price of ₹1,499 only! Order easily on WhatsApp — just pay ₹100 now, and the rest via Cash on Delivery.",
         price: {
@@ -184,6 +184,204 @@ const products = [
                 name: "silver Green",
                 class: "bg-black",
                 image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761595137325.jpg"
+            }
+        ]
+    },
+    {
+        id: 7,
+        name: "G-Shock Casio GM-2100-1A Generic - Silver Black",
+        description: "Premium watch with advanced features and durable design",
+        details: "Day/Date/Digital Time/ analog time/ all chronograph working. Trust issue live video calling option available. Provide customer's Feedback pdf. Provide live packaging video order dispatch time",
+        price: {
+            old: "₹2499",
+            new: "₹1499"
+        },
+        images: {
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver black/1761467253895.jpg",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver black/1761467676047.jpg"
+        },
+        otherImages: [
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761468239476.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761476834937.jpg',
+        ],
+        tags: ["all", "men", "casio", "formal"],
+        availability: "In stock",
+        brand: "casio",
+        badge: "Trending",
+        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – silver black Edition"),
+        colors: [
+            {
+                name: "silver black",
+                class: "bg-black",
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver black/1761467253895.jpg"
+            },
+            {
+        id: 8,
+        name: "G-Shock Casio GM-2100-1A Generic - Green",
+        description: "Premium watch with advanced features and durable design",
+        details: "Day/Date/Digital Time/ analog time/ all chronograph working. Trust issue live video calling option available. Provide customer's Feedback pdf. Provide live packaging video order dispatch time",
+        price: {
+            old: "₹2499",
+            new: "₹1499"
+        },
+        images: {
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761655357053.jpg",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761658655987.jpg"
+        },
+        otherImages: [
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761662283099.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761666324380.jpg',
+        ],
+        tags: ["all", "men", "casio", "formal"],
+        availability: "In stock",
+        brand: "casio",
+        badge: "Trending",
+        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – green Edition"),
+        colors: [
+            {
+                name: "green",
+                class: "bg-black",
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761655357053.jpg"
+            },
+            {
+        id: 9,
+        name: "G-Shock Casio GM-2100-1A Generic - Gold Black",
+        description: "Premium watch with advanced features and durable design",
+        details: "Day/Date/Digital Time/ analog time/ all chronograph working. Trust issue live video calling option available. Provide customer's Feedback pdf. Provide live packaging video order dispatch time",
+        price: {
+            old: "₹2499",
+            new: "₹1499"
+        },
+        images: {
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760901803069.jpg",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760901966386.jpg"
+        },
+        otherImages: [
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760902132336.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760902279371.jpg',
+        ],
+        tags: ["all", "men", "casio", "formal"],
+        availability: "In stock",
+        brand: "casio",
+        badge: "Trending",
+        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – gold black Edition"),
+        colors: [
+            {
+                name: "gold black",
+                class: "bg-black",
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760901803069.jpg"
+            },
+            {
+        id: 10,
+        name: "G-Shock Casio GM-2100-1A Generic - Black",
+        description: "Premium watch with advanced features and durable design",
+        details: "Day/Date/Digital Time/ analog time/ all chronograph working. Trust issue live video calling option available. Provide customer's Feedback pdf. Provide live packaging video order dispatch time",
+        price: {
+            old: "₹2499",
+            new: "₹1499"
+        },
+        images: {
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760900947186.jpg",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901170829.jpg"
+        },
+        otherImages: [
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901293700.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901406873.jpg',
+        ],
+        tags: ["all", "men", "casio", "formal"],
+        availability: "In stock",
+        brand: "casio",
+        badge: "Trending",
+        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – black Edition"),
+        colors: [
+            {
+                name: "black",
+                class: "bg-black",
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760900947186.jpg"
+            },
+            {
+        id: 11,
+        name: "G-Shock Casio GM 2110D-2ADR Generic - Silver Green",
+        description: "Premium watch with advanced features and durable design",
+        details: "Day/Date/Digital Time/ analog time/ all chronograph working. Trust issue live video calling option available. Provide customer's Feedback pdf. Provide live packaging video order dispatch time",
+        price: {
+            old: "₹2999",
+            new: "₹1699"
+        },
+        images: {
+            main: "../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0002.jpg",
+            hover: "../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0005.jpg"
+        },
+        otherImages: [
+            '../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0008.jpg',
+            '../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0010.jpg',
+        ],
+        tags: ["all", "men", "casio", "formal"],
+        availability: "In stock",
+        brand: "casio",
+        badge: "Best",
+        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM 2110D-2ADR – silver green Edition"),
+        colors: [
+            {
+                name: "silver green",
+                class: "bg-black",
+                image: "../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0002.jpg"
+            },
+             {
+        id: 12,
+        name: "G-Shock Casio GM 2110D-2ADR Generic - Silver Orange",
+        description: "Premium watch with advanced features and durable design",
+        details: "Day/Date/Digital Time/ analog time/ all chronograph working. Trust issue live video calling option available. Provide customer's Feedback pdf. Provide live packaging video order dispatch time",
+        price: {
+            old: "₹2999",
+            new: "₹1699"
+        },
+        images: {
+            main: "../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0012.jpg",
+            hover: "../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0013.jpg"
+        },
+        otherImages: [
+            '../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0015.jpg',
+            '../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0017.jpg',
+        ],
+        tags: ["all", "men", "casio", "formal"],
+        availability: "In stock",
+        brand: "casio",
+        badge: "Best",
+        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM 2110D-2ADR – silver orange Edition"),
+        colors: [
+            {
+                name: "silver orange",
+                class: "bg-black",
+                image: "../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0012.jpg"
+            },
+             {
+        id: 13,
+        name: "G-Shock Casio GM 2110D-2ADR Generic - Silver Black",
+        description: "Premium watch with advanced features and durable design",
+        details: "Day/Date/Digital Time/ analog time/ all chronograph working. Trust issue live video calling option available. Provide customer's Feedback pdf. Provide live packaging video order dispatch time",
+        price: {
+            old: "₹2999",
+            new: "₹1699"
+        },
+        images: {
+            main: "../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-24-12_17bb6c9ae7824da93d210753acf444e6~2.jpg",
+            hover: "../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-32-48_17bb6c9ae7824da93d210753acf444e6~2.jpg"
+        },
+        otherImages: [
+            '../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-40-94_17bb6c9ae7824da93d210753acf444e6~2.jpg',
+            '../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-49-38_17bb6c9ae7824da93d210753acf444e6~2.jpg',
+        ],
+        tags: ["all", "men", "casio", "formal"],
+        availability: "In stock",
+        brand: "casio",
+        badge: "Best",
+        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM 2110D-2ADR – silver black Edition"),
+        colors: [
+            {
+                name: "silver black",
+                class: "bg-black",
+                image: "../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-24-12_17bb6c9ae7824da93d210753acf444e6~2.jpg"
             }
         ]
     }
