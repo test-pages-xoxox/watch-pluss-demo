@@ -96,7 +96,6 @@ const products = [
             }
         ]
     },
-    
     {
         id: 4,
         name: "G-Shock Casio GM-2100-1A Generic - Silver Blue",
@@ -208,14 +207,16 @@ const products = [
         availability: "In stock",
         brand: "casio",
         badge: "Trending",
-        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – silver black Edition"),
+        whatsappUrl: getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – silver black Edition"),
         colors: [
             {
                 name: "silver black",
                 class: "bg-black",
                 image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver black/1761467253895.jpg"
-            },
-            {
+            }
+        ]
+    },
+    {
         id: 8,
         name: "G-Shock Casio GM-2100-1A Generic - Green",
         description: "Premium watch with advanced features and durable design",
@@ -236,14 +237,16 @@ const products = [
         availability: "In stock",
         brand: "casio",
         badge: "Trending",
-        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – green Edition"),
+        whatsappUrl: getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – green Edition"),
         colors: [
             {
                 name: "green",
                 class: "bg-black",
                 image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761655357053.jpg"
             },
-            {
+        ]
+    },
+    {
         id: 9,
         name: "G-Shock Casio GM-2100-1A Generic - Gold Black",
         description: "Premium watch with advanced features and durable design",
@@ -264,14 +267,16 @@ const products = [
         availability: "In stock",
         brand: "casio",
         badge: "Trending",
-        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – gold black Edition"),
+        whatsappUrl: getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – gold black Edition"),
         colors: [
             {
                 name: "gold black",
                 class: "bg-black",
                 image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760901803069.jpg"
             },
-            {
+        ]
+    },
+    {
         id: 10,
         name: "G-Shock Casio GM-2100-1A Generic - Black",
         description: "Premium watch with advanced features and durable design",
@@ -292,14 +297,16 @@ const products = [
         availability: "In stock",
         brand: "casio",
         badge: "Trending",
-        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – black Edition"),
+        whatsappUrl: getWhatsAppUrl("Hi! G-Shock Casio GM-2100-1A – black Edition"),
         colors: [
             {
                 name: "black",
                 class: "bg-black",
                 image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760900947186.jpg"
-            },
-            {
+            }
+        ]
+    },
+    {
         id: 11,
         name: "G-Shock Casio GM 2110D-2ADR Generic - Silver Green",
         description: "Premium watch with advanced features and durable design",
@@ -320,14 +327,16 @@ const products = [
         availability: "In stock",
         brand: "casio",
         badge: "Best",
-        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM 2110D-2ADR – silver green Edition"),
+        whatsappUrl: getWhatsAppUrl("Hi! G-Shock Casio GM 2110D-2ADR – silver green Edition"),
         colors: [
             {
                 name: "silver green",
                 class: "bg-black",
                 image: "../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0002.jpg"
-            },
-             {
+            }
+        ]
+    },
+    {
         id: 12,
         name: "G-Shock Casio GM 2110D-2ADR Generic - Silver Orange",
         description: "Premium watch with advanced features and durable design",
@@ -348,14 +357,16 @@ const products = [
         availability: "In stock",
         brand: "casio",
         badge: "Best",
-        whatsappUrl:  getWhatsAppUrl("Hi! G-Shock Casio GM 2110D-2ADR – silver orange Edition"),
+        whatsappUrl: getWhatsAppUrl("Hi! G-Shock Casio GM 2110D-2ADR – silver orange Edition"),
         colors: [
             {
                 name: "silver orange",
                 class: "bg-black",
                 image: "../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0012.jpg"
-            },
-             {
+            }
+        ]
+    },
+    {
         id: 13,
         name: "G-Shock Casio GM 2110D-2ADR Generic - Silver Black",
         description: "Premium watch with advanced features and durable design",
@@ -385,6 +396,5 @@ const products = [
             }
         ]
     }
-
 ];
 
