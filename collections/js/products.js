@@ -16,12 +16,12 @@ const products = [
             new: "₹1699"
         },
         images: {
-            main: "../images/products/watch/GM 2110D-2ADR/silver blue/1761903742884.jpg",
-            hover: "../images/products/watch/GM 2110D-2ADR/silver blue/1761904319881.jpg"
+            main: "../images/products/watch/GM 2110D-2ADR/silver blue/1761903742884.webp",
+            hover: "../images/products/watch/GM 2110D-2ADR/silver blue/1761904319881.webp"
         },
         otherImages: [
-            '../images/products/watch/GM 2110D-2ADR/silver blue/1761906371651.jpg',
-            '../images/products/watch/GM 2110D-2ADR/silver blue/1761916480614.jpg'
+            '../images/products/watch/GM 2110D-2ADR/silver blue/1761906371651.webp',
+            '../images/products/watch/GM 2110D-2ADR/silver blue/1761916480614.webp'
         ],
         tags: ["men" , "casio", "popular"],
         availability: "In stock",
@@ -32,7 +32,7 @@ const products = [
             {
                 name: "Silver Blue",
                 class: "bg-blue",
-                image: "../images/products/watch/GM 2110D-2ADR/silver blue/1761904319881.jpg"
+                image: "../images/products/watch/GM 2110D-2ADR/silver blue/1761904319881.webp"
             }
         ]
     },
@@ -47,12 +47,12 @@ const products = [
         },
         tags: ["men", "popular", "casio", "g-shock"],
         images: {
-            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761676594529.jpg",
-            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761680124603.jpg"
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761676594529.webp",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761680124603.webp"
         },
         otherImages: [
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761677454253.jpg',
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761679137693.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761677454253.webp',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761679137693.webp',
         ],
         availability: "In stock",
         brand: "casio",
@@ -62,7 +62,7 @@ const products = [
             {
                 name: "Copper",
                 class: "bg-copper",
-                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761680124603.jpg"
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/Copper/1761680124603.webp"
             }
         ]
     },
@@ -76,12 +76,12 @@ const products = [
             new: "₹1499"
         },
         images: {
-            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760900947186.jpg",
-            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901170829.jpg"
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760900947186.webp",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901170829.webp"
         },
         otherImages: [
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901293700.jpg',
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901406873.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901293700.webp',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901406873.webp',
         ],
         tags: ["all"],
         availability: "In stock",
@@ -92,7 +92,7 @@ const products = [
             {
                 name: "Black",
                 class: "bg-black",
-                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901406873.jpg"
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901406873.webp"
             }
         ]
     },
@@ -106,12 +106,12 @@ const products = [
             new: "₹1499"
         },
         images: {
-            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761852837371.jpg",
-            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761853220380.jpg"
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761852837371.webp",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761853220380.webp"
         },
         otherImages: [
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761853626398.jpg',
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761854009633.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761853626398.webp',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761854009633.webp',
         ],
         tags: ["all", "men", "casio", "formal"],
         availability: "In stock",
@@ -122,7 +122,7 @@ const products = [
             {
                 name: "silver blue",
                 class: "bg-black",
-                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761852837371.jpg"
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver blue/1761852837371.webp"
             }
         ]
     },
@@ -136,12 +136,12 @@ const products = [
             new: "₹1499"
         },
         images: {
-            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0005.jpg",
-            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0006.jpg"
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0005.webp",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0006.webp"
         },
         otherImages: [
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0007.jpg',
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gwatch_sincere-20250914-0001.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0007.webp',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gwatch_sincere-20250914-0001.webp',
         ],
         tags: ["all", "men", "casio", "formal"],
         availability: "In stock",
@@ -152,7 +152,7 @@ const products = [
             {
                 name: "silver Grey",
                 class: "bg-black",
-                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0005.jpg"
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver grey/gshockvietnam-20250914-0005.webp"
             }
         ]
     },
@@ -166,12 +166,12 @@ const products = [
             new: "₹1499"
         },
         images: {
-            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761595137325.jpg",
-            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761595519769.jpg"
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761595137325.webp",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761595519769.webp"
         },
         otherImages: [
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761633449387.jpg',
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761635984319.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761633449387.webp',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761635984319.webp',
         ],
         tags: ["all", "men", "casio", "formal"],
         availability: "In stock",
@@ -182,7 +182,7 @@ const products = [
             {
                 name: "silver Green",
                 class: "bg-black",
-                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761595137325.jpg"
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761595137325.webp"
             }
         ]
     },
@@ -196,12 +196,12 @@ const products = [
             new: "₹1499"
         },
         images: {
-            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver black/1761467253895.jpg",
-            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver black/1761467676047.jpg"
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver black/1761467253895.webp",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver black/1761467676047.webp"
         },
         otherImages: [
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761468239476.jpg',
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761476834937.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761468239476.webp',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver green/1761476834937.webp',
         ],
         tags: ["all", "men", "casio", "formal"],
         availability: "In stock",
@@ -212,7 +212,7 @@ const products = [
             {
                 name: "silver black",
                 class: "bg-black",
-                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver black/1761467253895.jpg"
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/silver black/1761467253895.webp"
             }
         ]
     },
@@ -226,12 +226,12 @@ const products = [
             new: "₹1499"
         },
         images: {
-            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761655357053.jpg",
-            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761658655987.jpg"
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761655357053.webp",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761658655987.webp"
         },
         otherImages: [
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761662283099.jpg',
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761666324380.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761662283099.webp',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761666324380.webp',
         ],
         tags: ["all", "men", "casio", "formal"],
         availability: "In stock",
@@ -242,7 +242,7 @@ const products = [
             {
                 name: "green",
                 class: "bg-black",
-                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761655357053.jpg"
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/green/1761655357053.webp"
             },
         ]
     },
@@ -256,12 +256,12 @@ const products = [
             new: "₹1499"
         },
         images: {
-            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760901803069.jpg",
-            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760901966386.jpg"
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760901803069.webp",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760901966386.webp"
         },
         otherImages: [
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760902132336.jpg',
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760902279371.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760902132336.webp',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760902279371.webp',
         ],
         tags: ["all", "men", "casio", "formal"],
         availability: "In stock",
@@ -272,7 +272,7 @@ const products = [
             {
                 name: "gold black",
                 class: "bg-black",
-                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760901803069.jpg"
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/gold black/1760901803069.webp"
             },
         ]
     },
@@ -286,12 +286,12 @@ const products = [
             new: "₹1499"
         },
         images: {
-            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760900947186.jpg",
-            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901170829.jpg"
+            main: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760900947186.webp",
+            hover: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901170829.webp"
         },
         otherImages: [
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901293700.jpg',
-            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901406873.jpg',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901293700.webp',
+            '../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760901406873.webp',
         ],
         tags: ["all", "men", "casio", "formal"],
         availability: "In stock",
@@ -302,7 +302,7 @@ const products = [
             {
                 name: "black",
                 class: "bg-black",
-                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760900947186.jpg"
+                image: "../images/products/watch/G-Shock Casio GM-2100-1A Generic - 1499/full black/1760900947186.webp"
             }
         ]
     },
@@ -316,12 +316,12 @@ const products = [
             new: "₹1699"
         },
         images: {
-            main: "../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0002.jpg",
-            hover: "../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0005.jpg"
+            main: "../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0002.webp",
+            hover: "../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0005.webp"
         },
         otherImages: [
-            '../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0008.jpg',
-            '../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0010.jpg',
+            '../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0008.webp',
+            '../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0010.webp',
         ],
         tags: ["all", "men", "casio", "formal"],
         availability: "In stock",
@@ -332,7 +332,7 @@ const products = [
             {
                 name: "silver green",
                 class: "bg-black",
-                image: "../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0002.jpg"
+                image: "../images/products/watch/GM 2110D-2ADR/silver green/dealer_time-20250920-0002.webp"
             }
         ]
     },
@@ -346,12 +346,12 @@ const products = [
             new: "₹1699"
         },
         images: {
-            main: "../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0012.jpg",
-            hover: "../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0013.jpg"
+            main: "../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0012.webp",
+            hover: "../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0013.webp"
         },
         otherImages: [
-            '../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0015.jpg',
-            '../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0017.jpg',
+            '../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0015.webp',
+            '../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0017.webp',
         ],
         tags: ["all", "men", "casio", "formal"],
         availability: "In stock",
@@ -362,7 +362,7 @@ const products = [
             {
                 name: "silver orange",
                 class: "bg-black",
-                image: "../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0012.jpg"
+                image: "../images/products/watch/GM 2110D-2ADR/silver orange/dealer_time-20250920-0012.webp"
             }
         ]
     },
@@ -376,12 +376,12 @@ const products = [
             new: "₹1699"
         },
         images: {
-            main: "../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-24-12_17bb6c9ae7824da93d210753acf444e6~2.jpg",
-            hover: "../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-32-48_17bb6c9ae7824da93d210753acf444e6~2.jpg"
+            main: "../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-24-12_17bb6c9ae7824da93d210753acf444e6~2.webp",
+            hover: "../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-32-48_17bb6c9ae7824da93d210753acf444e6~2.webp"
         },
         otherImages: [
-            '../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-40-94_17bb6c9ae7824da93d210753acf444e6~2.jpg',
-            '../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-49-38_17bb6c9ae7824da93d210753acf444e6~2.jpg',
+            '../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-40-94_17bb6c9ae7824da93d210753acf444e6~2.webp',
+            '../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-49-38_17bb6c9ae7824da93d210753acf444e6~2.webp',
         ],
         tags: ["all", "men", "casio", "formal"],
         availability: "In stock",
@@ -392,7 +392,7 @@ const products = [
             {
                 name: "silver black",
                 class: "bg-black",
-                image: "../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-24-12_17bb6c9ae7824da93d210753acf444e6~2.jpg"
+                image: "../images/products/watch/GM 2110D-2ADR/Silver black/Screenshot_2025-11-08-22-49-24-12_17bb6c9ae7824da93d210753acf444e6~2.webp"
             }
         ]
     }
