@@ -1,4 +1,4 @@
-const products = [
+[
     {
         "id": 1,
         "name": "G-Shock Casio GM 2110D-2ADR Generic - Silver Blue",
@@ -25,4 +25,4 @@ const products = [
         "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GM%202110D-2ADR%20Generic%20-%20Silver%20Blue%20(SKU%20ndsasd)",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GM%202110D-2ADR%20Generic%20-%20Silver%20Blue%0ASKU%3A%20ndsasd%0APrice%3A%20%E2%82%B92999%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
-];
+]

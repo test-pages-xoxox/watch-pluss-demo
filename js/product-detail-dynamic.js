@@ -178,9 +178,17 @@
     }
 
     function shareAnyTag(current, candidate) {
-        if (!Array.isArray(current?.tags) || !Array.isArray(candidate?.tags)) return false;
-        const currentSet = new Set(current.tags.map((tag) => tag.toLowerCase()));
-        return candidate.tags.some((tag) => currentSet.has(tag.toLowerCase()));
+        if (typeof current?.tags !== "string" || typeof candidate?.tags !== "string") {
+            return false;
+        }
+
+        // Convert "tag1,tag2" → ["tag1", "tag2"]
+        const currentList = current.tags.split(",").map(t => t.trim().toLowerCase());
+        const candidateList = candidate.tags.split(",").map(t => t.trim().toLowerCase());
+
+        const currentSet = new Set(currentList);
+
+        return candidateList.some(tag => currentSet.has(tag));
     }
 
     function buildSlides(wrapper, items) {
