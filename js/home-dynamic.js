@@ -6,9 +6,10 @@
     }
 
     function hasTag(item, tag) {
-        if (!Array.isArray(item?.tags)) return false;
-        const t = String(tag).toLowerCase();
-        return item.tags.some((x) => String(x).toLowerCase() === t);
+        if (!item.tags) {
+            return false;
+        }
+        return item.tags.includes(tag);
     }
 
     function byIdDesc(a, b) {

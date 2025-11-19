@@ -26,9 +26,9 @@ function renderProducts(productsArray, containerId, layout = 'grid') {
     // Build filtered list
     let filteredProducts;
 
-    if (category && watch_tag.has(category)) {
+    if (category) {
         // Filter efficiently using Set + Array.some
-        filteredProducts = productsArray.filter(p => p.tags.some(tag => tag.toLowerCase() === category)
+        filteredProducts = productsArray.filter(p => p.tags.includes(category)
         );
     } else {
         // If no valid keyword, show all

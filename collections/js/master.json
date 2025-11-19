@@ -13,6 +13,7 @@
             "old": "₹2999",
             "new": "₹1699"
         },
+        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/1/main.webp",
             "hover": "images/products/watch/1/hover.webp"
@@ -38,6 +39,7 @@
             "old": "₹1999",
             "new": "₹1499"
         },
+        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/2/main.webp",
             "hover": "images/products/watch/2/hover.webp"
@@ -63,6 +65,7 @@
             "old": "₹1999",
             "new": "₹1499"
         },
+        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/3/main.webp",
             "hover": "images/products/watch/3/hover.webp"
@@ -88,6 +91,7 @@
             "old": "₹2300",
             "new": "₹1600"
         },
+        "tags": "men,casio,formal,popular",
         "images": {
             "main": "images/products/watch/4/main.webp",
             "hover": "images/products/watch/4/hover.webp"
@@ -113,6 +117,7 @@
             "old": "₹2300",
             "new": "₹1600"
         },
+        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/5/main.webp",
             "hover": "images/products/watch/5/hover.webp"
@@ -138,6 +143,7 @@
             "old": "₹2300",
             "new": "₹1600"
         },
+        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/6/main.webp",
             "hover": "images/products/watch/6/hover.webp"
@@ -163,6 +169,7 @@
             "old": "₹2300",
             "new": "₹1600"
         },
+        "tags": "men,casio,formal,popular",
         "images": {
             "main": "images/products/watch/7/main.webp",
             "hover": "images/products/watch/7/hover.webp"
@@ -176,8 +183,8 @@
     },
     {
         "id": 8,
-        "name": "G-Shock steel GM-2110D-2A -Generic Silvre-Blue",
-        "slug": "g-shock-steel-gm-2110d-2a-generic-silvre-blue",
+        "name": "G-Shock steel GM-2110D-2A -Generic Silver-Blue",
+        "slug": "g-shock-steel-gm-2110d-2a-generic-silver-blue",
         "sku": "metal blue",
         "brand": "G-Shock Generic",
         "badge": "Sales",
@@ -188,6 +195,7 @@
             "old": "₹2500",
             "new": "₹1699"
         },
+        "tags": "men,casio,formal,popular",
         "images": {
             "main": "images/products/watch/8/main.webp",
             "hover": "images/products/watch/8/hover.webp"
@@ -201,8 +209,8 @@
     },
     {
         "id": 9,
-        "name": "G-Shock steel GM-2110D-2A -Generic Silvre-Green",
-        "slug": "g-shock-steel-gm-2110d-2a-generic-silvre-green",
+        "name": "G-Shock steel GM-2110D-2A -Generic Silver-Green",
+        "slug": "g-shock-steel-gm-2110d-2a-generic-silver-green",
         "sku": "metal gren",
         "brand": "G-Shock Generic",
         "badge": "Sales",
@@ -213,6 +221,7 @@
             "old": "₹2500",
             "new": "₹1699"
         },
+        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/9/main.webp",
             "hover": "images/products/watch/9/hover.webp"
@@ -226,9 +235,9 @@
     },
     {
         "id": 10,
-        "name": "G-Shock steel GM-2110D-2A -Generic Silvre-Orange",
-        "slug": "g-shock-steel-gm-2110d-2a-generic-silvre-orange",
-        "sku": "metal orangge",
+        "name": "G-Shock steel GM-2110D-2A -Generic Silver-Orange",
+        "slug": "g-shock-steel-gm-2110d-2a-generic-silver-orange",
+        "sku": "metal orange",
         "brand": "G-Shock Generic",
         "badge": "Sales",
         "availability": "In Stock",
@@ -238,6 +247,7 @@
             "old": "₹2500",
             "new": "₹1699"
         },
+        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/10/main.webp",
             "hover": "images/products/watch/10/hover.webp"
@@ -263,6 +273,7 @@
             "old": "₹1999",
             "new": "₹1499"
         },
+        "tags": "men,casio,formal,popular",
         "images": {
             "main": "images/products/watch/11/main.webp",
             "hover": "images/products/watch/11/hover.webp"
