@@ -284,5 +284,105 @@
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GM-2100G-1A9%20Generic%20Gold-Black%20(SKU%20gm%20gold%20black)",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Gold-Black%0ASKU%3A%20gm%20gold%20black%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 12,
+        "name": "CASIO G-SHOCK Master of G MUDMASTER GG-Generic",
+        "slug": "casio-g-shock-master-of-g-mudmaster-gg-generic",
+        "sku": "casi-1",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "Case Material: Resin, Case Diameter: 56.2 millimeters , Band Width :22 Millimeters ,Case Thickness :35 Millimeters , Size of case : 56.2×55.3×17.3mm",
+        "details": "Designed for use in the most extreme environments on earth, from jungles to deserts, these G-Shock models feature a mud-resistant structure that ensures reliable performance under harsh conditions by preventing intrusion by sand, mud or dust and a Twin Sensor, sensor function that accurately detects such vital survival information as directions and temperatures. It is the watch of choice for rangers and rescue crews who conduct missions under the harsh conditions.",
+        "price": {
+            "old": "₹2499",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/12/main.webp",
+            "hover": "images/products/watch/12/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/12/other1.webp",
+            "images/products/watch/12/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20CASIO%20G-SHOCK%20Master%20of%20G%20MUDMASTER%20GG-Generic%20(SKU%20casi-1)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20CASIO%20G-SHOCK%20Master%20of%20G%20MUDMASTER%20GG-Generic%0ASKU%3A%20casi-1%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 13,
+        "name": "G-Shock Casio GA-2300-1A-Generic ",
+        "slug": "g-shock-casio-ga-2300-1a-generic",
+        "sku": "gshock green",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "Item Dimensions LxWxH\r\n18 x 1.5 x 4.3 Centimeters\r\nNet Quantity\r\n1 Count\r\nGeneric Name\r\nCasual Watch",
+        "details": "A compact G-SHOCK in a boldly straight-forward design that moves style into the future. The tough digital-analog combination goes smaller and slimmer to meet today’s needs, delivering just what you require from a watch in a minimalist design with a futuristic sensibility.",
+        "price": {
+            "old": "₹2300",
+            "new": "₹1600"
+        },
+        "images": {
+            "main": "images/products/watch/13/main.webp",
+            "hover": "images/products/watch/13/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/13/other1.webp",
+            "images/products/watch/13/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-2300-1A-Generic%20%20(SKU%20gshock%20green)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20%0ASKU%3A%20gshock%20green%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 14,
+        "name": "Casio G-Shock GM-2100BB-Generic Silver-Black",
+        "slug": "casio-g-shock-gm-2100bb-generic-silver-black",
+        "sku": "gshock sblack",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "Metal-clad daring meets sophisticated gleam, all in a meticulously finished metal design with iconic octagonal bezel.",
+        "details": "Powered by a Quartz movement for consistent timekeeping\r\n\r\n• Features an Analog-Digital display for added functionality\r\n\r\n• Secured with a Tang Buckle for daily comfort",
+        "price": {
+            "old": "₹1999",
+            "new": "₹1499"
+        },
+        "images": {
+            "main": "images/products/watch/14/main.webp",
+            "hover": "images/products/watch/14/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/14/other1.webp",
+            "images/products/watch/14/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Black%20(SKU%20gshock%20sblack)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Black%0ASKU%3A%20gshock%20sblack%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 15,
+        "name": "G-SHOCK GA2100RW With Rainbow Dial, Detailed with Perfection",
+        "slug": "g-shock-ga2100rw-with-rainbow-dial-detailed-with-perfection",
+        "sku": "GA4120-1",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": " For Unisex\r\n 7AA Premium Collection\r\n Model - GA-2100RW-1A\r\n Case size (L× W× H)\r\n48.5 × 45.4 × 11.8 mm \r\n",
+        "details": "Water and impact Resistant \r\nCountdown timer\r\nMineral Glass\r\nDigital drive System\r\nRainbow Face\r\nWorking StopWatch/ Day/Date Digital Display \r\nSmart fit Fibre strap \r\nEasy Pin Buckled Lock \r\nFibre Bezel ",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/15/main.webp",
+            "hover": "images/products/watch/15/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/15/other1.webp",
+            "images/products/watch/15/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-SHOCK%20GA2100RW%20With%20Rainbow%20Dial,%20Detailed%20with%20Perfection%20(SKU%20GA4120-1)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GA2100RW%20With%20Rainbow%20Dial%2C%20Detailed%20with%20Perfection%0ASKU%3A%20GA4120-1%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ]
