@@ -384,5 +384,31 @@ const products = [
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-SHOCK%20GA2100RW%20With%20Rainbow%20Dial,%20Detailed%20with%20Perfection%20(SKU%20GA4120-1)",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GA2100RW%20With%20Rainbow%20Dial%2C%20Detailed%20with%20Perfection%0ASKU%3A%20GA4120-1%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 16,
+        "name": "Casio G-Shock GM-2100BB-Generic Silver-Green",
+        "slug": "casio-g-shock-gm-2100bb-generic-silver-green",
+        "sku": "gbm-2100BB-silver-green",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "Strap Material: Resin , Clasp Type: Buckle Strap Material: Resin , Clasp Type: Buckle Dial Color: Green , Strap Color: Green",
+        "details": "Strap Material: Resin , Clasp Type: Buckle Strap Material: Resin , Clasp Type: Buckle Dial Color: Green , Strap Color: Green",
+        "tags": "HOT",
+        "price": {
+            "old": "₹1999",
+            "new": "₹1499"
+        },
+        "images": {
+            "main": "images/products/watch/16/main.webp",
+            "hover": "images/products/watch/16/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/16/other1.webp",
+            "images/products/watch/16/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Green%20(SKU%20gbm-2100BB-silver-green)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Green%0ASKU%3A%20gbm-2100BB-silver-green%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ];
