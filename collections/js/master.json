@@ -410,5 +410,109 @@
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Green%20(SKU%20gbm-2100BB-silver-green)",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Green%0ASKU%3A%20gbm-2100BB-silver-green%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 17,
+        "name": "G-SHOCK GA2100RW, Detailed with Perfection",
+        "slug": "g-shock-ga2100rw-detailed-with-perfection",
+        "sku": "casio-2",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "For Unisex 7AA Premium Collection Model - GA-2100RW-1A Case size (L× W× H) 48.5 × 45.4 × 11.8 mm",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/17/main.webp",
+            "hover": "images/products/watch/17/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/17/other1.webp",
+            "images/products/watch/17/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-SHOCK%20GA2100RW,%20Detailed%20with%20Perfection%20(SKU%20casio-2)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GA2100RW%2C%20Detailed%20with%20Perfection%0ASKU%3A%20casio-2%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 18,
+        "name": "G-SHOCK GA2100RW Detailed with Perfection",
+        "slug": "g-shock-ga2100rw-detailed-with-perfection",
+        "sku": "casio-3",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "For Unisex 7AA Premium Collection Model - GA-2100RW-1A Case size (L× W× H) 48.5 × 45.4 × 11.8 mm",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/18/main.webp",
+            "hover": "images/products/watch/18/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/18/other1.webp",
+            "images/products/watch/18/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-SHOCK%20GA2100RW%20Detailed%20with%20Perfection%20(SKU%20casio-3)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GA2100RW%20Detailed%20with%20Perfection%0ASKU%3A%20casio-3%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 19,
+        "name": "G-Shock Women's GM-S5600UPG-4 Generic",
+        "slug": "g-shock-women-s-gm-s5600upg-4-generic",
+        "sku": "women-1",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "",
+        "details": "",
+        "tags": "women-formal,",
+        "price": {
+            "old": "₹2300",
+            "new": "₹1199"
+        },
+        "images": {
+            "main": "images/products/watch/19/main.webp",
+            "hover": "images/products/watch/19/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/19/other1.webp",
+            "images/products/watch/19/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Women's%20GM-S5600UPG-4%20Generic%20(SKU%20women-1)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Women%27s%20GM-S5600UPG-4%20Generic%0ASKU%3A%20women-1%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 20,
+        "name": "G-Shock steel GM-2110D-2A -Generic Silver-Dark Blue",
+        "slug": "g-shock-steel-gm-2110d-2a-generic-silver-dark-blue",
+        "sku": "g-shock-metal-1",
+        "brand": "G-Shock Generic",
+        "badge": "Sales",
+        "availability": "In Stock",
+        "description": "Dial Color:Dark Blue , Strap Color: Silver Strap Material: Stainless Steel , Clasp Type: Double Locking Foldover Clasp",
+        "details": "",
+        "tags": "formal,chain,casio",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1699"
+        },
+        "images": {
+            "main": "images/products/watch/20/main.webp",
+            "hover": "images/products/watch/20/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/20/other1.webp",
+            "images/products/watch/20/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Dark%20Blue%20(SKU%20g-shock-metal-1)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Dark%20Blue%0ASKU%3A%20g-shock-metal-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ]
