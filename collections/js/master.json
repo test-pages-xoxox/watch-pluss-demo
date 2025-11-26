@@ -514,5 +514,213 @@
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Dark%20Blue%20(SKU%20g-shock-metal-1)",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Dark%20Blue%0ASKU%3A%20g-shock-metal-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 21,
+        "name": "Casio G-Shock AE-1200WHD-1AV Generic Silver",
+        "slug": "casio-g-shock-ae-1200whd-1av-generic-silver",
+        "sku": "g-shock-metal-2",
+        "brand": "G-Shock Generic",
+        "badge": "Sales",
+        "availability": "In Stock",
+        "description": "Casio Youth Series watches are made keeping in mind the dynamic personality of today’s youth. The YouthSeries carry Digital watches for the young geeks, fashionable youths who carry a vibrant energy with them.",
+        "details": "",
+        "tags": "formal,chain,casio",
+        "price": {
+            "old": "₹2600",
+            "new": "₹1399"
+        },
+        "images": {
+            "main": "images/products/watch/21/main.webp",
+            "hover": "images/products/watch/21/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/21/other1.webp",
+            "images/products/watch/21/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20AE-1200WHD-1AV%20Generic%20Silver%20(SKU%20g-shock-metal-2)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20AE-1200WHD-1AV%20Generic%20Silver%0ASKU%3A%20g-shock-metal-2%0APrice%3A%20%E2%82%B91399%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 22,
+        "name": "G-Shock GM-2100G-1A9 Generic Full Green",
+        "slug": "g-shock-gm-2100g-1a9-generic-full-green",
+        "sku": "gshock f green",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "World Time, Stopwatch, Countdown Timer, Hand Shift Feature\r\nDaily Alarm, Auto-Calendar, Hourly Time Signal",
+        "details": "Case diameter\r\nBand colour\r\nBand material type\r\nResin\r\nWatch movement type\r\nQuartz",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹1999",
+            "new": "₹1499"
+        },
+        "images": {
+            "main": "images/products/watch/22/main.webp",
+            "hover": "images/products/watch/22/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/22/other1.webp",
+            "images/products/watch/22/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GM-2100G-1A9%20Generic%20Full%20Green%20(SKU%20gshock%20f%20green)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Full%20Green%0ASKU%3A%20gshock%20f%20green%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 23,
+        "name": "G-Shock GM-2100G-1A9 Generic Silver Blue",
+        "slug": "g-shock-gm-2100g-1a9-generic-silver-blue",
+        "sku": "gshock sblue",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "Dial Color: Turquoise Blue , Strap Color: Black\r\nStrap Material: Bio-Based Resin , Clasp Type: Tang Buckle\r\nCase Material: Resin(Bio-Based) / Stainless steel ,",
+        "details": "Dial Color\r\nBlue\r\nDial Shape\r\nOctagonal\r\nStrap Color\r\nBlack\r\nWorld Time\r\nYes\r\nDual Time\r\nYes\r\nStrap Type\r\nBio-Based Resin\r\nStrap Material for Refiner\r\nBio-Based Resin\r\nCase/Bezel Material\r\nStainless Steel",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹1999",
+            "new": "₹1499"
+        },
+        "images": {
+            "main": "images/products/watch/23/main.webp",
+            "hover": "images/products/watch/23/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/23/other1.webp",
+            "images/products/watch/23/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GM-2100G-1A9%20Generic%20Silver%20Blue%20(SKU%20gshock%20sblue)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Silver%20Blue%0ASKU%3A%20gshock%20sblue%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 24,
+        "name": "Casio G-Shock A168WGG-1ADF Generic Silver",
+        "slug": "casio-g-shock-a168wgg-1adf-generic-silver",
+        "sku": "casio-4",
+        "brand": "G-Shock Generic",
+        "badge": "Sales",
+        "availability": "In Stock",
+        "description": "The classic G-SHOCK colors are on full display with faithful reproductions of G-SHOCK red, representing the passion to take on challenges.",
+        "details": "",
+        "tags": "formal,chain,casio",
+        "price": {
+            "old": "₹2300",
+            "new": "₹1199"
+        },
+        "images": {
+            "main": "images/products/watch/24/main.webp",
+            "hover": "images/products/watch/24/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/24/other1.webp",
+            "images/products/watch/24/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20A168WGG-1ADF%20Generic%20Silver%20(SKU%20casio-4)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20A168WGG-1ADF%20Generic%20Silver%0ASKU%3A%20casio-4%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 25,
+        "name": "G-SHOCK GA2100RW Detailed with Perfection",
+        "slug": "g-shock-ga2100rw-detailed-with-perfection",
+        "sku": "gshock ",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "For Unisex 7AA Premium Collection Model - GA-2100RW-1A Case size (L× W× H) 48.5 × 45.4 × 11.8 mm",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/25/main.webp",
+            "hover": "images/products/watch/25/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/25/other1.webp",
+            "images/products/watch/25/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-SHOCK%20GA2100RW%20Detailed%20with%20Perfection%20(SKU%20gshock%20)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GA2100RW%20Detailed%20with%20Perfection%0ASKU%3A%20gshock%20%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 26,
+        "name": "G-Shock GBD-200- 1G- squad – Generic Full Black",
+        "slug": "g-shock-gbd-200-1g-squad-generic-full-black",
+        "sku": "casio-5",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "Case diameter\r\n45.9 Millimetres\r\nBand colour\r\nBlack\r\nBand material type\r\nResin\r\nWarranty type\r\nExtended\r\nWatch movement type\r\nQuartz",
+        "details": "Dial Color: Black, Dial Shape: Octagonal, Dial Glass Material: Mineral\r\nBand Color: Black, Band Material: Resin, Case Material: Resin\r\nMobile Link, Training Data, User Profile Creation, Life Log Data\r\nAlarm, Auto Calendar, Hourly Time Signal",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹1600",
+            "new": "₹1199"
+        },
+        "images": {
+            "main": "images/products/watch/26/main.webp",
+            "hover": "images/products/watch/26/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/26/other1.webp",
+            "images/products/watch/26/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GBD-200-%201G-%20squad%20–%20Generic%20Full%20Black%20(SKU%20casio-5)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GBD-200-%201G-%20squad%20%E2%80%93%20Generic%20Full%20Black%0ASKU%3A%20casio-5%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 27,
+        "name": "G-Shock GBD-200- 1G- squad – Generic Purpel",
+        "slug": "g-shock-gbd-200-1g-squad-generic-purpel",
+        "sku": "casio-6",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "Case diameter\r\n45.9 Millimetres\r\nBand colour\r\nBlack\r\nBand material type\r\nResin\r\nWarranty type\r\nExtended\r\nWatch movement type\r\nQuartz",
+        "details": "",
+        "tags": "women-formal,casio",
+        "price": {
+            "old": "₹1600",
+            "new": "₹1199"
+        },
+        "images": {
+            "main": "images/products/watch/27/main.webp",
+            "hover": "images/products/watch/27/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/27/other1.webp",
+            "images/products/watch/27/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GBD-200-%201G-%20squad%20–%20Generic%20Purpel%20(SKU%20casio-6)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GBD-200-%201G-%20squad%20%E2%80%93%20Generic%20Purpel%0ASKU%3A%20casio-6%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 28,
+        "name": "Casio G-Shock DW-5610UU-3 Generic Full Green",
+        "slug": "casio-g-shock-dw-5610uu-3-generic-full-green",
+        "sku": "casio-7",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "These models feature a square face design in colors chosen to calibrate with the most extreme workouts.\r\nGet in on the thinnest G-SQUAD yet. Side slits in the bezel allow the color of the inner case to peek through, highlighting just how slim this watch is.",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹1600",
+            "new": "₹1199"
+        },
+        "images": {
+            "main": "images/products/watch/28/main.webp",
+            "hover": "images/products/watch/28/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/28/other1.webp",
+            "images/products/watch/28/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20DW-5610UU-3%20Generic%20Full%20Green%20(SKU%20casio-7)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20DW-5610UU-3%20Generic%20Full%20Green%0ASKU%3A%20casio-7%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ]
