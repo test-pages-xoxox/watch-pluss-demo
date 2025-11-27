@@ -65,11 +65,20 @@ function createProductCard(product, layout = 'grid') {
             badge.includes("hot") ? "hot" :
                 badge.includes("sale") ? "sale" :
                     badge.includes("flash") ? "trend" :
-                        badge.includes("trend") ? "flash" :
+                        badge.includes("trend") ? "flash-sale" :
                             "";
-        badgeHTML = `<ul class="product-badge_list">
-            <li class="product-badge_item h6 ${badgeClass}">${product.badge}</li>
-        </ul>`;
+
+        const thunderIcon = badge.includes("trend")
+            ? '<i class="icon icon-thunder"></i> '
+            : '';
+
+        badgeHTML = `
+        <ul class="product-badge_list">
+            <li class="product-badge_item h6 ${badgeClass}">
+                ${thunderIcon}${product.badge}
+            </li>
+        </ul>
+    `;
     }
 
     // Generate color swatches HTML
