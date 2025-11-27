@@ -27,11 +27,17 @@ function renderProducts(productsArray, containerId, layout = 'grid') {
     let filteredProducts;
 
     if (category) {
-        // Filter efficiently using Set + Array.some
-        filteredProducts = productsArray.filter(p => p.tags.includes(category)
+        // Filter: include if no tags OR matching tags
+        filteredProducts = productsArray.filter(p =>
+            !p?.tags || p.tags.includes(category)
         );
+
+        // If filter produces no results → show all products
+        if (filteredProducts.length === 0) {
+            filteredProducts = productsArray;
+        }
     } else {
-        // If no valid keyword, show all
+        // No category → show all
         filteredProducts = productsArray;
     }
 
