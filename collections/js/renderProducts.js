@@ -59,9 +59,14 @@ function createProductCard(product, layout = 'grid') {
     // Generate badge HTML
     let badgeHTML = '';
     if (product.badge) {
-        const badgeClass = product.badge.toLowerCase().includes('hot') ? 'hot' : 
-                          product.badge.toLowerCase().includes('sale') ? 'sale' : 
-                          product.badge.toLowerCase().includes('flash') ? 'flash-sale' : '';
+        const badge = product.badge?.toLowerCase() || "";
+
+        const badgeClass =
+            badge.includes("hot") ? "hot" :
+                badge.includes("sale") ? "sale" :
+                    badge.includes("flash") ? "trend" :
+                        badge.includes("trend") ? "flash" :
+                            "";
         badgeHTML = `<ul class="product-badge_list">
             <li class="product-badge_item h6 ${badgeClass}">${product.badge}</li>
         </ul>`;
