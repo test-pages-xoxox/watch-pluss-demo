@@ -774,5 +774,82 @@
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20White%20(SKU%20manga-w)",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20White%0ASKU%3A%20manga-w%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 31,
+        "name": "G-Shock Casio GA-2100MNG- Manga Edition- Green",
+        "slug": "g-shock-casio-ga-2100mng-manga-edition-green",
+        "sku": "manga-g",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "Straight from the pages of a comic our new 2100 Manga series in black and Green has drawn up two striking watches",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/31/main.webp",
+            "hover": "images/products/watch/31/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/31/other1.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20Green%20(SKU%20manga-g)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20Green%0ASKU%3A%20manga-g%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 32,
+        "name": "G-Shock GA-2100SKE-7AER Generic- Black",
+        "slug": "g-shock-ga-2100ske-7aer-generic-black",
+        "sku": "trance-b",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "Most demanded G-Shock GA2100 with fibre body in transparent strap \r\n\r\nBrand - G-Shock Casio Oak\r\n For Unisex\r\n7AA Premium Collection\r\n Model - GA-2100SKE",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1499"
+        },
+        "images": {
+            "main": "images/products/watch/32/main.webp",
+            "hover": "images/products/watch/32/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/32/other1.webp",
+            "images/products/watch/32/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA-2100SKE-7AER%20Generic-%20Black%20(SKU%20trance-b)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-2100SKE-7AER%20Generic-%20Black%0ASKU%3A%20trance-b%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 33,
+        "name": "G-Shock GM-110-1A-Generic Sliver- Black",
+        "slug": "g-shock-gm-110-1a-generic-sliver-black",
+        "sku": "gm110",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "Metal-Covered Shock-Resistant Structure: Glass Fiber Reinforced Resin Inner Case: Forged and Molded Bezel:  World Time: Stop-Watch\r\nItem shape: Round\r\nStyle name: strap",
+        "details": "Case diameter\r\n53.1 Millimetres\r\nBand colour\r\nBlack\r\nBand material type\r\nResin\r\nWatch movement type\r\nQuartz",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1600"
+        },
+        "images": {
+            "main": "images/products/watch/33/main.webp",
+            "hover": "images/products/watch/33/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/33/other1.webp",
+            "images/products/watch/33/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GM-110-1A-Generic%20Sliver-%20Black%20(SKU%20gm110)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GM-110-1A-Generic%20Sliver-%20Black%0ASKU%3A%20gm110%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ]
