@@ -27,17 +27,14 @@ function renderProducts(productsArray, containerId, layout = 'grid') {
     let filteredProducts;
 
     if (category) {
-        // Filter: include if no tags OR matching tags
-        filteredProducts = productsArray.filter(p =>
-            !p?.tags || p.tags.includes(category)
-        );
-
-        // If filter produces no results → show all products
-        if (filteredProducts.length === 0) {
-            filteredProducts = productsArray;
-        }
+        filteredProducts = productsArray.filter(p => {
+            if (!p.tags) return false; // no tags → do NOT include
+            return p.tags
+                .split(",")
+                .map(t => t.trim().toLowerCase())
+                .includes(category.toLowerCase());
+        });
     } else {
-        // No category → show all
         filteredProducts = productsArray;
     }
 
@@ -347,6 +344,126 @@ function updateWhatsAppNumber(phoneNumber) {
         }
     }
 }
+
+
+// ===== Trending products: pick random 4 and render into .trend-product-inner =====
+//
+// Matches your coding style: plain functions, DOM APIs, uses `products` (or window.products fallback),
+// conditional module.exports at the end, and a simple fade animation + lazyload refresh hook.
+
+function pickUniqueRandom(arr, count) {
+    var copy = Array.prototype.slice.call(arr || []);
+    var picked = [];
+    while (picked.length < count && copy.length > 0) {
+        var idx = Math.floor(Math.random() * copy.length);
+        picked.push(copy.splice(idx, 1)[0]);
+    }
+    return picked;
+}
+
+function buildTrendHtmlFromProducts(items) {
+    var html = '';
+    // group into arrays of 2 items for .trend-product-list
+    for (var g = 0; g < items.length; g += 2) {
+        html += '<div class="trend-product-list">';
+        var group = items.slice(g, g + 2);
+        for (var i = 0; i < group.length; i++) {
+            var p = group[i] || {};
+            var name = p.name || '';
+            var slug = p.slug || '';
+            var img = (p.images && p.images.main) ? p.images.main : 'images/products/product-placeholder.jpg';
+            var priceOld = (p.price && p.price.old) ? p.price.old : '';
+            var priceNew = (p.price && p.price.new) ? p.price.new : '';
+            var firstTag = '';
+            if (p.tags) {
+                try {
+                    firstTag = String(p.tags).split(',').map(function(t) { return t.trim(); }).filter(Boolean)[0] || '';
+                } catch (err) { firstTag = ''; }
+            }
+            var productUrl = '/product/' + slug;
+
+            // Escape minimal: attributes vs innerHTML — keep simple (match your style)
+            html += ''
+                + '<div class="trend-product-item">'
+                +   '<div class="image">'
+                +     '<img class="lazyload" src="' + img + '" data-src="' + img + '" alt="' + (name) + '">'
+                +   '</div>'
+                +   '<div class="content">'
+                +     (firstTag ? '<div class="text-small text-main-2 sub">' + firstTag + '</div>' : '')
+                +     '<h6 class="title"><a href="' + productUrl + '" class="link">' + name + '</a></h6>'
+                +     '<div class="price-wrap">'
+                +       (priceOld ? '<span class="price-old h6 fw-normal">' + priceOld + '</span>' : '')
+                +       (priceNew ? '<span class="price-new h6">' + priceNew + '</span>' : '')
+                +     '</div>'
+                +   '</div>'
+                + '</div>';
+        }
+        html += '</div>';
+    }
+    return html;
+}
+
+function loadTrendingProducts(maxItems) {
+    maxItems = typeof maxItems === 'number' ? Math.max(1, maxItems) : 4;
+
+    // Prefer `products` variable (you use `products` in other code). Fallback to window.products.
+    var list = (typeof products !== 'undefined' && Array.isArray(products)) ? products :
+        (Array.isArray(window.products) ? window.products : []);
+
+    var container = document.querySelector('.trend-product-inner');
+    if (!container) {
+        // nothing to render into
+        return;
+    }
+
+    if (!list || list.length === 0) {
+        container.innerHTML = '<div class="no-results">No trending products</div>';
+        return;
+    }
+
+    var selected = pickUniqueRandom(list, Math.min(maxItems, list.length));
+    var html = buildTrendHtmlFromProducts(selected);
+
+    // smooth fade-out -> replace -> fade-in
+    try {
+        // ensure style is set (use CSS opacity)
+        container.style.transition = 'opacity 180ms ease';
+        container.style.opacity = '0.35';
+        // small timeout to allow transition to render
+        setTimeout(function () {
+            container.innerHTML = html;
+
+            // If you use a lazyload library (e.g. lazysizes), try to update it:
+            try {
+                if (typeof lazyload !== 'undefined' && typeof lazyload.update === 'function') {
+                    lazyload.update();
+                } else if (window.lazySizes) {
+                    // lazysizes auto-inits; dispatch an event if needed
+                    window.lazySizes && window.lazySizes.init && window.lazySizes.init();
+                }
+            } catch (e) {
+                // ignore lazyload refresh errors
+            }
+
+            // fade back in
+            setTimeout(function () {
+                container.style.opacity = '1';
+            }, 20);
+        }, 160);
+    } catch (err) {
+        // Fallback: immediate replace if transitions fail
+        container.innerHTML = html;
+    }
+}
+
+// auto-run on DOM ready similar to your pattern
+document.addEventListener('DOMContentLoaded', function () {
+    // call it once on load
+    loadTrendingProducts(4);
+
+    // expose for later manual refresh (consistent with your style)
+    window.loadTrendingProducts = loadTrendingProducts;
+});
 
 // Export functions for use in other scripts
 if (typeof module !== 'undefined' && module.exports) {
