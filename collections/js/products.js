@@ -851,5 +851,134 @@ const products = [
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GM-110-1A-Generic%20Sliver-%20Black%20(SKU%20gm110)",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GM-110-1A-Generic%20Sliver-%20Black%0ASKU%3A%20gm110%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 34,
+        "name": "G-Shock 110G-1A9-Generic Gold",
+        "slug": "g-shock-110g-1a9-generic-gold",
+        "sku": "110g-g",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "Metal-Covered Shock-Resistant Structure: Glass Fiber Reinforced Resin Inner Case: Forged and Molded Bezel:  World Time: Stop-Watch: Gold Ion Plated Case\r\nItem shape: Round",
+        "details": "Item Dimensions LxWxH\r\n21.5 x 1.7 x 4.9 Centimeters\r\nNet Quantity\r\n1 Count\r\nGeneric Name\r\nSport Watch",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1600"
+        },
+        "images": {
+            "main": "images/products/watch/34/main.webp",
+            "hover": "images/products/watch/34/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/34/other1.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20110G-1A9-Generic%20Gold%20(SKU%20110g-g)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20110G-1A9-Generic%20Gold%0ASKU%3A%20110g-g%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 35,
+        "name": "G-shock Casio A168WG-9W Generic- Gold",
+        "slug": "g-shock-casio-a168wg-9w-generic-gold",
+        "sku": "casiio womens",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "Dial color: multi-colour, case shape: square, dial glass material\r\nBand color: silver, band material: stainless steel. \r\nWatch movement type: quartz, watch display type: digital\r\nCase material: resin, case diameter: 36.29 millimeters\r\n30 meters, fold-over clasp",
+        "details": "",
+        "tags": "women-formal,casio",
+        "price": {
+            "old": "₹1800",
+            "new": "₹1199"
+        },
+        "images": {
+            "main": "images/products/watch/35/main.webp",
+            "hover": "images/products/watch/35/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/35/other1.webp",
+            "images/products/watch/35/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-shock%20Casio%20A168WG-9W%20Generic-%20Gold%20(SKU%20casiio%20womens)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-shock%20Casio%20A168WG-9W%20Generic-%20Gold%0ASKU%3A%20casiio%20womens%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 36,
+        "name": "G-SHOCK GMA-P2100SA-1A2 Generic Detailed with Perfection",
+        "slug": "g-shock-gma-p2100sa-1a2-generic-detailed-with-perfection",
+        "sku": "ga2100",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "For Unisex 7AA Premium Collection Model - GMA-P2100SA-1A2 Case size (L× W× H) 48.5 × 45.4 × 11.8 mm",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/36/main.webp",
+            "hover": "images/products/watch/36/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/36/other1.webp",
+            "images/products/watch/36/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-SHOCK%20GMA-P2100SA-1A2%20Generic%20Detailed%20with%20Perfection%20(SKU%20ga2100)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GMA-P2100SA-1A2%20Generic%20Detailed%20with%20Perfection%0ASKU%3A%20ga2100%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 37,
+        "name": "G-Shock Casio GA-110CD-1A2-Generic",
+        "slug": "g-shock-casio-ga-110cd-1a2-generic",
+        "sku": "110cd-b",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "Dial Color: Blue , Strap Color: Black\r\nStrap Material: Resin , Clasp Type: Buckle\r\nCase Material: Resin ,",
+        "details": "Item Dimensions LxWxH\r\n21.5 x 1.7 x 5.1 Centimeters\r\nNet Quantity\r\n1 Count\r\nGeneric Name\r\nCasual Watch",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1600"
+        },
+        "images": {
+            "main": "images/products/watch/37/main.webp",
+            "hover": "images/products/watch/37/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/37/other1.webp",
+            "images/products/watch/37/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-110CD-1A2-Generic%20(SKU%20110cd-b)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-110CD-1A2-Generic%0ASKU%3A%20110cd-b%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 38,
+        "name": "G-SHOCK GAE-2100WE-3A Millitary Edition Generic",
+        "slug": "g-shock-gae-2100we-3a-millitary-edition-generic",
+        "sku": "army",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/38/main.webp",
+            "hover": "images/products/watch/38/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/38/other1.webp",
+            "images/products/watch/38/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-SHOCK%20GAE-2100WE-3A%20Millitary%20Edition%20Generic%20(SKU%20army)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GAE-2100WE-3A%20Millitary%20Edition%20Generic%0ASKU%3A%20army%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ];
