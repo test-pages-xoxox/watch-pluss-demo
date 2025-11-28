@@ -380,7 +380,7 @@ function buildTrendHtmlFromProducts(items) {
                     firstTag = String(p.tags).split(',').map(function(t) { return t.trim(); }).filter(Boolean)[0] || '';
                 } catch (err) { firstTag = ''; }
             }
-            var productUrl = '/product/' + slug;
+            var productUrl = 'https://watchpluss.in/product-detail.html?pid' + p.id;
 
             // Escape minimal: attributes vs innerHTML — keep simple (match your style)
             html += ''
