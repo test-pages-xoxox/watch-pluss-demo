@@ -722,5 +722,57 @@ const products = [
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20DW-5610UU-3%20Generic%20Full%20Green%20(SKU%20casio-7)",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20DW-5610UU-3%20Generic%20Full%20Green%0ASKU%3A%20casio-7%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 29,
+        "name": "G-Shock Casio GA-2100MNG- Manga Edition- Blue",
+        "slug": "g-shock-casio-ga-2100mng-manga-edition-blue",
+        "sku": "manga-b",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "Straight from the pages of a comic our new 2100 Manga series in black and blue has drawn up two striking watches",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/29/main.webp",
+            "hover": "images/products/watch/29/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/29/other1.webp",
+            "images/products/watch/29/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20Blue%20(SKU%20manga-b)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20Blue%0ASKU%3A%20manga-b%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 30,
+        "name": "G-Shock Casio GA-2100MNG- Manga Edition- White",
+        "slug": "g-shock-casio-ga-2100mng-manga-edition-white",
+        "sku": "manga-w",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "Straight from the pages of a comic our new 2100 Manga series in black and blue has drawn up two striking watches",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/30/main.webp",
+            "hover": "images/products/watch/30/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/30/other1.webp",
+            "images/products/watch/30/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20White%20(SKU%20manga-w)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20White%0ASKU%3A%20manga-w%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ];
