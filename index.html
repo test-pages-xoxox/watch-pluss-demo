@@ -409,23 +409,30 @@
         <div class="tf-slideshow type-abs tf-btn-swiper-main hover-sw-nav">
             <div dir="ltr" class="swiper tf-swiper sw-slide-show slider_effect_fade" data-auto="true" data-loop="true" data-effect="fade" data-delay="3000">
                 <div class="swiper-wrapper">
-                    <!-- item 1 -->
+
+                    <!-- Slide 1 -->
                     <div class="swiper-slide">
                         <div class="slider-wrap">
                             <div class="sld_image">
-                                <img src="images/slider/slider-watch-1.png" data-src="images/slider/slider-watch-1.png" alt="Slider" class="lazyload scale-item scale-item-1">
+                                <picture>
+                                    <!-- Mobile portrait -->
+                                    <source media="(max-aspect-ratio: 3/4)" srcset="images/slider/slider-1-mobile.jpg">
+                                    <!-- Desktop landscape -->
+                                    <source media="(min-aspect-ratio: 4/3)" srcset="images/slider/slider-1-desktop.jpg">
+                                    <!-- Fallback -->
+                                    <img src="images/slider/slider-1-desktop.jpg" alt="Slider" class="lazyload scale-item scale-item-1">
+                                </picture>
                             </div>
+
                             <div class="sld_content only-title">
                                 <div class="container">
                                     <div class="content-sld_wrap">
                                         <h2 class="title_sld text-display fw-normal fade-item fade-item-2">
-                                            Casio Generic <br>
-                                            Watch
+                                            Casio Generic <br> Watch
                                         </h2>
                                         <div class="fade-item fade-item-4">
-                                            <a href="latest-collection.html" class="tf-btn animate-btn rounded-0">
-                                                Shop now
-                                                <i class="icon icon-arrow-right"></i>
+                                            <a href="latest-collection.html?cat=all" class="tf-btn animate-btn rounded-0">
+                                                Shop now <i class="icon icon-arrow-right"></i>
                                             </a>
                                         </div>
                                     </div>
@@ -433,23 +440,27 @@
                             </div>
                         </div>
                     </div>
-                    <!-- item 2 -->
+
+                    <!-- Slide 2 -->
                     <div class="swiper-slide">
                         <div class="slider-wrap">
                             <div class="sld_image">
-                                <img src="images/slider/slider-watch-2.jpg" data-src="images/slider/slider-watch-2.jpg" alt="Slider" class="lazyload scale-item scale-item-1">
+                                <picture>
+                                    <source media="(max-aspect-ratio: 3/4)" srcset="images/slider/slider-2-mobile.jpg">
+                                    <source media="(min-aspect-ratio: 4/3)" srcset="images/slider/slider-2-desktop.jpg">
+                                    <img src="images/slider/slider-2-desktop.jpg" alt="Slider" class="lazyload scale-item scale-item-1">
+                                </picture>
                             </div>
+
                             <div class="sld_content only-title text-end">
                                 <div class="container">
                                     <div class="content-sld_wrap">
-                                        <h2 class="title_sld text-display fw-normal fade-item fade-item-2">
-                                            Casio Generic Watches <br>
-                                            Fashion Watches
+                                        <h2 class="title_sld text-display fw-normal fade-item fade-item-2 d-none d-md-block">
+                                            Casio Generic Watches <br> Fashion Watches
                                         </h2>
                                         <div class="fade-item fade-item-4">
-                                            <a href="latest-collection.html" class="tf-btn animate-btn rounded-0">
-                                                Shop now
-                                                <i class="icon icon-arrow-right"></i>
+                                            <a href="latest-collection.html?cat=all" class="tf-btn animate-btn rounded-0">
+                                                Shop now <i class="icon icon-arrow-right"></i>
                                             </a>
                                         </div>
                                     </div>
@@ -457,23 +468,27 @@
                             </div>
                         </div>
                     </div>
-                    <!-- item 3 -->
+
+                    <!-- Slide 3 -->
                     <div class="swiper-slide">
                         <div class="slider-wrap">
                             <div class="sld_image">
-                                <img src="images/slider/slider-60.jpg" data-src="images/slider/slider-60.jpg" alt="Slider" class="lazyload scale-item scale-item-1">
+                                <picture>
+                                    <source media="(max-aspect-ratio: 3/4)" srcset="images/slider/slider-3-mobile.jpg">
+                                    <source media="(min-aspect-ratio: 4/3)" srcset="images/slider/slider-3-desktop.jpg">
+                                    <img src="images/slider/slider-3-desktop.jpg" alt="Slider" class="lazyload scale-item scale-item-1">
+                                </picture>
                             </div>
+
                             <div class="sld_content only-title">
                                 <div class="container">
                                     <div class="content-sld_wrap">
-                                        <h2 class="title_sld text-display fw-normal fade-item fade-item-2">
-                                            Men's Fashion Office <br>
-                                            Watches
+                                        <h2 class="title_sld text-display fw-normal fade-item fade-item-2 d-none d-md-block">
+                                            Men's Fashion Office <br> Watches
                                         </h2>
                                         <div class="fade-item fade-item-4">
-                                            <a href="latest-collection.html" class="tf-btn animate-btn rounded-0">
-                                                Shop now
-                                                <i class="icon icon-arrow-right"></i>
+                                            <a href="latest-collection.html?cat=all" class="tf-btn animate-btn rounded-0">
+                                                Shop now <i class="icon icon-arrow-right"></i>
                                             </a>
                                         </div>
                                     </div>
@@ -481,10 +496,13 @@
                             </div>
                         </div>
                     </div>
+
                 </div>
+
                 <div class="sw-dot-default-2 tf-sw-pagination"></div>
             </div>
         </div>
+
         <!-- /Banner Slider -->
         <!-- Category -->
         <section class="flat-spacing">
