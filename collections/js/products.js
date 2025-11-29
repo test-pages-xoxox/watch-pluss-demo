@@ -1057,5 +1057,160 @@ const products = [
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20(SKU%20casi%20mix)",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%0ASKU%3A%20casi%20mix%0APrice%3A%20%E2%82%B91399%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 42,
+        "name": "G-Shock Casio GM 5600 Generic Silver Black",
+        "slug": "g-shock-casio-gm-5600-generic-silver-black",
+        "sku": "casi-s",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "Item Dimensions LxWxH\r\n21.5 x 1.3 x 4.3 Centimeters\r\nNet Quantity\r\n1 Count\r\nGeneric Name\r\nCasual Watch",
+        "details": "\r\nDial Color: Black , Strap Color: Black\r\nStrap Material: Bio-Based Resin , Clasp Type: Tang Buckle\r\nCase Material: Resin , Water Resistant\r\n\r\nAdditional Information\r\nItem Dimensions LxWxH\r\n21.5 x 1.3 x 4.3 Centimeters\r\nNet Quantity\r\n1 Count\r\nGeneric Name\r\nCasual Watch\r\n\r\nMake a no-statement fashion statement with a G-SHOCK inspired by grunge rock. Inspired by the fashions that grew out of the thrifting and music culture of the ’90s, the metal bezel is specially processed to create a pattern that evokes peeling metal, for a singularly grunge look.\r\n",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹1900",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/42/main.webp",
+            "hover": "images/products/watch/42/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/42/other1.webp",
+            "images/products/watch/42/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GM%205600%20Generic%20Silver%20Black%20(SKU%20casi-s)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Silver%20Black%0ASKU%3A%20casi-s%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 43,
+        "name": "G-Shock Casio GM 5600 Generic Full Black",
+        "slug": "g-shock-casio-gm-5600-generic-full-black",
+        "sku": "casi-b",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "Make a no-statement fashion statement with a G-SHOCK inspired by grunge rock. Inspired by the fashions that grew out of the thrifting and music culture of the ’90s, the metal bezel is specially processed to create a pattern that evokes peeling metal, for a singularly grunge look.",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹1900",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/43/main.webp",
+            "hover": "images/products/watch/43/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/43/other1.webp",
+            "images/products/watch/43/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GM%205600%20Generic%20Full%20Black%20(SKU%20casi-b)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Full%20Black%0ASKU%3A%20casi-b%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 44,
+        "name": "G-Shock Casio GM 5600 Generic Gold Black",
+        "slug": "g-shock-casio-gm-5600-generic-gold-black",
+        "sku": "casi-g",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "Make a no-statement fashion statement with a G-SHOCK inspired by grunge rock. Inspired by the fashions that grew out of the thrifting and music culture of the ’90s, the metal bezel is specially processed to create a pattern that evokes peeling metal, for a singularly grunge look.",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹1900",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/44/main.webp",
+            "hover": "images/products/watch/44/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/44/other1.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GM%205600%20Generic%20Gold%20Black%20(SKU%20casi-g)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Gold%20Black%0ASKU%3A%20casi-g%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 45,
+        "name": "G-Shock GA-2100-1A Generic ",
+        "slug": "g-shock-ga-2100-1a-generic",
+        "sku": "ga4210",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "For Unisex 7AA Premium Collection Model -GA-2100-1A Case size (L× W× H) 48.5 × 45.4 × 11.8 mm",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/45/main.webp",
+            "hover": "images/products/watch/45/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/45/other1.webp",
+            "images/products/watch/45/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA-2100-1A%20Generic%20%20(SKU%20ga4210)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-2100-1A%20Generic%20%0ASKU%3A%20ga4210%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 46,
+        "name": "G-Shock GR-B300-8A2 Generic",
+        "slug": "g-shock-gr-b300-8a2-generic",
+        "sku": "big-1",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "Dimensions & Weight: Case size ~ 59 × 54.7 × 15.7 mm; weight around 71 g.",
+        "details": "The GR-B300-8A2 is part of the “MASTER OF G – AIR / GRAVITYMASTER” series, built as a rugged, pilot-inspired watch for harsh environments. \r\nCasio\r\n+1\r\n\r\nIts design draws inspiration from aircraft — from the cockpit-style dial and colour scheme to materials and ergonomics — making it suitable not only for everyday use, but also for travel and adventure.",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2999",
+            "new": "₹1899"
+        },
+        "images": {
+            "main": "images/products/watch/46/main.webp",
+            "hover": "images/products/watch/46/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/46/other1.webp",
+            "images/products/watch/46/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GR-B300-8A2%20Generic%20(SKU%20big-1)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GR-B300-8A2%20Generic%0ASKU%3A%20big-1%0APrice%3A%20%E2%82%B91899%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 47,
+        "name": "G-Shock GR-B300-1A4 Generic",
+        "slug": "g-shock-gr-b300-1a4-generic",
+        "sku": "big-2",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "Band / Strap: Bio-based resin band, adjustable for wrist sizes approx. 145–215 mm. \r\n\r\nCase Size & Weight: ~ 59 × 54.7 × 15.7 mm, weight around 71 g.\r\n\r\nStyle / Dial: Black dial with high-contrast white/bright markers and orange accents — similar to cockpit instrument panels for clarity and readability.\r\n\r\nThe GR-B300-1A4 packs many modern and handy features — much more than a basic analog watch.",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2999",
+            "new": "₹1899"
+        },
+        "images": {
+            "main": "images/products/watch/47/main.webp",
+            "hover": "images/products/watch/47/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/47/other1.webp",
+            "images/products/watch/47/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GR-B300-1A4%20Generic%20(SKU%20big-2)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GR-B300-1A4%20Generic%0ASKU%3A%20big-2%0APrice%3A%20%E2%82%B91899%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ];
