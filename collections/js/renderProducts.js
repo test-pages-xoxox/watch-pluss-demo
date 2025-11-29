@@ -26,7 +26,7 @@ function renderProducts(productsArray, containerId, layout = 'grid') {
     // Build filtered list
     let filteredProducts;
 
-    if (category) {
+    if (category !== 'all') {
         filteredProducts = productsArray.filter(p => {
             if (!p.tags) return false; // no tags → do NOT include
             return p.tags
