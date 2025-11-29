@@ -980,5 +980,82 @@
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-SHOCK%20GAE-2100WE-3A%20Millitary%20Edition%20Generic%20(SKU%20army)",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GAE-2100WE-3A%20Millitary%20Edition%20Generic%0ASKU%3A%20army%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 39,
+        "name": "Casio G-Shock AE-1200WHL-5AV Generic Brown",
+        "slug": "casio-g-shock-ae-1200whl-5av-generic-brown",
+        "sku": "casi-brwn",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1399"
+        },
+        "images": {
+            "main": "images/products/watch/39/main.webp",
+            "hover": "images/products/watch/39/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/39/other1.webp",
+            "images/products/watch/39/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20Brown%20(SKU%20casi-brwn)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20Brown%0ASKU%3A%20casi-brwn%0APrice%3A%20%E2%82%B91399%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 40,
+        "name": "Casio G-Shock AE-1200WHL-5AV Generic Silver-Brown",
+        "slug": "casio-g-shock-ae-1200whl-5av-generic-silver-brown",
+        "sku": "casi-sbrown",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1399"
+        },
+        "images": {
+            "main": "images/products/watch/40/main.webp",
+            "hover": "images/products/watch/40/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/40/other1.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20Silver-Brown%20(SKU%20casi-sbrown)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20Silver-Brown%0ASKU%3A%20casi-sbrown%0APrice%3A%20%E2%82%B91399%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 41,
+        "name": "Casio G-Shock AE-1200WHL-5AV Generic",
+        "slug": "casio-g-shock-ae-1200whl-5av-generic",
+        "sku": "casi mix",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1399"
+        },
+        "images": {
+            "main": "images/products/watch/41/main.webp",
+            "hover": "images/products/watch/41/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/41/other1.webp",
+            "images/products/watch/41/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20(SKU%20casi%20mix)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%0ASKU%3A%20casi%20mix%0APrice%3A%20%E2%82%B91399%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ]
