@@ -167,7 +167,7 @@
             metaFilterShop.toggleClass("active", hasFiltersApplied);
             $("#remove-all").toggle(hasFiltersApplied);
             if ($(".meta-filter-shop").hasClass("active") == false) {
-                limitLayout();
+                // limitLayout();
             }
         }
 
@@ -225,7 +225,7 @@
 
         $("#remove-all,#reset-filter,.remove-all-filters").on("click", function () {
             resetAllFilters();
-            limitLayout();
+            // limitLayout();
         });
 
         $(".reset-price").on("click", function () {
@@ -353,7 +353,7 @@
                     $("#gridLayout").empty().append(originalProductsGrid.clone());
                 }
                 bindProductEvents();
-                limitLayout();
+                // limitLayout();
                 return;
             }
 
@@ -498,7 +498,7 @@
             updateLayoutDisplay();
 
             if ($(".meta-filter-shop").hasClass("active") == false) {
-                limitLayout();
+                // limitLayout();
             }
         });
 
@@ -516,7 +516,7 @@
                     $("#listLayout").css("display", "none");
                     $("#gridLayout").css("display", "");
                     if ($(".meta-filter-shop").hasClass("active") == false) {
-                        limitLayout();
+                        // limitLayout();
                     }
                 }
             }, 500);
@@ -660,139 +660,46 @@
     -------------------------------------------------------------------------------------*/
     var limitLayout = function () {
         const gridItems = $("#gridLayout .card-product");
-        const layoutClassGrid = $("#gridLayout").attr("class") || "";
+        const layoutClassGrid = $("#gridLayout").attr("class");
         const listItems = $("#listLayout .card-product");
-        const layoutClassList = $("#listLayout").attr("class") || "";
-        let maxItems = 12;
-        let maxItemList = 12;
+        const layoutClassList = $("#listLayout").attr("class");
+        let maxItems = 0;
+        let maxItemList = 5;
 
-        // Decide whether list view is active (use visibility as you already do)
-        const isList = $("#listLayout").is(":visible");
-        const items = isList ? listItems : gridItems;
-        const pageSize = isList ? maxItemList : (maxItems || 9);
-
-        // pagination state stored on .wg-pagination element
-        const $pager = $(".wg-pagination");
-        const totalItems = items.length;
-        const totalPages = Math.max(1, Math.ceil(totalItems / pageSize));
-
-        // read current page from pager's data attribute; default = 1
-        let currentPage = parseInt($pager.data("page") || 1, 10);
-        if (isNaN(currentPage) || currentPage < 1) currentPage = 1;
-        if (currentPage > totalPages) currentPage = totalPages;
-
-        // Helper that updates item visibility for the current page
-        const showPage = function () {
-            items.each(function (index) {
-                const pageForIndex = Math.floor(index / pageSize) + 1;
-                if (pageForIndex === currentPage) {
-                    $(this).css("display", "flex");
-                } else {
-                    $(this).hide();
-                }
-            });
-        };
-
-        // If user triggered page change, animate fade out -> change -> fade in
-        const shouldAnimate = !!$pager.data("page-changed");
-
-        if (shouldAnimate) {
-            // choose container to animate (grid or list whichever visible)
-            const $container = isList ? $("#listLayout") : $("#gridLayout");
-
-            // quick fade out, change, then fade in
-            $container.stop(true).animate({ opacity: 0.35 }, 140, function () {
-                showPage();
-
-                // after content changed, rebuild pager below (so active class correct)
-                // then fade in and optionally scroll
-                buildAndAttachPager(); // defined below
-                $container.animate({ opacity: 1 }, 160, function () {
-                    // smooth scroll to top of the container
-                    // Use jQuery animate for cross-browser smoothness
-                    const topOffset = Math.max(0, $container.offset().top - 20); // 20px padding
-                    $('html, body').stop(true).animate({ scrollTop: topOffset }, 320);
-                    // clear the flag
-                    $pager.removeData("page-changed");
-                });
-            });
-        } else {
-            // No animation (initial load or programmatic calls) — just show page and pager
-            showPage();
-            buildAndAttachPager();
+        if (layoutClassGrid.includes("tf-col-2")) {
+            maxItems = 6;
+        } else if (layoutClassGrid.includes("tf-col-3")) {
+            maxItems = 9;
+        } else if (layoutClassGrid.includes("tf-col-4")) {
+            maxItems = 12;
+        } else if (layoutClassGrid.includes("tf-col-5")) {
+            maxItems = 15;
+        } else if (layoutClassGrid.includes("tf-col-6")) {
+            maxItems = 18;
+        } else if (layoutClassGrid.includes("tf-col-7")) {
+            maxItems = 21;
         }
 
-        // show/hide pager if not needed
-        if (totalItems <= pageSize) {
-            $pager.hide();
-        } else {
-            $pager.show().css("display", "flex");
-        }
-
-        // ---------- build pager function (same logic as before) ----------
-        function buildAndAttachPager() {
-            const maxVisible = 7; // change if you want more/less numbers
-            let pages = [];
-
-            if (totalPages <= maxVisible) {
-                for (let i = 1; i <= totalPages; i++) pages.push(i);
+        gridItems.each(function (index) {
+            if (index < maxItems) {
+                $(this).css("display", "flex");
             } else {
-                pages.push(1);
-                let left = Math.max(2, currentPage - 1);
-                let right = Math.min(totalPages - 1, currentPage + 1);
-
-                if (currentPage <= 3) { left = 2; right = 4; }
-                if (currentPage >= totalPages - 2) { left = totalPages - 3; right = totalPages - 1; }
-
-                if (left > 2) pages.push('...');
-                for (let i = left; i <= right; i++) pages.push(i);
-                if (right < totalPages - 1) pages.push('...');
-                pages.push(totalPages);
+                $(this).hide();
             }
+        });
 
-            // render pager HTML (keeps your classes)
-            $pager.empty();
+        listItems.each(function (index) {
+            if (index < maxItemList) {
+                $(this).css("display", "flex");
+            } else {
+                $(this).hide();
+            }
+        });
 
-            const prevDisabled = currentPage === 1 ? "disabled" : "";
-            $pager.append(`<a href="#" class="pagination-item h6 direct ${prevDisabled}" data-action="prev"><i class="icon icon-caret-left"></i></a>`);
-
-            pages.forEach(p => {
-                if (p === '...') {
-                    $pager.append(`<span class="pagination-item h6 dots">...</span>`);
-                } else if (p === currentPage) {
-                    $pager.append(`<span class="pagination-item h6 active" data-page="${p}">${p}</span>`);
-                } else {
-                    $pager.append(`<a href="#" class="pagination-item h6" data-page="${p}">${p}</a>`);
-                }
-            });
-
-            const nextDisabled = currentPage === totalPages ? "disabled" : "";
-            $pager.append(`<a href="#" class="pagination-item h6 direct ${nextDisabled}" data-action="next"><i class="icon icon-caret-right"></i></a>`);
-
-            // attach handlers (unbind first so duplicates don't accumulate)
-            $pager.off("click", "a[data-page], a[data-action]");
-
-            $pager.on("click", "a[data-page]", function (e) {
-                e.preventDefault();
-                const page = parseInt($(this).data("page"), 10);
-                if (!isNaN(page) && page >= 1 && page <= totalPages && page !== currentPage) {
-                    $pager.data("page", page);
-                    $pager.data("page-changed", true); // mark for animation + scroll
-                    limitLayout();
-                }
-            });
-            $pager.on("click", "a[data-action]", function (e) {
-                e.preventDefault();
-                const action = $(this).data("action");
-                let page = parseInt($pager.data("page") || 1, 10);
-                if (action === "prev" && page > 1) page = page - 1;
-                if (action === "next" && page < totalPages) page = page + 1;
-                if (page !== currentPage) {
-                    $pager.data("page", page);
-                    $pager.data("page-changed", true);
-                    limitLayout();
-                }
-            });
+        if (gridItems.length <= maxItems - 1) {
+            $(".wg-pagination").hide();
+        } else {
+            $(".wg-pagination").css("display", "flex");
         }
     };
 
@@ -804,6 +711,6 @@
         swLayoutShop();
         loadProduct();
         handleDropdownFilter();
-        limitLayout();
+        // limitLayout();
     });
 })(jQuery);
