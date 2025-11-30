@@ -1212,5 +1212,213 @@
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GR-B300-1A4%20Generic%20(SKU%20big-2)",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GR-B300-1A4%20Generic%0ASKU%3A%20big-2%0APrice%3A%20%E2%82%B91899%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 48,
+        "name": "G-Shock GA-700BP-1A Generic",
+        "slug": "g-shock-ga-700bp-1a-generic",
+        "sku": "big-blu",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "Case size\r\n57.5 × 53.4 × 18.4–18.5 mm\r\nThis model belongs to G-SHOCK’s GA-700 series and features a distinct “Paisley Blue” design — dial patterned with a paisley/bandana-style print and a striking blue-and-black color scheme, giving a rugged yet fashionable look\r\nThe watch uses a resin case and resin band — durable, lightweight and suitable for everyday wear and outdoor conditions.",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2999",
+            "new": "₹1899"
+        },
+        "images": {
+            "main": "images/products/watch/48/main.webp",
+            "hover": "images/products/watch/48/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/48/other1.webp",
+            "images/products/watch/48/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA-700BP-1A%20Generic%20(SKU%20big-blu)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-700BP-1A%20Generic%0ASKU%3A%20big-blu%0APrice%3A%20%E2%82%B91899%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 49,
+        "name": "G-Shock GA-B2100CY-1A Generic",
+        "slug": "g-shock-ga-b2100cy-1a-generic",
+        "sku": "shock yellow",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "GA-B2100CY-1A belongs to the Casio G-SHOCK “2100 series,” known for combining slim, modern design with G-SHOCK’s toughness and modern functions.\r\nDimensions & Weight: Case measures approx. 48.5 × 45.4 × 11.9 mm; weight around 52 grams",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/49/main.webp",
+            "hover": "images/products/watch/49/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/49/other1.webp",
+            "images/products/watch/49/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA-B2100CY-1A%20Generic%20(SKU%20shock%20yellow)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-B2100CY-1A%20Generic%0ASKU%3A%20shock%20yellow%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 50,
+        "name": "G-Shock GA-110CD-1A9 Generic",
+        "slug": "g-shock-ga-110cd-1a9-generic",
+        "sku": "big-5",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "The GA-110CD-1A9 belongs to the G-SHOCK “110 Series” — known for large-case, robust analog-digital timepieces.\r\nIts design combines a classic black resin exterior (band + bezel) with an eye-catching two-tone dial (silver + gold) — giving it a bold, stylish yet rugged look\r\nCase Dimensions\t≈ 55 × 51.2 × 16.9 mm (L×W×H) — a bold, large size typical of GA-110 style.\r\n",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2999",
+            "new": "₹1899"
+        },
+        "images": {
+            "main": "images/products/watch/50/main.webp",
+            "hover": "images/products/watch/50/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/50/other1.webp",
+            "images/products/watch/50/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA-110CD-1A9%20Generic%20(SKU%20big-5)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-110CD-1A9%20Generic%0ASKU%3A%20big-5%0APrice%3A%20%E2%82%B91899%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 51,
+        "name": "G-Shock GA-B2100FC -1A Generic",
+        "slug": "g-shock-ga-b2100fc-1a-generic",
+        "sku": "gshock ",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "GA-B2100FC-1A belongs to the Casio G-SHOCK “2100 series,” specifically the “Multicolor Accent” sub-collection\r\nThe design keeps the signature octagonal case shape popularized by the earlier GA-2100 line — giving the watch a modern, urban, slightly retro-inspired style.\r\nCase Dimensions: ~ 48.5 × 45.4 × 11.9 mm.",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/51/main.webp",
+            "hover": "images/products/watch/51/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/51/other1.webp",
+            "images/products/watch/51/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA-B2100FC%20-1A%20Generic%20(SKU%20gshock%20)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-B2100FC%20-1A%20Generic%0ASKU%3A%20gshock%20%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 52,
+        "name": "G-Shock GA2100-2A2 Generic- Blue",
+        "slug": "g-shock-ga2100-2a2-generic-blue",
+        "sku": "casi-6",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "The GA2100-2A2 is part of the G‑SHOCK “2100 series,” often nicknamed “Casioak” due to its octagonal bezel shape (somewhat reminiscent of luxury-watch designs) but with G-SHOCK’s rugged DNA.\r\nThe “-2A2” colourway gives it a tone-on-tone blue look: the case, bezel, dial and resin band are all shades of blue, offering a monochromatic, modern, street-wear / casual aesthetic.\r\nCase size\r\n48.5 × 45.4 × 11.8 mm",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/52/main.webp",
+            "hover": "images/products/watch/52/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/52/other1.webp",
+            "images/products/watch/52/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA2100-2A2%20Generic-%20Blue%20(SKU%20casi-6)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA2100-2A2%20Generic-%20Blue%0ASKU%3A%20casi-6%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 53,
+        "name": "G-Shock GA2100-2A2 Generic- yellow",
+        "slug": "g-shock-ga2100-2a2-generic-yellow",
+        "sku": "casi-6",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "GA-2100 (the “2A2” and other color-way variants) is part of G-SHOCK’s 2100 series — a line known for sleek, minimalist/modern-casual design + G-SHOCK toughness.\r\nCase Size\r\nApprox. 48.5 × 45.4 × 11.8 mm",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/53/main.webp",
+            "hover": "images/products/watch/53/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/53/other1.webp",
+            "images/products/watch/53/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA2100-2A2%20Generic-%20yellow%20(SKU%20casi-6)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA2100-2A2%20Generic-%20yellow%0ASKU%3A%20casi-6%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 54,
+        "name": "G-Shock GA2100-2A2 Generic- white",
+        "slug": "g-shock-ga2100-2a2-generic-white",
+        "sku": "casi-7",
+        "brand": "G-Shock Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "GA-2100 (the “2A2” and other color-way variants) is part of G-SHOCK’s 2100 series — a line known for sleek, minimalist/modern-casual design + G-SHOCK toughness.\r\nApprox. 48.5 × 45.4 × 11.8 mm",
+        "details": "",
+        "tags": "formal,casio",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "images/products/watch/54/main.webp",
+            "hover": "images/products/watch/54/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/54/other1.webp",
+            "images/products/watch/54/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA2100-2A2%20Generic-%20white%20(SKU%20casi-7)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA2100-2A2%20Generic-%20white%0ASKU%3A%20casi-7%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 55,
+        "name": "G-Shock steel GM-2110D-2A -Generic Full Gold",
+        "slug": "g-shock-steel-gm-2110d-2a-generic-full-gold",
+        "sku": "mera gold",
+        "brand": "G-Shock Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "The GM-2110D-2A belongs to the “G-STEEL” / “GM-2100” series from Casio — basically a metal-bezel, metal-band evolution of the popular octagonal-bezel design seen in the GA-2100 “Casioak” line.\r\nIt gives a more refined, premium-looking feel (thanks to stainless steel bezel + bracelet + polished finishing), yet retains the toughness and functionality expected of a G-SHOCK.\r\nCase Thickness & Size: Approximately 49.3 × 44.4 × 11.8 mm.",
+        "details": "",
+        "tags": "formal,chain,casio",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1699"
+        },
+        "images": {
+            "main": "images/products/watch/55/main.webp",
+            "hover": "images/products/watch/55/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/55/other1.webp",
+            "images/products/watch/55/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Full%20Gold%20(SKU%20mera%20gold)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Full%20Gold%0ASKU%3A%20mera%20gold%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ]
