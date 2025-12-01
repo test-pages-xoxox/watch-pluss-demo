@@ -299,6 +299,7 @@ const products = [
             "old": "₹2499",
             "new": "₹1299"
         },
+        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/12/main.webp",
             "hover": "images/products/watch/12/hover.webp"
@@ -324,6 +325,7 @@ const products = [
             "old": "₹2300",
             "new": "₹1600"
         },
+        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/13/main.webp",
             "hover": "images/products/watch/13/hover.webp"
@@ -349,6 +351,7 @@ const products = [
             "old": "₹1999",
             "new": "₹1499"
         },
+        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/14/main.webp",
             "hover": "images/products/watch/14/hover.webp"
@@ -374,6 +377,7 @@ const products = [
             "old": "₹2800",
             "new": "₹1299"
         },
+        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/15/main.webp",
             "hover": "images/products/watch/15/hover.webp"
@@ -395,7 +399,7 @@ const products = [
         "availability": "In Stock",
         "description": "Strap Material: Resin , Clasp Type: Buckle Strap Material: Resin , Clasp Type: Buckle Dial Color: Green , Strap Color: Green",
         "details": "Strap Material: Resin , Clasp Type: Buckle Strap Material: Resin , Clasp Type: Buckle Dial Color: Green , Strap Color: Green",
-        "tags": "HOT",
+        "tags": "men,casio,formal",
         "price": {
             "old": "₹1999",
             "new": "₹1499"
@@ -473,7 +477,7 @@ const products = [
         "availability": "In Stock",
         "description": "",
         "details": "",
-        "tags": "women-formal,",
+        "tags": "women-formal,women-digital",
         "price": {
             "old": "₹2300",
             "new": "₹1199"
@@ -681,7 +685,7 @@ const products = [
         "availability": "In Stock",
         "description": "Case diameter\r\n45.9 Millimetres\r\nBand colour\r\nBlack\r\nBand material type\r\nResin\r\nWarranty type\r\nExtended\r\nWatch movement type\r\nQuartz",
         "details": "",
-        "tags": "women-formal,casio",
+        "tags": "women-formal,casio,women-digital,women-chain",
         "price": {
             "old": "₹1600",
             "new": "₹1199"
@@ -887,7 +891,7 @@ const products = [
         "availability": "In Stock",
         "description": "Dial color: multi-colour, case shape: square, dial glass material\r\nBand color: silver, band material: stainless steel. \r\nWatch movement type: quartz, watch display type: digital\r\nCase material: resin, case diameter: 36.29 millimeters\r\n30 meters, fold-over clasp",
         "details": "",
-        "tags": "women-formal,casio",
+        "tags": "women-formal,casio,women-digital",
         "price": {
             "old": "₹1800",
             "new": "₹1199"
