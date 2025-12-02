@@ -299,7 +299,6 @@ const products = [
             "old": "₹2499",
             "new": "₹1299"
         },
-        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/12/main.webp",
             "hover": "images/products/watch/12/hover.webp"
@@ -325,7 +324,6 @@ const products = [
             "old": "₹2300",
             "new": "₹1600"
         },
-        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/13/main.webp",
             "hover": "images/products/watch/13/hover.webp"
@@ -351,7 +349,6 @@ const products = [
             "old": "₹1999",
             "new": "₹1499"
         },
-        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/14/main.webp",
             "hover": "images/products/watch/14/hover.webp"
@@ -377,7 +374,6 @@ const products = [
             "old": "₹2800",
             "new": "₹1299"
         },
-        "tags": "men,casio,formal",
         "images": {
             "main": "images/products/watch/15/main.webp",
             "hover": "images/products/watch/15/hover.webp"
@@ -399,7 +395,7 @@ const products = [
         "availability": "In Stock",
         "description": "Strap Material: Resin , Clasp Type: Buckle Strap Material: Resin , Clasp Type: Buckle Dial Color: Green , Strap Color: Green",
         "details": "Strap Material: Resin , Clasp Type: Buckle Strap Material: Resin , Clasp Type: Buckle Dial Color: Green , Strap Color: Green",
-        "tags": "men,casio,formal",
+        "tags": "HOT",
         "price": {
             "old": "₹1999",
             "new": "₹1499"
@@ -477,7 +473,7 @@ const products = [
         "availability": "In Stock",
         "description": "",
         "details": "",
-        "tags": "women-formal,women-digital",
+        "tags": "women-formal,",
         "price": {
             "old": "₹2300",
             "new": "₹1199"
@@ -685,7 +681,7 @@ const products = [
         "availability": "In Stock",
         "description": "Case diameter\r\n45.9 Millimetres\r\nBand colour\r\nBlack\r\nBand material type\r\nResin\r\nWarranty type\r\nExtended\r\nWatch movement type\r\nQuartz",
         "details": "",
-        "tags": "women-formal,casio,women-digital,women-chain",
+        "tags": "women-formal,casio",
         "price": {
             "old": "₹1600",
             "new": "₹1199"
@@ -891,7 +887,7 @@ const products = [
         "availability": "In Stock",
         "description": "Dial color: multi-colour, case shape: square, dial glass material\r\nBand color: silver, band material: stainless steel. \r\nWatch movement type: quartz, watch display type: digital\r\nCase material: resin, case diameter: 36.29 millimeters\r\n30 meters, fold-over clasp",
         "details": "",
-        "tags": "women-formal,casio,women-digital",
+        "tags": "women-formal,casio",
         "price": {
             "old": "₹1800",
             "new": "₹1199"
@@ -1424,5 +1420,57 @@ const products = [
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Full%20Gold%20(SKU%20mera%20gold)",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Full%20Gold%0ASKU%3A%20mera%20gold%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 56,
+        "name": "Tissot PRX Blue Dial Generic",
+        "slug": "tissot-prx-blue-dial-generic",
+        "sku": "tosst-1",
+        "brand": "Tissot Generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "The waffle-pattern dial, polished indices, and date display at 3 o’clock add sophistication, while the brushed steel case offers a premium feel and timeless look. Perfect for everyday wear or special occasions, this model combines elegance, durability, and Swiss craftsmanship.",
+        "details": "",
+        "tags": "formal,chain,tissot",
+        "price": {
+            "old": "₹3500",
+            "new": "₹2599"
+        },
+        "images": {
+            "main": "images/products/watch/56/main.webp",
+            "hover": "images/products/watch/56/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/56/other1.webp",
+            "images/products/watch/56/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Tissot%20PRX%20Blue%20Dial%20Generic%20(SKU%20tosst-1)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20PRX%20Blue%20Dial%20Generic%0ASKU%3A%20tosst-1%0APrice%3A%20%E2%82%B92599%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 57,
+        "name": "Omega × Swatch MoonSwatch- Grey Generic",
+        "slug": "omega-swatch-moonswatch-grey-generic",
+        "sku": "om-1",
+        "brand": "omega generic",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "Brand: Omega × Swatch\r\n\r\nCollection: Bioceramic MoonSwatch\r\n\r\nModel: Mission to the Moon\r\n\r\nCase Material: Bioceramic (lightweight, durable)\r\n\r\nCase Diameter: 42mm\r\n\r\nCase Thickness: ~13mm\r\n\r\nLug-to-Lug: 47mm (approx.)\r\n\r\nWeight: Very light due to bioceramic construction",
+        "details": "",
+        "tags": "formal,omega",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1599"
+        },
+        "images": {
+            "main": "images/products/watch/57/main.webp",
+            "hover": "images/products/watch/57/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/57/other1.webp",
+            "images/products/watch/57/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Omega%20×%20Swatch%20MoonSwatch-%20Grey%20Generic%20(SKU%20om-1)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Omega%20%C3%97%20Swatch%20MoonSwatch-%20Grey%20Generic%0ASKU%3A%20om-1%0APrice%3A%20%E2%82%B91599%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ];
