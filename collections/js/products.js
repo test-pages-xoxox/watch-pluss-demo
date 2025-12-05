@@ -414,7 +414,7 @@ const products = [
     {
         "id": 17,
         "name": "G-SHOCK GA2100RW, Detailed with Perfection",
-        "slug": "g-shock-ga2100rw-detailed-with-perfection-1-2-4",
+        "slug": "g-shock-ga2100rw-detailed-with-perfection",
         "sku": "casio-2",
         "brand": "G-Shock Generic",
         "badge": "Trending",
@@ -440,7 +440,7 @@ const products = [
     {
         "id": 18,
         "name": "G-SHOCK GA2100RW Detailed with Perfection",
-        "slug": "g-shock-ga2100rw-detailed-with-perfection-245",
+        "slug": "g-shock-ga2100rw-detailed-with-perfection",
         "sku": "casio-3",
         "brand": "G-Shock Generic",
         "badge": "Trending",
@@ -622,7 +622,7 @@ const products = [
     {
         "id": 25,
         "name": "G-SHOCK GA2100RW Detailed with Perfection",
-        "slug": "g-shock-ga2100rw-detailed-with-perfection-356",
+        "slug": "g-shock-ga2100rw-detailed-with-perfection",
         "sku": "gshock ",
         "brand": "G-Shock Generic",
         "badge": "Trending",
@@ -1626,5 +1626,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-2100FL-8A%20Black%20-Blue.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-2100FL-8A%20Black%20-Blue%0ASKU%3A%20g-shock-2100FL-black-blue-123%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "G-Shock GA-2100FL-8A Grey - Orange",
+        "slug": "g-shock-ga-2100fl-8a-grey-orange-7dbcc431ce4b",
+        "sku": "g-shock-2100FL-grey-orange-123",
+        "brand": "G-Shock",
+        "badge": "SALE",
+        "availability": "In Stock",
+        "description": "The G-Shock GA-2100 in Grey-Orange delivers a fresh, sporty vibe with its smooth grey body and striking orange accents. It’s lightweight, durable, and built for everyday adventures while keeping a modern, stylish look. The subtle grey keeps it versatile, and the orange highlights add just the right amount of energy. A great choice if you want a tough watch that still stands out with a vibrant edge.",
+        "details": "The G-Shock GA-2100 in Grey-Orange delivers a fresh, sporty vibe with its smooth grey body and striking orange accents. It’s lightweight, durable, and built for everyday adventures while keeping a modern, stylish look. The subtle grey keeps it versatile, and the orange highlights add just the right amount of energy. A great choice if you want a tough watch that still stands out with a vibrant edge.",
+        "tags": "men,formal,casio,g-shock,digital",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/g-shock-ga-2100fl-8a-grey-orange-7dbcc431ce4b/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/g-shock-ga-2100fl-8a-grey-orange-7dbcc431ce4b/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/g-shock-ga-2100fl-8a-grey-orange-7dbcc431ce4b/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/g-shock-ga-2100fl-8a-grey-orange-7dbcc431ce4b/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-2100FL-8A%20Grey%20-%20Orange.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-2100FL-8A%20Grey%20-%20Orange%0ASKU%3A%20g-shock-2100FL-grey-orange-123%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ];
