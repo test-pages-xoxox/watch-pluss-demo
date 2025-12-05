@@ -34,8 +34,13 @@
 
         if (product?.images?.main) add(product.images.main);
         if (product?.images?.hover) add(product.images.hover);
-        if (product?.otherImages) {
-            product.otherImages.forEach((img) => {
+        const otherImages = Array.isArray(product?.otherImages)
+            ? product.otherImages
+            : Array.isArray(product?.images?.others)
+                ? product.images.others
+                : [];
+        if (otherImages) {
+            otherImages.forEach((img) => {
                 add(img)
             });
         }
