@@ -1472,5 +1472,133 @@ const products = [
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Omega%20×%20Swatch%20MoonSwatch-%20Grey%20Generic%20(SKU%20om-1)",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Omega%20%C3%97%20Swatch%20MoonSwatch-%20Grey%20Generic%0ASKU%3A%20om-1%0APrice%3A%20%E2%82%B91599%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 58,
+        "name": "Michael Kors Bradshaw Rose Gold Womens Generic",
+        "slug": "michael-kors-bradshaw-rose-gold-womens-generic",
+        "sku": "women-1",
+        "brand": "Michael Kors Generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "- Working Chronograph\r\n- 12 & 24 Hour Analog\r\n- Push Button reset\r\n- 60 min stop watch\r\n- Date Indicator\r\n- Stainless Steel Case\r\n- IGP Colour Coating with no fading and rusting\r\n- 3 Link Pink Metal & Steel Bracelet\r\n- 100% Reliable & Heavy Quality Original Quartz Chronograph Machinery ",
+        "details": "",
+        "tags": "chain,women-formal",
+        "price": {
+            "old": "₹3999",
+            "new": "₹2499"
+        },
+        "images": {
+            "main": "images/products/watch/58/main.webp",
+            "hover": "images/products/watch/58/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/58/other1.webp",
+            "images/products/watch/58/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Michael%20Kors%20Bradshaw%20Rose%20Gold%20Womens%20Generic%20(SKU%20women-1)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Michael%20Kors%20Bradshaw%20Rose%20Gold%20Womens%20Generic%0ASKU%3A%20women-1%0APrice%3A%20%E2%82%B92499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 59,
+        "name": "Emporio Armani - Minimalist Chronograph Generic",
+        "slug": "emporio-armani-minimalist-chronograph-generic",
+        "sku": "armani-1",
+        "brand": "Armani generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "- Stainless Steel\r\n- Date Counter\r\n- All Working Chronograph\r\n- Exclusive Beige Multi functional face\r\n- IGP Colour Coating – No Fading, No Rusting \r\n- 100% Reliable 5-Hand Quartz Working Machine\r\n- Smart Fit Black Leather Strap with brand detailing\r\n- Premium Hard Case Brand Box with Emporio Armani Branding ",
+        "details": "",
+        "tags": "formal,armani,leather",
+        "price": {
+            "old": "₹3200",
+            "new": "₹2100"
+        },
+        "images": {
+            "main": "images/products/watch/59/main.webp",
+            "hover": "images/products/watch/59/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/59/other1.webp",
+            "images/products/watch/59/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Emporio%20Armani%20-%20Minimalist%20Chronograph%20Generic%20(SKU%20armani-1)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20-%20Minimalist%20Chronograph%20Generic%0ASKU%3A%20armani-1%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 60,
+        "name": "Emporio Armani must-have wrist essential Generic",
+        "slug": "emporio-armani-must-have-wrist-essential-generic",
+        "sku": "armani-1",
+        "brand": "Armani generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "- Dial Color: Black green blue\r\n- Strap Color: Black silver \r\n- Movement: Quartz Chronograph Machinery\r\n- Dial Size: 43 mm \r\n- Band Width: 20 mm\r\n- Indices: Baton Indexes\r\n- Case Material: Stainless Steel\r\n- Strap Material: Stainless Steel\r\n- Date Indicator: Yes\r\n- Chronograph Function: Yes",
+        "details": "",
+        "tags": "formal,armani,chain",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1699"
+        },
+        "images": {
+            "main": "images/products/watch/60/main.webp",
+            "hover": "images/products/watch/60/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/60/other1.webp",
+            "images/products/watch/60/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Emporio%20Armani%20must-have%20wrist%20essential%20Generic%20(SKU%20armani-1)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20must-have%20wrist%20essential%20Generic%0ASKU%3A%20armani-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 61,
+        "name": "Emporio Armani Black AR11398 Wristwatch Generic",
+        "slug": "emporio-armani-black-ar11398-wristwatch-generic",
+        "sku": "armani-1",
+        "brand": "Armani generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "Brand:\tEmporio Armani \r\nModel: AR11398\r\nQuality Grade: 7AA Premium Quality\r\nCondition:\t 100% BRAND NEW\r\nDiameter (mm):\t43\r\nMovement:\t100% Trusted & Reliable Quartz Chronograph machine\r\nDial Color : Black Multifunctional\r\nBox : Emporio Armani Premium Hard Case Leather Brand Name Box.\r\nCase:\tStainless Steel Black\r\nStrap:\t Stainless Steel\r\nClasp :\tDual Clasp Lock",
+        "details": "",
+        "tags": "formal,armani,chain",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1699"
+        },
+        "images": {
+            "main": "images/products/watch/61/main.webp",
+            "hover": "images/products/watch/61/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/61/other1.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Emporio%20Armani%20Black%20AR11398%20Wristwatch%20Generic%20(SKU%20armani-1)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20Black%20AR11398%20Wristwatch%20Generic%0ASKU%3A%20armani-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 62,
+        "name": "Emporio Armani AR2429 is a men's Generic",
+        "slug": "emporio-armani-ar2429-is-a-men-s-generic",
+        "sku": "armani-1",
+        "brand": "Armani generic",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "- Stainless Steel\r\n- Sporty Black Silver Face\r\n- IGP Colour Coating – No Fading, No Rusting \r\n- 100% Reliable 3-Hand Quartz Working Machine\r\n- Smart Fit Grey Adjustable Leather Strap\r\n- Premium Hard Case Leather Box with Armani Branding ",
+        "details": "",
+        "tags": "formal,armani,leather",
+        "price": {
+            "old": "₹2600",
+            "new": "₹1699"
+        },
+        "images": {
+            "main": "images/products/watch/62/main.webp",
+            "hover": "images/products/watch/62/hover.webp"
+        },
+        "otherImages": [
+            "images/products/watch/62/other1.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Emporio%20Armani%20AR2429%20is%20a%20men's%20Generic%20(SKU%20armani-1)",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20AR2429%20is%20a%20men%27s%20Generic%0ASKU%3A%20armani-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ];
