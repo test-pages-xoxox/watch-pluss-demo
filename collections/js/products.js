@@ -414,7 +414,7 @@ const products = [
     {
         "id": 17,
         "name": "G-SHOCK GA2100RW, Detailed with Perfection",
-        "slug": "g-shock-ga2100rw-detailed-with-perfection",
+        "slug": "g-shock-ga2100rw-detailed-with-perfection-1-2-4",
         "sku": "casio-2",
         "brand": "G-Shock Generic",
         "badge": "Trending",
@@ -440,7 +440,7 @@ const products = [
     {
         "id": 18,
         "name": "G-SHOCK GA2100RW Detailed with Perfection",
-        "slug": "g-shock-ga2100rw-detailed-with-perfection",
+        "slug": "g-shock-ga2100rw-detailed-with-perfection-245",
         "sku": "casio-3",
         "brand": "G-Shock Generic",
         "badge": "Trending",
@@ -622,7 +622,7 @@ const products = [
     {
         "id": 25,
         "name": "G-SHOCK GA2100RW Detailed with Perfection",
-        "slug": "g-shock-ga2100rw-detailed-with-perfection",
+        "slug": "g-shock-ga2100rw-detailed-with-perfection-356",
         "sku": "gshock ",
         "brand": "G-Shock Generic",
         "badge": "Trending",
@@ -1600,5 +1600,31 @@ const products = [
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Emporio%20Armani%20AR2429%20is%20a%20men's%20Generic%20(SKU%20armani-1)",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20AR2429%20is%20a%20men%27s%20Generic%0ASKU%3A%20armani-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "G-Shock GA-2100FL-8A Black -Blue",
+        "slug": "g-shock-ga-2100fl-8a-black-blue-098592e606fd",
+        "sku": "g-shock-2100FL-black-blue-123",
+        "brand": "Casio",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "Built to endure, the GA-2100FL-8A combines tough-as-nails resilience with sharp style. Its matte-black case and strap give a stealth-y, modern look — while the deep blue accents add a cool, refined flair that stands out both on the street and in the boardroom.",
+        "details": "Built to endure, the GA-2100FL-8A combines tough-as-nails resilience with sharp style. Its matte-black case and strap give a stealth-y, modern look — while the deep blue accents add a cool, refined flair that stands out both on the street and in the boardroom.",
+        "tags": "g-shock,casio,men,formal,digital",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1299"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/g-shock-ga-2100fl-8a-black-blue-098592e606fd/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/g-shock-ga-2100fl-8a-black-blue-098592e606fd/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/g-shock-ga-2100fl-8a-black-blue-098592e606fd/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/g-shock-ga-2100fl-8a-black-blue-098592e606fd/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-2100FL-8A%20Black%20-Blue.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-2100FL-8A%20Black%20-Blue%0ASKU%3A%20g-shock-2100FL-black-blue-123%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ];
