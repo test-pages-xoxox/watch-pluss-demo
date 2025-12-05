@@ -137,7 +137,7 @@ function createProductCard(product, layout = 'grid') {
         card.innerHTML = `
             <div class="card-product ${layoutClass}" data-availability="${product.availability}" data-brand="${product.brand}">
                 <div class="card-product_wrapper">
-                    <a href="../product-detail.html?pid=${product.id}" class="product-img">
+                    <a href="../product-detail.html?pid=${product.slug}" class="product-img">
                         <img class="lazyload img-product" src="${product.images.main}" data-src="${product.images.main}" alt="${product.name}">
                         ${product.images.hover ? `<img class="lazyload img-hover" src="${product.images.hover}" data-src="${product.images.hover}" alt="${product.name}">` : ''}
                     </a>
@@ -153,7 +153,7 @@ function createProductCard(product, layout = 'grid') {
                 </div>
                 <div class="card-product_info">
                     <div class="product-info_list">
-                        <a href="../product-detail.html?pid=${product.id}" class="name-product h3 link">${product.name}</a>
+                        <a href="../product-detail.html?pid=${product.slug}" class="name-product h3 link">${product.name}</a>
                         ${priceHTML}
                         ${colorSwatchesHTML}
                         ${descriptionHTML}
@@ -176,7 +176,7 @@ function createProductCard(product, layout = 'grid') {
         card.innerHTML = `
             <div class="card-product ${layoutClass}" data-availability="${product.availability}" data-brand="${product.brand}">
                 <div class="card-product_wrapper">
-                    <a href="../product-detail.html?pid=${product.id}" class="product-img">
+                    <a href="../product-detail.html?pid=${product.slug}" class="product-img">
                         <img class="lazyload img-product" src="${product.images.main}" data-src="${product.images.main}" alt="${product.name}">
                         ${product.images.hover ? `<img class="lazyload img-hover" src="${product.images.hover}" data-src="${product.images.hover}" alt="${product.name}">` : ''}
                     </a>
@@ -197,7 +197,7 @@ function createProductCard(product, layout = 'grid') {
                     ${badgeHTML}
                 </div>
                 <div class="card-product_info">
-                    <a href="product-detail.html?pid=${product.id}" class="name-product h4 link">${product.name}</a>
+                    <a href="product-detail.html?pid=${product.slug}" class="name-product h4 link">${product.name}</a>
                     ${priceHTML}
                     ${colorSwatchesHTML}
                 </div>
@@ -292,7 +292,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Update product name link to point to specific product
             if (nameEl && nameEl.tagName === 'A') {
-                nameEl.setAttribute('href', `product-detail.html?pid=${product.id}`);
+                nameEl.setAttribute('href', `product-detail.html?pid=${product.slug}`);
             }
 
             // Update "View full details" link to point to specific product and open in new tab
@@ -300,7 +300,7 @@ document.addEventListener('DOMContentLoaded', function() {
             if (viewDetailsLink) {
                 const spanText = viewDetailsLink.querySelector('span.h5');
                 if (spanText && spanText.textContent.trim().toLowerCase().includes('view full details')) {
-                    viewDetailsLink.setAttribute('href', `product-detail.html?pid=${product.id}`);
+                    viewDetailsLink.setAttribute('href', `product-detail.html?pid=${product.slug}`);
                     viewDetailsLink.setAttribute('target', '_blank');
                 }
             }

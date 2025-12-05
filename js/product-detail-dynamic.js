@@ -14,7 +14,7 @@
         const params = new URLSearchParams(window.location.search);
         const pidParam = params.get("pid");
         if (pidParam) {
-            const byId = productList.find((item) => String(item.id) === String(pidParam));
+            const byId = productList.find((item) => String(item.slug) === String(pidParam));
             if (byId) {
                 return byId;
             }
