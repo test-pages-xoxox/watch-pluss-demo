@@ -1,5 +1,8 @@
 /* eslint-disable no-console */
 (function () {
+
+    var isInWebView = navigator.userAgent.includes('wv') || navigator.userAgent.toLowerCase().includes('watch_pluss');
+
     function getProductList() {
         if (typeof products !== "undefined" && Array.isArray(products)) {
             return products;
@@ -176,9 +179,11 @@
         const stickyBtn = document.querySelector(".tf-sticky-atc-btns .btn-add-to-cart");
         if (stickyBtn) {
             stickyBtn.href = product.whatsappUrl || "#";
-            stickyBtn.target = "_blank";
             stickyBtn.rel = "noopener";
             stickyBtn.innerHTML = 'Buy on WhatsApp <i class="icon icon-shopping-cart-simple"></i>';
+        }
+        if (!isInWebView) {
+            stickyBtn.target = "_blank";
         }
     }
 
@@ -375,9 +380,11 @@
         );
         if (buyBtn) {
             buyBtn.href = product.whatsappUrl || "#";
-            buyBtn.target = "_blank";
             buyBtn.rel = "noopener";
             buyBtn.innerHTML = 'Buy on WhatsApp <i class="icon icon-shopping-cart-simple"></i>';
+        }
+        if (!isInWebView) {
+            buyBtn.target = "_blank";
         }
 
         const buyNowBtn = document.querySelector(
@@ -385,8 +392,10 @@
         );
         if (buyNowBtn && product.whatsappUrl) {
             buyNowBtn.href = product.whatsappUrl;
-            buyNowBtn.target = "_blank";
             buyNowBtn.rel = "noopener";
+        }
+        if (!isInWebView) {
+            buyNowBtn.target = "_blank";
         }
 
         const shareText = document.getElementById("coppyText");

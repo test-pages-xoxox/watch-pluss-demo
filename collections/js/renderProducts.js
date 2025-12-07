@@ -182,7 +182,7 @@ function createProductCard(product, layout = 'grid') {
                     </a>
                     <ul class="product-action_list">
                         <li>
-                            <a href="${product.whatsappUrl}" target="_blank" class="hover-tooltip tooltip-left box-icon">
+                            <a href="${product.whatsappUrl}" class="hover-tooltip tooltip-left box-icon">
                                 <span class="icon icon-shopping-cart-simple"></span>
                                 <span class="tooltip">Buy on WhatsApp</span>
                             </a>
@@ -286,8 +286,11 @@ document.addEventListener('DOMContentLoaded', function() {
             const buyBtn = modal.querySelector('.btn-add-to-cart');
             if (buyBtn) {
                 buyBtn.setAttribute('href', product.whatsappUrl || '#');
-                buyBtn.setAttribute('target', '_blank');
                 buyBtn.innerHTML = `BUY ON WHATSAPP <i class="icon icon-shopping-cart-simple"></i>`;
+            }
+            var isInWebView = navigator.userAgent.includes('wv') || navigator.userAgent.toLowerCase().includes('watch_pluss');
+            if (!isInWebView) {
+                buyBtn.setAttribute('target', '_blank');
             }
 
             // Update product name link to point to specific product
