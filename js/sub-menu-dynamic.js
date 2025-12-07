@@ -47,9 +47,36 @@ function renderMenu(ulId, items) {
     });
 }
 
+function getRandomItems(arr, count) {
+    const shuffled = [...arr].sort(() => 0.5 - Math.random());
+    return shuffled.slice(0, count);
+}
+
+function renderFooterBrands() {
+    const ul = document.getElementById("footer-brand-menu");
+    if (!ul) return;
+
+    const randomBrands = getRandomItems(Brands, 6);
+
+    ul.innerHTML = "";
+
+    randomBrands.forEach(brand => {
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+
+        a.href = "latest-collection.html?cat=" + encodeURIComponent(brand.cat);
+        a.className = "link h6";
+        a.textContent = brand.label;
+
+        li.appendChild(a);
+        ul.appendChild(li);
+    });
+}
+
 // ----- INITIALIZE MENUS -----
 document.addEventListener("DOMContentLoaded", function () {
     renderMenu("mens-menu", Mens);
     renderMenu("womens-menu", Womens);
     renderMenu("brands-menu", Brands);
+    renderFooterBrands();
 });
