@@ -1703,5 +1703,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Audemars%20Piguet%20Royal%20Oak%20Tourbillon%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Audemars%20Piguet%20Royal%20Oak%20Tourbillon%20Generic%20%0ASKU%3A%20Ap%0APrice%3A%20%E2%82%B93200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Armani Exchange Hampton Automatic AX2463",
+        "slug": "armani-exchange-hampton-automatic-ax2463-c9ecf37459d6",
+        "sku": "armani-hampton-auto-ax2463",
+        "brand": "Armani",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "This Armani Exchange Hampton Automatic timepiece for men is a perfect blend of modern design and timeless elegance, crafted for those who truly appreciate the finer details. Featuring a bold and sophisticated 43mm case, model AX2463 showcases a transparent skeletonised dial with AX branding, three golden hands, clear seconds reading marks, and in-dark radium needles for enhanced visibility. Powered by 100% reliable Japanese automatic machinery, it works automatically and is finished with durable IGP colour coating to prevent fading and rusting, delivering a stylish, premium, and dependable watch experience.",
+        "details": "This Armani Exchange Hampton Automatic timepiece for men is a perfect blend of modern design and timeless elegance, crafted for those who truly appreciate the finer details. Featuring a bold and sophisticated 43mm case, model AX2463 showcases a transparent skeletonised dial with AX branding, three golden hands, clear seconds reading marks, and in-dark radium needles for enhanced visibility. Powered by 100% reliable Japanese automatic machinery, it works automatically and is finished with durable IGP colour coating to prevent fading and rusting, delivering a stylish, premium, and dependable watch experience.",
+        "tags": "armani,men,formal,popular,best-seller,luxury",
+        "price": {
+            "old": "₹3600",
+            "new": "₹2600"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-ax2463-c9ecf37459d6/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-ax2463-c9ecf37459d6/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-ax2463-c9ecf37459d6/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-ax2463-c9ecf37459d6/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Armani%20Exchange%20Hampton%20Automatic%20AX2463.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Armani%20Exchange%20Hampton%20Automatic%20AX2463%0ASKU%3A%20armani-hampton-auto-ax2463%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ];
