@@ -1483,7 +1483,7 @@ const products = [
         "availability": "In Stock",
         "description": "- Working Chronograph\r\n- 12 & 24 Hour Analog\r\n- Push Button reset\r\n- 60 min stop watch\r\n- Date Indicator\r\n- Stainless Steel Case\r\n- IGP Colour Coating with no fading and rusting\r\n- 3 Link Pink Metal & Steel Bracelet\r\n- 100% Reliable & Heavy Quality Original Quartz Chronograph Machinery ",
         "details": "",
-        "tags": "chain,women-formal",
+        "tags": "women,women-chain,women-formal",
         "price": {
             "old": "₹3999",
             "new": "₹2499"
@@ -1652,5 +1652,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-2100FL-8A%20Grey%20-%20Orange.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-2100FL-8A%20Grey%20-%20Orange%0ASKU%3A%20g-shock-2100FL-grey-orange-123%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil Karli BQ3337 Women's Generic",
+        "slug": "fossil-karli-bq3337-women-s-generic-ed09767877da",
+        "sku": "women-fossil-12342",
+        "brand": "Fossil",
+        "badge": "HOT",
+        "availability": "In Stock",
+        "description": "The Fossil Karli BQ3337 is a premium women’s watch crafted with 7AA quality for an elegant everyday look. It features a 34mm dial, perfectly suited for a refined and graceful wrist profile. Designed for both style and reliability, it comes with a 1-year machinery warranty for added assurance.",
+        "details": "The Fossil Karli BQ3337 is a premium women’s watch crafted with 7AA quality for an elegant everyday look. It features a 34mm dial, perfectly suited for a refined and graceful wrist profile. Designed for both style and reliability, it comes with a 1-year machinery warranty for added assurance.",
+        "tags": "women,women-fossil,fossil",
+        "price": {
+            "old": "₹2300",
+            "new": "₹1499"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-karli-bq3337-women-s-generic-ed09767877da/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-karli-bq3337-women-s-generic-ed09767877da/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-karli-bq3337-women-s-generic-ed09767877da/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Karli%20BQ3337%20Women%27s%20Generic.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Karli%20BQ3337%20Women%27s%20Generic%0ASKU%3A%20women-fossil-12342%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ];
