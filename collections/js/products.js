@@ -1680,28 +1680,25 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Armani Exchange Hampton Automatic AX2463",
-        "slug": "armani-exchange-hampton-automatic-ax2463-9f3e84e61ec0",
-        "sku": "Armani 1",
-        "brand": "Armani",
-        "badge": "Hot",
-        "availability": "In Stock ",
-        "description": "Armani Exchange. For - Men. Model - Hampton Automatic. Model No. - AX2463. Case Size - 43mmp",
-        "details": "Armani Exchange. For - Men. Model - Hampton Automatic. Model No. - AX2463. Case Size - 43mmp",
-        "tags": "armani,formal,men",
+        "name": "Audemars Piguet Royal Oak Tourbillon Generic ",
+        "slug": "audemars-piguet-royal-oak-tourbillon-generic-6027fae391f5",
+        "sku": "Ap",
+        "brand": "Audemars Piguet",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "",
+        "tags": "audemars,formal,men",
         "price": {
-            "old": "₹3200",
-            "new": "₹2200"
+            "old": "₹4800Brand - Audemars Piguet # For - Him # Quality - 7AA Premium Collection  # Model - Royal Oak Tourbillon # Case Size - 42mm",
+            "new": "₹3200"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-ax2463-9f3e84e61ec0/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-ax2463-9f3e84e61ec0/hover.webp",
-            "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-ax2463-9f3e84e61ec0/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-ax2463-9f3e84e61ec0/other2.webp"
-            ]
+            "main": "",
+            "hover": "",
+            "others": []
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Armani%20Exchange%20Hampton%20Automatic%20AX2463.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Armani%20Exchange%20Hampton%20Automatic%20AX2463%0ASKU%3A%20Armani%201%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20Stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Audemars%20Piguet%20Royal%20Oak%20Tourbillon%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Audemars%20Piguet%20Royal%20Oak%20Tourbillon%20Generic%20%0ASKU%3A%20Ap%0APrice%3A%20%E2%82%B93200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
