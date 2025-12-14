@@ -424,7 +424,7 @@ function buildTrendHtmlFromProducts(items) {
                     firstTag = String(p.tags).split(',').map(function(t) { return t.trim(); }).filter(Boolean)[0] || '';
                 } catch (err) { firstTag = ''; }
             }
-            var productUrl = 'https://watchpluss.in/product-detail.html?pid=' + p.id;
+            var productUrl = 'https://watchpluss.in/product-detail.html?pid=' + p.slug;
 
             // Escape minimal: attributes vs innerHTML — keep simple (match your style)
             html += ''
@@ -500,13 +500,36 @@ function loadTrendingProducts(maxItems) {
     }
 }
 
-// auto-run on DOM ready similar to your pattern
+function loadShuffledProducts(count = 6) {
+    var list = (typeof products !== 'undefined' && Array.isArray(products)) ? products :
+        (Array.isArray(window.products) ? window.products : []);
+
+    const container = document.getElementsByClassName('view-history-list')[0];
+    if (!container) return;
+
+    // Shuffle products (non-mutating)
+    const shuffled = [...list].sort(() => 0.5 - Math.random());
+
+    const selected = shuffled.slice(0, count);
+
+    container.innerHTML = selected.map(product => `
+        <a class="item text-main link h6"
+           href="https://watchpluss.in/product-detail.html?pid=${encodeURIComponent(product.slug)}">
+            <span>${product.name}</span>
+            <i class="icon icon-arrow-top-right"></i>
+        </a>
+    `).join('');
+}
+
+// Search Code
 document.addEventListener('DOMContentLoaded', function () {
     // call it once on load
-    loadTrendingProducts(4);
+    loadTrendingProducts(6);
+    loadShuffledProducts(6);
 
     // expose for later manual refresh (consistent with your style)
     window.loadTrendingProducts = loadTrendingProducts;
+    window.loadShuffledProduct = loadShuffledProducts;
 });
 
 // Export functions for use in other scripts
