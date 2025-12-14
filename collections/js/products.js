@@ -1780,5 +1780,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tag%20Heuer%20WBPS110.BA0013%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tag%20Heuer%20WBPS110.BA0013%20Generic%20%0ASKU%3A%20Tag-1%0APrice%3A%20%E2%82%B94200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Michael Kors Lennox Women's Generic ",
+        "slug": "michael-kors-lennox-women-s-generic-6225727f9ea6",
+        "sku": "Women's 4",
+        "brand": "Michael Kors ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Stainless Steel\r\n- Exclusive White Bold Numeric face\r\n- IGP Colour Coating – No Fading, No Rusting ✅\r\n- 100% Reliable 3-Hand Quartz Working Machine\r\n- Smart Fit Rose Gold stainless steel metal Strap with detailing\r\n- Premium Hard Case Brand Box with Michael Kors Branding",
+        "details": "Stainless Steel\r\n- Exclusive White Bold Numeric face\r\n- IGP Colour Coating – No Fading, No Rusting \r\n- 100% Reliable 3-Hand Quartz Working Machine\r\n- Smart Fit Rose Gold stainless steel metal Strap with detailing\r\n- Premium Hard Case Brand Box with Michael Kors Branding",
+        "tags": "women-chain, women-formal, ",
+        "price": {
+            "old": "₹2500",
+            "new": "₹1699"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/michael-kors-lennox-women-s-generic-6225727f9ea6/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/michael-kors-lennox-women-s-generic-6225727f9ea6/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/michael-kors-lennox-women-s-generic-6225727f9ea6/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/michael-kors-lennox-women-s-generic-6225727f9ea6/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Michael%20Kors%20Lennox%20Women%27s%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Michael%20Kors%20Lennox%20Women%27s%20Generic%20%0ASKU%3A%20Women%27s%204%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
