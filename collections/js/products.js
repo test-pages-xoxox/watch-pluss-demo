@@ -1857,5 +1857,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Calvin%20Klein%20Burst%20Analog%20Women%27s%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Calvin%20Klein%20Burst%20Analog%20Women%27s%20Generic%20%0ASKU%3A%20Ck%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Tommy Hilfiger Drop 2 Women's Generic ",
+        "slug": "tommy-hilfiger-drop-2-women-s-generic-7739731e66c9",
+        "sku": "Tm",
+        "brand": "Tommy Hilfiger",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "Brand – Tommy Hilfiger\r\n# For – Women\r\n# Quality – 7AA Premium Collection\r\n# Model – Drop 2\r\n# Case Size – 38mm",
+        "details": "",
+        "tags": "women-chain, women-formal, ",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1699"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-drop-2-women-s-generic-7739731e66c9/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-drop-2-women-s-generic-7739731e66c9/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-drop-2-women-s-generic-7739731e66c9/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-drop-2-women-s-generic-7739731e66c9/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Drop%202%20Women%27s%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tommy%20Hilfiger%20Drop%202%20Women%27s%20Generic%20%0ASKU%3A%20Tm%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
