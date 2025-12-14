@@ -1754,5 +1754,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Architect%20Automatic%20ME3098%20Women%27s%20Generic.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Architect%20Automatic%20ME3098%20Women%27s%20Generic%0ASKU%3A%20Fossil-women-me3098%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Tag Heuer WBPS110.BA0013 Generic ",
+        "slug": "tag-heuer-wbps110-ba0013-generic-5e30c6a3a9fd",
+        "sku": "Tag-1",
+        "brand": "Tag",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "Stainless Steel\r\n- Date Counter\r\n- All Working Hands\r\n- Exclusive Black Water Wave Textured Dial\r\n- Black Rotating ceramic bezel\r\n- IGP Colour Coating – No Fading, No Rusting",
+        "details": "Stainless Steel\r\n- Date Counter\r\n- All Working Hands\r\n- Exclusive Black Water Wave Textured Dial\r\n- Black Rotating ceramic bezel\r\n- IGP Colour Coating – No Fading, No Rusting",
+        "tags": "tag,formal,men",
+        "price": {
+            "old": "₹5300",
+            "new": "₹4200"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tag-heuer-wbps110-ba0013-generic-5e30c6a3a9fd/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tag-heuer-wbps110-ba0013-generic-5e30c6a3a9fd/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tag-heuer-wbps110-ba0013-generic-5e30c6a3a9fd/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tag-heuer-wbps110-ba0013-generic-5e30c6a3a9fd/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tag%20Heuer%20WBPS110.BA0013%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tag%20Heuer%20WBPS110.BA0013%20Generic%20%0ASKU%3A%20Tag-1%0APrice%3A%20%E2%82%B94200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
