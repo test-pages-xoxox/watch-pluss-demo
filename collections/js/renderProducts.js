@@ -24,19 +24,8 @@ function renderProducts(productsArray, containerId, layout = 'grid') {
     const category = getCategory();
 
     // Build filtered list
-    let filteredProducts;
+    const filteredProducts = filterProductsByCategory(productsArray, category);
 
-    if (category !== 'all') {
-        filteredProducts = productsArray.filter(p => {
-            if (!p.tags) return false; // no tags → do NOT include
-            return p.tags
-                .split(",")
-                .map(t => t.trim().toLowerCase())
-                .includes(category.toLowerCase());
-        });
-    } else {
-        filteredProducts = productsArray;
-    }
 
     filteredProducts.forEach(product => {
         const productCard = createProductCard(product, layout);
@@ -47,6 +36,61 @@ function renderProducts(productsArray, containerId, layout = 'grid') {
         lazyload.update();
     }
 }
+
+/**
+ * Filters products by category string (e.g. "women-calvin", "armani", "men")
+ */
+function filterProductsByCategory(products, category) {
+    if (!category || category === "all") return products;
+
+    // ---- Parse filter parts
+    const parts = category
+        .toLowerCase()
+        .split("-")
+        .map(p => p.trim());
+
+    const GENDERS = new Set(["men", "women"]);
+    const genderFilters = parts.filter(p => GENDERS.has(p));
+    const suffixFilters = parts.filter(p => !GENDERS.has(p));
+
+    return products.filter(product => {
+        if (!product.tags) return false;
+
+        // Normalize product tags once
+        const tags = product.tags
+            .toLowerCase()
+            .split(",")
+            .map(t => t.trim());
+
+        /* ---------- PHASE 1: Gender ---------- */
+        if (genderFilters.length) {
+            const genderMatch = genderFilters.some(g =>
+                tags.some(t =>
+                    t === g ||
+                    t.startsWith(`${g}-`) ||
+                    t.includes(`-${g}`) ||
+                    t.includes(g)
+                )
+            );
+            if (!genderMatch) return false;
+        }
+
+        /* ---------- PHASE 2: Brand / suffix ---------- */
+        if (suffixFilters.length) {
+            const suffixMatch = suffixFilters.every(sf =>
+                tags.some(t =>
+                    t === sf ||
+                    t.endsWith(`-${sf}`) ||
+                    t.includes(sf)
+                )
+            );
+            if (!suffixMatch) return false;
+        }
+
+        return true;
+    });
+}
+
 
 // Function to create a single product card
 function createProductCard(product, layout = 'grid') {

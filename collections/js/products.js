@@ -1868,7 +1868,7 @@ const products = [
         "availability": "In stock ",
         "description": "Brand – Tommy Hilfiger\r\n# For – Women\r\n# Quality – 7AA Premium Collection\r\n# Model – Drop 2\r\n# Case Size – 38mm",
         "details": "",
-        "tags": "women-chain, women-formal, ",
+        "tags": "women-chain, women-formal, tommy",
         "price": {
             "old": "₹2800",
             "new": "₹1699"
