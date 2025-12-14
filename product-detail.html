@@ -931,6 +931,7 @@
     </div>
     <!-- /Toolbar -->
     <!-- Quick View -->
+    <!-- Quick View -->
     <div class="modal modalCentered fade modal-quick-view" id="quickView">
         <div class="modal-dialog modal-dialog-centered">
             <div class="modal-content">
@@ -938,15 +939,23 @@
                 <div class="tf-product-media-wrap tf-btn-swiper-item">
                     <div dir="ltr" class="swiper tf-single-slide">
                         <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="item">
+                                    <img class="lazyload" data-src="images/products/watch/product-1.jpg" src="images/products/watch/product-1.jpg" alt="Image">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="item">
+                                    <img class="lazyload" data-src="images/products/watch/product-2.jpg" src="images/products/watch/product-2.jpg" alt="Image">
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="tf-product-info-wrap">
                     <div class="tf-product-info-inner tf-product-info-list">
                         <div class="tf-product-info-heading">
-                            <a href="product-detail.html" class="link product-info-name fw-medium h1">
-                                Casual Round Neck T-Shirt
-                            </a>
+                            <a href="product-detail.html" class="link product-info-name fw-medium h1"> Casual Round Neck T-Shirt </a>
                             <div class="product-info-meta">
                                 <div class="rating">
                                     <div class="d-flex gap-4">
@@ -974,13 +983,11 @@
                                 </div>
                             </div>
                             <div class="product-info-price">
-                                <div class="price-wrap">
-                                    <span class="price-new price-on-sale h2">$ 14.99</span>
-                                    <span class="price-old compare-at-price h6">$ 24.99</span>
+                                <div class="price-wrap mb-0">
+                                    <span class="price-new price-on-sale h2"> &#8377; 14.99</span>
+                                    <span class="price-old compare-at-price h6"> &#8377; 24.99</span>
                                     <p class="badges-on-sale h6 fw-semibold">
-                                        <span class="number-sale" data-person-sale="29">
-                                            -29 %
-                                        </span>
+                                        <span class="number-sale" data-person-sale="29"> -29 % </span>
                                     </p>
                                 </div>
                             </div>
@@ -990,59 +997,10 @@
                             </p>
                         </div>
                         <div class="tf-product-total-quantity w-100">
-                            <div class="group-btn">
-                                <div class="wg-quantity">
-                                    <button class="btn-quantity btn-decrease">
-                                        <i class="icon icon-minus"></i>
-                                    </button>
-                                    <input class="quantity-product" type="text" name="number" value="1">
-                                    <button class="btn-quantity btn-increase">
-                                        <i class="icon icon-plus"></i>
-                                    </button>
-                                </div>
-                                <p class="h6 d-none d-sm-block">
-                                    15 products available
-                                </p>
-                                <button type="button" class="d-sm-none hover-tooltip box-icon btn-add-wishlist flex-sm-shrink-0">
-                                    <span class="icon icon-heart"></span>
-                                    <span class="tooltip">Add to Wishlist</span>
-                                </button>
-                                <a href="#compare" data-bs-toggle="offcanvas" class="d-sm-none hover-tooltip tooltip-top box-icon flex-sm-shrink-0">
-                                    <span class="icon icon-compare"></span>
-                                    <span class="tooltip">Compare</span>
-                                </a>
-                            </div>
                             <div class="group-btn flex-sm-nowrap">
-                                <a href="#shoppingCart" data-bs-toggle="offcanvas" class="tf-btn animate-btn btn-add-to-cart">
+                                <a href="#shoppingCart" class="tf-btn animate-btn btn-add-to-cart">
                                     ADD TO CART
                                     <i class="icon icon-shopping-cart-simple"></i>
-                                </a>
-                                <button type="button" class="d-none d-sm-flex hover-tooltip box-icon btn-add-wishlist flex-sm-shrink-0">
-                                    <span class="icon icon-heart"></span>
-                                    <span class="tooltip">Add to Wishlist</span>
-                                </button>
-                                <a href="#compare" data-bs-toggle="offcanvas" class="d-none d-sm-flex hover-tooltip tooltip-top box-icon flex-sm-shrink-0">
-                                    <span class="icon icon-compare"></span>
-                                    <span class="tooltip">Compare</span>
-                                </a>
-                            </div>
-                            <div class="group-btn">
-                                <a href="checkout.html" class="tf-btn btn-yellow w-100 animate-btn animate-dark">
-                                    Pay with
-                                    <span class="icon">
-                                        <svg width="68" height="18" viewBox="0 0 68 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M45.7745 0H40.609C40.3052 0 40.0013 0.30254 39.8494 0.605081L37.7224 13.9169C37.7224 14.2194 37.8743 14.3707 38.1782 14.3707H40.9129C41.2167 14.3707 41.3687 14.2194 41.3687 13.9169L41.9764 10.1351C41.9764 9.83258 42.2802 9.53004 42.736 9.53004H44.4072C47.9015 9.53004 49.8766 7.86606 50.3323 4.53811C50.6362 3.17668 50.3323 1.96652 49.7246 1.21017C48.8131 0.453813 47.4457 0 45.7745 0ZM46.3822 4.99193C46.0784 6.80717 44.711 6.80717 43.3437 6.80717H42.4321L43.0399 3.32795C43.0399 3.17668 43.1918 3.02541 43.4956 3.02541H43.7995C44.7111 3.02541 45.6226 3.02541 46.0784 3.63049C46.3822 3.78176 46.3822 4.23558 46.3822 4.99193Z" fill="#139AD6"></path>
-                                            <path d="M8.55188 0H3.38637C3.08251 0 2.77866 0.30254 2.62673 0.605081L0.499756 13.9169C0.499756 14.2194 0.651685 14.3707 0.955538 14.3707H3.38637C3.69022 14.3707 3.99407 14.0682 4.146 13.7656L4.75371 10.1351C4.75371 9.83258 5.05757 9.53004 5.51335 9.53004H7.18454C10.6789 9.53004 12.6539 7.86607 13.1097 4.53811C13.4135 3.17668 13.1097 1.96652 12.502 1.21017C11.5904 0.453813 10.375 0 8.55188 0ZM9.15959 4.99193C8.85574 6.80717 7.4884 6.80717 6.12105 6.80717H5.36142L5.96913 3.32795C5.96913 3.17668 6.12105 3.02541 6.42491 3.02541H6.72876C7.64032 3.02541 8.55188 3.02541 9.00766 3.63049C9.15959 3.78176 9.31152 4.23558 9.15959 4.99193ZM24.2004 4.84066H21.7695C21.6176 4.84066 21.3137 4.99193 21.3137 5.1432L21.1618 5.89955L21.0099 5.59701C20.4022 4.84066 19.3387 4.53811 18.1233 4.53811C15.3886 4.53811 12.9578 6.6559 12.502 9.53004C12.1981 11.0427 12.6539 12.4042 13.4135 13.3118C14.1732 14.2194 15.2367 14.522 16.604 14.522C18.8829 14.522 20.0983 13.1605 20.0983 13.1605L19.9464 13.9169C19.9464 14.2194 20.0983 14.3707 20.4022 14.3707H22.6811C22.9849 14.3707 23.2888 14.0682 23.4407 13.7656L24.8081 5.29447C24.6561 5.1432 24.3523 4.84066 24.2004 4.84066ZM20.706 9.68131C20.4022 11.0427 19.3387 12.1016 17.8194 12.1016C17.0598 12.1016 16.4521 11.7991 16.1482 11.4966C15.8444 11.0427 15.6924 10.4377 15.6924 9.68131C15.8444 8.31988 17.0598 7.26098 18.4271 7.26098C19.1868 7.26098 19.6425 7.56352 20.0983 7.86606C20.5541 8.31987 20.706 9.07623 20.706 9.68131Z" fill="#263B80"></path>
-                                            <path d="M61.2699 4.8416H58.839C58.6871 4.8416 58.3833 4.99287 58.3833 5.14414L58.2313 5.9005L58.0794 5.59796C57.4717 4.8416 56.4082 4.53906 55.1928 4.53906C52.4581 4.53906 50.0273 6.65685 49.5715 9.53099C49.2676 11.0437 49.7234 12.4051 50.4831 13.3128C51.2427 14.2204 52.3062 14.5229 53.6735 14.5229C55.9524 14.5229 57.1678 13.1615 57.1678 13.1615L57.0159 13.9178C57.0159 14.2204 57.1678 14.3716 57.4717 14.3716H59.7506C60.0545 14.3716 60.3583 14.0691 60.5102 13.7666L61.8776 5.29541C61.7256 5.14414 61.5737 4.8416 61.2699 4.8416ZM57.7755 9.68226C57.4717 11.0437 56.4082 12.1026 54.8889 12.1026C54.1293 12.1026 53.5216 11.8 53.2177 11.4975C52.9139 11.0437 52.762 10.4386 52.762 9.68226C52.9139 8.32082 54.1293 7.26193 55.4966 7.26193C56.2563 7.26193 56.7121 7.56447 57.1678 7.86701C57.7755 8.32082 57.9275 9.07718 57.7755 9.68226Z" fill="#139AD6"></path>
-                                            <path d="M37.4179 4.83984H34.8351C34.5312 4.83984 34.3793 4.99111 34.2274 5.14238L30.885 10.2856L29.3657 5.44493C29.2138 5.14238 29.0619 4.99111 28.6061 4.99111H26.1753C25.8714 4.99111 25.7195 5.29366 25.7195 5.5962L28.4542 13.6135L25.8714 17.244C25.7195 17.5466 25.8714 18.0004 26.1753 18.0004H28.6061C28.9099 18.0004 29.0619 17.8491 29.2138 17.6978L37.5698 5.74747C38.0256 5.29366 37.7217 4.83984 37.4179 4.83984Z" fill="#263B80"></path>
-                                            <path d="M64.158 0.455636L62.031 14.07C62.031 14.3725 62.1829 14.5238 62.4868 14.5238H64.6138C64.9176 14.5238 65.2215 14.2212 65.3734 13.9187L67.5004 0.606904C67.5004 0.304363 67.3484 0.153094 67.0446 0.153094H64.6138C64.4618 0.00182346 64.3099 0.153095 64.158 0.455636Z" fill="#139AD6"></path>
-                                        </svg>
-                                    </span>
-                                </a>
-                            </div>
-                            <div class="group-btn justify-content-center">
-                                <a href="#" class="tf-btn-line text-normal letter-space-0 fw-normal">
-                                    More payment options
                                 </a>
                             </div>
                         </div>
@@ -1055,6 +1013,7 @@
             </div>
         </div>
     </div>
+    <!-- /Quick View -->
     <!-- /Quick View -->
 
     <!-- Demo -->

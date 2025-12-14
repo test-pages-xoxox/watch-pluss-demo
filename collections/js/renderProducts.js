@@ -187,7 +187,7 @@ function createProductCard(product, layout = 'grid') {
                     </a>
                     <ul class="product-action_list">
                         <li>
-                            <a href="#quickView" data-bs-toggle="modal" class="hover-tooltip tooltip-left box-icon quick-view-btn" data-product-id="${product.id}">
+                            <a href="#quickView" data-bs-toggle="modal" class="hover-tooltip tooltip-left box-icon quick-view-btn" data-product-id="${product.slug}">
                                 <span class="icon icon-view"></span>
                                 <span class="tooltip">Quick view</span>
                             </a>
@@ -232,7 +232,7 @@ function createProductCard(product, layout = 'grid') {
                             </a>
                         </li>
                         <li>
-                            <a href="#quickView" data-bs-toggle="modal" class="hover-tooltip tooltip-left box-icon quick-view-btn" data-product-id="${product.id}">
+                            <a href="#quickView" data-bs-toggle="modal" class="hover-tooltip tooltip-left box-icon quick-view-btn" data-product-id="${product.slug}">
                                 <span class="icon icon-view"></span>
                                 <span class="tooltip">Quick view</span>
                             </a>
@@ -353,11 +353,11 @@ document.addEventListener('DOMContentLoaded', function() {
         document.addEventListener('click', function(e) {
             const trigger = e.target.closest('a.quick-view-btn[data-product-id]');
             if (!trigger) return;
-            const id = Number(trigger.getAttribute('data-product-id'));
+            const id = trigger.getAttribute('data-product-id');
             const list = (typeof products !== 'undefined' && Array.isArray(products))
                 ? products
                 : (Array.isArray(window.products) ? window.products : []);
-            const product = list.find(p => Number(p.id) === id) || null;
+            const product = list.find(p => p.slug === id) || null;
             if (product) {
                 populateQuickView(product);
             }
