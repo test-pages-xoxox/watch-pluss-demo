@@ -561,12 +561,12 @@
                                         <div class="product-delivery">
                                             <div class="icon icon-clock-cd"></div>
                                             <p class="h6">Estimate delivery times: <span class="fw-7 text-black">7-20 days</span> (International),
-                                                <span class="fw-7 text-black">2-4 days</span> (United States).
+                                                <span class="fw-7 text-black">2-4 days</span> (India).
                                             </p>
                                         </div>
                                         <div class="product-delivery return">
                                             <div class="icon icon-compare"></div>
-                                            <p class="h6">Return within <span class="fw-7 text-black">30 days</span> of purchase. Duties &amp; taxes are
+                                            <p class="h6">Return within <span class="fw-7 text-black">7 days</span> of purchase. Duties &amp; taxes are
                                                 non-refundable.</p>
                                         </div>
                                     </div>
@@ -1169,6 +1169,33 @@
     <script src="js/photoswipe.umd.min.js"></script>
     <script src="js/zoom.js"></script>
     <script src="js/sub-menu-dynamic.js"></script>
+    <script>
+        (function () {
+            var min = 1;
+            var max = 30;
+            var randomCount = Math.floor(Math.random() * (max - min + 1)) + min;
+            document.querySelector('.tf-product-info-liveview .count').textContent = randomCount;
+        })();
+
+        (function () {
+            var min = 1;
+            var max = 20;
+
+            // Random available stock
+            var available = Math.floor(Math.random() * (max - min + 1)) + min;
+
+            // Calculate percentage (20 → 100%)
+            var percentage = Math.round((available / max) * 100);
+
+            // Update number
+            document.querySelector('.product-progress-sale .number').textContent = available;
+
+            // Update progress bar
+            var progressBar = document.querySelector('.product-progress-sale .value');
+            progressBar.style.width = percentage + '%';
+            progressBar.setAttribute('data-progress', percentage);
+        })();
+    </script>
 
 
 </body></html>
