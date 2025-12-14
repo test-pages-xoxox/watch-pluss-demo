@@ -1729,5 +1729,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Armani%20Exchange%20Hampton%20Automatic%20AX2463.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Armani%20Exchange%20Hampton%20Automatic%20AX2463%0ASKU%3A%20armani-hampton-auto-ax2463%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil Architect Automatic ME3098 Women's Generic",
+        "slug": "fossil-architect-automatic-me3098-women-s-generic-bdb714b44936",
+        "sku": "Fossil-women-me3098",
+        "brand": "Fossil",
+        "badge": "Trending",
+        "availability": "In Stock",
+        "description": "Fossil For Her . 7AA Premium Series. Model - Architect Automatic ME3098. Dial Size - 35mm",
+        "details": "Fossil For Her . 7AA Premium Series. Model - Architect Automatic ME3098. Dial Size - 35mm",
+        "tags": "Women,fossil,formal",
+        "price": {
+            "old": "₹2300",
+            "new": "₹1499"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-architect-automatic-me3098-women-s-generic-bdb714b44936/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-architect-automatic-me3098-women-s-generic-bdb714b44936/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-architect-automatic-me3098-women-s-generic-bdb714b44936/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Architect%20Automatic%20ME3098%20Women%27s%20Generic.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Architect%20Automatic%20ME3098%20Women%27s%20Generic%0ASKU%3A%20Fossil-women-me3098%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     }
 ];
