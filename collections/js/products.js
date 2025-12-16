@@ -1909,5 +1909,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Cartier%20Ballon%20Bleu%20Women%27s%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Cartier%20Ballon%20Bleu%20Women%27s%20Generic%20%0ASKU%3A%20Cartier%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil FS5406 Formal Generic ",
+        "slug": "fossil-fs5406-formal-generic-15f7b11cd35b",
+        "sku": "Fossil",
+        "brand": "Fossil ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "Brand: Fossil\r\nModel: FS5406\r\nDial Size: 43mm\r\nCollection: 7AA Premium\r\nWarranty: 6 Months Seller’s Warranty for Machinery",
+        "details": "",
+        "tags": "fossil,formal,leather",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1599"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-fs5406-formal-generic-15f7b11cd35b/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-fs5406-formal-generic-15f7b11cd35b/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-fs5406-formal-generic-15f7b11cd35b/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20FS5406%20Formal%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20FS5406%20Formal%20Generic%20%0ASKU%3A%20Fossil%0APrice%3A%20%E2%82%B91599%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
