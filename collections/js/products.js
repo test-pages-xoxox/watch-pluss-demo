@@ -2014,9 +2014,9 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Fossil Townsman Modern Machine Automatic Gene",
-        "slug": "fossil-townsman-modern-machine-automatic-gene-98c9cf4b81be",
-        "sku": "Fossil ",
+        "name": "Fossil Townsman Modern Machine Automatic Generic ",
+        "slug": "fossil-townsman-modern-machine-automatic-generic-5f704fe0a2b5",
+        "sku": "Fossil",
         "brand": "Fossil generic ",
         "badge": "Hot",
         "availability": "In stock ",
@@ -2024,18 +2024,18 @@ const products = [
         "details": "",
         "tags": "fossil,formal,leather",
         "price": {
-            "old": "₹3600",
-            "new": "₹2300"
+            "old": "₹2600",
+            "new": "₹2200"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-townsman-modern-machine-automatic-gene-98c9cf4b81be/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-townsman-modern-machine-automatic-gene-98c9cf4b81be/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-townsman-modern-machine-automatic-generic-5f704fe0a2b5/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-townsman-modern-machine-automatic-generic-5f704fe0a2b5/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-townsman-modern-machine-automatic-gene-98c9cf4b81be/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-townsman-modern-machine-automatic-gene-98c9cf4b81be/other2.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-townsman-modern-machine-automatic-generic-5f704fe0a2b5/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-townsman-modern-machine-automatic-generic-5f704fe0a2b5/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Townsman%20Modern%20Machine%20Automatic%20Gene.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Townsman%20Modern%20Machine%20Automatic%20Gene%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Townsman%20Modern%20Machine%20Automatic%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Townsman%20Modern%20Machine%20Automatic%20Generic%20%0ASKU%3A%20Fossil%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
