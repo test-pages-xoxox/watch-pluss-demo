@@ -2114,5 +2114,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Retro%20Pilot%20Chronograph%20%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Retro%20Pilot%20Chronograph%20%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91900%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil Retro Pilot Chronograph Generic ",
+        "slug": "fossil-retro-pilot-chronograph-generic-5fcdc9ebd115",
+        "sku": "Fossil ",
+        "brand": "Fossil generic ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "",
+        "details": "Brand:\tFossil \r\nModel: Retro Pilot Chronograph \r\nQuality Grade: 7AA Premium Quality\r\nCondition:\t 100% BRAND NEW\r\nDiameter (mm):\t42\r\nMovement:\t100% Trusted & Reliable Quartz smooth movement machine\r\nDial Color : Black Multifunctional\r\nBox : *Fossil Premium Hard Case Leather Brand Name Box.*\r\nCase:\tStainless Steel Black\r\nStrap:\tBlack Leather\r\nClasp :\t Clasp Lock",
+        "tags": "fossil,formal,leather",
+        "price": {
+            "old": "₹3200",
+            "new": "₹1800"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-retro-pilot-chronograph-generic-5fcdc9ebd115/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-retro-pilot-chronograph-generic-5fcdc9ebd115/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-retro-pilot-chronograph-generic-5fcdc9ebd115/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Retro%20Pilot%20Chronograph%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Retro%20Pilot%20Chronograph%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
