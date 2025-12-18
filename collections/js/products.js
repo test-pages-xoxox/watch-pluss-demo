@@ -2063,5 +2063,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Machine%20Automatic%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Machine%20Automatic%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil Automatic Everett Generic ",
+        "slug": "fossil-automatic-everett-generic-44229959016f",
+        "sku": "Fossil ",
+        "brand": "Fossil generic ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "Brand:\tFossil \r\nModel: Automatic Everett\r\n\r\nCondition:\t 100% BRAND NEW\r\nDiameter (mm):\t41\r\nMovement : 100% Japanese Automatic Technology \r\nDial Color : Brown Open Heart \r\nWith Box : *Fossil Brand Name Box.*\r\nCase:\tStainless Steel Mattee Black\r\nStrap:\t Brown Leather\r\nClasp :\tBranding Buckle\r\nBack : Open Transparent Machinery\r\n",
+        "details": "",
+        "tags": "fossil,formal,leather",
+        "price": {
+            "old": "₹3500",
+            "new": "₹2200"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-everett-generic-44229959016f/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-everett-generic-44229959016f/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-everett-generic-44229959016f/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-everett-generic-44229959016f/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Automatic%20Everett%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Automatic%20Everett%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
