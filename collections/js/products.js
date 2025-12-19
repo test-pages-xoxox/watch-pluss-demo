@@ -2189,5 +2189,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Automatic%20Modern%20Machine%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Automatic%20Modern%20Machine%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91749%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil ME3254 Generic ",
+        "slug": "fossil-me3254-generic-e9b4e6d246ea",
+        "sku": "Fossil ",
+        "brand": "Fossil generic ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Fossil\r\n# For Men\r\n# 7AA Premium Collection\r\n# Model - Modern Machine Automatic \r\n# Number - ME3254 Original Model 💯 \r\n# Dial Size - 45mm\r\n# Features following -\r\n",
+        "details": "",
+        "tags": "fossil,formal,leather",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2300"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-me3254-generic-e9b4e6d246ea/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-me3254-generic-e9b4e6d246ea/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-me3254-generic-e9b4e6d246ea/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-me3254-generic-e9b4e6d246ea/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20ME3254%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20ME3254%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
