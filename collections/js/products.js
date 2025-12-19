@@ -2167,28 +2167,27 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Fossil GMT Generic ",
-        "slug": "fossil-gmt-generic-a90356ced6bf",
+        "name": "Fossil Automatic Modern Machine Generic ",
+        "slug": "fossil-automatic-modern-machine-generic-75a488811230",
         "sku": "Fossil ",
         "brand": "Fossil generic ",
         "badge": "Hot ",
         "availability": "In stock ",
-        "description": "Fossil\r\n# For Men\r\n# 7AA Premium Quality Collection\r\n# Model Name - GMT\r\n# Dial Size - 44mm",
+        "description": "Fossil\r\n# For Men\r\n# 7AA Premium Collection\r\n# Model - Automatic Modern Machine\r\n# Dial Size - 43mm\r\n# Features following -\r\n",
         "details": "",
-        "tags": "fossil,formal,chain",
+        "tags": "fossil,formal,leather",
         "price": {
-            "old": "₹3600",
+            "old": "₹3200",
             "new": "₹1749"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-gmt-generic-a90356ced6bf/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-gmt-generic-a90356ced6bf/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-modern-machine-generic-75a488811230/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-modern-machine-generic-75a488811230/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-gmt-generic-a90356ced6bf/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-gmt-generic-a90356ced6bf/other2.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-modern-machine-generic-75a488811230/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20GMT%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20GMT%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91749%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Automatic%20Modern%20Machine%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Automatic%20Modern%20Machine%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91749%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
