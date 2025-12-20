@@ -2266,5 +2266,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20Couturier%20Chronograph%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20Couturier%20Chronograph%20Generic%20%0ASKU%3A%20Tissot%20%0APrice%3A%20%E2%82%B91999%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Bvlgari Serpenti Women's Generic ",
+        "slug": "bvlgari-serpenti-women-s-generic-d20351840ce4",
+        "sku": "bvlgari",
+        "brand": "Bvlgari",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Bvlgari\r\n# For Her\r\n# 7AA Premium Quality Collection\r\n# Model - Serpenti\r\n# Dial Size - Diameter (mm) : 35\r\n",
+        "details": "",
+        "tags": "bvlgari,women-analog,women-formal",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2299"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/bvlgari-serpenti-women-s-generic-d20351840ce4/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/bvlgari-serpenti-women-s-generic-d20351840ce4/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/bvlgari-serpenti-women-s-generic-d20351840ce4/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Bvlgari%20Serpenti%20Women%27s%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Bvlgari%20Serpenti%20Women%27s%20Generic%20%0ASKU%3A%20bvlgari%0APrice%3A%20%E2%82%B92299%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
