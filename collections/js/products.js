@@ -2342,5 +2342,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Clark%20Chronograph%20Series%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tommy%20Hilfiger%20Clark%20Chronograph%20Series%20Generic%20%0ASKU%3A%20Tom%0APrice%3A%20%E2%82%B91749%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Emporio Armani Luigi Formals Generic ",
+        "slug": "emporio-armani-luigi-formals-generic-7d4179d63fde",
+        "sku": "Arm",
+        "brand": "Armani ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Emporio Armani\r\n# For Men\r\n# 7AA Premium Collection\r\n# Luigi Formals \r\n# Dial Size - 43mm\r\n# Feature follows -\r\n",
+        "details": "",
+        "tags": "armani,formal,men",
+        "price": {
+            "old": "₹3500",
+            "new": "₹2199"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-luigi-formals-generic-7d4179d63fde/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-luigi-formals-generic-7d4179d63fde/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-luigi-formals-generic-7d4179d63fde/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-luigi-formals-generic-7d4179d63fde/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20Luigi%20Formals%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20Luigi%20Formals%20Generic%20%0ASKU%3A%20Arm%0APrice%3A%20%E2%82%B92199%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
