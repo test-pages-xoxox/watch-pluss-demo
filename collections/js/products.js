@@ -2446,27 +2446,28 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Rolex Chocolate brown Generic ",
-        "slug": "rolex-chocolate-brown-generic-cabf3bb10077",
+        "name": "Rolex Silver Bazel Ring Generic ",
+        "slug": "rolex-silver-bazel-ring-generic-3e80e24f586d",
         "sku": "Rx",
         "brand": "Rolex ",
         "badge": "Hot ",
         "availability": "In stock ",
-        "description": "Dial: Chocolate brown with index hour markers\r\n\r\nBezel: Fluted rose gold\r\n\r\nBracelet: Jubilee, two-tone steel & rose gold\r\n\r\nFunctions: Date display with cyclops lens at 3 o’clock\r\n\r\nStyle: Elegant blend of luxury and sport, ideal for formal and daily wear",
-        "details": "",
+        "description": "",
+        "details": "Working Chronographs\r\n\r\n– Full Silver Steel Body\r\n\r\n– Sapphire Glass 100%\r\n\r\n– Silver Bazel Ring\r\n\r\n– 48 Hr Power reserve\r\n\r\n– White Dial Black Crono\r\n\r\n– Top High End Metal Chain Strap\r\n\r\n– Original Heavy Push Buckle",
         "tags": "rolex,formal,chain",
         "price": {
-            "old": "₹4700",
-            "new": "₹2500"
+            "old": "₹5300",
+            "new": "₹2700"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-chocolate-brown-generic-cabf3bb10077/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-chocolate-brown-generic-cabf3bb10077/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-silver-bazel-ring-generic-3e80e24f586d/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-silver-bazel-ring-generic-3e80e24f586d/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-chocolate-brown-generic-cabf3bb10077/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-silver-bazel-ring-generic-3e80e24f586d/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-silver-bazel-ring-generic-3e80e24f586d/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Chocolate%20brown%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Chocolate%20brown%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Silver%20Bazel%20Ring%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Silver%20Bazel%20Ring%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
