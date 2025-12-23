@@ -2393,5 +2393,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Audemars%20Piguet%20Royal%20Oak%20Tourbillon%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Audemars%20Piguet%20Royal%20Oak%20Tourbillon%20Generic%20%0ASKU%3A%20Ap%0APrice%3A%20%E2%82%B93300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Rolex GMT Master 2 Generic ",
+        "slug": "rolex-gmt-master-2-generic-830d8859f904",
+        "sku": "Rx",
+        "brand": "Rolex ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "\"A bold masterpiece in green and black — the Rolex GMT Sprite redefines dual-time elegance with iconic design and uncompromising precision.\"\r\n\r\nBrand: Rolex\r\nModel: GMT Master 2\r\nQuality - 7AA Premium Automatic\r\n",
+        "details": "",
+        "tags": "rolex,formal,chain",
+        "price": {
+            "old": "₹4200",
+            "new": "₹2600"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-gmt-master-2-generic-830d8859f904/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-gmt-master-2-generic-830d8859f904/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-gmt-master-2-generic-830d8859f904/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20GMT%20Master%202%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20GMT%20Master%202%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
