@@ -2669,5 +2669,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20GMT%20Master%2040mm%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20GMT%20Master%2040mm%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil Decker Chronograph Generic ",
+        "slug": "fossil-decker-chronograph-generic-75d31aafa51e",
+        "sku": "Fossil ",
+        "brand": "Fossil ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "Brand - Fossil \r\n# For - Men\r\n# Model - Decker Chronograph \r\n# Model No. - CH2882\r\n# Case Size - 42mm\r\n# Warranty - 1 Year Machine Warranty\r\n",
+        "details": "",
+        "tags": "fossil,formal,leather",
+        "price": {
+            "old": "₹2900",
+            "new": "₹1800"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-decker-chronograph-generic-75d31aafa51e/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-decker-chronograph-generic-75d31aafa51e/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-decker-chronograph-generic-75d31aafa51e/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Decker%20Chronograph%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Decker%20Chronograph%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
