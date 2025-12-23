@@ -2443,5 +2443,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Daytona%20%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Daytona%20%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Rolex Chocolate brown Generic ",
+        "slug": "rolex-chocolate-brown-generic-cabf3bb10077",
+        "sku": "Rx",
+        "brand": "Rolex ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Dial: Chocolate brown with index hour markers\r\n\r\nBezel: Fluted rose gold\r\n\r\nBracelet: Jubilee, two-tone steel & rose gold\r\n\r\nFunctions: Date display with cyclops lens at 3 o’clock\r\n\r\nStyle: Elegant blend of luxury and sport, ideal for formal and daily wear",
+        "details": "",
+        "tags": "rolex,formal,chain",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2500"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-chocolate-brown-generic-cabf3bb10077/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-chocolate-brown-generic-cabf3bb10077/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-chocolate-brown-generic-cabf3bb10077/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Chocolate%20brown%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Chocolate%20brown%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
