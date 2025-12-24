@@ -2723,10 +2723,10 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Rayban  Metal Pure glass Day nite Generic ",
-        "slug": "rayban-metal-pure-glass-day-nite-generic-0ddb4d0750b7",
+        "name": "Tom ford  Fiber  Unisex Generic ",
+        "slug": "tom-ford-fiber-unisex-generic-308370cca4e7",
         "sku": "Sg",
-        "brand": "Rayban",
+        "brand": "Tom ford",
         "badge": "Trending ",
         "availability": "In stock ",
         "description": "",
@@ -2737,14 +2737,14 @@ const products = [
             "new": "₹950"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rayban-metal-pure-glass-day-nite-generic-0ddb4d0750b7/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rayban-metal-pure-glass-day-nite-generic-0ddb4d0750b7/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tom-ford-fiber-unisex-generic-308370cca4e7/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tom-ford-fiber-unisex-generic-308370cca4e7/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rayban-metal-pure-glass-day-nite-generic-0ddb4d0750b7/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rayban-metal-pure-glass-day-nite-generic-0ddb4d0750b7/other2.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tom-ford-fiber-unisex-generic-308370cca4e7/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tom-ford-fiber-unisex-generic-308370cca4e7/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rayban%20%20Metal%20Pure%20glass%20Day%20nite%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rayban%20%20Metal%20Pure%20glass%20Day%20nite%20Generic%20%0ASKU%3A%20Sg%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tom%20ford%20%20Fiber%20%20Unisex%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tom%20ford%20%20Fiber%20%20Unisex%20Generic%20%0ASKU%3A%20Sg%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
