@@ -2746,5 +2746,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tom%20ford%20%20Fiber%20%20Unisex%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tom%20ford%20%20Fiber%20%20Unisex%20Generic%20%0ASKU%3A%20Sg%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Burberry  Fiber  Unisex  Generic ",
+        "slug": "burberry-fiber-unisex-generic-2eeb5ad0f2b1",
+        "sku": "Sg",
+        "brand": "Burberry",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "",
+        "tags": "sunglasses",
+        "price": {
+            "old": "₹1800",
+            "new": "₹950"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/burberry-fiber-unisex-generic-2eeb5ad0f2b1/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/burberry-fiber-unisex-generic-2eeb5ad0f2b1/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/burberry-fiber-unisex-generic-2eeb5ad0f2b1/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/burberry-fiber-unisex-generic-2eeb5ad0f2b1/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Burberry%20%20Fiber%20%20Unisex%20%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Burberry%20%20Fiber%20%20Unisex%20%20Generic%20%0ASKU%3A%20Sg%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
