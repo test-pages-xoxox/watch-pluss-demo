@@ -2824,5 +2824,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tom%20ford%20%20Fiber%20%20Unisex%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tom%20ford%20%20Fiber%20%20Unisex%20%0ASKU%3A%20Sg%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Tissot Vuelta Chronograph Generic ",
+        "slug": "tissot-vuelta-chronograph-generic-63b4a44079ce",
+        "sku": "Tiso",
+        "brand": "Tissot ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "Brand: Tissot \r\nDial Size: 42mm\r\nModel: Vuelta Chronograph\r\nFor: Him\r\nQuality: 7AA Premium Collection",
+        "details": "",
+        "tags": "tissot,formal,men",
+        "price": {
+            "old": "₹2800",
+            "new": "₹1800"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-vuelta-chronograph-generic-63b4a44079ce/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-vuelta-chronograph-generic-63b4a44079ce/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-vuelta-chronograph-generic-63b4a44079ce/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-vuelta-chronograph-generic-63b4a44079ce/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20Vuelta%20Chronograph%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20Vuelta%20Chronograph%20Generic%20%0ASKU%3A%20Tiso%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
