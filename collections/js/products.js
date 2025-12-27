@@ -2905,27 +2905,27 @@ const products = [
     },
     {
         "id": "#",
-        "name": " Fossil EEVIE Automatic BQ3781 Generic ",
-        "slug": "fossil-eevie-automatic-bq3781-generic-e9dcbf1a270a",
-        "sku": "Fos",
-        "brand": "Fossil ",
-        "badge": "Hot",
+        "name": "Hublot Classic Fusion Automatic Generic ",
+        "slug": "hublot-classic-fusion-automatic-generic-c2f738a9528b",
+        "sku": "Hub",
+        "brand": "Hublot ",
+        "badge": "Trending ",
         "availability": "In stock ",
-        "description": "Fossil\r\n# For Her \r\n# 7AA Premium Series\r\n# Model - Women's Fossil EEVIE Automatic BQ3781\r\n# Dial Size - 34mm",
+        "description": "Hublot\r\n# For Men\r\n# 7AA Premium Collection\r\n# Classic Fusion Automatic\r\n# Dial Size - 45mm\r\n# Features follows",
         "details": "",
-        "tags": "women-chain, women-formal, ",
+        "tags": "hublot,formal,men",
         "price": {
-            "old": "₹3800",
-            "new": "₹2100"
+            "old": "₹4700",
+            "new": "₹3200"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-eevie-automatic-bq3781-generic-e9dcbf1a270a/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-eevie-automatic-bq3781-generic-e9dcbf1a270a/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-classic-fusion-automatic-generic-c2f738a9528b/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-classic-fusion-automatic-generic-c2f738a9528b/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-eevie-automatic-bq3781-generic-e9dcbf1a270a/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-classic-fusion-automatic-generic-c2f738a9528b/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20%20Fossil%20EEVIE%20Automatic%20BQ3781%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20%20Fossil%20EEVIE%20Automatic%20BQ3781%20Generic%20%0ASKU%3A%20Fos%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hublot%20Classic%20Fusion%20Automatic%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Hublot%20Classic%20Fusion%20Automatic%20Generic%20%0ASKU%3A%20Hub%0APrice%3A%20%E2%82%B93200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
