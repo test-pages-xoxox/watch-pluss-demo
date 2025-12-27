@@ -22,7 +22,7 @@ const products = [
             "images/products/watch/1/other1.webp",
             "images/products/watch/1/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Gshock%20GM-2110D-2A%20Generic%20-%20Silver%20black%20(SKU%20g-shock-metal-1)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Gshock%20GM-2110D-2A%20Generic%20-%20Silver%20black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dgshock-gm-2110d-2a-generic-silver-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Gshock%20GM-2110D-2A%20Generic%20-%20Silver%20black%0ASKU%3A%20g-shock-metal-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -48,7 +48,7 @@ const products = [
             "images/products/watch/2/other1.webp",
             "images/products/watch/2/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20GM-2100BB-Generic%20Ful%20Black%20(SKU%20shock%20full%20black)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Ful%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-gm-2100bb-generic-ful-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Ful%20Black%0ASKU%3A%20shock%20full%20black%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -74,7 +74,7 @@ const products = [
             "images/products/watch/3/other1.webp",
             "images/products/watch/3/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Grey%20(SKU%20shock%20grey)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Grey.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-gm-2100bb-generic-silver-grey%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Grey%0ASKU%3A%20shock%20grey%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -100,7 +100,7 @@ const products = [
             "images/products/watch/4/other1.webp",
             "images/products/watch/4/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-2300-1A-Generic%20Full%20Black%20(SKU%202300-A1%20Black)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Full%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2300-1a-generic-full-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Full%20Black%0ASKU%3A%202300-A1%20Black%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -126,7 +126,7 @@ const products = [
             "images/products/watch/5/other1.webp",
             "images/products/watch/5/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-2300-1A-Generic%20Full%20White%20(SKU%202300-A1%20white)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Full%20White.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2300-1a-generic-full-white%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Full%20White%0ASKU%3A%202300-A1%20white%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -152,7 +152,7 @@ const products = [
             "images/products/watch/6/other1.webp",
             "images/products/watch/6/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-2300-1A-Generic%20Grey%20(SKU%202300-A1.%20grey)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Grey.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2300-1a-generic-grey%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Grey%0ASKU%3A%202300-A1.%20grey%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -178,7 +178,7 @@ const products = [
             "images/products/watch/7/other1.webp",
             "images/products/watch/7/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-2300-1A-Generic%20Pink%20(SKU%202300-A1%20pink)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Pink.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2300-1a-generic-pink%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Pink%0ASKU%3A%202300-A1%20pink%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -204,7 +204,7 @@ const products = [
             "images/products/watch/8/other1.webp",
             "images/products/watch/8/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silvre-Blue%20(SKU%20metal%20blue)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Blue.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-steel-gm-2110d-2a-generic-silver-blue%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silvre-Blue%0ASKU%3A%20metal%20blue%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -230,7 +230,7 @@ const products = [
             "images/products/watch/9/other1.webp",
             "images/products/watch/9/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silvre-Green%20(SKU%20metal%20gren)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Green.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-steel-gm-2110d-2a-generic-silver-green%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silvre-Green%0ASKU%3A%20metal%20gren%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -256,7 +256,7 @@ const products = [
             "images/products/watch/10/other1.webp",
             "images/products/watch/10/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silvre-Orange%20(SKU%20metal%20orangge)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Orange.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-steel-gm-2110d-2a-generic-silver-orange%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silvre-Orange%0ASKU%3A%20metal%20orangge%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -282,7 +282,7 @@ const products = [
             "images/products/watch/11/other1.webp",
             "images/products/watch/11/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GM-2100G-1A9%20Generic%20Gold-Black%20(SKU%20gm%20gold%20black)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Gold-Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gm-2100g-1a9-generic-gold-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Gold-Black%0ASKU%3A%20gm%20gold%20black%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -307,7 +307,7 @@ const products = [
             "images/products/watch/12/other1.webp",
             "images/products/watch/12/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20CASIO%20G-SHOCK%20Master%20of%20G%20MUDMASTER%20GG-Generic%20(SKU%20casi-1)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20CASIO%20G-SHOCK%20Master%20of%20G%20MUDMASTER%20GG-Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-master-of-g-mudmaster-gg-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20CASIO%20G-SHOCK%20Master%20of%20G%20MUDMASTER%20GG-Generic%0ASKU%3A%20casi-1%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -332,7 +332,7 @@ const products = [
             "images/products/watch/13/other1.webp",
             "images/products/watch/13/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-2300-1A-Generic%20%20(SKU%20gshock%20green)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2300-1a-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20%0ASKU%3A%20gshock%20green%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -357,7 +357,7 @@ const products = [
             "images/products/watch/14/other1.webp",
             "images/products/watch/14/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Black%20(SKU%20gshock%20sblack)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-gm-2100bb-generic-silver-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Black%0ASKU%3A%20gshock%20sblack%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -382,7 +382,7 @@ const products = [
             "images/products/watch/15/other1.webp",
             "images/products/watch/15/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-SHOCK%20GA2100RW%20With%20Rainbow%20Dial,%20Detailed%20with%20Perfection%20(SKU%20GA4120-1)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-SHOCK%20GA2100RW%20With%20Rainbow%20Dial%2C%20Detailed%20with%20Perfection.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga2100rw-with-rainbow-dial-detailed-with-perfection%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GA2100RW%20With%20Rainbow%20Dial%2C%20Detailed%20with%20Perfection%0ASKU%3A%20GA4120-1%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -408,7 +408,7 @@ const products = [
             "images/products/watch/16/other1.webp",
             "images/products/watch/16/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Green%20(SKU%20gbm-2100BB-silver-green)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Green.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-gm-2100bb-generic-silver-green%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Green%0ASKU%3A%20gbm-2100BB-silver-green%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -434,7 +434,7 @@ const products = [
             "images/products/watch/17/other1.webp",
             "images/products/watch/17/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-SHOCK%20GA2100RW,%20Detailed%20with%20Perfection%20(SKU%20casio-2)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-SHOCK%20GA2100RW%2C%20Detailed%20with%20Perfection.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga2100rw-detailed-with-perfection%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GA2100RW%2C%20Detailed%20with%20Perfection%0ASKU%3A%20casio-2%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -460,7 +460,7 @@ const products = [
             "images/products/watch/18/other1.webp",
             "images/products/watch/18/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-SHOCK%20GA2100RW%20Detailed%20with%20Perfection%20(SKU%20casio-3)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-SHOCK%20GA2100RW%20Detailed%20with%20Perfection.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga2100rw-detailed-with-perfection%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GA2100RW%20Detailed%20with%20Perfection%0ASKU%3A%20casio-3%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -486,7 +486,7 @@ const products = [
             "images/products/watch/19/other1.webp",
             "images/products/watch/19/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Women's%20GM-S5600UPG-4%20Generic%20(SKU%20women-1)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Women%27s%20GM-S5600UPG-4%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-women-s-gm-s5600upg-4-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Women%27s%20GM-S5600UPG-4%20Generic%0ASKU%3A%20women-1%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -512,7 +512,7 @@ const products = [
             "images/products/watch/20/other1.webp",
             "images/products/watch/20/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Dark%20Blue%20(SKU%20g-shock-metal-1)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Dark%20Blue.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-steel-gm-2110d-2a-generic-silver-dark-blue%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Dark%20Blue%0ASKU%3A%20g-shock-metal-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -538,7 +538,7 @@ const products = [
             "images/products/watch/21/other1.webp",
             "images/products/watch/21/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20AE-1200WHD-1AV%20Generic%20Silver%20(SKU%20g-shock-metal-2)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20AE-1200WHD-1AV%20Generic%20Silver.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-ae-1200whd-1av-generic-silver%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20AE-1200WHD-1AV%20Generic%20Silver%0ASKU%3A%20g-shock-metal-2%0APrice%3A%20%E2%82%B91399%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -564,7 +564,7 @@ const products = [
             "images/products/watch/22/other1.webp",
             "images/products/watch/22/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GM-2100G-1A9%20Generic%20Full%20Green%20(SKU%20gshock%20f%20green)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Full%20Green.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gm-2100g-1a9-generic-full-green%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Full%20Green%0ASKU%3A%20gshock%20f%20green%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -590,7 +590,7 @@ const products = [
             "images/products/watch/23/other1.webp",
             "images/products/watch/23/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GM-2100G-1A9%20Generic%20Silver%20Blue%20(SKU%20gshock%20sblue)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Silver%20Blue.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gm-2100g-1a9-generic-silver-blue%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Silver%20Blue%0ASKU%3A%20gshock%20sblue%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -616,7 +616,7 @@ const products = [
             "images/products/watch/24/other1.webp",
             "images/products/watch/24/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20A168WGG-1ADF%20Generic%20Silver%20(SKU%20casio-4)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20A168WGG-1ADF%20Generic%20Silver.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-a168wgg-1adf-generic-silver%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20A168WGG-1ADF%20Generic%20Silver%0ASKU%3A%20casio-4%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -642,7 +642,7 @@ const products = [
             "images/products/watch/25/other1.webp",
             "images/products/watch/25/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-SHOCK%20GA2100RW%20Detailed%20with%20Perfection%20(SKU%20gshock%20)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-SHOCK%20GA2100RW%20Detailed%20with%20Perfection.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga2100rw-detailed-with-perfection%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GA2100RW%20Detailed%20with%20Perfection%0ASKU%3A%20gshock%20%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -668,7 +668,7 @@ const products = [
             "images/products/watch/26/other1.webp",
             "images/products/watch/26/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GBD-200-%201G-%20squad%20–%20Generic%20Full%20Black%20(SKU%20casio-5)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GBD-200-%201G-%20squad%20%E2%80%93%20Generic%20Full%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gbd-200-1g-squad-generic-full-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GBD-200-%201G-%20squad%20%E2%80%93%20Generic%20Full%20Black%0ASKU%3A%20casio-5%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -694,7 +694,7 @@ const products = [
             "images/products/watch/27/other1.webp",
             "images/products/watch/27/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GBD-200-%201G-%20squad%20–%20Generic%20Purpel%20(SKU%20casio-6)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GBD-200-%201G-%20squad%20%E2%80%93%20Generic%20Purpel.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gbd-200-1g-squad-generic-purpel%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GBD-200-%201G-%20squad%20%E2%80%93%20Generic%20Purpel%0ASKU%3A%20casio-6%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -720,7 +720,7 @@ const products = [
             "images/products/watch/28/other1.webp",
             "images/products/watch/28/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20DW-5610UU-3%20Generic%20Full%20Green%20(SKU%20casio-7)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20DW-5610UU-3%20Generic%20Full%20Green.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-dw-5610uu-3-generic-full-green%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20DW-5610UU-3%20Generic%20Full%20Green%0ASKU%3A%20casio-7%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -746,7 +746,7 @@ const products = [
             "images/products/watch/29/other1.webp",
             "images/products/watch/29/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20Blue%20(SKU%20manga-b)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20Blue.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2100mng-manga-edition-blue%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20Blue%0ASKU%3A%20manga-b%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -772,7 +772,7 @@ const products = [
             "images/products/watch/30/other1.webp",
             "images/products/watch/30/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20White%20(SKU%20manga-w)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20White.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2100mng-manga-edition-white%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20White%0ASKU%3A%20manga-w%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -797,7 +797,7 @@ const products = [
         "otherImages": [
             "images/products/watch/31/other1.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20Green%20(SKU%20manga-g)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20Green.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2100mng-manga-edition-green%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20Green%0ASKU%3A%20manga-g%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -823,7 +823,7 @@ const products = [
             "images/products/watch/32/other1.webp",
             "images/products/watch/32/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA-2100SKE-7AER%20Generic-%20Black%20(SKU%20trance-b)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-2100SKE-7AER%20Generic-%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-2100ske-7aer-generic-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-2100SKE-7AER%20Generic-%20Black%0ASKU%3A%20trance-b%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -849,7 +849,7 @@ const products = [
             "images/products/watch/33/other1.webp",
             "images/products/watch/33/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GM-110-1A-Generic%20Sliver-%20Black%20(SKU%20gm110)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GM-110-1A-Generic%20Sliver-%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gm-110-1a-generic-sliver-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GM-110-1A-Generic%20Sliver-%20Black%0ASKU%3A%20gm110%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -874,7 +874,7 @@ const products = [
         "otherImages": [
             "images/products/watch/34/other1.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20110G-1A9-Generic%20Gold%20(SKU%20110g-g)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20110G-1A9-Generic%20Gold.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-110g-1a9-generic-gold%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20110G-1A9-Generic%20Gold%0ASKU%3A%20110g-g%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -900,7 +900,7 @@ const products = [
             "images/products/watch/35/other1.webp",
             "images/products/watch/35/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-shock%20Casio%20A168WG-9W%20Generic-%20Gold%20(SKU%20casiio%20womens)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-shock%20Casio%20A168WG-9W%20Generic-%20Gold.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-a168wg-9w-generic-gold%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-shock%20Casio%20A168WG-9W%20Generic-%20Gold%0ASKU%3A%20casiio%20womens%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -926,7 +926,7 @@ const products = [
             "images/products/watch/36/other1.webp",
             "images/products/watch/36/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-SHOCK%20GMA-P2100SA-1A2%20Generic%20Detailed%20with%20Perfection%20(SKU%20ga2100)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-SHOCK%20GMA-P2100SA-1A2%20Generic%20Detailed%20with%20Perfection.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gma-p2100sa-1a2-generic-detailed-with-perfection%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GMA-P2100SA-1A2%20Generic%20Detailed%20with%20Perfection%0ASKU%3A%20ga2100%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -952,7 +952,7 @@ const products = [
             "images/products/watch/37/other1.webp",
             "images/products/watch/37/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GA-110CD-1A2-Generic%20(SKU%20110cd-b)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-110CD-1A2-Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-110cd-1a2-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-110CD-1A2-Generic%0ASKU%3A%20110cd-b%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -978,7 +978,7 @@ const products = [
             "images/products/watch/38/other1.webp",
             "images/products/watch/38/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-SHOCK%20GAE-2100WE-3A%20Millitary%20Edition%20Generic%20(SKU%20army)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-SHOCK%20GAE-2100WE-3A%20Millitary%20Edition%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gae-2100we-3a-millitary-edition-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GAE-2100WE-3A%20Millitary%20Edition%20Generic%0ASKU%3A%20army%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1004,7 +1004,7 @@ const products = [
             "images/products/watch/39/other1.webp",
             "images/products/watch/39/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20Brown%20(SKU%20casi-brwn)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20Brown.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-ae-1200whl-5av-generic-brown%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20Brown%0ASKU%3A%20casi-brwn%0APrice%3A%20%E2%82%B91399%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1029,7 +1029,7 @@ const products = [
         "otherImages": [
             "images/products/watch/40/other1.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20Silver-Brown%20(SKU%20casi-sbrown)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20Silver-Brown.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-ae-1200whl-5av-generic-silver-brown%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20Silver-Brown%0ASKU%3A%20casi-sbrown%0APrice%3A%20%E2%82%B91399%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1055,7 +1055,7 @@ const products = [
             "images/products/watch/41/other1.webp",
             "images/products/watch/41/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20(SKU%20casi%20mix)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-ae-1200whl-5av-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%0ASKU%3A%20casi%20mix%0APrice%3A%20%E2%82%B91399%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1081,7 +1081,7 @@ const products = [
             "images/products/watch/42/other1.webp",
             "images/products/watch/42/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GM%205600%20Generic%20Silver%20Black%20(SKU%20casi-s)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Silver%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-gm-5600-generic-silver-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Silver%20Black%0ASKU%3A%20casi-s%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1107,7 +1107,7 @@ const products = [
             "images/products/watch/43/other1.webp",
             "images/products/watch/43/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GM%205600%20Generic%20Full%20Black%20(SKU%20casi-b)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Full%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-gm-5600-generic-full-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Full%20Black%0ASKU%3A%20casi-b%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1132,7 +1132,7 @@ const products = [
         "otherImages": [
             "images/products/watch/44/other1.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20Casio%20GM%205600%20Generic%20Gold%20Black%20(SKU%20casi-g)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Gold%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-gm-5600-generic-gold-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Gold%20Black%0ASKU%3A%20casi-g%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1158,7 +1158,7 @@ const products = [
             "images/products/watch/45/other1.webp",
             "images/products/watch/45/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA-2100-1A%20Generic%20%20(SKU%20ga4210)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-2100-1A%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-2100-1a-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-2100-1A%20Generic%20%0ASKU%3A%20ga4210%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1184,7 +1184,7 @@ const products = [
             "images/products/watch/46/other1.webp",
             "images/products/watch/46/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GR-B300-8A2%20Generic%20(SKU%20big-1)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GR-B300-8A2%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gr-b300-8a2-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GR-B300-8A2%20Generic%0ASKU%3A%20big-1%0APrice%3A%20%E2%82%B91899%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1210,7 +1210,7 @@ const products = [
             "images/products/watch/47/other1.webp",
             "images/products/watch/47/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GR-B300-1A4%20Generic%20(SKU%20big-2)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GR-B300-1A4%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gr-b300-1a4-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GR-B300-1A4%20Generic%0ASKU%3A%20big-2%0APrice%3A%20%E2%82%B91899%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1236,7 +1236,7 @@ const products = [
             "images/products/watch/48/other1.webp",
             "images/products/watch/48/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA-700BP-1A%20Generic%20(SKU%20big-blu)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-700BP-1A%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-700bp-1a-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-700BP-1A%20Generic%0ASKU%3A%20big-blu%0APrice%3A%20%E2%82%B91899%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1262,7 +1262,7 @@ const products = [
             "images/products/watch/49/other1.webp",
             "images/products/watch/49/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA-B2100CY-1A%20Generic%20(SKU%20shock%20yellow)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-B2100CY-1A%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-b2100cy-1a-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-B2100CY-1A%20Generic%0ASKU%3A%20shock%20yellow%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1288,7 +1288,7 @@ const products = [
             "images/products/watch/50/other1.webp",
             "images/products/watch/50/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA-110CD-1A9%20Generic%20(SKU%20big-5)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-110CD-1A9%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-110cd-1a9-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-110CD-1A9%20Generic%0ASKU%3A%20big-5%0APrice%3A%20%E2%82%B91899%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1314,7 +1314,7 @@ const products = [
             "images/products/watch/51/other1.webp",
             "images/products/watch/51/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA-B2100FC%20-1A%20Generic%20(SKU%20gshock%20)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-B2100FC%20-1A%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-b2100fc-1a-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-B2100FC%20-1A%20Generic%0ASKU%3A%20gshock%20%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1340,7 +1340,7 @@ const products = [
             "images/products/watch/52/other1.webp",
             "images/products/watch/52/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA2100-2A2%20Generic-%20Blue%20(SKU%20casi-6)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA2100-2A2%20Generic-%20Blue.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga2100-2a2-generic-blue%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA2100-2A2%20Generic-%20Blue%0ASKU%3A%20casi-6%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1366,7 +1366,7 @@ const products = [
             "images/products/watch/53/other1.webp",
             "images/products/watch/53/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA2100-2A2%20Generic-%20yellow%20(SKU%20casi-6)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA2100-2A2%20Generic-%20yellow.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga2100-2a2-generic-yellow%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA2100-2A2%20Generic-%20yellow%0ASKU%3A%20casi-6%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1392,7 +1392,7 @@ const products = [
             "images/products/watch/54/other1.webp",
             "images/products/watch/54/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20GA2100-2A2%20Generic-%20white%20(SKU%20casi-7)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA2100-2A2%20Generic-%20white.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga2100-2a2-generic-white%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA2100-2A2%20Generic-%20white%0ASKU%3A%20casi-7%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1418,7 +1418,7 @@ const products = [
             "images/products/watch/55/other1.webp",
             "images/products/watch/55/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Full%20Gold%20(SKU%20mera%20gold)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Full%20Gold.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-steel-gm-2110d-2a-generic-full-gold%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Full%20Gold%0ASKU%3A%20mera%20gold%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1444,7 +1444,7 @@ const products = [
             "images/products/watch/56/other1.webp",
             "images/products/watch/56/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Tissot%20PRX%20Blue%20Dial%20Generic%20(SKU%20tosst-1)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20PRX%20Blue%20Dial%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtissot-prx-blue-dial-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20PRX%20Blue%20Dial%20Generic%0ASKU%3A%20tosst-1%0APrice%3A%20%E2%82%B92599%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1470,7 +1470,7 @@ const products = [
             "images/products/watch/57/other1.webp",
             "images/products/watch/57/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Omega%20×%20Swatch%20MoonSwatch-%20Grey%20Generic%20(SKU%20om-1)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Omega%20%C3%97%20Swatch%20MoonSwatch-%20Grey%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Domega-swatch-moonswatch-grey-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Omega%20%C3%97%20Swatch%20MoonSwatch-%20Grey%20Generic%0ASKU%3A%20om-1%0APrice%3A%20%E2%82%B91599%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1496,7 +1496,7 @@ const products = [
             "images/products/watch/58/other1.webp",
             "images/products/watch/58/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Michael%20Kors%20Bradshaw%20Rose%20Gold%20Womens%20Generic%20(SKU%20women-1)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Michael%20Kors%20Bradshaw%20Rose%20Gold%20Womens%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dmichael-kors-bradshaw-rose-gold-womens-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Michael%20Kors%20Bradshaw%20Rose%20Gold%20Womens%20Generic%0ASKU%3A%20women-1%0APrice%3A%20%E2%82%B92499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1522,7 +1522,7 @@ const products = [
             "images/products/watch/59/other1.webp",
             "images/products/watch/59/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Emporio%20Armani%20-%20Minimalist%20Chronograph%20Generic%20(SKU%20armani-1)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20-%20Minimalist%20Chronograph%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-minimalist-chronograph-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20-%20Minimalist%20Chronograph%20Generic%0ASKU%3A%20armani-1%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1548,7 +1548,7 @@ const products = [
             "images/products/watch/60/other1.webp",
             "images/products/watch/60/other2.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Emporio%20Armani%20must-have%20wrist%20essential%20Generic%20(SKU%20armani-1)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20must-have%20wrist%20essential%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-must-have-wrist-essential-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20must-have%20wrist%20essential%20Generic%0ASKU%3A%20armani-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1573,7 +1573,7 @@ const products = [
         "otherImages": [
             "images/products/watch/61/other1.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Emporio%20Armani%20Black%20AR11398%20Wristwatch%20Generic%20(SKU%20armani-1)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20Black%20AR11398%20Wristwatch%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-black-ar11398-wristwatch-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20Black%20AR11398%20Wristwatch%20Generic%0ASKU%3A%20armani-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1598,7 +1598,7 @@ const products = [
         "otherImages": [
             "images/products/watch/62/other1.webp"
         ],
-        "whatsappUrl": "https://wa.me/918097949357?text=Hi!%20I%20want%20to%20order:%20Emporio%20Armani%20AR2429%20is%20a%20men's%20Generic%20(SKU%20armani-1)",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20AR2429%20is%20a%20men%27s%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-ar2429-is-a-men-s-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20AR2429%20is%20a%20men%27s%20Generic%0ASKU%3A%20armani-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1624,7 +1624,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/g-shock-ga-2100fl-8a-black-blue-098592e606fd/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-2100FL-8A%20Black%20-Blue.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-2100FL-8A%20Black%20-Blue.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-2100fl-8a-black-blue-098592e606fd%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-2100FL-8A%20Black%20-Blue%0ASKU%3A%20g-shock-2100FL-black-blue-123%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1650,7 +1650,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/g-shock-ga-2100fl-8a-grey-orange-7dbcc431ce4b/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-2100FL-8A%20Grey%20-%20Orange.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-2100FL-8A%20Grey%20-%20Orange.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-2100fl-8a-grey-orange-7dbcc431ce4b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-2100FL-8A%20Grey%20-%20Orange%0ASKU%3A%20g-shock-2100FL-grey-orange-123%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1675,7 +1675,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-karli-bq3337-women-s-generic-ed09767877da/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Karli%20BQ3337%20Women%27s%20Generic.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Karli%20BQ3337%20Women%27s%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-karli-bq3337-women-s-generic-ed09767877da%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Karli%20BQ3337%20Women%27s%20Generic%0ASKU%3A%20women-fossil-12342%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1701,7 +1701,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/audemars-piguet-royal-oak-tourbillon-generic-4a7dd176c0af/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Audemars%20Piguet%20Royal%20Oak%20Tourbillon%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Audemars%20Piguet%20Royal%20Oak%20Tourbillon%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Daudemars-piguet-royal-oak-tourbillon-generic-4a7dd176c0af%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Audemars%20Piguet%20Royal%20Oak%20Tourbillon%20Generic%20%0ASKU%3A%20Ap%0APrice%3A%20%E2%82%B93200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1727,7 +1727,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-ax2463-c9ecf37459d6/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Armani%20Exchange%20Hampton%20Automatic%20AX2463.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Armani%20Exchange%20Hampton%20Automatic%20AX2463.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Darmani-exchange-hampton-automatic-ax2463-c9ecf37459d6%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Armani%20Exchange%20Hampton%20Automatic%20AX2463%0ASKU%3A%20armani-hampton-auto-ax2463%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1752,7 +1752,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-architect-automatic-me3098-women-s-generic-bdb714b44936/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Architect%20Automatic%20ME3098%20Women%27s%20Generic.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Architect%20Automatic%20ME3098%20Women%27s%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-architect-automatic-me3098-women-s-generic-bdb714b44936%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Architect%20Automatic%20ME3098%20Women%27s%20Generic%0ASKU%3A%20Fossil-women-me3098%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1778,7 +1778,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tag-heuer-wbps110-ba0013-generic-5e30c6a3a9fd/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tag%20Heuer%20WBPS110.BA0013%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tag%20Heuer%20WBPS110.BA0013%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtag-heuer-wbps110-ba0013-generic-5e30c6a3a9fd%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tag%20Heuer%20WBPS110.BA0013%20Generic%20%0ASKU%3A%20Tag-1%0APrice%3A%20%E2%82%B94200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1804,7 +1804,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/michael-kors-lennox-women-s-generic-6225727f9ea6/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Michael%20Kors%20Lennox%20Women%27s%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Michael%20Kors%20Lennox%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dmichael-kors-lennox-women-s-generic-6225727f9ea6%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Michael%20Kors%20Lennox%20Women%27s%20Generic%20%0ASKU%3A%20Women%27s%204%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1830,7 +1830,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/bvlgari-serpenti-women-s-generic-543aeecb7c09/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Bvlgari%20%20Serpenti%20Women%27s%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Bvlgari%20%20Serpenti%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dbvlgari-serpenti-women-s-generic-543aeecb7c09%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Bvlgari%20%20Serpenti%20Women%27s%20Generic%20%0ASKU%3A%20Snak%0APrice%3A%20%E2%82%B92299%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1855,7 +1855,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/calvin-klein-burst-analog-women-s-generic-6b9853666ec9/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Calvin%20Klein%20Burst%20Analog%20Women%27s%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Calvin%20Klein%20Burst%20Analog%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcalvin-klein-burst-analog-women-s-generic-6b9853666ec9%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Calvin%20Klein%20Burst%20Analog%20Women%27s%20Generic%20%0ASKU%3A%20Ck%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1881,7 +1881,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-drop-2-women-s-generic-7739731e66c9/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Drop%202%20Women%27s%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Drop%202%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtommy-hilfiger-drop-2-women-s-generic-7739731e66c9%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tommy%20Hilfiger%20Drop%202%20Women%27s%20Generic%20%0ASKU%3A%20Tm%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1907,7 +1907,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-ballon-bleu-women-s-generic-28416777507f/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Cartier%20Ballon%20Bleu%20Women%27s%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Cartier%20Ballon%20Bleu%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcartier-ballon-bleu-women-s-generic-28416777507f%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Cartier%20Ballon%20Bleu%20Women%27s%20Generic%20%0ASKU%3A%20Cartier%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1932,7 +1932,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-fs5406-formal-generic-15f7b11cd35b/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20FS5406%20Formal%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20FS5406%20Formal%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-fs5406-formal-generic-15f7b11cd35b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20FS5406%20Formal%20Generic%20%0ASKU%3A%20Fossil%0APrice%3A%20%E2%82%B91599%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1958,7 +1958,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-bronson-automatic-generic-af989284cf08/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Bronson%20Automatic%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Bronson%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-bronson-automatic-generic-af989284cf08%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Bronson%20Automatic%20Generic%20%0ASKU%3A%20Fossl%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -1983,7 +1983,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/modern-machine-automatic-0d7b757e6610/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Modern%20Machine%20Automatic.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Modern%20Machine%20Automatic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dmodern-machine-automatic-0d7b757e6610%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Modern%20Machine%20Automatic%0ASKU%3A%20Fossil%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2009,7 +2009,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-grant-series-generic-4e45c947a119/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Grant%20Series%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Grant%20Series%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-grant-series-generic-4e45c947a119%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Grant%20Series%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2035,7 +2035,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-townsman-modern-machine-automatic-generic-5f704fe0a2b5/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Townsman%20Modern%20Machine%20Automatic%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Townsman%20Modern%20Machine%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-townsman-modern-machine-automatic-generic-5f704fe0a2b5%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Townsman%20Modern%20Machine%20Automatic%20Generic%20%0ASKU%3A%20Fossil%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2061,7 +2061,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-machine-automatic-generic-72bf87320b51/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Machine%20Automatic%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Machine%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-machine-automatic-generic-72bf87320b51%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Machine%20Automatic%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2087,7 +2087,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-everett-generic-44229959016f/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Automatic%20Everett%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Automatic%20Everett%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-automatic-everett-generic-44229959016f%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Automatic%20Everett%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2112,7 +2112,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-retro-pilot-chronograph-generic-131f7051d609/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Retro%20Pilot%20Chronograph%20%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Retro%20Pilot%20Chronograph%20%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-retro-pilot-chronograph-generic-131f7051d609%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Retro%20Pilot%20Chronograph%20%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91900%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2137,7 +2137,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-retro-pilot-chronograph-generic-5fcdc9ebd115/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Retro%20Pilot%20Chronograph%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Retro%20Pilot%20Chronograph%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-retro-pilot-chronograph-generic-5fcdc9ebd115%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Retro%20Pilot%20Chronograph%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2162,7 +2162,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-gmt-generic-aa3898965ce3/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20GMT%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20GMT%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-gmt-generic-aa3898965ce3%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20GMT%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91749%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2187,7 +2187,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-modern-machine-generic-75a488811230/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Automatic%20Modern%20Machine%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Automatic%20Modern%20Machine%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-automatic-modern-machine-generic-75a488811230%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Automatic%20Modern%20Machine%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91749%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2212,7 +2212,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-me3254-generic-57bc63ace887/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20ME3254%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20ME3254%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-me3254-generic-57bc63ace887%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20ME3254%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2238,7 +2238,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-fs5132-generic-30042a6b0123/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20FS5132%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20FS5132%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-fs5132-generic-30042a6b0123%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20FS5132%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91649%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2264,7 +2264,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-couturier-chronograph-generic-5e7f6bd4f3b4/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20Couturier%20Chronograph%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20Couturier%20Chronograph%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtissot-couturier-chronograph-generic-5e7f6bd4f3b4%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20Couturier%20Chronograph%20Generic%20%0ASKU%3A%20Tissot%20%0APrice%3A%20%E2%82%B91999%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2289,7 +2289,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/bvlgari-serpenti-women-s-generic-d20351840ce4/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Bvlgari%20Serpenti%20Women%27s%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Bvlgari%20Serpenti%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dbvlgari-serpenti-women-s-generic-d20351840ce4%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Bvlgari%20Serpenti%20Women%27s%20Generic%20%0ASKU%3A%20bvlgari%0APrice%3A%20%E2%82%B92299%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2315,7 +2315,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-jacqueline-collection-generic-ce27f9753529/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Jacqueline%20Collection%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Jacqueline%20Collection%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-jacqueline-collection-generic-ce27f9753529%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Jacqueline%20Collection%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2340,7 +2340,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-clark-chronograph-series-generic-1b9926222f98/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Clark%20Chronograph%20Series%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Clark%20Chronograph%20Series%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtommy-hilfiger-clark-chronograph-series-generic-1b9926222f98%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tommy%20Hilfiger%20Clark%20Chronograph%20Series%20Generic%20%0ASKU%3A%20Tom%0APrice%3A%20%E2%82%B91749%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2366,7 +2366,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-luigi-formals-generic-7d4179d63fde/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20Luigi%20Formals%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20Luigi%20Formals%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-luigi-formals-generic-7d4179d63fde%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20Luigi%20Formals%20Generic%20%0ASKU%3A%20Arm%0APrice%3A%20%E2%82%B92199%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2391,7 +2391,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/audemars-piguet-royal-oak-tourbillon-generic-63ac626c98c4/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Audemars%20Piguet%20Royal%20Oak%20Tourbillon%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Audemars%20Piguet%20Royal%20Oak%20Tourbillon%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Daudemars-piguet-royal-oak-tourbillon-generic-63ac626c98c4%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Audemars%20Piguet%20Royal%20Oak%20Tourbillon%20Generic%20%0ASKU%3A%20Ap%0APrice%3A%20%E2%82%B93300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2416,7 +2416,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-gmt-master-2-generic-830d8859f904/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20GMT%20Master%202%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20GMT%20Master%202%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-gmt-master-2-generic-830d8859f904%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20GMT%20Master%202%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2441,7 +2441,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-daytona-generic-1f6960343721/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Daytona%20%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Daytona%20%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-daytona-generic-1f6960343721%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Daytona%20%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2467,7 +2467,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-silver-bazel-ring-generic-3e80e24f586d/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Silver%20Bazel%20Ring%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Silver%20Bazel%20Ring%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-silver-bazel-ring-generic-3e80e24f586d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Silver%20Bazel%20Ring%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2492,7 +2492,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-adjust-tow-toned-generic-02d866320a8b/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Adjust%20Tow%20Toned%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Adjust%20Tow%20Toned%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-adjust-tow-toned-generic-02d866320a8b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Adjust%20Tow%20Toned%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2517,7 +2517,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-gmt-master-40mm-generic-a51cc1288dd6/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20GMT-%20Master%2040mm%20generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20GMT-%20Master%2040mm%20generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-gmt-master-40mm-generic-a51cc1288dd6%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20GMT-%20Master%2040mm%20generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2542,7 +2542,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-datejust-26mm-generic-a70cdc33e4a5/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Datejust%2026mm%20generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Datejust%2026mm%20generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-datejust-26mm-generic-a70cdc33e4a5%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Datejust%2026mm%20generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2567,7 +2567,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-submariner-no-date-41mm-generic-6dce19a5392f/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Submariner%20No%20Date%2041mm%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Submariner%20No%20Date%2041mm%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-submariner-no-date-41mm-generic-6dce19a5392f%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Submariner%20No%20Date%2041mm%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2592,7 +2592,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-datejust-41mm-generic-d173f2bf5605/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Datejust%2041mm%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Datejust%2041mm%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-datejust-41mm-generic-d173f2bf5605%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Datejust%2041mm%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2617,7 +2617,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-datejust-41mm-generic-c8081c7fd05e/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Datejust%2041mm%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Datejust%2041mm%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-datejust-41mm-generic-c8081c7fd05e%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Datejust%2041mm%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2642,7 +2642,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-oyster-perpetual-41mm-generic-79cc726df18a/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Oyster%20Perpetual%2041mm%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Oyster%20Perpetual%2041mm%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-oyster-perpetual-41mm-generic-79cc726df18a%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Oyster%20Perpetual%2041mm%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2667,7 +2667,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-gmt-master-40mm-generic-0c7ce1e228ac/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20GMT%20Master%2040mm%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20GMT%20Master%2040mm%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-gmt-master-40mm-generic-0c7ce1e228ac%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20GMT%20Master%2040mm%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2692,7 +2692,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-decker-chronograph-generic-75d31aafa51e/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Decker%20Chronograph%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Decker%20Chronograph%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-decker-chronograph-generic-75d31aafa51e%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Decker%20Chronograph%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2718,7 +2718,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/prada-polorised-fiber-unisex-generic-ff318ece8471/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Prada%20Polorised%20Fiber%20Unisex%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Prada%20Polorised%20Fiber%20Unisex%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dprada-polorised-fiber-unisex-generic-ff318ece8471%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Prada%20Polorised%20Fiber%20Unisex%20Generic%20%0ASKU%3A%20Sg%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2744,7 +2744,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tom-ford-fiber-unisex-generic-308370cca4e7/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tom%20ford%20%20Fiber%20%20Unisex%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tom%20ford%20%20Fiber%20%20Unisex%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtom-ford-fiber-unisex-generic-308370cca4e7%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tom%20ford%20%20Fiber%20%20Unisex%20Generic%20%0ASKU%3A%20Sg%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2770,7 +2770,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rayban-ferrari-edition-fiber-unisex-generic-8defda89b00c/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rayban%20Ferrari%20edition%20%20Fiber%20%20Unisex%20%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rayban%20Ferrari%20edition%20%20Fiber%20%20Unisex%20%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drayban-ferrari-edition-fiber-unisex-generic-8defda89b00c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rayban%20Ferrari%20edition%20%20Fiber%20%20Unisex%20%20Generic%20%0ASKU%3A%20Sg%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2796,7 +2796,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rayban-ferrari-edition-fiber-unisex-generic-70acae2eadd0/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rayban%20Ferrari%20edition%20%20Fiber%20%20Unisex%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rayban%20Ferrari%20edition%20%20Fiber%20%20Unisex%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drayban-ferrari-edition-fiber-unisex-generic-70acae2eadd0%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rayban%20Ferrari%20edition%20%20Fiber%20%20Unisex%20Generic%20%0ASKU%3A%20Sg%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2822,7 +2822,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tom-ford-fiber-unisex-c994ac5ad021/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tom%20ford%20%20Fiber%20%20Unisex%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tom%20ford%20%20Fiber%20%20Unisex%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtom-ford-fiber-unisex-c994ac5ad021%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tom%20ford%20%20Fiber%20%20Unisex%20%0ASKU%3A%20Sg%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2848,7 +2848,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-vuelta-chronograph-generic-63b4a44079ce/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20Vuelta%20Chronograph%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20Vuelta%20Chronograph%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtissot-vuelta-chronograph-generic-63b4a44079ce%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20Vuelta%20Chronograph%20Generic%20%0ASKU%3A%20Tiso%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2874,7 +2874,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-neutra-chronograph-generic-1a2accb142c0/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Neutra%20Chronograph%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Neutra%20Chronograph%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-neutra-chronograph-generic-1a2accb142c0%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Neutra%20Chronograph%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91799%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2900,7 +2900,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-casual-blue-chronograph-series-generic-829d46dbbca8/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Casual%20Blue%20Chronograph%20Series%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Casual%20Blue%20Chronograph%20Series%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtommy-hilfiger-casual-blue-chronograph-series-generic-829d46dbbca8%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tommy%20Hilfiger%20Casual%20Blue%20Chronograph%20Series%20Generic%20%0ASKU%3A%20Tm%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
@@ -2925,7 +2925,7 @@ const products = [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-classic-fusion-automatic-generic-c2f738a9528b/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hublot%20Classic%20Fusion%20Automatic%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hublot%20Classic%20Fusion%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dhublot-classic-fusion-automatic-generic-c2f738a9528b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Hublot%20Classic%20Fusion%20Automatic%20Generic%20%0ASKU%3A%20Hub%0APrice%3A%20%E2%82%B93200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
