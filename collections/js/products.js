@@ -2876,5 +2876,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Neutra%20Chronograph%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Neutra%20Chronograph%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91799%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Tommy Hilfiger Casual Blue Chronograph Series Generic ",
+        "slug": "tommy-hilfiger-casual-blue-chronograph-series-generic-829d46dbbca8",
+        "sku": "Tm",
+        "brand": "Tommy Hilfiger",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "Brand: Tommy Hilfiger \r\nModel: Casual Blue Chronograph Series\r\nFor: Him\r\nDial Size: 42mm\r\nQuality: 7AA Premium Collection\r\n",
+        "details": "",
+        "tags": "tommy,formal,men",
+        "price": {
+            "old": "₹3200",
+            "new": "₹1699"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-casual-blue-chronograph-series-generic-829d46dbbca8/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-casual-blue-chronograph-series-generic-829d46dbbca8/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-casual-blue-chronograph-series-generic-829d46dbbca8/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-casual-blue-chronograph-series-generic-829d46dbbca8/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Casual%20Blue%20Chronograph%20Series%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tommy%20Hilfiger%20Casual%20Blue%20Chronograph%20Series%20Generic%20%0ASKU%3A%20Tm%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
