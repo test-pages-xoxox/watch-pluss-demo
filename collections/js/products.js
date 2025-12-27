@@ -2902,5 +2902,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Casual%20Blue%20Chronograph%20Series%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tommy%20Hilfiger%20Casual%20Blue%20Chronograph%20Series%20Generic%20%0ASKU%3A%20Tm%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": " Fossil EEVIE Automatic BQ3781 Generic ",
+        "slug": "fossil-eevie-automatic-bq3781-generic-e9dcbf1a270a",
+        "sku": "Fos",
+        "brand": "Fossil ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Fossil\r\n# For Her \r\n# 7AA Premium Series\r\n# Model - Women's Fossil EEVIE Automatic BQ3781\r\n# Dial Size - 34mm",
+        "details": "",
+        "tags": "women-chain, women-formal, ",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2100"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-eevie-automatic-bq3781-generic-e9dcbf1a270a/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-eevie-automatic-bq3781-generic-e9dcbf1a270a/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-eevie-automatic-bq3781-generic-e9dcbf1a270a/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20%20Fossil%20EEVIE%20Automatic%20BQ3781%20Generic%20.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20%20Fossil%20EEVIE%20Automatic%20BQ3781%20Generic%20%0ASKU%3A%20Fos%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
