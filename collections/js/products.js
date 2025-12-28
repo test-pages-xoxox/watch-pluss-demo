@@ -2927,5 +2927,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hublot%20Classic%20Fusion%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dhublot-classic-fusion-automatic-generic-c2f738a9528b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Hublot%20Classic%20Fusion%20Automatic%20Generic%20%0ASKU%3A%20Hub%0APrice%3A%20%E2%82%B93200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Emporio Armani AR2434 Generic ",
+        "slug": "emporio-armani-ar2434-generic-3be4950bddc9",
+        "sku": "Armani ",
+        "brand": "Emporio Armani ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Brand - Emporio Armani \r\nFor - Men's\r\nQuality - 7AA Premium\r\nModel No. - AR2434\r\nCase Size - 42mm\r\n",
+        "details": "",
+        "tags": "armani,formal,men,chain",
+        "price": {
+            "old": "₹3200",
+            "new": "₹1699"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-ar2434-generic-3be4950bddc9/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-ar2434-generic-3be4950bddc9/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-ar2434-generic-3be4950bddc9/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-ar2434-generic-3be4950bddc9/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20AR2434%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-ar2434-generic-3be4950bddc9%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20AR2434%20Generic%20%0ASKU%3A%20Armani%20%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
