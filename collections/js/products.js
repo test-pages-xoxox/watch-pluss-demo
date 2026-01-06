@@ -3029,5 +3029,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Burberry%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dburberry-women-s-generic-517762f9c465%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Burberry%20Women%27s%20Generic%20%0ASKU%3A%20Burberry%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Daniel Wellington Women's Generic ",
+        "slug": "daniel-wellington-women-s-generic-5eb369bec04b",
+        "sku": "Dw",
+        "brand": "Daniel Wellington ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "*Refined, minimalist, and effortlessly classy — the Daniel Wellington Classic collection live Hands-On* ",
+        "details": "",
+        "tags": "women-leather, women-formal, ",
+        "price": {
+            "old": "₹3200",
+            "new": "₹1600"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/daniel-wellington-women-s-generic-5eb369bec04b/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/daniel-wellington-women-s-generic-5eb369bec04b/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/daniel-wellington-women-s-generic-5eb369bec04b/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/daniel-wellington-women-s-generic-5eb369bec04b/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Daniel%20Wellington%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Ddaniel-wellington-women-s-generic-5eb369bec04b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Daniel%20Wellington%20Women%27s%20Generic%20%0ASKU%3A%20Dw%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
