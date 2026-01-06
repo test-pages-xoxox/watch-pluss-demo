@@ -3083,28 +3083,27 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Burberry Women's Generic ",
-        "slug": "burberry-women-s-generic-f80c33cf982f",
-        "sku": "Burberry",
-        "brand": "Burberry",
+        "name": "Fossil Women's Generic ",
+        "slug": "fossil-women-s-generic-3517e13be184",
+        "sku": "Fossil ",
+        "brand": "Fossil ",
         "badge": "Hot",
         "availability": "In stock ",
-        "description": "*An icon of style that defines every moment — Burberry elegance unveiled.* ",
+        "description": "*Fossil Women's Exclusive Rose Gold Jacqueline Series Live Hands-On* ",
         "details": "",
-        "tags": "women-chain, women-formal, ",
+        "tags": "women-chain, women-formal,women-fossil",
         "price": {
-            "old": "₹2600",
-            "new": "₹1500"
+            "old": "₹2100",
+            "new": "₹1400"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/burberry-women-s-generic-f80c33cf982f/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/burberry-women-s-generic-f80c33cf982f/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-women-s-generic-3517e13be184/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-women-s-generic-3517e13be184/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/burberry-women-s-generic-f80c33cf982f/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/burberry-women-s-generic-f80c33cf982f/other2.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-women-s-generic-3517e13be184/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Burberry%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dburberry-women-s-generic-f80c33cf982f%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Burberry%20Women%27s%20Generic%20%0ASKU%3A%20Burberry%0APrice%3A%20%E2%82%B91500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-women-s-generic-3517e13be184%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Women%27s%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91400%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
