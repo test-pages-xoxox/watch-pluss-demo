@@ -3003,5 +3003,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-women-s-generic-bcfd809d40cc%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Women%27s%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91400%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Bvlgari Serpenti Women's Generic ",
+        "slug": "bvlgari-serpenti-women-s-generic-3ab2ee8b00c4",
+        "sku": "Bvlgari",
+        "brand": "Bvlgari Serpenti ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "*“Bvlgari Serpenti in Rose Gold — for those who dare to shine differently.”* ",
+        "details": "",
+        "tags": "women-chain, women-formal,women-bvlgari",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2300"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/bvlgari-serpenti-women-s-generic-3ab2ee8b00c4/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/bvlgari-serpenti-women-s-generic-3ab2ee8b00c4/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/bvlgari-serpenti-women-s-generic-3ab2ee8b00c4/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Bvlgari%20Serpenti%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dbvlgari-serpenti-women-s-generic-3ab2ee8b00c4%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Bvlgari%20Serpenti%20Women%27s%20Generic%20%0ASKU%3A%20Bvlgari%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
