@@ -2953,5 +2953,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20AR2434%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-ar2434-generic-3be4950bddc9%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20AR2434%20Generic%20%0ASKU%3A%20Armani%20%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil Automatic Machine Generic ",
+        "slug": "fossil-automatic-machine-generic-9fc607875d06",
+        "sku": "Fossil ",
+        "brand": "Fossil ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "Working 12 Hour automatic Analog\r\n- Stainless Steel Black Dial\r\n- Brown 22 mm pure quality leather strap\r\n- Transparent Front & Back\r\n- Tinted Brown Glass\r\n- Pendulum Rotate charging\r\n- Fully Automatic self wind machine\r\n- No colour issue and rusting\r\n- *Premium & Original Japanese Open Heart Automatic Engine\r\n- 100% Satisfaction ",
+        "details": "",
+        "tags": "fossil,formal,leather",
+        "price": {
+            "old": "₹3600",
+            "new": "₹2200"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-machine-generic-9fc607875d06/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-machine-generic-9fc607875d06/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-machine-generic-9fc607875d06/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Automatic%20Machine%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-automatic-machine-generic-9fc607875d06%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Automatic%20Machine%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
