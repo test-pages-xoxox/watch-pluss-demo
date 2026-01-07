@@ -3257,5 +3257,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Michael%20Kors%20Premius%2C%20Sofie%20Rose%20Gold%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dmichael-kors-premius-sofie-rose-gold-generic-15ad205e184f%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Michael%20Kors%20Premius%2C%20Sofie%20Rose%20Gold%20Generic%20%0ASKU%3A%20Mk%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Versace Women's Rose Gold Generic ",
+        "slug": "versace-women-s-rose-gold-generic-535ff1630b4a",
+        "sku": "Versace ",
+        "brand": "Versace",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "*Versace Women's Rose Gold Green Dial, Live Hands-On* ",
+        "details": "",
+        "tags": "women-chain, women-formal,women-versace",
+        "price": {
+            "old": "₹2600",
+            "new": "₹1500"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-women-s-rose-gold-generic-535ff1630b4a/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-women-s-rose-gold-generic-535ff1630b4a/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-women-s-rose-gold-generic-535ff1630b4a/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Versace%20Women%27s%20Rose%20Gold%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dversace-women-s-rose-gold-generic-535ff1630b4a%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Versace%20Women%27s%20Rose%20Gold%20Generic%20%0ASKU%3A%20Versace%20%0APrice%3A%20%E2%82%B91500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
