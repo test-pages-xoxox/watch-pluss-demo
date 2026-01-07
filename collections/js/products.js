@@ -3156,5 +3156,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hublot%20Lether%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dhublot-lether-generic-99bbd24acea5%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Hublot%20Lether%20Generic%20%0ASKU%3A%20Hub%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Patek Philippe masterpiece Generic ",
+        "slug": "patek-philippe-masterpiece-generic-7e946f987664",
+        "sku": "Patek ",
+        "brand": "Patek philippe",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "*“A masterpiece — Patek Philippe Nautilus with its iconic emerald dial, crafted for those who don’t follow trends, they set them.”* ",
+        "details": "",
+        "tags": "patek,formal,chain,men",
+        "price": {
+            "old": "₹5900",
+            "new": "₹4600"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philippe-masterpiece-generic-7e946f987664/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philippe-masterpiece-generic-7e946f987664/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philippe-masterpiece-generic-7e946f987664/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20Philippe%20masterpiece%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-philippe-masterpiece-generic-7e946f987664%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20Philippe%20masterpiece%20Generic%20%0ASKU%3A%20Patek%20%0APrice%3A%20%E2%82%B94600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
