@@ -3105,5 +3105,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-women-s-generic-3517e13be184%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Women%27s%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91400%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Omega SPEEDMASTER Generic ",
+        "slug": "omega-speedmaster-generic-6e1b0e782bbf",
+        "sku": "Ome",
+        "brand": "Om",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "Working Chronograph\r\n- Date Counter\r\n- Radium Hour and Minute Hand\r\n- Green and Black Gradient Strap\r\n- Stainless steel body\r\n- Easy operated Pin Lock\r\n- *100% Quality battery operated Chronograph machinery",
+        "details": "",
+        "tags": "omega,formal,leather,men",
+        "price": {
+            "old": "₹3200",
+            "new": "₹2100"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-speedmaster-generic-6e1b0e782bbf/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-speedmaster-generic-6e1b0e782bbf/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-speedmaster-generic-6e1b0e782bbf/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Omega%20SPEEDMASTER%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Domega-speedmaster-generic-6e1b0e782bbf%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Omega%20SPEEDMASTER%20Generic%20%0ASKU%3A%20Ome%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
