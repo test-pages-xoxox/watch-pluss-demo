@@ -3181,5 +3181,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20Philippe%20masterpiece%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-philippe-masterpiece-generic-7e946f987664%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20Philippe%20masterpiece%20Generic%20%0ASKU%3A%20Patek%20%0APrice%3A%20%E2%82%B94600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Tommy Hilfiger Women's Generic ",
+        "slug": "tommy-hilfiger-women-s-generic-a2fbe8c08b67",
+        "sku": "Tom",
+        "brand": "Tommy Hilfiger",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "*Tommy Hilfiger Premium Women's Drop 2 Collection Live Un-boxing* ",
+        "details": "",
+        "tags": "women-chain, women-formal,tommy,women",
+        "price": {
+            "old": "₹3600",
+            "new": "₹1850"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-women-s-generic-a2fbe8c08b67/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-women-s-generic-a2fbe8c08b67/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-women-s-generic-a2fbe8c08b67/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-women-s-generic-a2fbe8c08b67/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtommy-hilfiger-women-s-generic-a2fbe8c08b67%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tommy%20Hilfiger%20Women%27s%20Generic%20%0ASKU%3A%20Tom%0APrice%3A%20%E2%82%B91850%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
