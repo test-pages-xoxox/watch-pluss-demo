@@ -3232,5 +3232,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Michael%20Kors%20Darci%20Mini%20Gold.%2A%20%20women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dmichael-kors-darci-mini-gold-women-s-generic-7b7285a79f95%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Michael%20Kors%20Darci%20Mini%20Gold.%2A%20%20women%27s%20Generic%20%0ASKU%3A%20Mk%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Cartier Women's Ballon Ultra Generic ",
+        "slug": "cartier-women-s-ballon-ultra-generic-14c152fd8df9",
+        "sku": "Cartier",
+        "brand": "Cartier",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "*Cartier Women's Ballon Ultra-Premium Edition Live Un-boxing* ",
+        "details": "",
+        "tags": "women-chain, women-formal,women",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2300"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-women-s-ballon-ultra-generic-14c152fd8df9/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-women-s-ballon-ultra-generic-14c152fd8df9/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-women-s-ballon-ultra-generic-14c152fd8df9/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-women-s-ballon-ultra-generic-14c152fd8df9/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Cartier%20Women%27s%20Ballon%20Ultra%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcartier-women-s-ballon-ultra-generic-14c152fd8df9%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Cartier%20Women%27s%20Ballon%20Ultra%20Generic%20%0ASKU%3A%20Cartier%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
