@@ -3308,5 +3308,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tag%20Heuer%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtag-heuer-generic-8a275912c31d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tag%20Heuer%20Generic%20%0ASKU%3A%20tag-heuer%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Tag Heuer quartz Chronograph machinery Generic ",
+        "slug": "tag-heuer-quartz-chronograph-machinery-generic-abfbd80c9829",
+        "sku": "Tag-1",
+        "brand": "Tag",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Working chronograph\r\n- Date Counter \r\n- Stainless steel body\r\n- Smart fit wrist adjustable metal bracelet\r\n- Clear look black sporty multi functional dial\r\n- *TAG HUERE LOGO ENGRAVED ON LOCK AND TIME SCREW*\r\n- *100% reliable quality quartz Chronograph machinery",
+        "details": "",
+        "tags": "tag,formal,men,chain",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2600"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tag-heuer-quartz-chronograph-machinery-generic-abfbd80c9829/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tag-heuer-quartz-chronograph-machinery-generic-abfbd80c9829/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tag-heuer-quartz-chronograph-machinery-generic-abfbd80c9829/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tag-heuer-quartz-chronograph-machinery-generic-abfbd80c9829/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tag%20Heuer%20quartz%20Chronograph%20machinery%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtag-heuer-quartz-chronograph-machinery-generic-abfbd80c9829%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tag%20Heuer%20quartz%20Chronograph%20machinery%20Generic%20%0ASKU%3A%20Tag-1%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
