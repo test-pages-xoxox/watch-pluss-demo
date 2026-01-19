@@ -3413,26 +3413,26 @@ const products = [
     {
         "id": "#",
         "name": "Rolex Couple Collection Generic ",
-        "slug": "rolex-couple-collection-generic-12f12421836c",
+        "slug": "rolex-couple-collection-generic-6826af8a8d83",
         "sku": "Rx",
         "brand": "Rolex ",
-        "badge": "Hot",
+        "badge": "Hot ",
         "availability": "In stock ",
         "description": "Original Premium Model*\r\n*7A High quality*  \r\n*Feature*\r\n-chain watch\r\n-12 hr dial. (Day&Date working)\r\n-Quartz movement. \r\n-Heavy machinery. \r\n-solid steel back(sapphire Glass)",
         "details": "",
         "tags": "couple",
         "price": {
             "old": "₹4700",
-            "new": "₹2200"
+            "new": "₹2300"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-couple-collection-generic-12f12421836c/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-couple-collection-generic-12f12421836c/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-couple-collection-generic-6826af8a8d83/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-couple-collection-generic-6826af8a8d83/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-couple-collection-generic-12f12421836c/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-couple-collection-generic-6826af8a8d83/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Couple%20Collection%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-couple-collection-generic-12f12421836c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Couple%20Collection%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Couple%20Collection%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-couple-collection-generic-6826af8a8d83%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Couple%20Collection%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
