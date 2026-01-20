@@ -3539,27 +3539,27 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Fossil Leather Generic ",
-        "slug": "fossil-leather-generic-00f62c4f40f4",
-        "sku": "Fossil ",
-        "brand": "Fossil ",
-        "badge": "Hot",
+        "name": "Rado Couple Collection Generic ",
+        "slug": "rado-couple-collection-generic-fef71bf8347c",
+        "sku": "Rado",
+        "brand": "rado",
+        "badge": "Hot ",
         "availability": "In stock ",
-        "description": "7AA Premium Model And Original Look For Gents\r\n• All Chronograph Working / Stopwatch Movement / Date Counter / Swiss Made / Quartz Movement \r\n• Stainless Steel Material, Water Resistant, Mineral Crystal Glass And Pure Leather Belt \r\n• Fossil Is The Top Of Materials For Watches That Are Designed To Stand The Test Of Timing",
+        "description": "Couole watch ⌚️ \r\nGood quality \r\nDate.  Working \r\nBest price updates ",
         "details": "",
-        "tags": "fossil,formal,leather,men",
+        "tags": "couple",
         "price": {
-            "old": "₹2300",
-            "new": "₹1600"
+            "old": "₹3800",
+            "new": "₹2600"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-leather-generic-00f62c4f40f4/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-leather-generic-00f62c4f40f4/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rado-couple-collection-generic-fef71bf8347c/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rado-couple-collection-generic-fef71bf8347c/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-leather-generic-00f62c4f40f4/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rado-couple-collection-generic-fef71bf8347c/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Leather%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-leather-generic-00f62c4f40f4%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Leather%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rado%20Couple%20Collection%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drado-couple-collection-generic-fef71bf8347c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rado%20Couple%20Collection%20Generic%20%0ASKU%3A%20Rado%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
