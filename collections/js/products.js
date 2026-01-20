@@ -3511,5 +3511,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Calvin%20Klein%20Men%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcalvin-klein-men-s-generic-be4bfc4996bc%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Calvin%20Klein%20Men%27s%20Generic%20%0ASKU%3A%20Ck%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Rolex Men's Generic ",
+        "slug": "rolex-men-s-generic-e88d1a51c9e2",
+        "sku": "Rx",
+        "brand": "Rolex ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "7AA Premium Quality And ROLEX DAYTONA RAINBOW Model For Gents\r\n• ⁠All Chronographs Working / Swiss Made / Quartz Operated Machinery\r\n• Rainbow Diamond Bezel Rotating / Premium Quality Metal Strap / Rolex Original Butterfly Lock\r\n• Rolex Is The Top Of Materials For Watches That Are Designed To Stand The Test Of Timing",
+        "details": "",
+        "tags": "rolex,formal,chain,men",
+        "price": {
+            "old": "₹3200",
+            "new": "₹1700"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-men-s-generic-e88d1a51c9e2/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-men-s-generic-e88d1a51c9e2/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-men-s-generic-e88d1a51c9e2/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Men%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-men-s-generic-e88d1a51c9e2%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Men%27s%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
