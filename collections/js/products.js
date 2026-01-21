@@ -3687,5 +3687,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20%2AEmporio%20Armani%20Antonio%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-antonio-generic-4f02f31d6235%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20%2AEmporio%20Armani%20Antonio%20Generic%20%0ASKU%3A%20Armani%20%0APrice%3A%20%E2%82%B91900%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Armani Women's Generic ",
+        "slug": "armani-women-s-generic-f589610a3c65",
+        "sku": "Armani ",
+        "brand": "Emporio Armani ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Armani\r\nLadies \r\n Full body Ceramic \r\nScratch proof\r\nSite second working \r\nOriginal lock",
+        "details": "",
+        "tags": "women-armani,formal,women,chain",
+        "price": {
+            "old": "₹3200",
+            "new": "₹1800"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-women-s-generic-f589610a3c65/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-women-s-generic-f589610a3c65/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-women-s-generic-f589610a3c65/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-women-s-generic-f589610a3c65/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Armani%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Darmani-women-s-generic-f589610a3c65%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Armani%20Women%27s%20Generic%20%0ASKU%3A%20Armani%20%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
