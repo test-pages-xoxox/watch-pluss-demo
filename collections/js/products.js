@@ -3639,10 +3639,10 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Versace  unisex Fiber Sunglasses Generic ",
-        "slug": "versace-unisex-fiber-sunglasses-generic-9ac9dd1bf6bc",
-        "sku": "Ver",
-        "brand": "Versace ",
+        "name": "Oakley Polorised Unisex Fiber Sunglasses Generic ",
+        "slug": "oakley-polorised-unisex-fiber-sunglasses-generic-974d1b221bae",
+        "sku": "Ok",
+        "brand": "Oakley",
         "badge": "Trending ",
         "availability": "In stock ",
         "description": "",
@@ -3653,14 +3653,14 @@ const products = [
             "new": "₹950"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-unisex-fiber-sunglasses-generic-9ac9dd1bf6bc/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-unisex-fiber-sunglasses-generic-9ac9dd1bf6bc/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/oakley-polorised-unisex-fiber-sunglasses-generic-974d1b221bae/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/oakley-polorised-unisex-fiber-sunglasses-generic-974d1b221bae/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-unisex-fiber-sunglasses-generic-9ac9dd1bf6bc/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-unisex-fiber-sunglasses-generic-9ac9dd1bf6bc/other2.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/oakley-polorised-unisex-fiber-sunglasses-generic-974d1b221bae/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/oakley-polorised-unisex-fiber-sunglasses-generic-974d1b221bae/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Versace%20%20unisex%20Fiber%20Sunglasses%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dversace-unisex-fiber-sunglasses-generic-9ac9dd1bf6bc%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Versace%20%20unisex%20Fiber%20Sunglasses%20Generic%20%0ASKU%3A%20Ver%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Oakley%20Polorised%20Unisex%20Fiber%20Sunglasses%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Doakley-polorised-unisex-fiber-sunglasses-generic-974d1b221bae%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Oakley%20Polorised%20Unisex%20Fiber%20Sunglasses%20Generic%20%0ASKU%3A%20Ok%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
