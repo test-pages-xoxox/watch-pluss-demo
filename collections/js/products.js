@@ -3662,5 +3662,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Oakley%20Polorised%20Unisex%20Fiber%20Sunglasses%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Doakley-polorised-unisex-fiber-sunglasses-generic-974d1b221bae%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Oakley%20Polorised%20Unisex%20Fiber%20Sunglasses%20Generic%20%0ASKU%3A%20Ok%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "*Emporio Armani Antonio Generic ",
+        "slug": "emporio-armani-antonio-generic-4f02f31d6235",
+        "sku": "Armani ",
+        "brand": "Emporio Armani ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "All Working Chronograph\r\n- Date Counter\r\n- 24 Hour clock\r\n- 60 Mins stop watch\r\n- All time Running Seconds\r\n- Stop Watch reset option\r\n- IGP Colour coating with no fading & rusting.\r\n- Stainless Steel Built up.\r\n- *100% Quality & Reliable Quartz Chronograph machinery",
+        "details": "",
+        "tags": "armani,formal,men,chain",
+        "price": {
+            "old": "₹3800",
+            "new": "₹1900"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-antonio-generic-4f02f31d6235/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-antonio-generic-4f02f31d6235/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-antonio-generic-4f02f31d6235/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20%2AEmporio%20Armani%20Antonio%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-antonio-generic-4f02f31d6235%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20%2AEmporio%20Armani%20Antonio%20Generic%20%0ASKU%3A%20Armani%20%0APrice%3A%20%E2%82%B91900%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
