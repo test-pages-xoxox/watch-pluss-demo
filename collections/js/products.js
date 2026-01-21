@@ -3791,5 +3791,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Cartier%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcartier-women-s-generic-cfe3489d9cba%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Cartier%20Women%27s%20Generic%20%0ASKU%3A%20Cr%0APrice%3A%20%E2%82%B91500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil Automatic Generic ",
+        "slug": "fossil-automatic-generic-d45fff7f5882",
+        "sku": "Fossil ",
+        "brand": "Fossil ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Brand-Fossil \r\nModel-FSA\r\nQuality-7a\r\nCase Size: 42mm\r\nMovement: Automatic\r\nStrap Material:Metal\r\nWater Resistance: 10 ATM\r\nCase Color:Black \r\nCase Material: Stainless Steel\r\nDial Colour:Black \r\n",
+        "details": "",
+        "tags": "fossil,formal,chain,men",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2200"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-generic-d45fff7f5882/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-generic-d45fff7f5882/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-automatic-generic-d45fff7f5882/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-automatic-generic-d45fff7f5882%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Automatic%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
