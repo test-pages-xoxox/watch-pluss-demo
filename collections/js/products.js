@@ -3894,13 +3894,13 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Burberry  Unisex  Fiber Generic ",
-        "slug": "burberry-unisex-fiber-generic-25aa703b8082",
+        "name": "Celine  Unisex Metal stick Generic ",
+        "slug": "celine-unisex-metal-stick-generic-716cb6e64272",
         "sku": "Sun",
-        "brand": "Burberry ",
+        "brand": "Celine ",
         "badge": "Trending ",
         "availability": "In stock ",
-        "description": "New arrivals\r\nBurberry \r\nUnisex \r\nFiber ",
+        "description": "",
         "details": "",
         "tags": "sunglasses",
         "price": {
@@ -3908,14 +3908,16 @@ const products = [
             "new": "₹950"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/burberry-unisex-fiber-generic-25aa703b8082/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/burberry-unisex-fiber-generic-25aa703b8082/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/celine-unisex-metal-stick-generic-716cb6e64272/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/celine-unisex-metal-stick-generic-716cb6e64272/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/burberry-unisex-fiber-generic-25aa703b8082/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/burberry-unisex-fiber-generic-25aa703b8082/other2.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/celine-unisex-metal-stick-generic-716cb6e64272/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/celine-unisex-metal-stick-generic-716cb6e64272/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/celine-unisex-metal-stick-generic-716cb6e64272/other3.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/celine-unisex-metal-stick-generic-716cb6e64272/other4.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Burberry%20%20Unisex%20%20Fiber%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dburberry-unisex-fiber-generic-25aa703b8082%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Burberry%20%20Unisex%20%20Fiber%20Generic%20%0ASKU%3A%20Sun%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Celine%20%20Unisex%20Metal%20stick%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dceline-unisex-metal-stick-generic-716cb6e64272%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Celine%20%20Unisex%20Metal%20stick%20Generic%20%0ASKU%3A%20Sun%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
