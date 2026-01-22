@@ -3919,5 +3919,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Celine%20%20Unisex%20Metal%20stick%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dceline-unisex-metal-stick-generic-716cb6e64272%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Celine%20%20Unisex%20Metal%20stick%20Generic%20%0ASKU%3A%20Sun%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Emporio Armani Automatic Generic ",
+        "slug": "emporio-armani-automatic-generic-b17e61bfc6ad",
+        "sku": "Armani ",
+        "brand": "Emporio Armani ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Brand - Armani Exchange \r\n# For - Men\r\n# Quality - 7AA Premium Automatic Collection \r\n# Model - Hampton Automatic\r\n# Case Size - 43mm",
+        "details": "",
+        "tags": "armani,formal,men,chain",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2300"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-automatic-generic-b17e61bfc6ad/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-automatic-generic-b17e61bfc6ad/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-automatic-generic-b17e61bfc6ad/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-automatic-generic-b17e61bfc6ad%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20Automatic%20Generic%20%0ASKU%3A%20Armani%20%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
