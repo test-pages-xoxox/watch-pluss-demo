@@ -3844,28 +3844,27 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Hublot Men's Collection Generic ",
-        "slug": "hublot-men-s-collection-generic-8adaf6f92124",
-        "sku": "Hublot ",
-        "brand": "Hublot ",
+        "name": "Emporio Armani Women's Generic ",
+        "slug": "emporio-armani-women-s-generic-25970c7f404a",
+        "sku": "Armani ",
+        "brand": "Emporio Armani ",
         "badge": "Hot ",
         "availability": "In stock ",
-        "description": "Hublot  \r\n* Big Bang\r\n* 7AAA\r\n* Original model\r\n* For men\r\n* Feature;\r\n-All chronos working \r\n-Black leather strap\r\n-Display- Analog\r\n-Date indicator \r\n-Heavy machinery \r\n-stopwatch \r\n-Working Chronograph \r\n-Black dial with black case\r\n-*High end quality battery operated machine",
+        "description": "Emporio Armani\r\n* For her\r\n* 7AAA Premium collection \r\n* Original model\r\n* Feature;\r\n-12 hr dial\r\n-Slim white dial\r\n-Round case\r\n-white ceramic chain\r\n-solid back steel \r\n-High end quality battery operated machine ",
         "details": "",
-        "tags": "hublot,formal,men",
+        "tags": "women-armani,formal,women,chain",
         "price": {
-            "old": "₹4700",
-            "new": "₹1900"
+            "old": "₹2300",
+            "new": "₹1500"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-men-s-collection-generic-8adaf6f92124/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-men-s-collection-generic-8adaf6f92124/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-women-s-generic-25970c7f404a/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-women-s-generic-25970c7f404a/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-men-s-collection-generic-8adaf6f92124/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-men-s-collection-generic-8adaf6f92124/other2.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-women-s-generic-25970c7f404a/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hublot%20Men%27s%20Collection%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dhublot-men-s-collection-generic-8adaf6f92124%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Hublot%20Men%27s%20Collection%20Generic%20%0ASKU%3A%20Hublot%20%0APrice%3A%20%E2%82%B91900%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-women-s-generic-25970c7f404a%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20Women%27s%20Generic%20%0ASKU%3A%20Armani%20%0APrice%3A%20%E2%82%B91500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
