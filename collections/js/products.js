@@ -3974,31 +3974,27 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Fossil Leather Generic ",
-        "slug": "fossil-leather-generic-1d35703285f9",
-        "sku": "Fossil ",
-        "brand": "Fossil ",
+        "name": "Daniel Wellington Couple Generic ",
+        "slug": "daniel-wellington-couple-generic-c953ed87aeae",
+        "sku": "Couples ",
+        "brand": "Daniel Wellington ",
         "badge": "Hot",
         "availability": "In stock ",
-        "description": "Premium Craftsmanship & Elegant Design ✨\r\n\t•\t✅ Silver gold rose gold blck Stainless Steel Bracelet – A Classy Statement\r\n\t•\t\r\n\t•\t✅ Fully Functional Chronograph with 24-Hour Display\r\n\t•\t✅ Sleek Gold Bezel & Durable Scratch-Resistant Glass\r\n\t•\t✅ Water & Splash Resistant – Built for Everyday Elegance",
+        "description": "",
         "details": "",
-        "tags": "fossil,formal,leather,men",
+        "tags": "couple",
         "price": {
-            "old": "₹2300",
-            "new": "₹1700"
+            "old": "₹4700",
+            "new": "₹2500"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-leather-generic-1d35703285f9/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-leather-generic-1d35703285f9/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/daniel-wellington-couple-generic-c953ed87aeae/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/daniel-wellington-couple-generic-c953ed87aeae/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-leather-generic-1d35703285f9/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-leather-generic-1d35703285f9/other2.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-leather-generic-1d35703285f9/other3.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-leather-generic-1d35703285f9/other4.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-leather-generic-1d35703285f9/other5.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/daniel-wellington-couple-generic-c953ed87aeae/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Leather%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-leather-generic-1d35703285f9%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Leather%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Daniel%20Wellington%20Couple%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Ddaniel-wellington-couple-generic-c953ed87aeae%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Daniel%20Wellington%20Couple%20Generic%20%0ASKU%3A%20Couples%20%0APrice%3A%20%E2%82%B92500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
