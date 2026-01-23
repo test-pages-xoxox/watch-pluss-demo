@@ -3944,5 +3944,32 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-automatic-generic-b17e61bfc6ad%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20Automatic%20Generic%20%0ASKU%3A%20Armani%20%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Armani exchange Generic ",
+        "slug": "armani-exchange-generic-ca2e64101807",
+        "sku": "Armani ",
+        "brand": "Armani ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Date & day  wrkng\r\nPremium quality \r\nOriginal look 👀 \r\nFor - Men's\r\n100% Quality & reliable quartz movement machinery \r\nStainless Steel \r\nSmart Fit  adjustable metal strap\r\nOriginal Clasp Lock\r\n*No colour fading and rusting* ✅",
+        "details": "",
+        "tags": "armani,formal,men,chain",
+        "price": {
+            "old": "₹3800",
+            "new": "₹1700"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-generic-ca2e64101807/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-generic-ca2e64101807/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-generic-ca2e64101807/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-generic-ca2e64101807/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-generic-ca2e64101807/other3.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Armani%20exchange%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Darmani-exchange-generic-ca2e64101807%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Armani%20exchange%20Generic%20%0ASKU%3A%20Armani%20%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
