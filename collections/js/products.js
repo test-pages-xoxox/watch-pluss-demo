@@ -4025,27 +4025,28 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Hugo Boss Generic ",
-        "slug": "hugo-boss-generic-30cd2fbe4e1d",
-        "sku": "Boos",
-        "brand": "Boss",
-        "badge": "Trending ",
+        "name": "Michael Kors Generic ",
+        "slug": "michael-kors-generic-4b2ee4e47974",
+        "sku": "Michael ",
+        "brand": "Michael Kors ",
+        "badge": "Hot",
         "availability": "In stock ",
-        "description": "Hugo Boss\r\n* For men\r\n* 7A\r\n* Original model\r\n* Feature-\r\n-12 hr dial\r\n-Round case\r\n-solid back steel \r\n-stainless steel case\r\n-Working Chronograph\r\n-Date indicator \r\n-Quartz movement \r\n-Black dial with black case\r\n-Case thickness 12.00mm\r\n-Sapphire glass\r\n-Full black fibre strap\r\n-Guaranteed Heavy quality machinery\r\n",
+        "description": "Michael Kors\r\n* For men\r\n* 7AAA PREMIUM COLLECTION \r\n* Original model\r\n* Feature-\r\n-Round case \r\n-12 hr dial\r\n-Slim Fit dial\r\n-Dial size-44 mm\r\n-Solid stainless  chain\r\n-Quartz movement \r\n-Water resistant upto 5ATM \r\n-scratch resistant chain\r\n-High end quality battery operated machine",
         "details": "",
-        "tags": "men,formal",
+        "tags": "men,formal,chain",
         "price": {
-            "old": "₹2600",
-            "new": "₹1700"
+            "old": "₹3800",
+            "new": "₹2300"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hugo-boss-generic-30cd2fbe4e1d/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hugo-boss-generic-30cd2fbe4e1d/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/michael-kors-generic-4b2ee4e47974/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/michael-kors-generic-4b2ee4e47974/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hugo-boss-generic-30cd2fbe4e1d/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/michael-kors-generic-4b2ee4e47974/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/michael-kors-generic-4b2ee4e47974/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hugo%20Boss%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dhugo-boss-generic-30cd2fbe4e1d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Hugo%20Boss%20Generic%20%0ASKU%3A%20Boos%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Michael%20Kors%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dmichael-kors-generic-4b2ee4e47974%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Michael%20Kors%20Generic%20%0ASKU%3A%20Michael%20%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
