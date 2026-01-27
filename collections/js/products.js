@@ -3999,27 +3999,28 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Rolex Fully Automatic Machine Generic ",
-        "slug": "rolex-fully-automatic-machine-generic-0e2cd794cf2e",
-        "sku": "Rx",
-        "brand": "Rolex ",
-        "badge": "Trending ",
+        "name": "Hublot Big Bang Generic ",
+        "slug": "hublot-big-bang-generic-3defe9af7b0d",
+        "sku": "Hublot ",
+        "brand": "Hublot ",
+        "badge": "Hot",
         "availability": "In stock ",
-        "description": "Rolex\r\n* For men\r\n* 7AAA PREMIUM COLLECTION \r\n* Original model\r\n* Feature;\r\n-Case shape- Round \r\n-Band material- stainless chain (scratch less)\r\n-Display- Analog,\r\n-Date indicator\r\n-12 hr dial \r\n-Fully automatic\r\n-Heavy lock with heavy machinery",
+        "description": "Hublot  \r\n* Big Bang❤\r\n* 7AAA\r\n* Original model\r\n* For men\r\n* Feature;\r\n-All chronos working \r\n- Five hand dials\r\n-Rosegold and black stainless chain\r\n-Display- Analog\r\n-Date indicator \r\n-Heavy machinery \r\n-Stopwatch working \r\n-High end quality battery operated machine ",
         "details": "",
-        "tags": "rolex,formal,chain,men",
+        "tags": "hublot,formal,men,chain",
         "price": {
-            "old": "₹3800",
+            "old": "₹4700",
             "new": "₹2600"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-fully-automatic-machine-generic-0e2cd794cf2e/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-fully-automatic-machine-generic-0e2cd794cf2e/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-big-bang-generic-3defe9af7b0d/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-big-bang-generic-3defe9af7b0d/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-fully-automatic-machine-generic-0e2cd794cf2e/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-big-bang-generic-3defe9af7b0d/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-big-bang-generic-3defe9af7b0d/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Fully%20Automatic%20Machine%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-fully-automatic-machine-generic-0e2cd794cf2e%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Fully%20Automatic%20Machine%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hublot%20Big%20Bang%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dhublot-big-bang-generic-3defe9af7b0d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Hublot%20Big%20Bang%20Generic%20%0ASKU%3A%20Hublot%20%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
