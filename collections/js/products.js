@@ -4025,28 +4025,28 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Michael Kors Generic ",
-        "slug": "michael-kors-generic-4b2ee4e47974",
-        "sku": "Michael ",
-        "brand": "Michael Kors ",
+        "name": "Rado Men Generic ",
+        "slug": "rado-men-generic-6a87e19ae680",
+        "sku": "Rado",
+        "brand": "rado",
         "badge": "Hot",
         "availability": "In stock ",
-        "description": "Michael Kors\r\n* For men\r\n* 7AAA PREMIUM COLLECTION \r\n* Original model\r\n* Feature-\r\n-Round case \r\n-12 hr dial\r\n-Slim Fit dial\r\n-Dial size-44 mm\r\n-Solid stainless  chain\r\n-Quartz movement \r\n-Water resistant upto 5ATM \r\n-scratch resistant chain\r\n-High end quality battery operated machine",
+        "description": "RADO\r\n* For men\r\n* 7AAA PREMIUM COLLECTION \r\n* Original Model\r\n* Feature:\r\n-case:rectangular shape, likely high-tech ceramic or stainless steel with gold PVD\r\n-Dial: Gold with diamond markers, luminous accents, and Rado logo\r\n-Bracelet: Jubilee-style, gold striped links with polished deployment clasp.\r\n-High end quality Japanese battery operated machine ✅\r\n✅Original rado print lock\r\n",
         "details": "",
-        "tags": "men,formal,chain",
+        "tags": "rado,formal,chain,men",
         "price": {
             "old": "₹3800",
-            "new": "₹2300"
+            "new": "₹2100"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/michael-kors-generic-4b2ee4e47974/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/michael-kors-generic-4b2ee4e47974/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rado-men-generic-6a87e19ae680/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rado-men-generic-6a87e19ae680/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/michael-kors-generic-4b2ee4e47974/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/michael-kors-generic-4b2ee4e47974/other2.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rado-men-generic-6a87e19ae680/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rado-men-generic-6a87e19ae680/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Michael%20Kors%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dmichael-kors-generic-4b2ee4e47974%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Michael%20Kors%20Generic%20%0ASKU%3A%20Michael%20%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rado%20Men%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drado-men-generic-6a87e19ae680%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rado%20Men%20Generic%20%0ASKU%3A%20Rado%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
