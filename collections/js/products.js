@@ -4051,28 +4051,28 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Patek Philips Generic ",
-        "slug": "patek-philips-generic-87b12a87cc40",
-        "sku": "Pk",
-        "brand": "Patek philippe",
+        "name": "Tissot collection Generic ",
+        "slug": "tissot-collection-generic-ddb875d792d4",
+        "sku": "Tissot ",
+        "brand": "Tissot ",
         "badge": "Hot",
         "availability": "In stock ",
-        "description": "PATEK PHILIPPE \r\n* For Men\r\n* 7AA Premium  Automatic collection \r\n* Rotating Tourbillon Machinery\r\n* Dial Size-42mm",
+        "description": "Dial size-42mm\r\n➡️12 Hour Analog\r\n➡️Date Counter\r\n➡️Black  Strap\r\n➡️Rust Free stainless steel body\r\n➡️Water Resistant\r\n➡️Scratch-resistant sapphire crystal Glass\r\n➡️High end quality battery operated machine \r\n",
         "details": "",
-        "tags": "patek,formal,chain,men",
+        "tags": "tissot,formal,men",
         "price": {
-            "old": "₹3800",
-            "new": "₹2500"
+            "old": "₹3200",
+            "new": "₹1700"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philips-generic-87b12a87cc40/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philips-generic-87b12a87cc40/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-collection-generic-ddb875d792d4/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-collection-generic-ddb875d792d4/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philips-generic-87b12a87cc40/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philips-generic-87b12a87cc40/other2.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-collection-generic-ddb875d792d4/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-collection-generic-ddb875d792d4/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20Philips%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-philips-generic-87b12a87cc40%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20Philips%20Generic%20%0ASKU%3A%20Pk%0APrice%3A%20%E2%82%B92500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20collection%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtissot-collection-generic-ddb875d792d4%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20collection%20Generic%20%0ASKU%3A%20Tissot%20%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
