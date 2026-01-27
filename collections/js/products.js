@@ -4124,5 +4124,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20collection%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtissot-collection-generic-43fa0bf824ac%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20collection%20Generic%20%0ASKU%3A%20Tissot%20%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil Women's Generic ",
+        "slug": "fossil-women-s-generic-46916fe5857b",
+        "sku": "Fo",
+        "brand": "Fossil ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Silver White  Dial\r\n- Multifunction Day,Date,24hours Crhonograph\r\n- Clear White dial\r\n- Stainless steel rust free Silver bracelet\r\n- Elegant Silver Diamond Studded Bezel\r\n- Original branding clasp lock\r\n- *Original Battery Operated Chronograph Machinery",
+        "details": "",
+        "tags": "women-chain, women-formal,women-fossil,women",
+        "price": {
+            "old": "₹3800",
+            "new": "₹1600"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-women-s-generic-46916fe5857b/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-women-s-generic-46916fe5857b/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-women-s-generic-46916fe5857b/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-women-s-generic-46916fe5857b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Women%27s%20Generic%20%0ASKU%3A%20Fo%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
