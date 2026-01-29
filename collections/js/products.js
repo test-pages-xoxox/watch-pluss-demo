@@ -4334,8 +4334,8 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Prada  Unisex Fiber Size big  Wit Generic ",
-        "slug": "prada-unisex-fiber-size-big-wit-generic-70c1dde34ec3",
+        "name": "Prada  Unisex Fiber Metal body Generic ",
+        "slug": "prada-unisex-fiber-metal-body-generic-aeb6be9e3eb5",
         "sku": "Sun",
         "brand": "Prada ",
         "badge": "Trending ",
@@ -4348,11 +4348,14 @@ const products = [
             "new": "₹950"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/prada-unisex-fiber-size-big-wit-generic-70c1dde34ec3/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/prada-unisex-fiber-size-big-wit-generic-70c1dde34ec3/hover.webp",
-            "others": []
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/prada-unisex-fiber-metal-body-generic-aeb6be9e3eb5/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/prada-unisex-fiber-metal-body-generic-aeb6be9e3eb5/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/prada-unisex-fiber-metal-body-generic-aeb6be9e3eb5/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/prada-unisex-fiber-metal-body-generic-aeb6be9e3eb5/other2.webp"
+            ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Prada%20%20Unisex%20Fiber%20Size%20big%20%20Wit%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dprada-unisex-fiber-size-big-wit-generic-70c1dde34ec3%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Prada%20%20Unisex%20Fiber%20Size%20big%20%20Wit%20Generic%20%0ASKU%3A%20Sun%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Prada%20%20Unisex%20Fiber%20Metal%20body%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dprada-unisex-fiber-metal-body-generic-aeb6be9e3eb5%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Prada%20%20Unisex%20Fiber%20Metal%20body%20Generic%20%0ASKU%3A%20Sun%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
