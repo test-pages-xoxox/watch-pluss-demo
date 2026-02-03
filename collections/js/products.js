@@ -4384,25 +4384,28 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Cartier Coussin de Cartier Generic ",
-        "slug": "cartier-coussin-de-cartier-generic-cdbec3b7c9dc",
-        "sku": "Cr",
-        "brand": "Cartier",
+        "name": "Tommy Hilfiger  TH1710401 Generic ",
+        "slug": "tommy-hilfiger-th1710401-generic-ee1a2c1d369b",
+        "sku": "Tom",
+        "brand": "Tommy Hilfiger",
         "badge": "Hot",
         "availability": "In stock ",
-        "description": "Working 12 Hour Analog\r\n- 3 Hand White Face\r\n- Cartier Signature elements with roman numerals\r\n- Double Lined diamond studded bezel\r\n- Crown with blue cabochon\r\n- Gold Silver Stainless steel belt\r\n- *100% Quality & Reliable Quartz machinery",
-        "details": "",
-        "tags": "women-chain, women-formal,women",
+        "description": "",
+        "details": "✅ *Functional yet fashionable, the Kane exudes effortless style—ideal for anyone who wants to look polished without overdoing it.* ✅\r\n\r\n# Brand - Tommy Hilfiger \r\n# For - Men's \r\n# Quality - 7AA Premium Collection\r\n# Model - Kane Collection \r\n# Model No. - TH1710401\r\n# Case Size - 44mm\r\n# Warranty - 1 Year Machine\r\n\r\n*TOMMY HILFIGER IS SURE TO ELEVATE YOUR LOOK* 🤩\r\n\r\n- All Working Chronograph\r\n- Roman Indices \r\n- 5 Hand Face\r\n- Blue Multi-Functional Chronograph Dial\r\n- Stainless Steel Body and 3 link bracelet\r\n- IGP Colour coating with no fading and rusting\r\n- *100% Reliable and Quality Quartz Chronograph machinery* 💯\r\n\r\nAvailable @ Rs ~1399~ 1299/- Free Shipping only\r\n\r\n➡️ *Packed in Tommy Hilfiger Premium Hard Case Leather Brand Name Box*\r\n➡️ *1 Year sellers Warranty for machinery.* \r\n➡️ *Same Day Shipping*\r\n➡️ *COD Available*",
+        "tags": "tommy,formal,men",
         "price": {
-            "old": "₹4700",
-            "new": "₹1800"
+            "old": "₹3200",
+            "new": "₹1750"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-coussin-de-cartier-generic-cdbec3b7c9dc/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-coussin-de-cartier-generic-cdbec3b7c9dc/hover.webp",
-            "others": []
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-th1710401-generic-ee1a2c1d369b/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-th1710401-generic-ee1a2c1d369b/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-th1710401-generic-ee1a2c1d369b/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-th1710401-generic-ee1a2c1d369b/other2.webp"
+            ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Cartier%20Coussin%20de%20Cartier%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcartier-coussin-de-cartier-generic-cdbec3b7c9dc%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Cartier%20Coussin%20de%20Cartier%20Generic%20%0ASKU%3A%20Cr%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20%20TH1710401%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtommy-hilfiger-th1710401-generic-ee1a2c1d369b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tommy%20Hilfiger%20%20TH1710401%20Generic%20%0ASKU%3A%20Tom%0APrice%3A%20%E2%82%B91750%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
