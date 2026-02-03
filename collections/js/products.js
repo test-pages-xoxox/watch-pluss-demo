@@ -4381,5 +4381,28 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hublot%20Classic%20Men%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dhublot-classic-men-s-generic-7049b3c5fa72%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Hublot%20Classic%20Men%27s%20Generic%20%0ASKU%3A%20Hub%0APrice%3A%20%E2%82%B93200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Cartier Coussin de Cartier Generic ",
+        "slug": "cartier-coussin-de-cartier-generic-cdbec3b7c9dc",
+        "sku": "Cr",
+        "brand": "Cartier",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Working 12 Hour Analog\r\n- 3 Hand White Face\r\n- Cartier Signature elements with roman numerals\r\n- Double Lined diamond studded bezel\r\n- Crown with blue cabochon\r\n- Gold Silver Stainless steel belt\r\n- *100% Quality & Reliable Quartz machinery",
+        "details": "",
+        "tags": "women-chain, women-formal,women",
+        "price": {
+            "old": "₹4700",
+            "new": "₹1800"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-coussin-de-cartier-generic-cdbec3b7c9dc/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-coussin-de-cartier-generic-cdbec3b7c9dc/hover.webp",
+            "others": []
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Cartier%20Coussin%20de%20Cartier%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcartier-coussin-de-cartier-generic-cdbec3b7c9dc%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Cartier%20Coussin%20de%20Cartier%20Generic%20%0ASKU%3A%20Cr%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
