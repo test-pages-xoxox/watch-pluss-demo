@@ -4410,28 +4410,27 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Cartier TANK LOUIS CARTIER WATCH Generic ",
-        "slug": "cartier-tank-louis-cartier-watch-generic-5bff3455f7b5",
-        "sku": "Cr",
-        "brand": "Cartier",
+        "name": "Emporio Armani Dial Size 32mm Generic ",
+        "slug": "emporio-armani-dial-size-32mm-generic-bee7acf8090d",
+        "sku": "Ar",
+        "brand": "Emporio Armani ",
         "badge": "Hot ",
         "availability": "In stock ",
-        "description": "Working 2 Hand Face\r\n- Case in Rose-Gold \r\n- Beaded Crown Set With A Sapphire Cabochon\r\n- White Beaded Dial\r\n- Blued-Steel Sword-Shaped Hands\r\n- Strap In Semi-Matt Brown Alligator Skin\r\n- *100% reliable and trusted battery operated Machinery",
+        "description": "Working 3 Hand Face\r\n- 12 Hour Analog\r\n- Round Shape Case\r\n- Rose Gold Elegant And Decent Diamond Dial\r\n- Armani Dedicated Logo\r\n- Rose Gold Stainless Steel bracelet\r\n- Original Steel Clasp Lock\r\n- *100% Quality & Reliable high quality battery operated machinery",
         "details": "",
-        "tags": "men,formal,leather",
+        "tags": "women-chain, women-formal,women,women-armani",
         "price": {
-            "old": "₹3200",
-            "new": "₹1800"
+            "old": "₹2300",
+            "new": "₹1299"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-tank-louis-cartier-watch-generic-5bff3455f7b5/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-tank-louis-cartier-watch-generic-5bff3455f7b5/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-dial-size-32mm-generic-bee7acf8090d/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-dial-size-32mm-generic-bee7acf8090d/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-tank-louis-cartier-watch-generic-5bff3455f7b5/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-tank-louis-cartier-watch-generic-5bff3455f7b5/other2.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/emporio-armani-dial-size-32mm-generic-bee7acf8090d/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Cartier%20TANK%20LOUIS%20CARTIER%20WATCH%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcartier-tank-louis-cartier-watch-generic-5bff3455f7b5%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Cartier%20TANK%20LOUIS%20CARTIER%20WATCH%20Generic%20%0ASKU%3A%20Cr%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20Dial%20Size%2032mm%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-dial-size-32mm-generic-bee7acf8090d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20Dial%20Size%2032mm%20Generic%20%0ASKU%3A%20Ar%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
