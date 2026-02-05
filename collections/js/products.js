@@ -4435,27 +4435,27 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Guess GW0685L3 Women's Generic ",
-        "slug": "guess-gw0685l3-women-s-generic-1f84dcb1ee0b",
-        "sku": "Guess ",
-        "brand": "Guess ",
+        "name": "Armani Exchange Hampton Automatic Generic ",
+        "slug": "armani-exchange-hampton-automatic-generic-b22d404c7c16",
+        "sku": "Armani ",
+        "brand": "Armani ",
         "badge": "Hot",
         "availability": "In stock ",
-        "description": "All Working Chronograph\r\n- Crystal-embellished bezel\r\n- Multi-function dial with date & 24-hour display\r\n- Stylish blush pink textured dial\r\n- Trusted GUESS craftsmanship\r\n- IGP Colour coating with no fading & rusting\r\n- *100% Quality & reliable quartz Chronograph machinery* \r\n",
+        "description": "Working Automatically\r\n- 3 Hand Green Face\r\n- Seconds reading mark\r\n- In-Dark Radium Needles\r\n- AX branding in dial\r\n- Skeletonised face for clear mechanism look\r\n- IGP Colour coating with no fading and rusting\r\n- *100% Reliable and quality Japanese automatic machinery*",
         "details": "",
-        "tags": "women-chain, women-formal,women",
+        "tags": "armani,formal,men,chain",
         "price": {
             "old": "₹3200",
-            "new": "₹1600"
+            "new": "₹2200"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-gw0685l3-women-s-generic-1f84dcb1ee0b/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-gw0685l3-women-s-generic-1f84dcb1ee0b/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-generic-b22d404c7c16/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-generic-b22d404c7c16/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-gw0685l3-women-s-generic-1f84dcb1ee0b/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-generic-b22d404c7c16/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Guess%20GW0685L3%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dguess-gw0685l3-women-s-generic-1f84dcb1ee0b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Guess%20GW0685L3%20Women%27s%20Generic%20%0ASKU%3A%20Guess%20%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Armani%20Exchange%20Hampton%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Darmani-exchange-hampton-automatic-generic-b22d404c7c16%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Armani%20Exchange%20Hampton%20Automatic%20Generic%20%0ASKU%3A%20Armani%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
