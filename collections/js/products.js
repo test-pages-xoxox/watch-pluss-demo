@@ -4560,27 +4560,28 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Guess Women's Generic ",
-        "slug": "guess-women-s-generic-f6282bce4f7c",
-        "sku": "Guess ",
-        "brand": "Guess ",
-        "badge": "Hot ",
+        "name": "Maserati Potenza Generic ",
+        "slug": "maserati-potenza-generic-de06160ee1d4",
+        "sku": "Mas",
+        "brand": "Maserati",
+        "badge": "Hot",
         "availability": "In stock ",
-        "description": "_GUESS_*\r\nWATCH\r\nFOR WOMEN \r\nHEADLINE GW0354L5\r\n\r\nCash daimond, Featured with golden Case color\r\nStainless steel belt with green dail\r\nCase square \r\nClasp hook silde clasp\r\nMOVMENT QUARTZ\r\n\r\n*HIGH QULITY*\r\n",
+        "description": "Maserati\r\n# For Men\r\n# 7AA Premium Collection\r\n# Model - Potenza Chronograph\r\n# Dial Size - 42mm\r\n# Water Resistant\r\n# Features following -\r\n\r\n*REFINED & ENRICHED WATCH MODEL CREATIONS* ❣️\r\n\r\n- Working 24hours\r\n- ⁠Stop Watch\r\n- Unmistakable and Elegant Design\r\n- Strength Lines on case for solid looking build up\r\n- Rose Twotone Loozer Chain\r\n- Noticeable details on stainless steel crown\r\n- Easy operational Butterfly Lock\r\n- Stainless Steel Backcover With Maserati Print\r\n- *Fuses together and making the most effective, trusted and Chronograph Original Japanese Machinery",
         "details": "",
-        "tags": "women-chain, women-formal,women",
+        "tags": "men,formal,chain",
         "price": {
-            "old": "₹2300",
-            "new": "₹1300"
+            "old": "₹3200",
+            "new": "₹1700"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-women-s-generic-f6282bce4f7c/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-women-s-generic-f6282bce4f7c/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/maserati-potenza-generic-de06160ee1d4/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/maserati-potenza-generic-de06160ee1d4/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-women-s-generic-f6282bce4f7c/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/maserati-potenza-generic-de06160ee1d4/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/maserati-potenza-generic-de06160ee1d4/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Guess%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dguess-women-s-generic-f6282bce4f7c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Guess%20Women%27s%20Generic%20%0ASKU%3A%20Guess%20%0APrice%3A%20%E2%82%B91300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Maserati%20Potenza%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dmaserati-potenza-generic-de06160ee1d4%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Maserati%20Potenza%20Generic%20%0ASKU%3A%20Mas%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
