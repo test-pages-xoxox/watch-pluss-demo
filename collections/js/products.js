@@ -4531,5 +4531,28 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Modern%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtommy-hilfiger-modern-automatic-generic-a013abece7c4%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tommy%20Hilfiger%20Modern%20Automatic%20Generic%20%0ASKU%3A%20Tom%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Rolex Full black rubber strap  Generic ",
+        "slug": "rolex-full-black-rubber-strap-generic-0fb9e5276cac",
+        "sku": "Rx",
+        "brand": "Rolex ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Rolex\r\n* For men\r\n* 7A \r\n*Original model\r\n* Feature;\r\n-Case shape- Round \r\n-Band material-Full black rubber strap \r\n-Black and gold dial \r\n-Display- Analog,\r\n-Chrono- Working, \r\n-12 hr slim fit dial \r\n-Heavy lock original",
+        "details": "",
+        "tags": "rolex,formal,men,leather",
+        "price": {
+            "old": "₹3200",
+            "new": "₹1500"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-full-black-rubber-strap-generic-0fb9e5276cac/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-full-black-rubber-strap-generic-0fb9e5276cac/hover.webp",
+            "others": []
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Full%20black%20rubber%20strap%20%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-full-black-rubber-strap-generic-0fb9e5276cac%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Full%20black%20rubber%20strap%20%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B91500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
