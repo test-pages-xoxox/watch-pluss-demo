@@ -4640,31 +4640,29 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Patek Phillipe Automatic Generic ",
-        "slug": "patek-phillipe-automatic-generic-1269fc735b32",
+        "name": "Patek Phillipe  Generic ",
+        "slug": "patek-phillipe-generic-745845930dd4",
         "sku": "Pk",
         "brand": "Patek philippe",
         "badge": "Hot",
         "availability": "In stock ",
-        "description": "PP\r\n* For men\r\n* 7A\r\n* Original model\r\n* Feature;\r\n-12 hr dial\r\n-Round case\r\n- metal strap\r\n-still case\r\n-Transparent back\r\n-Og lock\r\n-High end quality automatic operated machinery \r\n",
+        "description": "EXCLUSIVE WRIST WEAR* ❣️\r\n➡️ Working 12 Hours Analog\r\n➡️ Super slim dial  \r\n➡️QUartz movement \r\n➡️Solid back stell\r\n➡️High quality battery operated machine",
         "details": "",
         "tags": "patek,formal,chain,men",
         "price": {
-            "old": "₹3800",
-            "new": "₹2300"
+            "old": "₹3200",
+            "new": "₹1800"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-1269fc735b32/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-1269fc735b32/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-generic-745845930dd4/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-generic-745845930dd4/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-1269fc735b32/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-1269fc735b32/other2.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-1269fc735b32/other3.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-1269fc735b32/other4.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-1269fc735b32/other5.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-generic-745845930dd4/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-generic-745845930dd4/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-generic-745845930dd4/other3.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20Phillipe%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-phillipe-automatic-generic-1269fc735b32%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20Phillipe%20Automatic%20Generic%20%0ASKU%3A%20Pk%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20Phillipe%20%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-phillipe-generic-745845930dd4%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20Phillipe%20%20Generic%20%0ASKU%3A%20Pk%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
