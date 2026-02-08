@@ -4664,5 +4664,33 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20Phillipe%20%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-phillipe-generic-745845930dd4%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20Phillipe%20%20Generic%20%0ASKU%3A%20Pk%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Patek Phillipe  Generic ",
+        "slug": "patek-phillipe-generic-cebc29d61142",
+        "sku": "Pk",
+        "brand": "Patek philippe",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Brand: Patek Philippe Genève\r\n\t•\tType: Luxury analog wristwatch\r\n\t•\tDial: Artistic scenic dial (forest & deer motif)\r\n\t•\tCase Shape: Oval / Cushion-style\r\n\t•\tStrap: Premium dark leather strap\r\n\t•\tStyle: Elegant, artistic & exclusive\r\n\t•\tIdeal For: Luxury wear, collectors, special occasions",
+        "details": "",
+        "tags": "patek,formal,leather,men",
+        "price": {
+            "old": "₹3200",
+            "new": "₹1700"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-generic-cebc29d61142/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-generic-cebc29d61142/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-generic-cebc29d61142/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-generic-cebc29d61142/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-generic-cebc29d61142/other3.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-generic-cebc29d61142/other4.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20Phillipe%20%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-phillipe-generic-cebc29d61142%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20Phillipe%20%20Generic%20%0ASKU%3A%20Pk%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
