@@ -4696,5 +4696,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20Phillipe%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-phillipe-automatic-generic-5acd354cad89%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20Phillipe%20Automatic%20Generic%20%0ASKU%3A%20Pk%0APrice%3A%20%E2%82%B92500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Rolex Submariner Skeleton Face Automatic Series Generic ",
+        "slug": "rolex-submariner-skeleton-face-automatic-series-generic-fcf3e8a8fe9d",
+        "sku": "Rx",
+        "brand": "Rolex ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Rolex\r\n# For Men\r\n# 7AA Premium Collection\r\n# Submariner Skeleton Face Automatic Series\r\n# Dial Size - 41mm\r\n# Features follows -\r\n\r\n- Working Automatically \r\n- 12 Hour analog\r\n- Date counter \r\n- Water resistant\r\n- *Stainless steel 3 Link Luxury Silver Gold wrist adjustable bracelet*\r\n- Luxurious Open Heart dial \r\n- Heavy original Rolex double buckle lock\r\n- *100% Original Japanese Automatic smooth movement machinery",
+        "details": "",
+        "tags": "rolex,formal,chain,men",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2600"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-submariner-skeleton-face-automatic-series-generic-fcf3e8a8fe9d/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-submariner-skeleton-face-automatic-series-generic-fcf3e8a8fe9d/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-submariner-skeleton-face-automatic-series-generic-fcf3e8a8fe9d/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-submariner-skeleton-face-automatic-series-generic-fcf3e8a8fe9d/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Submariner%20Skeleton%20Face%20Automatic%20Series%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-submariner-skeleton-face-automatic-series-generic-fcf3e8a8fe9d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Submariner%20Skeleton%20Face%20Automatic%20Series%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
