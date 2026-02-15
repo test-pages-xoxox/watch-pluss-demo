@@ -4751,27 +4751,25 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Seiko Nautilus Automatic Generic ",
-        "slug": "seiko-nautilus-automatic-generic-af4a89286992",
-        "sku": "Sk",
-        "brand": "Seiko",
+        "name": "Guess Headline Chronograph Generic ",
+        "slug": "guess-headline-chronograph-generic-d3ec243def3d",
+        "sku": "Gus",
+        "brand": "Guess ",
         "badge": "Hot ",
         "availability": "In stock ",
-        "description": "",
-        "details": "Brand-Seiko\r\nModel-Nautilus\r\nQuality-7a\r\nGender-Men's\r\nStrap-Silver \r\nDial-Oval \r\nMovement-*Automatic*\r\nCase Diameter-42mm\r\nCase Thickness-10mm\r\nGlass- Sapphire\r\nLock-Fold over",
-        "tags": "men,formal,chain,seiko",
+        "description": "Brand - Guess\r\nModel - Headline Chronograph\r\nQuality - 7AA Premium Collection \r\nDial Size - 42mm\r\nStainless Steel Body\r\n100% quality & reliable quartz Chronograph Machinery \r\nStainless Steel Black Body \r\nSmart Fit black colour silicon Fibre strap\r\n*Packed in Guess Premium Hard Case brand name box!*\r\n*No colour fading and rusting* ✅",
+        "details": "",
+        "tags": "men,formal,leather",
         "price": {
-            "old": "₹4700",
-            "new": "₹2300"
+            "old": "₹3200",
+            "new": "₹1800"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seiko-nautilus-automatic-generic-af4a89286992/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seiko-nautilus-automatic-generic-af4a89286992/hover.webp",
-            "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seiko-nautilus-automatic-generic-af4a89286992/other1.webp"
-            ]
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-headline-chronograph-generic-d3ec243def3d/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-headline-chronograph-generic-d3ec243def3d/hover.webp",
+            "others": []
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Seiko%20Nautilus%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dseiko-nautilus-automatic-generic-af4a89286992%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Seiko%20Nautilus%20Automatic%20Generic%20%0ASKU%3A%20Sk%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Guess%20Headline%20Chronograph%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dguess-headline-chronograph-generic-d3ec243def3d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Guess%20Headline%20Chronograph%20Generic%20%0ASKU%3A%20Gus%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
