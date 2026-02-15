@@ -4822,5 +4822,32 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Guess%20Women%27s%20collection%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dguess-women-s-collection-generic-f4e91904bc54%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Guess%20Women%27s%20collection%20Generic%20%0ASKU%3A%20Gus%0APrice%3A%20%E2%82%B91300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Armani Exchange Black Crystal Edition Generic ",
+        "slug": "armani-exchange-black-crystal-edition-generic-818807b91a85",
+        "sku": "Ar",
+        "brand": "Armani ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Brand - Armani Exchange \r\n# For - Her\r\n# Model - Black Crystal Edition\r\n# Case Size - 34mm\r\n# Warranty - Till Next Valentines 😉\r\n\r\n- All Working Chronograph\r\n- Date Counter\r\n- Diamond studded figures\r\n- Stainless steel black bracelet \r\n- Brand Embossed Push Button Deployment Clasp\r\n- Stop watch & 24 Hour sub dials\r\n- IGP Colour coating with no fading & rusting.\r\n- *100% quality & reliable quartz chronograph machinery.* ",
+        "details": "",
+        "tags": "armani,formal,men,chain",
+        "price": {
+            "old": "₹3800",
+            "new": "₹1900"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-black-crystal-edition-generic-818807b91a85/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-black-crystal-edition-generic-818807b91a85/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-black-crystal-edition-generic-818807b91a85/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-black-crystal-edition-generic-818807b91a85/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-black-crystal-edition-generic-818807b91a85/other3.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Armani%20Exchange%20Black%20Crystal%20Edition%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Darmani-exchange-black-crystal-edition-generic-818807b91a85%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Armani%20Exchange%20Black%20Crystal%20Edition%20Generic%20%0ASKU%3A%20Ar%0APrice%3A%20%E2%82%B91900%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
