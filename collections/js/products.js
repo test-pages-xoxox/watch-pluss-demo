@@ -4800,27 +4800,27 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Cartier Open Heart Tourbillon Generic ",
-        "slug": "cartier-open-heart-tourbillon-generic-c9af1b3fe299",
-        "sku": "Cr",
-        "brand": "Cartier",
-        "badge": "Hot",
+        "name": "Guess Women's collection Generic ",
+        "slug": "guess-women-s-collection-generic-f4e91904bc54",
+        "sku": "Gus",
+        "brand": "Guess ",
+        "badge": "Hot ",
         "availability": "In stock ",
-        "description": "Cartier\r\n# For Men\r\n# 7AA Premium Quality\r\n# Model - Open Heart Tourbillon\r\n# Dial Size - 43mm\r\n# Features Following -\r\n\r\n- 12 Hour Analog\r\n- Date Counter\r\n- White Well Defined Dial\r\n- ⁠Sun-Moon Working Face\r\n- Transparent Glass Back\r\n- Leather Smart Fit Band\r\n- Rosegold Stainless Steel Case\r\n- Patent Open Heart Dial\r\n- *100% High Quality & Reliable Original Japanese Automatic Machinery* ❣\r\n",
+        "description": "Brand - Guess \r\n# For - Her \r\n# Model - Annette\r\n# Quality - 7AA Premium Collection \r\n# Model No. - GW0861L3\r\n# Case Size - 36mm\r\n# Warranty - Till Next Valentines 😉\r\n\r\n- Working 3 Hands Analog\r\n- Rose Gold dial with logo design\r\n- Stainless Steel Rose Gold Bracelet\r\n- Glass: Mineral Crystal\r\n- Crystal-embellished bezel\r\n- IGP Colour coating with no fading & rusting.\r\n- *100% quality & reliable quartz machinery* 💯",
         "details": "",
-        "tags": "men,formal,leather",
+        "tags": "women-chain, women-formal,women",
         "price": {
-            "old": "₹4700",
-            "new": "₹2300"
+            "old": "₹2300",
+            "new": "₹1300"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-open-heart-tourbillon-generic-c9af1b3fe299/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-open-heart-tourbillon-generic-c9af1b3fe299/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-women-s-collection-generic-f4e91904bc54/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-women-s-collection-generic-f4e91904bc54/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-open-heart-tourbillon-generic-c9af1b3fe299/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-women-s-collection-generic-f4e91904bc54/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Cartier%20Open%20Heart%20Tourbillon%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcartier-open-heart-tourbillon-generic-c9af1b3fe299%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Cartier%20Open%20Heart%20Tourbillon%20Generic%20%0ASKU%3A%20Cr%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Guess%20Women%27s%20collection%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dguess-women-s-collection-generic-f4e91904bc54%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Guess%20Women%27s%20collection%20Generic%20%0ASKU%3A%20Gus%0APrice%3A%20%E2%82%B91300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
