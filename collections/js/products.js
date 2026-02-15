@@ -4800,27 +4800,27 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Longines Conquest Chronograph  Generic ",
-        "slug": "longines-conquest-chronograph-generic-0331dbf21a72",
-        "sku": "Long",
-        "brand": "Longines",
+        "name": "Cartier Open Heart Tourbillon Generic ",
+        "slug": "cartier-open-heart-tourbillon-generic-c9af1b3fe299",
+        "sku": "Cr",
+        "brand": "Cartier",
         "badge": "Hot",
         "availability": "In stock ",
-        "description": "Brand - Longines\r\n# For - Men's \r\n# Quality - 7AA Premium Collection \r\n# Model - Conquest Chronograph \r\n# Case Size - 42mm\r\n# Warranty - 1 Year Machine Warranty\r\n\r\nAll Working Chronograph\r\n- Date Counter\r\n- 6 Hands Chronograph face\r\n- Blue Sporty Face\r\n- Stainless Steel integrated bracelet\r\n- Clasp lock\r\n- IPG Colour coating with no fading and rusting\r\n- *100% Quality & Reliable quartz Chronograph machinery* 💯",
+        "description": "Cartier\r\n# For Men\r\n# 7AA Premium Quality\r\n# Model - Open Heart Tourbillon\r\n# Dial Size - 43mm\r\n# Features Following -\r\n\r\n- 12 Hour Analog\r\n- Date Counter\r\n- White Well Defined Dial\r\n- ⁠Sun-Moon Working Face\r\n- Transparent Glass Back\r\n- Leather Smart Fit Band\r\n- Rosegold Stainless Steel Case\r\n- Patent Open Heart Dial\r\n- *100% High Quality & Reliable Original Japanese Automatic Machinery* ❣\r\n",
         "details": "",
-        "tags": "men,formal,chain",
+        "tags": "men,formal,leather",
         "price": {
             "old": "₹4700",
-            "new": "₹2200"
+            "new": "₹2300"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/longines-conquest-chronograph-generic-0331dbf21a72/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/longines-conquest-chronograph-generic-0331dbf21a72/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-open-heart-tourbillon-generic-c9af1b3fe299/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-open-heart-tourbillon-generic-c9af1b3fe299/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/longines-conquest-chronograph-generic-0331dbf21a72/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-open-heart-tourbillon-generic-c9af1b3fe299/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Longines%20Conquest%20Chronograph%20%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dlongines-conquest-chronograph-generic-0331dbf21a72%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Longines%20Conquest%20Chronograph%20%20Generic%20%0ASKU%3A%20Long%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Cartier%20Open%20Heart%20Tourbillon%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcartier-open-heart-tourbillon-generic-c9af1b3fe299%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Cartier%20Open%20Heart%20Tourbillon%20Generic%20%0ASKU%3A%20Cr%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
