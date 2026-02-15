@@ -4748,5 +4748,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20Vintage%20Date%20Working%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-vintage-date-working-generic-5d9f3d96848d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20Vintage%20Date%20Working%20Generic%20%0ASKU%3A%20Casio%0APrice%3A%20%E2%82%B91100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Seiko Nautilus Automatic Generic ",
+        "slug": "seiko-nautilus-automatic-generic-af4a89286992",
+        "sku": "Sk",
+        "brand": "Seiko",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "Brand-Seiko\r\nModel-Nautilus\r\nQuality-7a\r\nGender-Men's\r\nStrap-Silver \r\nDial-Oval \r\nMovement-*Automatic*\r\nCase Diameter-42mm\r\nCase Thickness-10mm\r\nGlass- Sapphire\r\nLock-Fold over",
+        "tags": "men,formal,chain,seiko",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2300"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seiko-nautilus-automatic-generic-af4a89286992/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seiko-nautilus-automatic-generic-af4a89286992/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seiko-nautilus-automatic-generic-af4a89286992/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Seiko%20Nautilus%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dseiko-nautilus-automatic-generic-af4a89286992%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Seiko%20Nautilus%20Automatic%20Generic%20%0ASKU%3A%20Sk%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
