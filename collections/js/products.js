@@ -4725,28 +4725,28 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Patek Philippe Nautilus 5980/001R Automatic Top Notch Quality Generic ",
-        "slug": "patek-philippe-nautilus-5980-001r-automatic-top-notch-quality-generic-54e251cbe3e8",
-        "sku": "pk",
-        "brand": "Patek philippe",
+        "name": "Casio Vintage Date Working Generic ",
+        "slug": "casio-vintage-date-working-generic-5d9f3d96848d",
+        "sku": "Casio",
+        "brand": "casio ",
         "badge": "Hot ",
         "availability": "In stock ",
         "description": "",
-        "details": "",
-        "tags": "patek,formal,chain,men",
+        "details": "Most Awaited Casio Available Now\r\n\r\nVintage \r\n\r\nUnisex \r\n\r\nDate Working\r\n\r\nStainless Steel & Non Rusting Metal ",
+        "tags": "men,formal,chain",
         "price": {
-            "old": "₹8500",
-            "new": "₹5300"
+            "old": "₹1999",
+            "new": "₹1100"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philippe-nautilus-5980-001r-automatic-top-notch-quality-generic-54e251cbe3e8/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philippe-nautilus-5980-001r-automatic-top-notch-quality-generic-54e251cbe3e8/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/casio-vintage-date-working-generic-5d9f3d96848d/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/casio-vintage-date-working-generic-5d9f3d96848d/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philippe-nautilus-5980-001r-automatic-top-notch-quality-generic-54e251cbe3e8/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philippe-nautilus-5980-001r-automatic-top-notch-quality-generic-54e251cbe3e8/other2.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/casio-vintage-date-working-generic-5d9f3d96848d/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/casio-vintage-date-working-generic-5d9f3d96848d/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20Philippe%20Nautilus%205980/001R%20Automatic%20Top%20Notch%20Quality%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-philippe-nautilus-5980-001r-automatic-top-notch-quality-generic-54e251cbe3e8%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20Philippe%20Nautilus%205980/001R%20Automatic%20Top%20Notch%20Quality%20Generic%20%0ASKU%3A%20pk%0APrice%3A%20%E2%82%B95300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20Vintage%20Date%20Working%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-vintage-date-working-generic-5d9f3d96848d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20Vintage%20Date%20Working%20Generic%20%0ASKU%3A%20Casio%0APrice%3A%20%E2%82%B91100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
