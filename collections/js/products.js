@@ -4849,5 +4849,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Armani%20Exchange%20Black%20Crystal%20Edition%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Darmani-exchange-black-crystal-edition-generic-818807b91a85%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Armani%20Exchange%20Black%20Crystal%20Edition%20Generic%20%0ASKU%3A%20Ar%0APrice%3A%20%E2%82%B91900%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Armani exchange Hampton Automatic Generic ",
+        "slug": "armani-exchange-hampton-automatic-generic-b634f2f08d0a",
+        "sku": "Armani ",
+        "brand": "Armani ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Brand - Armani Exchange \r\n# For - Men\r\n# Quality - 7AA Premium Automatic Collection \r\n# Model - Hampton Automatic\r\n# Case Size - 43mm\r\n\r\n*BOLD, SOPHISTICATED & TRANSPARENT STYLE* 🤩\r\n\r\n- Working Automatically\r\n- 3 Hand Green Trending Face\r\n- Seconds reading mark\r\n- In-Dark Radium Needles\r\n- AX branding in dial\r\n- Skeletonised face for clear mechanism look\r\n- IGP Colour coating with no fading and rusting\r\n- *100% Reliable and quality Japanese automatic machinery* \r\n",
+        "details": "",
+        "tags": "armani,formal,men,chain",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2200"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-generic-b634f2f08d0a/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-generic-b634f2f08d0a/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-generic-b634f2f08d0a/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Armani%20exchange%20Hampton%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Darmani-exchange-hampton-automatic-generic-b634f2f08d0a%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Armani%20exchange%20Hampton%20Automatic%20Generic%20%0ASKU%3A%20Armani%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
