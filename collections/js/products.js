@@ -4899,5 +4899,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hugoboss%201502564%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dhugoboss-1502564-women-s-generic-ad60f404d337%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Hugoboss%201502564%20Women%27s%20Generic%20%0ASKU%3A%20Hogo%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Hublot Genève Chronograph Generic ",
+        "slug": "hublot-gen-ve-chronograph-generic-240cc0fd0559",
+        "sku": "Hub",
+        "brand": "Hublot ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Brand: Hublot\r\nModel: Genève Chronograph\r\nDial: Black with chronograph sub-dials\r\nStrap: Black rubber strap\r\nCase: Stainless steel with screw-detailed bezel\r\nFeature: Date display and stopwatch function\r\nStyle: Sporty & luxury look\r\nSuitable for: Casual and party wear",
+        "details": "",
+        "tags": "hublot,formal,men,leather",
+        "price": {
+            "old": "₹3200",
+            "new": "₹2100"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-gen-ve-chronograph-generic-240cc0fd0559/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-gen-ve-chronograph-generic-240cc0fd0559/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-gen-ve-chronograph-generic-240cc0fd0559/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hublot%20Gen%C3%A8ve%20Chronograph%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dhublot-gen-ve-chronograph-generic-240cc0fd0559%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Hublot%20Gen%C3%A8ve%20Chronograph%20Generic%20%0ASKU%3A%20Hub%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
