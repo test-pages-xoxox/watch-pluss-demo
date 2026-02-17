@@ -4983,5 +4983,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rayban%20%20Pure%20glass%20%20Metal%20frame%20%20Unisex%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drayban-pure-glass-metal-frame-unisex-generic-b021732d2566%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rayban%20%20Pure%20glass%20%20Metal%20frame%20%20Unisex%20Generic%20%0ASKU%3A%20Sun%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Tissot PRX 42mm Japan Quality Generic ",
+        "slug": "tissot-prx-42mm-japan-quality-generic-6f7edd41707f",
+        "sku": "Tissot ",
+        "brand": "Tissot ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "Tissot\r\n✅ For Men\r\n✅Model - PRX \r\n✅ Dial Size - 42mm\r\n✅ Features following -\r\n\r\n\r\n\r\n👉🏻Date counter\r\n👉🏻 Stainless steel body and case\r\n👉🏻Slim Line following the bracelet \r\n👉🏻 Heavy built quality clasp lock ",
+        "details": "",
+        "tags": "tissot,formal,chain,men",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2900"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-prx-42mm-japan-quality-generic-6f7edd41707f/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-prx-42mm-japan-quality-generic-6f7edd41707f/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-prx-42mm-japan-quality-generic-6f7edd41707f/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20PRX%2042mm%20Japan%20Quality%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtissot-prx-42mm-japan-quality-generic-6f7edd41707f%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20PRX%2042mm%20Japan%20Quality%20Generic%20%0ASKU%3A%20Tissot%20%0APrice%3A%20%E2%82%B92900%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
