@@ -5034,5 +5034,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20PRX%2042mm%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtissot-prx-42mm-automatic-generic-f22fe7733470%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20PRX%2042mm%20Automatic%20Generic%20%0ASKU%3A%20Tissot%20%0APrice%3A%20%E2%82%B93800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Rolex Daytona Generic ",
+        "slug": "rolex-daytona-generic-6e4d1de2afac",
+        "sku": "Rx",
+        "brand": "Rolex ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Rolex\r\n* Daytona\r\n* For men\r\n* 7AA Premium collection \r\n*Original model\r\n* Feature;\r\n-Case shape- Round \r\n-Band material-Black fibre strap \r\n-Display- Analog,\r\n-Chrono- Working, \r\n-12 hr slim fit dial \r\n-Quartz movement \r\n-Heavy lock original\r\n-High end quality battery operated machine ",
+        "details": "",
+        "tags": "rolex,formal,men,leather",
+        "price": {
+            "old": "₹3200",
+            "new": "₹1700"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-daytona-generic-6e4d1de2afac/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-daytona-generic-6e4d1de2afac/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-daytona-generic-6e4d1de2afac/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-daytona-generic-6e4d1de2afac/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Daytona%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-daytona-generic-6e4d1de2afac%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Daytona%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
