@@ -5008,5 +5008,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20PRX%2042mm%20Japan%20Quality%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtissot-prx-42mm-japan-quality-generic-6f7edd41707f%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20PRX%2042mm%20Japan%20Quality%20Generic%20%0ASKU%3A%20Tissot%20%0APrice%3A%20%E2%82%B92900%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Tissot PRX 42mm Automatic Generic ",
+        "slug": "tissot-prx-42mm-automatic-generic-f22fe7733470",
+        "sku": "Tissot ",
+        "brand": "Tissot ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "Brand -Tissot \r\n✅COLLECTION T-CLASSIC \r\n✅Movement-Automatic\r\n✅Size case-42mm\r\n✅Case material-Stainless steel\r\n✅Sapphire crystal glass\r\n✅green dial colour \r\n✅stainless metal strap\r\n✅*SWISS AUTOMATIC MACHINE WITH 2 YEAR WARRANTY",
+        "details": "",
+        "tags": "tissot,formal,chain,men",
+        "price": {
+            "old": "₹6500",
+            "new": "₹3800"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-prx-42mm-automatic-generic-f22fe7733470/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-prx-42mm-automatic-generic-f22fe7733470/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-prx-42mm-automatic-generic-f22fe7733470/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-prx-42mm-automatic-generic-f22fe7733470/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20PRX%2042mm%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtissot-prx-42mm-automatic-generic-f22fe7733470%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20PRX%2042mm%20Automatic%20Generic%20%0ASKU%3A%20Tissot%20%0APrice%3A%20%E2%82%B93800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
