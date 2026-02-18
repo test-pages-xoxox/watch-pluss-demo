@@ -632,7 +632,7 @@
                         </div>
                         <div class="tf-sticky-atc-infos">
                             <div class="tf-sticky-atc-btns">
-                                <a href="#shoppingCart" class="tf-btn animate-btn btn-add-to-cart">
+                                <a href="#shoppingCart"  data-bs-toggle="offcanvas" class="tf-btn animate-btn btn-add-to-cart">
                                     Buy It Now
                                     <i class="icon icon-shopping-cart-simple"></i>
                                 </a>
@@ -762,7 +762,7 @@
                                         <li>
                                             <i class="icon icon-envelope-simple"></i>
                                             <span class="br-line"></span>
-                                            <a href="mailto:umer.qureshi.work@gmail.com" class="h6 link">umer.qureshi.work@gmail.com</a>
+                                            <a href="mailto:watchplus0909@gmail.com" class="h6 link">watchplus0909@gmail.com</a>
                                         </li>
                                     </ul>
                                     <div class="social-wrap">
@@ -1107,6 +1107,62 @@
         </div>
     </div>
     <!-- /Search -->
+
+    <!-- Shopping Cart -->
+    <div class="offcanvas offcanvas-end popup-shopping-cart" id="shoppingCart">
+        <div class="canvas-wrapper">
+            <div class="popup-header">
+                <span class="title fw-semibold h4">Address</span>
+                <span class="icon-close icon-close-popup" data-bs-dismiss="offcanvas"></span>
+            </div>
+            <div class="wrap">
+                <div class="tf-mini-cart-wrap list-file-delete wrap-empty_text">
+                    <div class="tf-mini-cart-main">
+                        <div class="tf-mini-cart-sroll">
+                            <div class="tf-mini-cart-items list-empty">
+                                <div class="box-text_empty type-shop_cart">
+                                    <form id="addressForm" class="form-contact style-border">
+
+                                        <div class="form-content">
+                                            <div class="cols tf-grid-layout sm-col-1">
+
+                                                <fieldset>
+                                                    <input id="name" type="text" placeholder="Full Name *" required>
+                                                </fieldset>
+
+                                                <fieldset>
+                                                    <input id="phone" type="tel" placeholder="Mobile Number *" required>
+                                                </fieldset>
+
+                                                <fieldset>
+                                                    <textarea id="address" rows="3" placeholder="Full Address *" required></textarea>
+                                                </fieldset>
+
+                                                <fieldset>
+                                                    <input id="zip" type="text" placeholder="Pin Code *" required>
+                                                </fieldset>
+
+                                            </div>
+                                        </div>
+
+                                        <div class="form_message text-center small text-muted mb-2">
+                                            We will confirm your order on WhatsApp
+                                        </div>
+
+                                        <button type="submit" class="tf-btn btn-fill animate-btn w-100">
+                                            Order on WhatsApp
+                                        </button>
+
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /Shopping Cart -->
 
     <!-- Javascript -->
     <script src="js/bootstrap.min.js"></script>

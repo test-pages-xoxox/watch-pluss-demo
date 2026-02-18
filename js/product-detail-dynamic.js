@@ -175,7 +175,7 @@
 
         const stickyBtn = document.querySelector(".tf-sticky-atc-btns .btn-add-to-cart");
         if (stickyBtn) {
-            stickyBtn.href = product.whatsappUrl || "#";
+            stickyBtn.href = "#shoppingCart";
             stickyBtn.target = "_blank";
             stickyBtn.rel = "noopener";
             stickyBtn.innerHTML = 'Buy on WhatsApp <i class="icon icon-shopping-cart-simple"></i>';
@@ -262,6 +262,73 @@
         if (metaDesc && description) {
             metaDesc.setAttribute("content", description);
         }
+    }
+
+    function setupAddressForm() {
+
+        const whatsappNumber = "918097949357";
+        const form = document.getElementById("addressForm");
+
+        const nameInput = document.getElementById("name");
+        const phoneInput = document.getElementById("phone");
+        const addressInput = document.getElementById("address");
+        const zipInput = document.getElementById("zip");
+
+        // ✅ Load saved address from localStorage
+        const savedAddress = JSON.parse(localStorage.getItem("userAddress"));
+        if (savedAddress) {
+            nameInput.value = savedAddress.name || "";
+            phoneInput.value = savedAddress.phone || "";
+            addressInput.value = savedAddress.address || "";
+            zipInput.value = savedAddress.zip || "";
+        }
+
+        // ✅ Save address when form changes
+        function saveAddress() {
+            const addressData = {
+                name: nameInput.value,
+                address: addressInput.value,
+                zip: zipInput.value,
+                phone: phoneInput.value
+            };
+            localStorage.setItem("userAddress", JSON.stringify(addressData));
+        }
+
+        form.addEventListener("input", saveAddress);
+
+        // ✅ On form submit
+        form.addEventListener("submit", function (e) {
+            e.preventDefault();
+
+            const name = nameInput.value.trim();
+            const phone = phoneInput.value.trim();
+            const address = addressInput.value.trim();
+            const zip = zipInput.value.trim();
+
+            if (!name || !phone || !address || !zip) {
+                alert("Please fill all required fields.");
+                return;
+            }
+
+            // Save latest address
+            saveAddress();
+
+            const productURL = window.location.href;
+
+            const message =
+                `Hello,
+Name: ${name}
+Address: ${address}, - ${zip}
+Product: ${productURL}
+
+Thank you`;
+
+            const encodedMessage = encodeURIComponent(message);
+
+            const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodedMessage}`;
+
+            window.open(whatsappURL, "_blank");
+        });
     }
 
     document.addEventListener("DOMContentLoaded", () => {
@@ -374,9 +441,9 @@
             ".tf-product-total-quantity .btn-add-to-cart"
         );
         if (buyBtn) {
-            buyBtn.href = product.whatsappUrl || "#";
-            buyBtn.target = "_blank";
+            buyBtn.href = "#shoppingCart";
             buyBtn.rel = "noopener";
+            buyBtn.setAttribute("data-bs-toggle", "offcanvas");
             buyBtn.innerHTML = 'Buy on WhatsApp <i class="icon icon-shopping-cart-simple"></i>';
         }
 
@@ -384,9 +451,9 @@
             ".tf-product-total-quantity .btn-primary"
         );
         if (buyNowBtn && product.whatsappUrl) {
-            buyNowBtn.href = product.whatsappUrl;
-            buyNowBtn.target = "_blank";
+            buyNowBtn.href = "#shoppingCart";
             buyNowBtn.rel = "noopener";
+            buyNowBtn.setAttribute("data-bs-toggle", "offcanvas");
         }
 
         const shareText = document.getElementById("coppyText");
@@ -404,6 +471,8 @@
         if (typeof lazyload !== "undefined" && typeof lazyload.update === "function") {
             lazyload.update();
         }
+
+        setupAddressForm();
     });
 })();
 
