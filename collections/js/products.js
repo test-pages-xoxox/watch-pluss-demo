@@ -5110,5 +5110,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Skechers%20ultra%20light%20og%20model%20slip%20ins%20black%20white%20mens%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dskechers-ultra-light-og-model-slip-ins-black-white-mens-generic-e724bc2f6c3b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Skechers%20ultra%20light%20og%20model%20slip%20ins%20black%20white%20mens%20Generic%20%0ASKU%3A%20Shoe%0APrice%3A%20%E2%82%B92400%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Jordan retro4 white thunder Size:41 to 45 Generic ",
+        "slug": "jordan-retro4-white-thunder-size-41-to-45-generic-db2b44040815",
+        "sku": "Shoe",
+        "brand": "Jordan",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "*Jordan retro4 white thunder*\r\n\r\n*Size:41 to 45*\r\n\r\n*Semi UA quality Imported*",
+        "details": "",
+        "tags": "shoes",
+        "price": {
+            "old": "₹5600",
+            "new": "₹2600"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/jordan-retro4-white-thunder-size-41-to-45-generic-db2b44040815/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/jordan-retro4-white-thunder-size-41-to-45-generic-db2b44040815/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/jordan-retro4-white-thunder-size-41-to-45-generic-db2b44040815/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Jordan%20retro4%20white%20thunder%20Size%3A41%20to%2045%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Djordan-retro4-white-thunder-size-41-to-45-generic-db2b44040815%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Jordan%20retro4%20white%20thunder%20Size%3A41%20to%2045%20Generic%20%0ASKU%3A%20Shoe%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
