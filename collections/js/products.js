@@ -5060,5 +5060,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Daytona%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-daytona-generic-6e4d1de2afac%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Daytona%20Generic%20%0ASKU%3A%20Rx%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Nike vomero 18 blue Size:41 to 44 Generic ",
+        "slug": "nike-vomero-18-blue-size-41-to-44-generic-e09a4e374e65",
+        "sku": "Shoe",
+        "brand": "Nike",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "*Nike vomero 18 blue*\r\n\r\n*Size:41 to 44*\r\n\r\n*Semi UA quality Imported*\r\n\r\n*Book fast*",
+        "tags": "shoes",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2499"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-vomero-18-blue-size-41-to-44-generic-e09a4e374e65/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-vomero-18-blue-size-41-to-44-generic-e09a4e374e65/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-vomero-18-blue-size-41-to-44-generic-e09a4e374e65/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Nike%20vomero%2018%20blue%20Size%3A41%20to%2044%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dnike-vomero-18-blue-size-41-to-44-generic-e09a4e374e65%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Nike%20vomero%2018%20blue%20Size%3A41%20to%2044%20Generic%20%0ASKU%3A%20Shoe%0APrice%3A%20%E2%82%B92499%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
