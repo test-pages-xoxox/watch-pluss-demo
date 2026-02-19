@@ -5089,7 +5089,7 @@ const products = [
     {
         "id": "#",
         "name": "Skechers ultra light og model slip ins black white mens Generic ",
-        "slug": "skechers-ultra-light-og-model-slip-ins-black-white-mens-generic-e724bc2f6c3b",
+        "slug": "skechers-ultra-light-og-model-slip-ins-black-white-mens-generic-3cdcdee32361",
         "sku": "Shoe",
         "brand": "Skechers ",
         "badge": "Trending ",
@@ -5102,13 +5102,13 @@ const products = [
             "new": "₹2400"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/skechers-ultra-light-og-model-slip-ins-black-white-mens-generic-e724bc2f6c3b/main.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/skechers-ultra-light-og-model-slip-ins-black-white-mens-generic-3cdcdee32361/main.webp",
             "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/skechers-ultra-light-og-model-slip-ins-black-white-mens-generic-e724bc2f6c3b/hover.webp",
             "others": [
                 "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/skechers-ultra-light-og-model-slip-ins-black-white-mens-generic-e724bc2f6c3b/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Skechers%20ultra%20light%20og%20model%20slip%20ins%20black%20white%20mens%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dskechers-ultra-light-og-model-slip-ins-black-white-mens-generic-e724bc2f6c3b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Skechers%20ultra%20light%20og%20model%20slip%20ins%20black%20white%20mens%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dskechers-ultra-light-og-model-slip-ins-black-white-mens-generic-3cdcdee32361%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Skechers%20ultra%20light%20og%20model%20slip%20ins%20black%20white%20mens%20Generic%20%0ASKU%3A%20Shoe%0APrice%3A%20%E2%82%B92400%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     },
     {
