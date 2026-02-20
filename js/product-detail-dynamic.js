@@ -273,6 +273,7 @@
         const phoneInput = document.getElementById("phone");
         const addressInput = document.getElementById("address");
         const zipInput = document.getElementById("zip");
+        const paymentModeInput = document.getElementById("payment-mode");
 
         // ✅ Load saved address from localStorage
         const savedAddress = JSON.parse(localStorage.getItem("userAddress"));
@@ -304,6 +305,7 @@
             const phone = phoneInput.value.trim();
             const address = addressInput.value.trim();
             const zip = zipInput.value.trim();
+            const payment_mode = paymentModeInput.value.trim();
 
             if (!name || !phone || !address || !zip) {
                 alert("Please fill all required fields.");
@@ -318,7 +320,9 @@
             const message =
                 `Hello,
 Name: ${name}
+Phone: ${phone}
 Address: ${address}, - ${zip}
+Payment Mode: ${payment_mode}
 Product: ${productURL}
 
 Thank you`;
