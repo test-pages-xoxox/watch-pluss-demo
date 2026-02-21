@@ -5138,27 +5138,27 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Nike Guide10 black white Generic ",
-        "slug": "nike-guide10-black-white-generic-c73fe7536346",
+        "name": "Nike Airforce1 low vachetta tan Generic ",
+        "slug": "nike-airforce1-low-vachetta-tan-generic-04d5cc9c15f3",
         "sku": "Shoe",
-        "brand": "Nike ",
+        "brand": "Nike",
         "badge": "Trending ",
         "availability": "In stock ",
-        "description": "*Nike Guide10 black white*\r\n\r\n*Size:41 to 45*\r\n\r\n*Semi UA quality Imported*",
+        "description": "*Nike Airforce1 low vachetta tan*\r\n\r\n*Size:41 to 45*\r\n\r\n*Semi UA quality Imported*\r\n",
         "details": "",
         "tags": "shoes",
         "price": {
-            "old": "₹4700",
-            "new": "₹1999"
+            "old": "₹5800",
+            "new": "₹2700"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-guide10-black-white-generic-c73fe7536346/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-guide10-black-white-generic-c73fe7536346/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-airforce1-low-vachetta-tan-generic-04d5cc9c15f3/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-airforce1-low-vachetta-tan-generic-04d5cc9c15f3/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-guide10-black-white-generic-c73fe7536346/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-airforce1-low-vachetta-tan-generic-04d5cc9c15f3/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Nike%20Guide10%20black%20white%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dnike-guide10-black-white-generic-c73fe7536346%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Nike%20Guide10%20black%20white%20Generic%20%0ASKU%3A%20Shoe%0APrice%3A%20%E2%82%B91999%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Nike%20Airforce1%20low%20vachetta%20tan%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dnike-airforce1-low-vachetta-tan-generic-04d5cc9c15f3%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Nike%20Airforce1%20low%20vachetta%20tan%20Generic%20%0ASKU%3A%20Shoe%0APrice%3A%20%E2%82%B92700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
