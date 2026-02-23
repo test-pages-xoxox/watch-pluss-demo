@@ -5160,5 +5160,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Nike%20Airforce1%20white%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dnike-airforce1-white-generic-a26cb883b10a%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Nike%20Airforce1%20white%20Generic%20%0ASKU%3A%20Shoe%0APrice%3A%20%E2%82%B91999%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Nike Airforce1 brown Generic ",
+        "slug": "nike-airforce1-brown-generic-d3b7654db93a",
+        "sku": "Sho",
+        "brand": "Nike ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "*Nike Airforce1 brown*\r\n\r\n*Size:41 to 45*\r\n\r\n*Semi UA quality Imported*",
+        "details": "",
+        "tags": "shoes",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2600"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-airforce1-brown-generic-d3b7654db93a/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-airforce1-brown-generic-d3b7654db93a/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-airforce1-brown-generic-d3b7654db93a/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Nike%20Airforce1%20brown%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dnike-airforce1-brown-generic-d3b7654db93a%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Nike%20Airforce1%20brown%20Generic%20%0ASKU%3A%20Sho%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
