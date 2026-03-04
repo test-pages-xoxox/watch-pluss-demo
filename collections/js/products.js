@@ -5283,5 +5283,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Imported%20mobile%20sling%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dimported-mobile-sling-generic-f1770c464242%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Imported%20mobile%20sling%20Generic%20%0ASKU%3A%20Bag%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil Privateer Automatic Generic ",
+        "slug": "fossil-privateer-automatic-generic-e2e64d78522c",
+        "sku": "Fossil ",
+        "brand": "Fossil ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "Fossil\r\n# For Men\r\n# 7AA Premium Collection\r\n# Model - Privateer Automatic\r\n# Dial Size - 43mm\r\n# Features following -\r\n\r\n- Working 12 Hour automatic Analog\r\n- Stainless Steel Black Dial\r\n- Brown 22 mm pure quality leather strap\r\n- Transparent Front & Back\r\n- Transparent See through Glass\r\n- Pendulum Rotate charging\r\n- Fully Automatic self wind machine\r\n- No colour issue and rusting\r\n- *Premium & Original Japanese Open Heart Automatic Engine* ❤\r\n- 100% Satisfaction ",
+        "details": "",
+        "tags": "fossil,formal,leather,men",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2200"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-privateer-automatic-generic-e2e64d78522c/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-privateer-automatic-generic-e2e64d78522c/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-privateer-automatic-generic-e2e64d78522c/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Privateer%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-privateer-automatic-generic-e2e64d78522c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Privateer%20Automatic%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
