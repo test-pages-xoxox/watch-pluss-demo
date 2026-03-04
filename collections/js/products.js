@@ -5433,5 +5433,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Versace%20Greca%20Chronograph%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dversace-greca-chronograph-generic-a28148c1121b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Versace%20Greca%20Chronograph%20Generic%20%0ASKU%3A%20Versace%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Tissot Supersport Chrono Generic ",
+        "slug": "tissot-supersport-chrono-generic-9eb58a83e660",
+        "sku": "Tissot ",
+        "brand": "Tissot ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Brand - Tissot \r\n# For - Men's \r\n# Quality - 7AA Premium Collection \r\n# Model - Supersport Chrono\r\n# Model No. - T125.617.36.081.00\r\n# Case Size - 45.5 mm\r\n# Warranty - *1 Year Machinery* ✅\r\n",
+        "details": "",
+        "tags": "tissot,formal,leather,men",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2100"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-supersport-chrono-generic-9eb58a83e660/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-supersport-chrono-generic-9eb58a83e660/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-supersport-chrono-generic-9eb58a83e660/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20Supersport%20Chrono%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtissot-supersport-chrono-generic-9eb58a83e660%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20Supersport%20Chrono%20Generic%20%0ASKU%3A%20Tissot%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
