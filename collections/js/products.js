@@ -5357,5 +5357,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Versace%20Greca%20Chronograph%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dversace-greca-chronograph-generic-c3a537c89550%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Versace%20Greca%20Chronograph%20Generic%20%0ASKU%3A%20Versace%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Rolex DateJust Generic ",
+        "slug": "rolex-datejust-generic-67cf0c069924",
+        "sku": "2600",
+        "brand": "Rolex ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Rolex\r\n# For Him\r\n# 7AA Premium Collection\r\n# DateJust\r\n# Dial Size - 41mm (Original Size) \r\n# Feature as follows -\r\n\r\n- All Working\r\n- Date Counter\r\n- 12 hour timing with trending blue motif face dial with silver elements\r\n- *Special Steel Bezel giving premium look to your wrist.*\r\n- *Pure stainless steel Dial & Case* \r\n- Silver metal belt & Heavy Branding Lock.\r\n- *100% reliable & Definite High quality Quartz smooth movement machinery.",
+        "details": "",
+        "tags": "rolex,formal,chain,men",
+        "price": {
+            "old": "₹3800",
+            "new": "₹3800"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-datejust-generic-67cf0c069924/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-datejust-generic-67cf0c069924/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-datejust-generic-67cf0c069924/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20DateJust%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-datejust-generic-67cf0c069924%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20DateJust%20Generic%20%0ASKU%3A%202600%0APrice%3A%20%E2%82%B93800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
