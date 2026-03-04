@@ -5382,5 +5382,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20DateJust%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-datejust-generic-67cf0c069924%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20DateJust%20Generic%20%0ASKU%3A%202600%0APrice%3A%20%E2%82%B93800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Scuderia Ferrari 43mm Generic ",
+        "slug": "scuderia-ferrari-43mm-generic-de5d70b21d3b",
+        "sku": "men",
+        "brand": "Ferrari ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Scuderia Ferrari\r\n# For Men\r\n# 7AA Premium Quality Collection \r\n# Dial Size - 43mm\r\n# Scuderia Ferrari Race\r\n# Feature Following-\r\n\r\n*A NEW SPORTY WRIST WATCH SERIES* ❣️\r\n\r\n- 12 Hours analog \r\n- 24 hour time\r\n- 60 min stop watch \r\n- Elegant Red Needle\r\n- Date mechanism\r\n- Black-Res smart fit sporty silicon strap\r\n- Water and dust resistant\r\n- *100% Trusted & Durable High Quality Original stop watch chronograph Machinery.* \r\n",
+        "details": "",
+        "tags": "men,formal,leather",
+        "price": {
+            "old": "₹3800",
+            "new": "₹1800"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/scuderia-ferrari-43mm-generic-de5d70b21d3b/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/scuderia-ferrari-43mm-generic-de5d70b21d3b/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/scuderia-ferrari-43mm-generic-de5d70b21d3b/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/scuderia-ferrari-43mm-generic-de5d70b21d3b/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Scuderia%20Ferrari%2043mm%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dscuderia-ferrari-43mm-generic-de5d70b21d3b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Scuderia%20Ferrari%2043mm%20Generic%20%0ASKU%3A%20men%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
