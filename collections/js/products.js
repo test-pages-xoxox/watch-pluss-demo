@@ -5311,27 +5311,28 @@ const products = [
     },
     {
         "id": "#",
-        "name": "G-Shock GA-2100-1A2ER Generic ",
-        "slug": "g-shock-ga-2100-1a2er-generic-a98514316137",
-        "sku": "G-Shock ",
-        "brand": "G-Shock ",
-        "badge": "Trending ",
+        "name": "Versace VSPOS2921 Generic ",
+        "slug": "versace-vspos2921-generic-c2a662bf3a40",
+        "sku": "women ",
+        "brand": "Versace ",
+        "badge": "Hot ",
         "availability": "In stock ",
-        "description": "For Unisex\r\n# 7AA Premium Collection\r\n# Model - GA-2100-1A2ER\r\n# Case size (L× W× H)\r\n48.5 × 45.4 × 11.8 mm \r\n\r\n- Water and impact Resistant \r\n- Countdown timer\r\n- Mineral Glass\r\n- Digital drive System\r\n- Black Neon Blue Face\r\n- Working StopWatch/ Day/Date Digital Display ✅\r\n- Smart fit Fibre strap ✅\r\n- Easy Pin Buckled Lock ✅\r\n- Fibre Body & Bezel",
+        "description": "Brand - Versus by Versace \r\n# For - Her\r\n# Quality - 7AA Premium Collection \r\n# Model - Serie \r\n# Model No. - VSPOS2921\r\n# Case Size - 39mm\r\n# Warranty - 1 Year Machinery ✅\r\n\r\n- All Working Chronograph\r\n- Date & Day Counters\r\n- Radiant sunray white Chronograph face\r\n- Signature Versace Branding at the top\r\n- Iconic Medusa emblem at 6 o'clock\r\n- IGP Colour coating with no fading & rusting.\r\n- *100% Quality & Reliable Quartz Chronograph machinery* \r\n",
         "details": "",
-        "tags": "men,formal,leather",
+        "tags": "women-chain, women-formal,women",
         "price": {
-            "old": "₹3200",
-            "new": "₹1300"
+            "old": "₹3800",
+            "new": "₹1700"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/g-shock-ga-2100-1a2er-generic-a98514316137/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/g-shock-ga-2100-1a2er-generic-a98514316137/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-vspos2921-generic-c2a662bf3a40/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-vspos2921-generic-c2a662bf3a40/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/g-shock-ga-2100-1a2er-generic-a98514316137/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-vspos2921-generic-c2a662bf3a40/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-vspos2921-generic-c2a662bf3a40/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-2100-1A2ER%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-2100-1a2er-generic-a98514316137%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-2100-1A2ER%20Generic%20%0ASKU%3A%20G-Shock%20%0APrice%3A%20%E2%82%B91300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Versace%20VSPOS2921%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dversace-vspos2921-generic-c2a662bf3a40%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Versace%20VSPOS2921%20Generic%20%0ASKU%3A%20women%20%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
