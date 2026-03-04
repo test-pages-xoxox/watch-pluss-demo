@@ -5408,5 +5408,28 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Scuderia%20Ferrari%2043mm%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dscuderia-ferrari-43mm-generic-de5d70b21d3b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Scuderia%20Ferrari%2043mm%20Generic%20%0ASKU%3A%20men%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Guess 42mm Generic ",
+        "slug": "guess-42mm-generic-b4dea45ffa95",
+        "sku": "Guess ",
+        "brand": "Guess ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Brand - Guess\r\nModel - Headline Chronograph\r\nQuality - 7AA Premium Collection \r\nDial Size - 42mm\r\nStainless Steel Body\r\n100% quality & reliable quartz Chronograph Machinery \r\nStainless Steel Silver Body \r\nSmart Fit black colour silicon Fibre strap\r\n*Packed in Guess Premium Hard Case brand name box!*\r\n*No colour fading and rusting*",
+        "details": "",
+        "tags": "men,formal,leather",
+        "price": {
+            "old": "₹4700",
+            "new": "₹1800"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-42mm-generic-b4dea45ffa95/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-42mm-generic-b4dea45ffa95/hover.webp",
+            "others": []
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Guess%2042mm%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dguess-42mm-generic-b4dea45ffa95%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Guess%2042mm%20Generic%20%0ASKU%3A%20Guess%20%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
