@@ -5535,27 +5535,27 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Patek philippe Generic ",
-        "slug": "patek-philippe-generic-f66212b49ca7",
-        "sku": "Patek ",
-        "brand": "Patek philippe",
-        "badge": "Hot ",
+        "name": "Versace Automatic Generic ",
+        "slug": "versace-automatic-generic-495ef877ec29",
+        "sku": "Versace ",
+        "brand": "Versace",
+        "badge": "Hot",
         "availability": "In stock ",
-        "description": "Patek philippe \r\n#7A Japanese \r\n#For men’s\r\n#Features-•Case size-42mm\r\n•Case color-two tons \r\n•Case material-Steel\r\n•Case back-Solid\r\n•Dial-lunminescent coating\r\n• patek philippe original black",
+        "description": "Brand- Versace\r\n    - Model name-Donimus Skeleton\r\n    -Model Number- VE9J00124\r\n* For men\r\n* 7AAA Luxury Collection\r\n* Original model\r\n* Feature;\r\n-12 hr dial\r\n- Origanal Versace High Quality Belt\r\n-Stainless Steel Case\r\n-Transparent back\r\n-Og lock\r\n-High end quality  automatic operated machinery \r\n",
         "details": "",
-        "tags": "patek,formal,chain,men",
+        "tags": "men,formal,chain",
         "price": {
-            "old": "₹3800",
-            "new": "₹1600"
+            "old": "₹4700",
+            "new": "₹2300"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philippe-generic-f66212b49ca7/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philippe-generic-f66212b49ca7/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-automatic-generic-495ef877ec29/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-automatic-generic-495ef877ec29/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philippe-generic-f66212b49ca7/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-automatic-generic-495ef877ec29/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20philippe%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-philippe-generic-f66212b49ca7%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20philippe%20Generic%20%0ASKU%3A%20Patek%20%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Versace%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dversace-automatic-generic-495ef877ec29%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Versace%20Automatic%20Generic%20%0ASKU%3A%20Versace%20%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
