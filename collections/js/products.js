@@ -5507,5 +5507,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20women%27s%20ES5304%20%E2%80%93%20Quartz%20Movement%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-women-s-es5304-quartz-movement-generic-552a246f4db2%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20women%27s%20ES5304%20%E2%80%93%20Quartz%20Movement%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91400%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Guess Women's collection Generic ",
+        "slug": "guess-women-s-collection-generic-3d4ef2da3fc2",
+        "sku": "Guess ",
+        "brand": "Guess ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "_GUESS_*\r\nWATCH\r\nFOR WOMEN \r\nHEADLINE GW0354L5\r\n\r\nCash daimond, Featured with golden Case color\r\nStainless steel belt with green dail\r\nCase square \r\nClasp hook silde clasp\r\nMOVMENT QUARTZ",
+        "details": "",
+        "tags": "women-chain, women-formal,women",
+        "price": {
+            "old": "₹2300",
+            "new": "₹1400"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-women-s-collection-generic-3d4ef2da3fc2/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-women-s-collection-generic-3d4ef2da3fc2/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-women-s-collection-generic-3d4ef2da3fc2/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Guess%20Women%27s%20collection%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dguess-women-s-collection-generic-3d4ef2da3fc2%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Guess%20Women%27s%20collection%20Generic%20%0ASKU%3A%20Guess%20%0APrice%3A%20%E2%82%B91400%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
