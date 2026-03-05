@@ -5557,5 +5557,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Versace%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dversace-automatic-generic-495ef877ec29%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Versace%20Automatic%20Generic%20%0ASKU%3A%20Versace%20%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Maserati men's Generic ",
+        "slug": "maserati-men-s-generic-fdd2b9978577",
+        "sku": "maserati",
+        "brand": "Maserati",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Brand: Maserati \r\nModel: Lifestyle Competition Series \r\nFor: Him\r\nDial Size: 42mm\r\nQuality: 7AA Premium Collection\r\n\r\nFeatures:\r\n- Stainless Steel\r\n- Sporty Black Patent Logo Face\r\n- Date Counter with magnifying raised\r\n- IGP Colour Coating – No Fading, No Rusting ✅\r\n- 100% Reliable 3-Hand Quartz Working Machine\r\n- Smart Fit Silver Adjustable Metal Stainless Strap\r\n",
+        "details": "",
+        "tags": "men,formal,chain",
+        "price": {
+            "old": "₹3800",
+            "new": "₹1700"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/maserati-men-s-generic-fdd2b9978577/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/maserati-men-s-generic-fdd2b9978577/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/maserati-men-s-generic-fdd2b9978577/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Maserati%20men%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dmaserati-men-s-generic-fdd2b9978577%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Maserati%20men%27s%20Generic%20%0ASKU%3A%20maserati%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
