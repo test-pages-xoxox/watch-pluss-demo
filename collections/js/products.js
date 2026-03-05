@@ -5484,5 +5484,28 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20OMEGA%20Speedmaster%20Reduced%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Domega-speedmaster-reduced-generic-24b226111a2c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20OMEGA%20Speedmaster%20Reduced%20Generic%20%0ASKU%3A%20Omega%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil women's ES5304 – Quartz Movement Generic ",
+        "slug": "fossil-women-s-es5304-quartz-movement-generic-552a246f4db2",
+        "sku": "Fossil ",
+        "brand": "Fossil ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Fossil\r\n# For Women\r\n# Raquel Collection\r\n# Model: ES5304 – Quartz Movement\r\n# Dial Size: Approx. 23 mm (Rectangular)\r\n\r\n*✨ A TOUCH OF VINTAGE WITH MODERN SHINE ✨*\r\n\r\n➡️ Mother-of-Pearl Dial with Roman Numerals – Elegant & Classic\r\n➡️ Crystal-Studded Inner Frame – Subtle Glamour\r\n➡️ Polished chocolate Stainless Steel Case & Bracelet\r\n➡️ Smooth Multi-Link Strap – Comfortable & Stylish\r\n➡️ Original Japanese Quartz Movement – Accurate Timekeeping\r\n➡️ Date Display Window at 6 o’clock\r\n➡️ Push/Pull Crown – Easy Time Adjustment\r\n➡️ Water Resistant – Light Splash Protection\r\n",
+        "details": "",
+        "tags": "women-chain, women-formal,women",
+        "price": {
+            "old": "₹2300",
+            "new": "₹1400"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-women-s-es5304-quartz-movement-generic-552a246f4db2/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-women-s-es5304-quartz-movement-generic-552a246f4db2/hover.webp",
+            "others": []
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20women%27s%20ES5304%20%E2%80%93%20Quartz%20Movement%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-women-s-es5304-quartz-movement-generic-552a246f4db2%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20women%27s%20ES5304%20%E2%80%93%20Quartz%20Movement%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91400%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
