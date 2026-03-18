@@ -5235,5 +5235,451 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Nike%20Air90%20solar%20flare%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dnike-air90-solar-flare-generic-ebdc2d32f1ea%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Nike%20Air90%20solar%20flare%20Generic%20%0ASKU%3A%20Shoe%0APrice%3A%20%E2%82%B92500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "  Imported Louis vuittion Size 12-9 approx  Generic ",
+        "slug": "imported-louis-vuittion-size-12-9-approx-generic-be49d03918d8",
+        "sku": "Bag",
+        "brand": "Louis ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "",
+        "tags": "bags",
+        "price": {
+            "old": "₹3800",
+            "new": "₹1999"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/imported-louis-vuittion-size-12-9-approx-generic-be49d03918d8/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/imported-louis-vuittion-size-12-9-approx-generic-be49d03918d8/hover.webp",
+            "others": []
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20%20%20Imported%20Louis%20vuittion%20Size%2012-9%20approx%20%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dimported-louis-vuittion-size-12-9-approx-generic-be49d03918d8%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20%20%20Imported%20Louis%20vuittion%20Size%2012-9%20approx%20%20Generic%20%0ASKU%3A%20Bag%0APrice%3A%20%E2%82%B91999%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Imported mobile sling Generic ",
+        "slug": "imported-mobile-sling-generic-f1770c464242",
+        "sku": "Bag",
+        "brand": "Mobile sling",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "",
+        "tags": "bags",
+        "price": {
+            "old": "₹1999",
+            "new": "₹950"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/imported-mobile-sling-generic-f1770c464242/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/imported-mobile-sling-generic-f1770c464242/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/imported-mobile-sling-generic-f1770c464242/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Imported%20mobile%20sling%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dimported-mobile-sling-generic-f1770c464242%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Imported%20mobile%20sling%20Generic%20%0ASKU%3A%20Bag%0APrice%3A%20%E2%82%B9950%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil Privateer Automatic Generic ",
+        "slug": "fossil-privateer-automatic-generic-e2e64d78522c",
+        "sku": "Fossil ",
+        "brand": "Fossil ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "Fossil\r\n# For Men\r\n# 7AA Premium Collection\r\n# Model - Privateer Automatic\r\n# Dial Size - 43mm\r\n# Features following -\r\n\r\n- Working 12 Hour automatic Analog\r\n- Stainless Steel Black Dial\r\n- Brown 22 mm pure quality leather strap\r\n- Transparent Front & Back\r\n- Transparent See through Glass\r\n- Pendulum Rotate charging\r\n- Fully Automatic self wind machine\r\n- No colour issue and rusting\r\n- *Premium & Original Japanese Open Heart Automatic Engine* ❤\r\n- 100% Satisfaction ",
+        "details": "",
+        "tags": "fossil,formal,leather,men",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2200"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-privateer-automatic-generic-e2e64d78522c/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-privateer-automatic-generic-e2e64d78522c/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-privateer-automatic-generic-e2e64d78522c/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20Privateer%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-privateer-automatic-generic-e2e64d78522c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20Privateer%20Automatic%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Versace VSPOS2921 Generic ",
+        "slug": "versace-vspos2921-generic-c2a662bf3a40",
+        "sku": "women ",
+        "brand": "Versace ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Brand - Versus by Versace \r\n# For - Her\r\n# Quality - 7AA Premium Collection \r\n# Model - Serie \r\n# Model No. - VSPOS2921\r\n# Case Size - 39mm\r\n# Warranty - 1 Year Machinery ✅\r\n\r\n- All Working Chronograph\r\n- Date & Day Counters\r\n- Radiant sunray white Chronograph face\r\n- Signature Versace Branding at the top\r\n- Iconic Medusa emblem at 6 o'clock\r\n- IGP Colour coating with no fading & rusting.\r\n- *100% Quality & Reliable Quartz Chronograph machinery* \r\n",
+        "details": "",
+        "tags": "women-chain, women-formal,women",
+        "price": {
+            "old": "₹3800",
+            "new": "₹1700"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-vspos2921-generic-c2a662bf3a40/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-vspos2921-generic-c2a662bf3a40/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-vspos2921-generic-c2a662bf3a40/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-vspos2921-generic-c2a662bf3a40/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Versace%20VSPOS2921%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dversace-vspos2921-generic-c2a662bf3a40%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Versace%20VSPOS2921%20Generic%20%0ASKU%3A%20women%20%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Versace Greca Chronograph Generic ",
+        "slug": "versace-greca-chronograph-generic-c3a537c89550",
+        "sku": "Versace ",
+        "brand": "Versace",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Versace\r\n# For Men\r\n# 7AA Premium Collection\r\n# Model - Greca Chronograph\r\n# Dial Size - 44mm\r\n# Quality - Steel Rust Free\r\n# Material - Stainless Steel Metal \r\n\r\n*FORMAL GRECA WATCH FOR GENTLEMEN* ❤️\r\n\r\n- Working Chronograph\r\n- Date Counter\r\n- 30 mins Reset\r\n- 24 hour analog\r\n- IGP Colour rated (No colour fading)\r\n- Stainless Steel body &  rose gold strap\r\n- Black Chronograph dial \r\n- Elegantly design with modern looks\r\n- *100% Reliable Pure Premium Quality stop watch chronograph machinery",
+        "details": "",
+        "tags": "men,formal,chain",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2100"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-greca-chronograph-generic-c3a537c89550/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-greca-chronograph-generic-c3a537c89550/hover.webp",
+            "others": []
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Versace%20Greca%20Chronograph%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dversace-greca-chronograph-generic-c3a537c89550%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Versace%20Greca%20Chronograph%20Generic%20%0ASKU%3A%20Versace%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Rolex DateJust Generic ",
+        "slug": "rolex-datejust-generic-67cf0c069924",
+        "sku": "2600",
+        "brand": "Rolex ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Rolex\r\n# For Him\r\n# 7AA Premium Collection\r\n# DateJust\r\n# Dial Size - 41mm (Original Size) \r\n# Feature as follows -\r\n\r\n- All Working\r\n- Date Counter\r\n- 12 hour timing with trending blue motif face dial with silver elements\r\n- *Special Steel Bezel giving premium look to your wrist.*\r\n- *Pure stainless steel Dial & Case* \r\n- Silver metal belt & Heavy Branding Lock.\r\n- *100% reliable & Definite High quality Quartz smooth movement machinery.",
+        "details": "",
+        "tags": "rolex,formal,chain,men",
+        "price": {
+            "old": "₹3800",
+            "new": "₹3800"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-datejust-generic-67cf0c069924/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-datejust-generic-67cf0c069924/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-datejust-generic-67cf0c069924/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20DateJust%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-datejust-generic-67cf0c069924%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20DateJust%20Generic%20%0ASKU%3A%202600%0APrice%3A%20%E2%82%B93800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Scuderia Ferrari 43mm Generic ",
+        "slug": "scuderia-ferrari-43mm-generic-de5d70b21d3b",
+        "sku": "men",
+        "brand": "Ferrari ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Scuderia Ferrari\r\n# For Men\r\n# 7AA Premium Quality Collection \r\n# Dial Size - 43mm\r\n# Scuderia Ferrari Race\r\n# Feature Following-\r\n\r\n*A NEW SPORTY WRIST WATCH SERIES* ❣️\r\n\r\n- 12 Hours analog \r\n- 24 hour time\r\n- 60 min stop watch \r\n- Elegant Red Needle\r\n- Date mechanism\r\n- Black-Res smart fit sporty silicon strap\r\n- Water and dust resistant\r\n- *100% Trusted & Durable High Quality Original stop watch chronograph Machinery.* \r\n",
+        "details": "",
+        "tags": "men,formal,leather",
+        "price": {
+            "old": "₹3800",
+            "new": "₹1800"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/scuderia-ferrari-43mm-generic-de5d70b21d3b/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/scuderia-ferrari-43mm-generic-de5d70b21d3b/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/scuderia-ferrari-43mm-generic-de5d70b21d3b/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/scuderia-ferrari-43mm-generic-de5d70b21d3b/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Scuderia%20Ferrari%2043mm%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dscuderia-ferrari-43mm-generic-de5d70b21d3b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Scuderia%20Ferrari%2043mm%20Generic%20%0ASKU%3A%20men%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Versace Greca Chronograph Generic ",
+        "slug": "versace-greca-chronograph-generic-a28148c1121b",
+        "sku": "Versace ",
+        "brand": "Versace",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Versace\r\n# For Men\r\n# 7AA Premium Collection\r\n# Model - Greca Chronograph\r\n# Dial Size - 44mm\r\n# Quality - Steel Rust Free\r\n# Material - Stainless Steel Metal \r\n\r\n*FORMAL GRECA WATCH FOR GENTLEMEN* ❤️\r\n\r\n- Working Chronograph\r\n- Date Counter\r\n- 30 mins Reset\r\n- 24 hour analog\r\n- IGP Colour rated (No colour fading)\r\n- Stainless Steel body & gold silver strap\r\n- Trending Green dial \r\n- Elegantly design with modern looks\r\n- *100% Reliable Pure Premium Quality stop watch chronograph machinery* ",
+        "details": "",
+        "tags": "men,formal,chain",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2100"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-greca-chronograph-generic-a28148c1121b/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-greca-chronograph-generic-a28148c1121b/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-greca-chronograph-generic-a28148c1121b/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Versace%20Greca%20Chronograph%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dversace-greca-chronograph-generic-a28148c1121b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Versace%20Greca%20Chronograph%20Generic%20%0ASKU%3A%20Versace%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Tissot Supersport Chrono Generic ",
+        "slug": "tissot-supersport-chrono-generic-9eb58a83e660",
+        "sku": "Tissot ",
+        "brand": "Tissot ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Brand - Tissot \r\n# For - Men's \r\n# Quality - 7AA Premium Collection \r\n# Model - Supersport Chrono\r\n# Model No. - T125.617.36.081.00\r\n# Case Size - 45.5 mm\r\n# Warranty - *1 Year Machinery* ✅\r\n",
+        "details": "",
+        "tags": "tissot,formal,leather,men",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2100"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-supersport-chrono-generic-9eb58a83e660/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-supersport-chrono-generic-9eb58a83e660/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-supersport-chrono-generic-9eb58a83e660/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20Supersport%20Chrono%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtissot-supersport-chrono-generic-9eb58a83e660%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20Supersport%20Chrono%20Generic%20%0ASKU%3A%20Tissot%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "OMEGA Speedmaster Reduced Generic ",
+        "slug": "omega-speedmaster-reduced-generic-24b226111a2c",
+        "sku": "Omega",
+        "brand": "Omega ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Features:-👇\r\n• Quartz movement \r\n• ⁠All chronographs working \r\n• ⁠Tachymeter bezel\r\n• ⁠Luminous hands\r\n• ⁠Premium Build \r\n• ⁠Ss back & Bfly lock\r\n",
+        "details": "",
+        "tags": "omega,formal,chain,men",
+        "price": {
+            "old": "₹4700",
+            "new": "₹1800"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-speedmaster-reduced-generic-24b226111a2c/main.webp",
+            "hover": "",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-speedmaster-reduced-generic-24b226111a2c/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-speedmaster-reduced-generic-24b226111a2c/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20OMEGA%20Speedmaster%20Reduced%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Domega-speedmaster-reduced-generic-24b226111a2c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20OMEGA%20Speedmaster%20Reduced%20Generic%20%0ASKU%3A%20Omega%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil women's ES5304 – Quartz Movement Generic ",
+        "slug": "fossil-women-s-es5304-quartz-movement-generic-552a246f4db2",
+        "sku": "Fossil ",
+        "brand": "Fossil ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Fossil\r\n# For Women\r\n# Raquel Collection\r\n# Model: ES5304 – Quartz Movement\r\n# Dial Size: Approx. 23 mm (Rectangular)\r\n\r\n*✨ A TOUCH OF VINTAGE WITH MODERN SHINE ✨*\r\n\r\n➡️ Mother-of-Pearl Dial with Roman Numerals – Elegant & Classic\r\n➡️ Crystal-Studded Inner Frame – Subtle Glamour\r\n➡️ Polished chocolate Stainless Steel Case & Bracelet\r\n➡️ Smooth Multi-Link Strap – Comfortable & Stylish\r\n➡️ Original Japanese Quartz Movement – Accurate Timekeeping\r\n➡️ Date Display Window at 6 o’clock\r\n➡️ Push/Pull Crown – Easy Time Adjustment\r\n➡️ Water Resistant – Light Splash Protection\r\n",
+        "details": "",
+        "tags": "women-chain, women-formal,women",
+        "price": {
+            "old": "₹2300",
+            "new": "₹1400"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-women-s-es5304-quartz-movement-generic-552a246f4db2/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-women-s-es5304-quartz-movement-generic-552a246f4db2/hover.webp",
+            "others": []
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20women%27s%20ES5304%20%E2%80%93%20Quartz%20Movement%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-women-s-es5304-quartz-movement-generic-552a246f4db2%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20women%27s%20ES5304%20%E2%80%93%20Quartz%20Movement%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B91400%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Guess Women's collection Generic ",
+        "slug": "guess-women-s-collection-generic-3d4ef2da3fc2",
+        "sku": "Guess ",
+        "brand": "Guess ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "_GUESS_*\r\nWATCH\r\nFOR WOMEN \r\nHEADLINE GW0354L5\r\n\r\nCash daimond, Featured with golden Case color\r\nStainless steel belt with green dail\r\nCase square \r\nClasp hook silde clasp\r\nMOVMENT QUARTZ",
+        "details": "",
+        "tags": "women-chain, women-formal,women",
+        "price": {
+            "old": "₹2300",
+            "new": "₹1400"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-women-s-collection-generic-3d4ef2da3fc2/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-women-s-collection-generic-3d4ef2da3fc2/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-women-s-collection-generic-3d4ef2da3fc2/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Guess%20Women%27s%20collection%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dguess-women-s-collection-generic-3d4ef2da3fc2%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Guess%20Women%27s%20collection%20Generic%20%0ASKU%3A%20Guess%20%0APrice%3A%20%E2%82%B91400%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Versace Automatic Generic ",
+        "slug": "versace-automatic-generic-495ef877ec29",
+        "sku": "Versace ",
+        "brand": "Versace",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Brand- Versace\r\n    - Model name-Donimus Skeleton\r\n    -Model Number- VE9J00124\r\n* For men\r\n* 7AAA Luxury Collection\r\n* Original model\r\n* Feature;\r\n-12 hr dial\r\n- Origanal Versace High Quality Belt\r\n-Stainless Steel Case\r\n-Transparent back\r\n-Og lock\r\n-High end quality  automatic operated machinery \r\n",
+        "details": "",
+        "tags": "men,formal,chain",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2300"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-automatic-generic-495ef877ec29/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-automatic-generic-495ef877ec29/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-automatic-generic-495ef877ec29/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Versace%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dversace-automatic-generic-495ef877ec29%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Versace%20Automatic%20Generic%20%0ASKU%3A%20Versace%20%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Guess Men's Generic ",
+        "slug": "guess-men-s-generic-3ffdc3e30744",
+        "sku": "Guess ",
+        "brand": "Guess ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Brand - Guess\r\nModel - Integrity Chronograph\r\nQuality - 7AA Premium Collection \r\nSquare Shape\r\nStainless Steel Body\r\n100% quality & reliable quartz Chronograph Machinery \r\nStainless Steel Blue Body & Blue Steel Belt",
+        "details": "",
+        "tags": "men,formal,chain",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2200"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-men-s-generic-3ffdc3e30744/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-men-s-generic-3ffdc3e30744/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-men-s-generic-3ffdc3e30744/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-men-s-generic-3ffdc3e30744/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Guess%20Men%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dguess-men-s-generic-3ffdc3e30744%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Guess%20Men%27s%20Generic%20%0ASKU%3A%20Guess%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Gucci Women's Generic ",
+        "slug": "gucci-women-s-generic-0447a8513228",
+        "sku": "Guess ",
+        "brand": "Guess ",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Brand - Guess \r\n# For - Her \r\n# Model - Fame\r\n# Quality - 7AA Premium Collection \r\n# Model No. - GW0859L1\r\n# Guess Origanal Design & Model\r\n\r\n- Working 3 Hands Analog\r\n- Black dial with logo design\r\n- Black Braslet\r\n- Glass: Mineral Crystal\r\n- Crystal-embellished bezel\r\n- IGP Colour coating with no fading & rusting.\r\n- *100% quality & reliable quartz machinery* 💯",
+        "details": "",
+        "tags": "women-chain, women-formal,women",
+        "price": {
+            "old": "₹2300",
+            "new": "₹1400"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/gucci-women-s-generic-0447a8513228/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/gucci-women-s-generic-0447a8513228/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/gucci-women-s-generic-0447a8513228/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Gucci%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dgucci-women-s-generic-0447a8513228%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Gucci%20Women%27s%20Generic%20%0ASKU%3A%20Guess%20%0APrice%3A%20%E2%82%B91400%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Nike airforce1 Orewood moon Generic ",
+        "slug": "nike-airforce1-orewood-moon-generic-ce7735e42994",
+        "sku": "Shoe",
+        "brand": "Nike",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "*Nike airforce1 Orewood moon*\r\n\r\n*Size:41 to 45*\r\n\r\n*Semi UA quality Imported*",
+        "details": "",
+        "tags": "shoes",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2600"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-airforce1-orewood-moon-generic-ce7735e42994/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-airforce1-orewood-moon-generic-ce7735e42994/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-airforce1-orewood-moon-generic-ce7735e42994/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Nike%20airforce1%20Orewood%20moon%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dnike-airforce1-orewood-moon-generic-ce7735e42994%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Nike%20airforce1%20Orewood%20moon%20Generic%20%0ASKU%3A%20Shoe%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Nike airforce1 white black Generic ",
+        "slug": "nike-airforce1-white-black-generic-0525742ffcbb",
+        "sku": "Shoe",
+        "brand": "Nike",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "*Nike airforce1 white black*\r\n\r\n*Size:41 to 45*\r\n\r\n*Semi UA quality Imported*",
+        "details": "",
+        "tags": "shoes",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2200"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-airforce1-white-black-generic-0525742ffcbb/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-airforce1-white-black-generic-0525742ffcbb/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-airforce1-white-black-generic-0525742ffcbb/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Nike%20airforce1%20white%20black%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dnike-airforce1-white-black-generic-0525742ffcbb%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Nike%20airforce1%20white%20black%20Generic%20%0ASKU%3A%20Shoe%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Nike vomero 15 light blue Generic ",
+        "slug": "nike-vomero-15-light-blue-generic-f3ccd27cfe3f",
+        "sku": "Shoe",
+        "brand": "Nike",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "*Nike vomero 15 light blue*\r\n\r\n*Size:41 to 44*\r\n\r\n*Semi UA quality Imported",
+        "details": "",
+        "tags": "shoes",
+        "price": {
+            "old": "₹4800",
+            "new": "₹2100"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-vomero-15-light-blue-generic-f3ccd27cfe3f/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-vomero-15-light-blue-generic-f3ccd27cfe3f/hover.webp",
+            "others": []
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Nike%20vomero%2015%20light%20blue%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dnike-vomero-15-light-blue-generic-f3ccd27cfe3f%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Nike%20vomero%2015%20light%20blue%20Generic%20%0ASKU%3A%20Shoe%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
