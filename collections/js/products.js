@@ -5681,5 +5681,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Nike%20vomero%2015%20light%20blue%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dnike-vomero-15-light-blue-generic-f3ccd27cfe3f%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Nike%20vomero%2015%20light%20blue%20Generic%20%0ASKU%3A%20Shoe%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Richard Mille Generic ",
+        "slug": "richard-mille-generic-ead856c397be",
+        "sku": "Rm",
+        "brand": "Richard Mille",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Brand - Richard Mille\r\nFor - Him\r\nQuality - 7AA Premium Collection \r\nDial Dimensions - 44mm\r\nWarranty - 1 Year Machine Warranty \r\n\r\nDate Counter\r\nStainless Steel Body\r\nIGP Colour coating with no fading and rusting. \r\n100% quality & reliable quartz 3 hand machine \r\nStainless Steel White Body \r\nSmart Fit adjustable blue silicon strap\r\n*Packed in Premium Hard Case leather brand name box!*\r\n*No colour fading and rusting",
+        "details": "",
+        "tags": "men,formal,leather",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2200"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-ead856c397be/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-ead856c397be/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-ead856c397be/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-ead856c397be/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Richard%20Mille%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drichard-mille-generic-ead856c397be%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Richard%20Mille%20Generic%20%0ASKU%3A%20Rm%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
