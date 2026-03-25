@@ -5684,28 +5684,27 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Richard Mille Generic ",
-        "slug": "richard-mille-generic-ead856c397be",
-        "sku": "Rm",
-        "brand": "Richard Mille",
+        "name": "Armani exchange Hampton Automatic Generic ",
+        "slug": "armani-exchange-hampton-automatic-generic-d25c07d02c20",
+        "sku": "Armani ",
+        "brand": "Armani ",
         "badge": "Hot ",
         "availability": "In stock ",
-        "description": "Brand - Richard Mille\r\nFor - Him\r\nQuality - 7AA Premium Collection \r\nDial Dimensions - 44mm\r\nWarranty - 1 Year Machine Warranty \r\n\r\nDate Counter\r\nStainless Steel Body\r\nIGP Colour coating with no fading and rusting. \r\n100% quality & reliable quartz 3 hand machine \r\nStainless Steel White Body \r\nSmart Fit adjustable blue silicon strap\r\n*Packed in Premium Hard Case leather brand name box!*\r\n*No colour fading and rusting",
+        "description": "Brand - Armani Exchange \r\n# For - Men\r\n# Quality - 7AA Premium Automatic Collection \r\n# Model - Hampton Automatic\r\n# Case Size - 43mm\r\n\r\n*BOLD, SOPHISTICATED & TRANSPARENT STYLE* 🤩\r\n\r\n- Working Automatically\r\n- 3 Hands Gold Black Trending Face\r\n- Seconds reading mark\r\n- Gold Needles\r\n- AX branding in dial\r\n- Skeletonised face for clear mechanism look\r\n- IGP Colour coating with no fading and rusting\r\n- *100% Reliable and quality Japanese automatic machinery",
         "details": "",
-        "tags": "men,formal,leather",
+        "tags": "armani,formal,men,chain",
         "price": {
-            "old": "₹3800",
+            "old": "₹4700",
             "new": "₹2200"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-ead856c397be/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-ead856c397be/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-generic-d25c07d02c20/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-generic-d25c07d02c20/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-ead856c397be/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-ead856c397be/other2.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/armani-exchange-hampton-automatic-generic-d25c07d02c20/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Richard%20Mille%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drichard-mille-generic-ead856c397be%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Richard%20Mille%20Generic%20%0ASKU%3A%20Rm%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Armani%20exchange%20Hampton%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Darmani-exchange-hampton-automatic-generic-d25c07d02c20%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Armani%20exchange%20Hampton%20Automatic%20Generic%20%0ASKU%3A%20Armani%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
