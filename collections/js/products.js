@@ -5733,5 +5733,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Seiko%20Tourbillon%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dseiko-tourbillon-generic-7c4e142db92c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Seiko%20Tourbillon%20Generic%20%0ASKU%3A%20Seiko%20%0APrice%3A%20%E2%82%B93200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Patek philips Open Heart Tourbillon Generic ",
+        "slug": "patek-philips-open-heart-tourbillon-generic-08fcc4d94630",
+        "sku": "Patek ",
+        "brand": "Patek philippe",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Patek Philippe \r\n# For Men\r\n# 7AA Premium Quality\r\n# Model - Open Heart Tourbillon\r\n# Dial Size - 43mm\r\n# Features Following -\r\n\r\n- 12 Hour Analog\r\n- Date Counter\r\n- White Well Defined Dial\r\n- Sun-Moon Patent Logo Edition \r\n- Transparent Glass Back\r\n- Metal Smart Fit Stainless Steel Rose Gold Bracelet \r\n- Rosegold Stainless Steel Case\r\n- Patent Open Heart Dial\r\n- *100% High Quality & Reliable Original Japanese Automatic Machinery* ",
+        "details": "",
+        "tags": "patek,formal,chain,men",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2300"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philips-open-heart-tourbillon-generic-08fcc4d94630/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philips-open-heart-tourbillon-generic-08fcc4d94630/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philips-open-heart-tourbillon-generic-08fcc4d94630/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-philips-open-heart-tourbillon-generic-08fcc4d94630/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20philips%20Open%20Heart%20Tourbillon%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-philips-open-heart-tourbillon-generic-08fcc4d94630%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20philips%20Open%20Heart%20Tourbillon%20Generic%20%0ASKU%3A%20Patek%20%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
