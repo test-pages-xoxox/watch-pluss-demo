@@ -5759,5 +5759,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20philips%20Open%20Heart%20Tourbillon%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-philips-open-heart-tourbillon-generic-08fcc4d94630%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20philips%20Open%20Heart%20Tourbillon%20Generic%20%0ASKU%3A%20Patek%20%0APrice%3A%20%E2%82%B92300%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Versace  Hellenyium-VK Generic ",
+        "slug": "versace-hellenyium-vk-generic-8390cc430560",
+        "sku": "Versace ",
+        "brand": "Versace",
+        "badge": "Hot",
+        "availability": "In stock ",
+        "description": "Brand - Versace \r\n# For - Men's \r\n# Quality - 7AA Premium Collection \r\n# Model - Versace  Hellenyium-VK\r\n# Case Size - 42mm\r\n# Warranty - *1 Year Machinery* ✅\r\n\r\n- 3 Hands Analog Working\r\n- Gold Embedded Versace Logo\r\n- Date Counter\r\n- Radium Figures\r\n- Gold Time Setting Crown\r\n- IGP colour coating with no fading & rusting.\r\n- Stainless Steel bracelet & body\r\n- 100% reliable & Premium Quality Quartz machinery",
+        "details": "",
+        "tags": "men,formal,chain,versace",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2100"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-hellenyium-vk-generic-8390cc430560/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-hellenyium-vk-generic-8390cc430560/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-hellenyium-vk-generic-8390cc430560/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/versace-hellenyium-vk-generic-8390cc430560/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Versace%20%20Hellenyium-VK%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dversace-hellenyium-vk-generic-8390cc430560%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Versace%20%20Hellenyium-VK%20Generic%20%0ASKU%3A%20Versace%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
