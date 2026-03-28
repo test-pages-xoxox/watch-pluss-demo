@@ -118,39 +118,6 @@
         }
     }
 
-    function renderColors(product) {
-        const container = document.querySelector(
-            ".variant-picker-item.variant-color .variant-picker-values"
-        );
-        const label = document.querySelector(
-            ".variant-picker-item.variant-color .value-currentColor"
-        );
-
-        if (!container) return;
-
-        const colors = Array.isArray(product?.colors) ? product.colors : [];
-
-        if (!colors.length) {
-            container.innerHTML = "";
-            if (label) label.textContent = "N/A";
-            return;
-        }
-
-        container.innerHTML = colors
-            .map(
-                (color, index) => `
-            <div class="hover-tooltip tooltip-bot color-btn ${index === 0 ? "active" : ""}" data-color="${
-                (color.name || "").toLowerCase()
-            }">
-                <span class="check-color ${color.class}"></span>
-                <span class="tooltip">${color.name}</span>
-            </div>`
-            )
-            .join("");
-
-        if (label) label.textContent = colors[0].name || "";
-    }
-
     function updateSticky(product, priceDisplay) {
         const sticky = document.querySelector(".tf-sticky-atc-product");
         if (!sticky) return;
@@ -440,8 +407,6 @@ Thank you`;
             const tags = Array.isArray(product.tags) ? product.tags.map((tag) => tag.replace(/_/g, " ")) : [];
             categoriesValue.textContent = tags.length ? tags.join(", ") : "General";
         }
-
-        renderColors(product);
 
         const images = uniqueImages(product);
         renderGallery(images.length ? images : [{ src: product?.images?.main }], product);
