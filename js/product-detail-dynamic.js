@@ -272,6 +272,7 @@
         const nameInput = document.getElementById("name");
         const phoneInput = document.getElementById("phone");
         const addressInput = document.getElementById("address");
+        const landmarkInput = document.getElementById("landmark");
         const zipInput = document.getElementById("zip");
         const paymentModeInput = document.getElementById("payment-mode");
 
@@ -281,6 +282,7 @@
             nameInput.value = savedAddress.name || "";
             phoneInput.value = savedAddress.phone || "";
             addressInput.value = savedAddress.address || "";
+            landmarkInput.value = savedAddress.landmark || "";
             zipInput.value = savedAddress.zip || "";
         }
 
@@ -290,6 +292,7 @@
                 name: nameInput.value,
                 address: addressInput.value,
                 zip: zipInput.value,
+                landmark: landmarkInput.value,
                 phone: phoneInput.value
             };
             localStorage.setItem("userAddress", JSON.stringify(addressData));
@@ -304,6 +307,7 @@
             const name = nameInput.value.trim();
             const phone = phoneInput.value.trim();
             const address = addressInput.value.trim();
+            const landmark = landmarkInput.value.trim();
             const zip = zipInput.value.trim();
             const payment_mode = paymentModeInput.value.trim();
 
@@ -322,6 +326,7 @@
 Name: ${name}
 Phone: ${phone}
 Address: ${address}, - ${zip}
+Landmark: ${landmark}
 Payment Mode: ${payment_mode}
 Product: ${productURL}
 
