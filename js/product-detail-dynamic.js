@@ -290,12 +290,13 @@
 
             const message =
                 `Hello,
-Name: ${name}
-Phone: ${phone}
-Address: ${address}, - ${zip}
-Landmark: ${landmark}
-Payment Mode: ${payment_mode}
-Product: ${productURL}
+*Name* : ${name}
+*Phone* : ${phone}
+*Address* : ${address}, - ${zip}
+*Landmark* : ${landmark}
+*Payment Mode*: ${payment_mode}
+
+*Product* : ${productURL}
 
 Thank you`;
 
