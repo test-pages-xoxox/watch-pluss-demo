@@ -142,10 +142,13 @@
 
         const stickyBtn = document.querySelector(".tf-sticky-atc-btns .btn-add-to-cart");
         if (stickyBtn) {
-            stickyBtn.href = "#shoppingCart";
-            stickyBtn.target = "_blank";
-            stickyBtn.rel = "noopener";
-            stickyBtn.innerHTML = 'Buy on WhatsApp <i class="icon icon-shopping-cart-simple"></i>';
+            stickyBtn.href = "checkout.html";
+            stickyBtn.removeAttribute("data-bs-toggle");
+            stickyBtn.removeAttribute("target");
+            stickyBtn.removeAttribute("rel");
+            stickyBtn.setAttribute("data-product-slug", product.slug);
+            stickyBtn.classList.add("js-add-to-cart");
+            stickyBtn.innerHTML = 'Add to Cart <i class="icon icon-shopping-cart-simple"></i>';
         }
     }
 
@@ -229,83 +232,6 @@
         if (metaDesc && description) {
             metaDesc.setAttribute("content", description);
         }
-    }
-
-    function setupAddressForm() {
-
-        const whatsappNumber = "918097949357";
-        const form = document.getElementById("addressForm");
-
-        const nameInput = document.getElementById("name");
-        const phoneInput = document.getElementById("phone");
-        const addressInput = document.getElementById("address");
-        const landmarkInput = document.getElementById("landmark");
-        const zipInput = document.getElementById("zip");
-        const paymentModeInput = document.getElementById("payment-mode");
-
-        // ✅ Load saved address from localStorage
-        const savedAddress = JSON.parse(localStorage.getItem("userAddress"));
-        if (savedAddress) {
-            nameInput.value = savedAddress.name || "";
-            phoneInput.value = savedAddress.phone || "";
-            addressInput.value = savedAddress.address || "";
-            landmarkInput.value = savedAddress.landmark || "";
-            zipInput.value = savedAddress.zip || "";
-        }
-
-        // ✅ Save address when form changes
-        function saveAddress() {
-            const addressData = {
-                name: nameInput.value,
-                address: addressInput.value,
-                zip: zipInput.value,
-                landmark: landmarkInput.value,
-                phone: phoneInput.value
-            };
-            localStorage.setItem("userAddress", JSON.stringify(addressData));
-        }
-
-        form.addEventListener("input", saveAddress);
-
-        // ✅ On form submit
-        form.addEventListener("submit", function (e) {
-            e.preventDefault();
-
-            const name = nameInput.value.trim();
-            const phone = phoneInput.value.trim();
-            const address = addressInput.value.trim();
-            const landmark = landmarkInput.value.trim();
-            const zip = zipInput.value.trim();
-            const payment_mode = paymentModeInput.value.trim();
-
-            if (!name || !phone || !address || !zip) {
-                alert("Please fill all required fields.");
-                return;
-            }
-
-            // Save latest address
-            saveAddress();
-
-            const productURL = window.location.href;
-
-            const message =
-                `Hello,
-*Name* : ${name}
-*Phone* : ${phone}
-*Address* : ${address}, - ${zip}
-*Landmark* : ${landmark}
-*Payment Mode*: ${payment_mode}
-
-*Product* : ${productURL}
-
-Thank you`;
-
-            const encodedMessage = encodeURIComponent(message);
-
-            const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodedMessage}`;
-
-            window.open(whatsappURL, "_blank");
-        });
     }
 
     document.addEventListener("DOMContentLoaded", () => {
@@ -405,7 +331,11 @@ Thank you`;
             ".tf-product-cate-sku .item-cate-sku:nth-child(2) .value"
         );
         if (categoriesValue) {
-            const tags = Array.isArray(product.tags) ? product.tags.map((tag) => tag.replace(/_/g, " ")) : [];
+            const tags = typeof product.tags === "string"
+                ? product.tags.split(",").map((tag) => tag.trim().replace(/_/g, " "))
+                : Array.isArray(product.tags)
+                    ? product.tags.map((tag) => tag.replace(/_/g, " "))
+                    : [];
             categoriesValue.textContent = tags.length ? tags.join(", ") : "General";
         }
 
@@ -416,19 +346,24 @@ Thank you`;
             ".tf-product-total-quantity .btn-add-to-cart"
         );
         if (buyBtn) {
-            buyBtn.href = "#shoppingCart";
-            buyBtn.rel = "noopener";
-            buyBtn.setAttribute("data-bs-toggle", "offcanvas");
-            buyBtn.innerHTML = 'Buy on WhatsApp <i class="icon icon-shopping-cart-simple"></i>';
+            buyBtn.href = "checkout.html";
+            buyBtn.removeAttribute("data-bs-toggle");
+            buyBtn.removeAttribute("rel");
+            buyBtn.setAttribute("data-product-slug", product.slug);
+            buyBtn.classList.add("js-add-to-cart");
+            buyBtn.innerHTML = 'Add to Cart <i class="icon icon-shopping-cart-simple"></i>';
         }
 
         const buyNowBtn = document.querySelector(
             ".tf-product-total-quantity .btn-primary"
         );
-        if (buyNowBtn && product.whatsappUrl) {
-            buyNowBtn.href = "#shoppingCart";
-            buyNowBtn.rel = "noopener";
-            buyNowBtn.setAttribute("data-bs-toggle", "offcanvas");
+        if (buyNowBtn) {
+            buyNowBtn.href = "checkout.html";
+            buyNowBtn.removeAttribute("rel");
+            buyNowBtn.removeAttribute("data-bs-toggle");
+            buyNowBtn.setAttribute("data-product-slug", product.slug);
+            buyNowBtn.setAttribute("data-buy-now", "true");
+            buyNowBtn.classList.add("js-add-to-cart");
         }
 
         const shareText = document.getElementById("coppyText");
@@ -447,7 +382,5 @@ Thank you`;
             lazyload.update();
         }
 
-        setupAddressForm();
     });
 })();
-

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pay | Watch Pluss</title>
+    <style>
+        body { font-family: system-ui, sans-serif; max-width: 520px; margin: 2rem auto; padding: 0 1rem; color: #111; }
+        #pay-status { margin-top: 1rem; line-height: 1.5; }
+        a { color: #0645ad; }
+    </style>
+</head>
+<body>
+    <p><a href="checkout.html">← Cancel and return to checkout</a></p>
+    <h1 style="font-size:1.25rem;">Secure payment</h1>
+    <p id="pay-lead" class="text-main" style="font-size:0.9rem;color:#444;">If Razorpay opens in this tab, that is normal. You will return here after paying.</p>
+    <p id="pay-status">Starting…</p>
+    <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+    <script src="collections/js/products.js"></script>
+    <script src="js/store.js"></script>
+    <script src="js/pay-page.js"></script>
+</body>
+</html>

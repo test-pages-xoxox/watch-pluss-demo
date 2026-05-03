@@ -167,10 +167,10 @@ function createProductCard(product, layout = 'grid') {
         }
     }
 
-    // Generate WhatsApp buy button
-    const whatsappButtonHTML = `
-        <a href="${product.whatsappUrl}" target="_blank" class="tf-btn animate-btn" style="margin-top: 10px; display: inline-block;">
-            Buy on WhatsApp
+    // Generate add to cart button
+    const addToCartButtonHTML = `
+        <a href="checkout.html" data-product-slug="${product.slug}" class="tf-btn animate-btn btn-add-to-cart js-add-to-cart" style="margin-top: 10px; display: inline-block;">
+            Add to Cart
             <i class="icon icon-shopping-cart-simple"></i>
         </a>
     `;
@@ -181,7 +181,7 @@ function createProductCard(product, layout = 'grid') {
         card.innerHTML = `
             <div class="card-product ${layoutClass}" data-availability="${product.availability}" data-brand="${product.brand}">
                 <div class="card-product_wrapper">
-                    <a href="../product-detail.html?pid=${product.slug}" class="product-img">
+                    <a href="product-detail.html?pid=${product.slug}" class="product-img">
                         <img class="lazyload img-product" src="${product.images.main}" data-src="${product.images.main}" alt="${product.name}">
                         ${product.images.hover ? `<img class="lazyload img-hover" src="${product.images.hover}" data-src="${product.images.hover}" alt="${product.name}">` : ''}
                     </a>
@@ -197,16 +197,16 @@ function createProductCard(product, layout = 'grid') {
                 </div>
                 <div class="card-product_info">
                     <div class="product-info_list">
-                        <a href="../product-detail.html?pid=${product.slug}" class="name-product h3 link">${product.name}</a>
+                    <a href="product-detail.html?pid=${product.slug}" class="name-product h3 link">${product.name}</a>
                         ${priceHTML}
                         ${colorSwatchesHTML}
                         ${descriptionHTML}
                     </div>
                     <div class="product-action_list">
-                        <span class="h6">To buy, click the button below</span>
+                        <span class="h6">Save it or add it to your cart</span>
                         <div class="group-btn">
-                            ${whatsappButtonHTML}
-                            <a href="#" class="tf-btn style-line btn-add-wishlist2">
+                            ${addToCartButtonHTML}
+                            <a href="#" data-wishlist-slug="${product.slug}" class="tf-btn style-line btn-add-wishlist2 js-toggle-wishlist">
                                 <span class="text">Add to List</span>
                                 <i class="icon icon-heart"></i>
                             </a>
@@ -220,21 +220,27 @@ function createProductCard(product, layout = 'grid') {
         card.innerHTML = `
             <div class="card-product ${layoutClass}" data-availability="${product.availability}" data-brand="${product.brand}">
                 <div class="card-product_wrapper">
-                    <a href="../product-detail.html?pid=${product.slug}" class="product-img">
+                    <a href="product-detail.html?pid=${product.slug}" class="product-img">
                         <img class="lazyload img-product" src="${product.images.main}" data-src="${product.images.main}" alt="${product.name}">
                         ${product.images.hover ? `<img class="lazyload img-hover" src="${product.images.hover}" data-src="${product.images.hover}" alt="${product.name}">` : ''}
                     </a>
                     <ul class="product-action_list">
                         <li>
-                            <a href="${product.whatsappUrl}" target="_blank" class="hover-tooltip tooltip-left box-icon">
+                            <a href="checkout.html" data-product-slug="${product.slug}" class="hover-tooltip tooltip-left box-icon js-add-to-cart">
                                 <span class="icon icon-shopping-cart-simple"></span>
-                                <span class="tooltip">Buy on WhatsApp</span>
+                                <span class="tooltip">Add to Cart</span>
                             </a>
                         </li>
                         <li>
                             <a href="#quickView" data-bs-toggle="modal" class="hover-tooltip tooltip-left box-icon quick-view-btn" data-product-id="${product.slug}">
                                 <span class="icon icon-view"></span>
                                 <span class="tooltip">Quick view</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" data-wishlist-slug="${product.slug}" class="hover-tooltip tooltip-left box-icon js-toggle-wishlist">
+                                <span class="icon icon-heart"></span>
+                                <span class="tooltip">Add to Wishlist</span>
                             </a>
                         </li>
                     </ul>
@@ -329,9 +335,10 @@ document.addEventListener('DOMContentLoaded', function() {
             // WhatsApp CTA: repurpose the "ADD TO CART" button
             const buyBtn = modal.querySelector('.btn-add-to-cart');
             if (buyBtn) {
-                buyBtn.setAttribute('href', product.whatsappUrl || '#');
-                buyBtn.setAttribute('target', '_blank');
-                buyBtn.innerHTML = `BUY ON WHATSAPP <i class="icon icon-shopping-cart-simple"></i>`;
+                buyBtn.setAttribute('href', 'checkout.html');
+                buyBtn.setAttribute('data-product-slug', product.slug);
+                buyBtn.classList.add('js-add-to-cart');
+                buyBtn.innerHTML = `ADD TO CART <i class="icon icon-shopping-cart-simple"></i>`;
             }
 
             // Update product name link to point to specific product
@@ -536,4 +543,3 @@ document.addEventListener('DOMContentLoaded', function () {
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = { renderProducts, createProductCard, updateWhatsAppNumber };
 }
-

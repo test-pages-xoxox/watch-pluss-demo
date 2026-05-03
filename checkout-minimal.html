@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Minimal checkout (isolation test) | Watch Pluss</title>
+    <!-- Intentionally no theme CSS/JS: isolates Razorpay from styles.css, bootstrap, main.js, etc. -->
+    <style>
+        #iso { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; max-width: 560px; margin: 1.5rem auto; padding: 1rem 1.25rem; color: #111; }
+        #iso h1 { font-size: 1.25rem; font-weight: 700; margin: 0 0 0.5rem; }
+        #iso .muted { font-size: 0.875rem; color: #444; margin: 0 0 1rem; line-height: 1.45; }
+        #iso label { display: block; margin-top: 0.75rem; font-size: 0.8rem; font-weight: 600; }
+        #iso input, #iso textarea, #iso select {
+            width: 100%; padding: 0.5rem 0.6rem; font: inherit; box-sizing: border-box;
+            border: 1px solid #bbb; border-radius: 6px; margin-top: 0.2rem;
+        }
+        #iso textarea { min-height: 4.5rem; resize: vertical; }
+        #iso .row-btns { display: flex; gap: 0.5rem; margin-top: 1rem; flex-wrap: wrap; }
+        #iso .row-btns button { flex: 1; min-width: 120px; padding: 0.55rem 0.75rem; font: inherit; cursor: pointer; border-radius: 6px; border: 1px solid #333; }
+        #iso #m-payBtn { background: #111; color: #fff; }
+        #iso #m-saveBtn { background: #fff; color: #111; }
+        #iso #m-status { margin-top: 1rem; font-size: 0.875rem; color: #333; min-height: 1.25em; }
+        #iso #m-cartList { font-size: 0.875rem; background: #f0f0f0; padding: 0.75rem; border-radius: 6px; margin-bottom: 1rem; line-height: 1.4; }
+        #iso a { color: #0645ad; }
+        #iso code { font-size: 0.8em; background: #eee; padding: 0.1em 0.35em; border-radius: 3px; }
+    </style>
+</head>
+<body>
+<div id="iso">
+    <p><a href="checkout.html">← Back to theme checkout</a> · <a href="latest-collection.html">Shop</a></p>
+    <h1>Isolation checkout</h1>
+    <p class="muted">Loads only Razorpay + <code>products.js</code> + <code>store.js</code> + <code>checkout-minimal.js</code>. If payment works here but not on <code>checkout.html</code>, theme or global scripts are interfering.</p>
+
+    <div id="m-cartList">Loading cart…</div>
+
+    <form id="m-checkoutForm" novalidate>
+        <label for="m-savedAddress">Saved addresses</label>
+        <select id="m-savedAddress" name="savedAddress">
+            <option value="">Use a new address</option>
+        </select>
+        <label for="m-addressLabel">Address label</label>
+        <input id="m-addressLabel" type="text" placeholder="Home, Office…" autocomplete="off">
+        <label for="m-name">Full name</label>
+        <input id="m-name" type="text" placeholder="Required" autocomplete="name">
+        <label for="m-phone">Phone</label>
+        <input id="m-phone" type="tel" placeholder="Required" autocomplete="tel">
+        <label for="m-email">Email</label>
+        <input id="m-email" type="email" placeholder="Optional" autocomplete="email">
+        <label for="m-address">Street address</label>
+        <textarea id="m-address" rows="3" placeholder="Required" autocomplete="street-address"></textarea>
+        <label for="m-landmark">Landmark</label>
+        <input id="m-landmark" type="text" placeholder="Optional" autocomplete="off">
+        <label for="m-zip">PIN code</label>
+        <input id="m-zip" type="text" placeholder="Required" autocomplete="postal-code">
+        <label for="m-payment-mode">Payment mode</label>
+        <select id="m-payment-mode" name="paymentMode">
+            <option value="Prepaid">Prepaid</option>
+            <option value="COD">COD</option>
+        </select>
+    </form>
+    <div class="row-btns">
+        <button type="button" id="m-saveBtn">Save address</button>
+        <button type="button" id="m-payBtn">Pay with Razorpay</button>
+    </div>
+    <p id="m-status"></p>
+</div>
+
+<script src="collections/js/products.js"></script>
+<script src="js/store.js"></script>
+<script src="js/checkout-minimal.js"></script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <title>Thank you | Watch Pluss</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Your Watch Pluss order is confirmed">
+    <link rel="stylesheet" href="fonts/fonts.css">
+    <link rel="stylesheet" href="icon/icomoon/style.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="shortcut icon" href="images/logo/favicon.svg">
+</head>
+<body>
+<div id="wrapper">
+    <header class="tf-header style-7 header-fix">
+        <div class="container-full">
+            <div class="row align-items-center">
+                <div class="col-xl-2 col-md-4 col-6 mx-auto">
+                    <div class="d-flex justify-content-center py-3">
+                        <a href="index.html" class="logo-site">
+                            <img src="images/logo/logo.png" alt="Watch Pluss">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="flat-spacing-3">
+        <div class="container">
+            <div class="text-center py-5">
+                <p class="text-uppercase letter-space-1 mb-2 text-main">Thank you</p>
+                <h1 class="mb-3">Payment successful</h1>
+                <p id="thanks-order-line" class="text-main mb-2 h6"></p>
+                <p class="text-main mb-5">We have received your payment. You will get updates on the contact you used at checkout.</p>
+                <div class="d-flex flex-wrap justify-content-center gap-3">
+                    <a href="latest-collection.html" class="tf-btn animate-btn">Continue shopping</a>
+                    <a href="checkout.html" class="tf-btn style-line">Back to checkout</a>
+                    <a href="index.html" class="tf-btn style-line">Home</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+<script>
+(function () {
+    var params = new URLSearchParams(window.location.search);
+    var orderId = params.get("order");
+    var line = document.getElementById("thanks-order-line");
+    if (line) {
+        line.textContent = orderId
+            ? "Order reference: " + orderId
+            : "Your order is confirmed.";
+    }
+    try {
+        var clean = new URL("order-thanks.html", window.location.href);
+        clean.search = "";
+        window.history.replaceState({}, "", clean.pathname + clean.search);
+    } catch (_e) {}
+})();
+</script>
+</body>
+</html>
