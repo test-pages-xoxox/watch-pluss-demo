@@ -5785,5 +5785,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Versace%20%20Hellenyium-VK%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dversace-hellenyium-vk-generic-8390cc430560%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Versace%20%20Hellenyium-VK%20Generic%20%0ASKU%3A%20Versace%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Rolex Rainbow Generic ",
+        "slug": "rolex-rainbow-generic-5833d6f23a5d",
+        "sku": "rolex ",
+        "brand": "Rolex ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "For Men\r\n 7AA Premium Collection\r\nModel – Rolex Rainbow\r\nDial Size – 42mm\r\nWater Resistant\r\nPROFESSIONAL AND CLASSIC CHOICE\r\n\r\nWorking Chronograph\r\n12-hour analog\r\n24 Hour Counter\r\nDate Counter\r\nSilver Gold Stainless Steel dial\r\nRainbow colors bezel\r\nSmart fir metal strap\r\n3-point adjustment strap\r\nOriginal Branding on the strap and dial\r\nScrew down the branding lock\r\nWater-resistant\r\nHeavy-quality Premium stopwatch chronograph machinery",
+        "details": "",
+        "tags": "rolex,formal,chain,men",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2200"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-rainbow-generic-5833d6f23a5d/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-rainbow-generic-5833d6f23a5d/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-rainbow-generic-5833d6f23a5d/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-rainbow-generic-5833d6f23a5d/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Rainbow%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-rainbow-generic-5833d6f23a5d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Rainbow%20Generic%20%0ASKU%3A%20rolex%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
