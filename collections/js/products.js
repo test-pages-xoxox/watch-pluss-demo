@@ -5838,5 +5838,32 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Chain%20strap%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-chain-strap-generic-cbaad12468c6%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Chain%20strap%20Generic%20%0ASKU%3A%20G-Shock%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Omega - Constellation Women's Generic ",
+        "slug": "omega-constellation-women-s-generic-ecdf9d03c81b",
+        "sku": "Omega",
+        "brand": "Omega ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "✅ *Omega The City Engraved Check is an incredibly interesting Mens watch . Case material is Pure Steel & rosegold plating for Every occasion.* ✅\r\n\r\n🌟 *_Omega Constellation Originals with New Patent Textured Belt Available & Ready to ship today_* 🌟\r\n\r\n# Omega - Constellation\r\n# For Men's\r\n# 7A \r\n# Original Model\r\n# Case Diameter-40mm\r\n# Feature-Working 24 hour country time, date & Rosegold Bazel  & White Dial with beautiful dial \r\n\r\n*_Swiss Made Pure & Powerful Original Japanese Quartz Machinery_*\r\n\r\nGuaranteed Features 👇🏻\r\n- Original japanese Quartz machinery\r\n- High quality silver and rosegold Metal Chain\r\n- Sapphire Crystal Glass\r\n- Stainless Steel silver back",
+        "details": "",
+        "tags": "omega,formal,leather,women",
+        "price": {
+            "old": "₹4700",
+            "new": "₹1700"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-constellation-women-s-generic-ecdf9d03c81b/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-constellation-women-s-generic-ecdf9d03c81b/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-constellation-women-s-generic-ecdf9d03c81b/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-constellation-women-s-generic-ecdf9d03c81b/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-constellation-women-s-generic-ecdf9d03c81b/other3.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Omega%20-%20Constellation%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Domega-constellation-women-s-generic-ecdf9d03c81b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Omega%20-%20Constellation%20Women%27s%20Generic%20%0ASKU%3A%20Omega%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
