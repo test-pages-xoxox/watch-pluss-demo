@@ -5868,28 +5868,28 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Omega  Blue Mother Of Pearl Dial  Generic ",
-        "slug": "omega-blue-mother-of-pearl-dial-generic-4b6fe26ef9ef",
-        "sku": "Omega",
-        "brand": "Omega ",
+        "name": "CAVALLI women's Generic ",
+        "slug": "cavalli-women-s-generic-2d4af4908014",
+        "sku": "Cavalli ",
+        "brand": "Cavalli ",
         "badge": "Hot ",
         "availability": "In stock ",
-        "description": "Omega \r\n\r\nFor Her \r\n\r\nSemester \r\n\r\nBlue Mother Of Pearl Dial \r\n\r\nDate Working\r\n\r\n5 Link Bracelet",
+        "description": "JUST CAVALLI \r\n\r\n\r\nCase material\t\r\nStainless Steel\r\nCase color\t\r\nRose Gold\r\nBand material\t\r\nStainless Steel\r\nBand Color\t\r\nRose Gold\r\nDial color\t\r\nAntique white\r\nDisplay type\t\r\nAnalogue\r\nMovement type\t\r\nQuartz\r\nMovement caliber\tquartz \r\nTarget\t\r\nLady\r\nCase shape\t\r\nOval\r\nWater resistance\t\r\nWater Resistant\r\nCase diameter (mm)\t\r\n23\r\nCase height (mm)\t\r\n8\r\nBand width (cm)\t\r\n9\r\nBand lenght (cm)\t\r\n25\r\nWeight (gr)\t\r\n40",
         "details": "",
-        "tags": "omega,formal,chain,women",
+        "tags": "women-chain, women-formal,women",
         "price": {
-            "old": "₹2300",
+            "old": "₹3800",
             "new": "₹1600"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-blue-mother-of-pearl-dial-generic-4b6fe26ef9ef/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-blue-mother-of-pearl-dial-generic-4b6fe26ef9ef/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cavalli-women-s-generic-2d4af4908014/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cavalli-women-s-generic-2d4af4908014/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-blue-mother-of-pearl-dial-generic-4b6fe26ef9ef/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-blue-mother-of-pearl-dial-generic-4b6fe26ef9ef/other2.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cavalli-women-s-generic-2d4af4908014/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cavalli-women-s-generic-2d4af4908014/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Omega%20%20Blue%20Mother%20Of%20Pearl%20Dial%20%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Domega-blue-mother-of-pearl-dial-generic-4b6fe26ef9ef%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Omega%20%20Blue%20Mother%20Of%20Pearl%20Dial%20%20Generic%20%0ASKU%3A%20Omega%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20CAVALLI%20women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcavalli-women-s-generic-2d4af4908014%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20CAVALLI%20women%27s%20Generic%20%0ASKU%3A%20Cavalli%20%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
