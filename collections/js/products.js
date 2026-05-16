@@ -5865,5 +5865,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Omega%20-%20Constellation%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Domega-constellation-women-s-generic-ecdf9d03c81b%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Omega%20-%20Constellation%20Women%27s%20Generic%20%0ASKU%3A%20Omega%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Omega  Blue Mother Of Pearl Dial  Generic ",
+        "slug": "omega-blue-mother-of-pearl-dial-generic-4b6fe26ef9ef",
+        "sku": "Omega",
+        "brand": "Omega ",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "Omega \r\n\r\nFor Her \r\n\r\nSemester \r\n\r\nBlue Mother Of Pearl Dial \r\n\r\nDate Working\r\n\r\n5 Link Bracelet",
+        "details": "",
+        "tags": "omega,formal,chain,women",
+        "price": {
+            "old": "₹2300",
+            "new": "₹1600"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-blue-mother-of-pearl-dial-generic-4b6fe26ef9ef/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-blue-mother-of-pearl-dial-generic-4b6fe26ef9ef/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-blue-mother-of-pearl-dial-generic-4b6fe26ef9ef/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-blue-mother-of-pearl-dial-generic-4b6fe26ef9ef/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Omega%20%20Blue%20Mother%20Of%20Pearl%20Dial%20%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Domega-blue-mother-of-pearl-dial-generic-4b6fe26ef9ef%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Omega%20%20Blue%20Mother%20Of%20Pearl%20Dial%20%20Generic%20%0ASKU%3A%20Omega%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
