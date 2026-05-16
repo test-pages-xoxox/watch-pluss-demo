@@ -5891,5 +5891,32 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20CAVALLI%20women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcavalli-women-s-generic-2d4af4908014%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20CAVALLI%20women%27s%20Generic%20%0ASKU%3A%20Cavalli%20%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Calvin Klein Women's Generic ",
+        "slug": "calvin-klein-women-s-generic-ba4c01092566",
+        "sku": "Calvin Klein ",
+        "brand": "Calvin Klein",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "🔥 *_CK WATCH_* 🔥\r\n• 7A Good Quality And Distinctive Stirrup-Shaped Model For Ladies\r\n• Fancy Look, Swiss Made And Quartz Movement\r\n• ⁠High-Quality Material, Stainless Steel Case And Close Buckle Lock\r\n• Calvin Klein Is The Top Of Materials For Watches That Are Designed To Stand The Test Of Timing\r\n➡️ Available Stock & Ready To Book Now\r\n➡️ Same Day Dispatch & COD Pickup Available\r\n➡️ Product Will Be Delivered Same As In Picture\r\n",
+        "details": "",
+        "tags": "women-chain, women-formal,women",
+        "price": {
+            "old": "₹3200",
+            "new": "₹1400"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/calvin-klein-women-s-generic-ba4c01092566/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/calvin-klein-women-s-generic-ba4c01092566/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/calvin-klein-women-s-generic-ba4c01092566/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/calvin-klein-women-s-generic-ba4c01092566/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/calvin-klein-women-s-generic-ba4c01092566/other3.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Calvin%20Klein%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcalvin-klein-women-s-generic-ba4c01092566%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Calvin%20Klein%20Women%27s%20Generic%20%0ASKU%3A%20Calvin%20Klein%20%0APrice%3A%20%E2%82%B91400%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
