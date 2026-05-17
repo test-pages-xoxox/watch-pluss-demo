@@ -5918,5 +5918,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Calvin%20Klein%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcalvin-klein-women-s-generic-ba4c01092566%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Calvin%20Klein%20Women%27s%20Generic%20%0ASKU%3A%20Calvin%20Klein%20%0APrice%3A%20%E2%82%B91400%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Jacob & Co Rudra Edition Generic ",
+        "slug": "jacob-co-rudra-edition-generic-67432d5f7839",
+        "sku": "Jacob ",
+        "brand": "Jacob & co",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "*Hot Selling Watch*💥💥💥\r\n\r\n*This is a Jacob & Co. Epic X Rudra Edition watch featuring a sky blue silicone strap and a stainless steel case.*\r\n⭐️ ⭐️⭐️\r\n\r\nBrand-Jacob & Co\r\nModel-Rudra Edition \r\nQuality-7a\r\nGender-Mens\r\nBelt-Silicone \r\nRound dial\r\nMovement-Quartz \r\nCase Diameter-40mm\r\nCase Thickness-7mm\r\nGlass: Sapphire Crystal\r\nShape:Round\r\n\r\n\r\n*(Best Quality)*\r\n\r\n*Free Normal box*🛍\r\n\r\n*All Self Clicked Picture and Video*📸",
+        "details": "",
+        "tags": "men,formal,leather",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2200"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/jacob-co-rudra-edition-generic-67432d5f7839/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/jacob-co-rudra-edition-generic-67432d5f7839/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/jacob-co-rudra-edition-generic-67432d5f7839/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Jacob%20%26%20Co%20Rudra%20Edition%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Djacob-co-rudra-edition-generic-67432d5f7839%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Jacob%20%26%20Co%20Rudra%20Edition%20Generic%20%0ASKU%3A%20Jacob%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
