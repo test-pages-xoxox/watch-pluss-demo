@@ -6,6 +6,7 @@ import { fileURLToPath } from "node:url";
 import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
+import admin from "firebase-admin";
 import Razorpay from "razorpay";
 
 dotenv.config();
@@ -16,18 +17,22 @@ const FRONTEND_ORIGIN = process.env.FRONTEND_ORIGIN || "*";
 const SERVICE_DIR = path.dirname(fileURLToPath(import.meta.url));
 const ROOT_DIR = path.resolve(SERVICE_DIR, "..");
 const PRODUCT_FILE = path.join(ROOT_DIR, "collections/js/products.js");
-const DATA_DIR = path.join(SERVICE_DIR, "data");
-const ORDER_FILE = path.join(DATA_DIR, "orders.json");
 const razorpayKeyId = process.env.RAZORPAY_KEY_ID || "";
 const razorpayKeySecret = process.env.RAZORPAY_KEY_SECRET || "";
+const firestoreProjectId = process.env.FIREBASE_PROJECT_ID || "";
+const firestoreClientEmail = process.env.FIREBASE_CLIENT_EMAIL || "";
+const firestorePrivateKey = normalizePrivateKey(process.env.FIREBASE_PRIVATE_KEY || "");
+const firestoreOrdersCollection = process.env.FIRESTORE_COLLECTION_ORDERS || "orders";
+const authService = firestore ? admin.auth() : null;
 
-console.log("ID:", razorpayKeyId);
 const razorpay = razorpayKeyId && razorpayKeySecret
     ? new Razorpay({
         key_id: razorpayKeyId,
         key_secret: razorpayKeySecret,
     })
     : null;
+
+const firestore = initializeFirestore();
 
 app.use(
     cors({
@@ -36,13 +41,12 @@ app.use(
 );
 app.use(express.json({ limit: "1mb" }));
 
-ensureStorage();
-
 app.get("/health", (_req, res) => {
     res.json({
         ok: true,
         service: "watch-pluss-payments-service",
         razorpayConfigured: Boolean(razorpay),
+        firestoreConfigured: Boolean(firestore),
         date: new Date().toISOString(),
     });
 });
@@ -55,7 +59,14 @@ app.post("/api/orders/create", async (req, res) => {
             });
         }
 
+        if (!firestore) {
+            return res.status(500).json({
+                error: "Firestore is not configured. Add FIREBASE_PROJECT_ID, FIREBASE_CLIENT_EMAIL, and FIREBASE_PRIVATE_KEY.",
+            });
+        }
+
         const payload = req.body || {};
+        const decodedUser = await getOptionalUser(req);
         const items = Array.isArray(payload.items) ? payload.items : [];
         const address = normalizeAddress(payload.address || {});
         const customer = normalizeCustomer(payload.customer || {});
@@ -95,11 +106,11 @@ app.post("/api/orders/create", async (req, res) => {
             },
         });
 
-        console.log("Razorpay order created:", razorpayOrder);
-
         const orderRecord = {
             id: orderId,
             receipt,
+            userId: decodedUser?.uid || "",
+            userEmail: decodedUser?.email || customer.email || "",
             status: "created",
             paymentStatus: "pending",
             paymentMode,
@@ -114,7 +125,7 @@ app.post("/api/orders/create", async (req, res) => {
             razorpayCurrency: razorpayOrder.currency,
         };
 
-        saveOrder(orderRecord);
+        await saveOrder(orderRecord);
 
         res.json({
             success: true,
@@ -134,10 +145,16 @@ app.post("/api/orders/create", async (req, res) => {
     }
 });
 
-app.post("/api/payments/verify", (req, res) => {
+app.post("/api/payments/verify", async (req, res) => {
     try {
         if (!razorpayKeySecret) {
             return res.status(500).json({ error: "Razorpay secret is not configured." });
+        }
+
+        if (!firestore) {
+            return res.status(500).json({
+                error: "Firestore is not configured. Add FIREBASE_PROJECT_ID, FIREBASE_CLIENT_EMAIL, and FIREBASE_PRIVATE_KEY.",
+            });
         }
 
         const {
@@ -160,20 +177,21 @@ app.post("/api/payments/verify", (req, res) => {
             return res.status(400).json({ error: "Payment signature verification failed." });
         }
 
-        const orders = readOrders();
-        const order = orders.find((entry) => entry.id === orderId);
+        const order = await readOrder(orderId);
 
         if (!order) {
             return res.status(404).json({ error: "Order not found." });
         }
 
-        order.status = "paid";
-        order.paymentStatus = "verified";
-        order.verifiedAt = new Date().toISOString();
-        order.razorpayPaymentId = razorpayPaymentId;
-        order.razorpaySignature = razorpaySignature;
+        const updates = {
+            status: "paid",
+            paymentStatus: "verified",
+            verifiedAt: new Date().toISOString(),
+            razorpayPaymentId: razorpayPaymentId,
+            razorpaySignature: razorpaySignature,
+        };
 
-        writeOrders(orders);
+        await updateOrder(orderId, updates);
 
         res.json({
             success: true,
@@ -188,28 +206,115 @@ app.post("/api/payments/verify", (req, res) => {
     }
 });
 
-app.get("/api/orders/:id", (req, res) => {
-    const orders = readOrders();
-    const order = orders.find((entry) => entry.id === req.params.id);
+app.get("/api/orders/me", async (req, res) => {
+    try {
+        if (!firestore) {
+            return res.status(500).json({
+                error: "Firestore is not configured. Add FIREBASE_PROJECT_ID, FIREBASE_CLIENT_EMAIL, and FIREBASE_PRIVATE_KEY.",
+            });
+        }
 
-    if (!order) {
-        return res.status(404).json({ error: "Order not found." });
+        const decodedUser = await getRequiredUser(req);
+        const snapshot = await firestore
+            .collection(firestoreOrdersCollection)
+            .where("userId", "==", decodedUser.uid)
+            .get();
+
+        const orders = snapshot.docs
+            .map((entry) => entry.data())
+            .filter((entry) => entry.paymentStatus === "verified")
+            .sort((a, b) => new Date(b.verifiedAt || b.createdAt).getTime() - new Date(a.verifiedAt || a.createdAt).getTime());
+
+        res.json({ success: true, orders });
+    } catch (error) {
+        console.error("orders me failed", error);
+        res.status(error?.statusCode || 500).json({
+            error: error instanceof Error ? error.message : "Unable to fetch user orders.",
+        });
     }
+});
 
-    res.json({ success: true, order });
+app.get("/api/orders/:id", async (req, res) => {
+    try {
+        if (!firestore) {
+            return res.status(500).json({
+                error: "Firestore is not configured. Add FIREBASE_PROJECT_ID, FIREBASE_CLIENT_EMAIL, and FIREBASE_PRIVATE_KEY.",
+            });
+        }
+
+        const order = await readOrder(req.params.id);
+
+        if (!order) {
+            return res.status(404).json({ error: "Order not found." });
+        }
+
+        res.json({ success: true, order });
+    } catch (error) {
+        console.error("order read failed", error);
+        res.status(500).json({
+            error: error instanceof Error ? error.message : "Unable to fetch order.",
+        });
+    }
 });
 
 app.listen(PORT, () => {
     console.log(`watch-pluss-payments-service listening on http://localhost:${PORT}`);
 });
 
-function ensureStorage() {
-    if (!fs.existsSync(DATA_DIR)) {
-        fs.mkdirSync(DATA_DIR, { recursive: true });
+function initializeFirestore() {
+    if (!firestoreProjectId || !firestoreClientEmail || !firestorePrivateKey) {
+        return null;
     }
-    if (!fs.existsSync(ORDER_FILE)) {
-        fs.writeFileSync(ORDER_FILE, "[]\n", "utf8");
+
+    if (!admin.apps.length) {
+        admin.initializeApp({
+            credential: admin.credential.cert({
+                projectId: firestoreProjectId,
+                clientEmail: firestoreClientEmail,
+                privateKey: firestorePrivateKey,
+            }),
+        });
     }
+
+    return admin.firestore();
+}
+
+async function getOptionalUser(req) {
+    const idToken = getBearerToken(req);
+    if (!idToken || !authService) {
+        return null;
+    }
+
+    try {
+        return await authService.verifyIdToken(idToken);
+    } catch (_error) {
+        return null;
+    }
+}
+
+async function getRequiredUser(req) {
+    const idToken = getBearerToken(req);
+    if (!idToken || !authService) {
+        const error = new Error("Authentication required.");
+        error.statusCode = 401;
+        throw error;
+    }
+
+    try {
+        return await authService.verifyIdToken(idToken);
+    } catch (_error) {
+        const error = new Error("Invalid authentication token.");
+        error.statusCode = 401;
+        throw error;
+    }
+}
+
+function getBearerToken(req) {
+    const header = req.headers.authorization || "";
+    if (!header.startsWith("Bearer ")) {
+        return "";
+    }
+    return header.slice("Bearer ".length).trim();
 }
 
 function loadCatalog() {
@@ -264,6 +369,9 @@ function normalizeCustomer(customer) {
 function normalizeAddress(address) {
     return {
         id: String(address.id || "").trim(),
+        name: String(address.name || "").trim(),
+        phone: String(address.phone || "").trim(),
+        email: String(address.email || "").trim(),
         label: String(address.label || "").trim(),
         address: String(address.address || "").trim(),
         landmark: String(address.landmark || "").trim(),
@@ -271,20 +379,35 @@ function normalizeAddress(address) {
     };
 }
 
-function readOrders() {
-    try {
-        return JSON.parse(fs.readFileSync(ORDER_FILE, "utf8"));
-    } catch (_error) {
-        return [];
+async function saveOrder(order) {
+    if (!firestore) {
+        throw new Error("Firestore is not initialized.");
     }
+
+    await firestore.collection(firestoreOrdersCollection).doc(order.id).set(order);
 }
 
-function writeOrders(orders) {
-    fs.writeFileSync(ORDER_FILE, `${JSON.stringify(orders, null, 2)}\n`, "utf8");
+async function readOrder(orderId) {
+    if (!firestore) {
+        throw new Error("Firestore is not initialized.");
+    }
+
+    const snapshot = await firestore.collection(firestoreOrdersCollection).doc(orderId).get();
+    if (!snapshot.exists) {
+        return null;
+    }
+
+    return snapshot.data();
 }
 
-function saveOrder(order) {
-    const orders = readOrders();
-    orders.push(order);
-    writeOrders(orders);
+async function updateOrder(orderId, updates) {
+    if (!firestore) {
+        throw new Error("Firestore is not initialized.");
+    }
+
+    await firestore.collection(firestoreOrdersCollection).doc(orderId).set(updates, { merge: true });
+}
+
+function normalizePrivateKey(value) {
+    return String(value || "").replace(/\\n/g, "\n");
 }

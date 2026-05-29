@@ -47,6 +47,7 @@
     function saveCart(cart) {
         write(STORAGE_KEYS.cart, cart);
         syncBadges();
+        syncCloud("cart", cart);
     }
 
     function getWishlist() {
@@ -57,6 +58,7 @@
         write(STORAGE_KEYS.wishlist, items);
         syncBadges();
         syncWishlistButtons();
+        syncCloud("wishlist", items);
     }
 
     function getAddresses() {
@@ -65,6 +67,23 @@
 
     function saveAddresses(addresses) {
         write(STORAGE_KEYS.addresses, addresses);
+    }
+
+    function replaceCart(cart, options) {
+        write(STORAGE_KEYS.cart, cart);
+        syncBadges();
+        if (!(options && options.silent)) {
+            syncCloud("cart", cart);
+        }
+    }
+
+    function replaceWishlist(items, options) {
+        write(STORAGE_KEYS.wishlist, items);
+        syncBadges();
+        syncWishlistButtons();
+        if (!(options && options.silent)) {
+            syncCloud("wishlist", items);
+        }
     }
 
     function addToCart(slug, options) {
@@ -285,6 +304,14 @@
         }, 2200);
     }
 
+    function syncCloud(type, payload) {
+        if (window.WatchPlussAuth && typeof window.WatchPlussAuth.handleLocalChange === "function") {
+            window.WatchPlussAuth.handleLocalChange(type, payload).catch((error) => {
+                console.error(`Failed to sync ${type}`, error);
+            });
+        }
+    }
+
     function bindStoreActions() {
         document.addEventListener("click", function (event) {
             const cartTrigger = event.target.closest("[data-product-slug].js-add-to-cart");
@@ -322,9 +349,11 @@
         updateCartQuantity,
         removeFromCart,
         clearCart,
+        replaceCart,
         getWishlist,
         toggleWishlist,
         isWishlisted,
+        replaceWishlist,
         getAddresses,
         createAddress,
         setSelectedAddress,

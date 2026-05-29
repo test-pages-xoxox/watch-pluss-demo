@@ -211,6 +211,37 @@
         }
     }
 
+    function ensureAuth(email) {
+        var auth = window.WatchPlussAuth;
+        if (!auth || !auth.hasConfig) {
+            return Promise.resolve();
+        }
+
+        var user = auth.getCurrentUser();
+        if (user && !user.isAnonymous) {
+            return Promise.resolve();
+        }
+        if (user && user.isAnonymous) {
+            return Promise.resolve();
+        }
+
+        var emailValue = (email || "").trim();
+        if (!emailValue) {
+            return auth.loginAnonymously().then(function () {});
+        }
+
+        return auth.checkEmailExists(emailValue).then(function (exists) {
+            if (exists) {
+                var loginPrompt = $("checkoutLoginPrompt");
+                if (loginPrompt) {
+                    loginPrompt.classList.remove("d-none");
+                }
+                return Promise.reject(new Error("This email already has an account. Please log in first."));
+            }
+            return auth.loginAnonymously().then(function () {});
+        });
+    }
+
     function startPaymentFlow() {
         if (paymentInProgress) {
             return Promise.resolve();
@@ -236,7 +267,12 @@
 
         var statusEl = $("checkoutStatus");
         if (statusEl) {
-            statusEl.textContent = "Creating your order...";
+            statusEl.textContent = "Preparing your order...";
+        }
+
+        var loginPrompt = $("checkoutLoginPrompt");
+        if (loginPrompt) {
+            loginPrompt.classList.add("d-none");
         }
 
         var payload = {
@@ -252,11 +288,25 @@
             paymentMode: address.paymentMode,
         };
 
-        return fetch(store.apiBase + "/orders/create", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(payload),
-        })
+        return ensureAuth(address.email)
+            .then(function () {
+                if (statusEl) {
+                    statusEl.textContent = "Creating your order...";
+                }
+                return window.WatchPlussAuth && window.WatchPlussAuth.getIdToken ? window.WatchPlussAuth.getIdToken() : "";
+            })
+            .then(function (idToken) {
+                var headers = { "Content-Type": "application/json" };
+                if (idToken) {
+                    headers.Authorization = "Bearer " + idToken;
+                }
+
+                return fetch(store.apiBase + "/orders/create", {
+                    method: "POST",
+                    headers: headers,
+                    body: JSON.stringify(payload),
+                });
+            })
             .then(function (response) {
                 return response.json().then(function (data) {
                     return { response: response, data: data };
