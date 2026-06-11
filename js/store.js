@@ -86,6 +86,13 @@
         }
     }
 
+    function replaceAddresses(addresses, options) {
+        write(STORAGE_KEYS.addresses, addresses);
+        if (!(options && options.silent)) {
+            syncCloud("addresses", addresses);
+        }
+    }
+
     function addToCart(slug, options) {
         const settings = options || {};
         const quantity = Math.max(1, Number(settings.quantity) || 1);
@@ -196,6 +203,7 @@
         }
 
         saveAddresses(addresses);
+        syncCloud("addresses", addresses);
         setSelectedAddress(next.id);
         return next;
     }
@@ -356,6 +364,7 @@
         replaceWishlist,
         getAddresses,
         createAddress,
+        replaceAddresses,
         setSelectedAddress,
         getSelectedAddress,
         getSelectedAddressId,

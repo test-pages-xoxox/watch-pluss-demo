@@ -7,11 +7,14 @@
 
     function renderAuthState(detail) {
         const user = detail?.currentUser || (window.WatchPlussAuth && window.WatchPlussAuth.getCurrentUser());
+        const loading = $("accountLoading");
         const guest = $("accountGuest");
         const member = $("accountMember");
         const disabled = $("accountDisabled");
         const name = $("accountUserName");
         const email = $("accountUserEmail");
+
+        if (loading) loading.classList.add("d-none");
 
         if (!window.WatchPlussAuth || !window.WatchPlussAuth.hasConfig) {
             disabled?.classList.remove("d-none");
@@ -94,19 +97,23 @@
         }
 
         const orders = Array.isArray(data.orders) ? data.orders : [];
-        list.innerHTML = orders.length ? orders.map((order) => `
+        list.innerHTML = orders.length ? orders.map((order) => {
+            const isCod = order.paymentMode === "COD";
+            const badge = isCod ? '<span class="badge bg-warning text-dark ms-2">COD</span>' : '<span class="badge bg-success ms-2">Paid</span>';
+            const dateStr = new Date(order.verifiedAt || order.createdAt).toLocaleDateString("en-IN");
+            return `
             <div class="border rounded-4 p-3 mb-3">
                 <div class="d-flex justify-content-between align-items-center mb-2">
                     <strong>${order.id}</strong>
-                    <span>${store.formatINR((order.amount || 0) / 100)}</span>
+                    <span>${store.formatINR((order.amount || 0) / 100)}${badge}</span>
                 </div>
-                <div class="text-main mb-2">Completed on ${new Date(order.verifiedAt || order.createdAt).toLocaleDateString("en-IN")}</div>
+                <div class="text-main mb-2">${dateStr}</div>
                 <div>${(order.items || []).map((item) => `<div>${item.name} x ${item.quantity}</div>`).join("")}</div>
-            </div>
-        `).join("") : '<p class="text-main mb-0">No completed orders yet.</p>';
+            </div>`;
+        }).join("") : '<p class="text-main mb-0">No completed orders yet.</p>';
     }
 
-    async function handleAuthSubmit(mode) {
+    async function handleAuthSubmit() {
         const auth = window.WatchPlussAuth;
         const email = $("authEmail")?.value.trim();
         const password = $("authPassword")?.value;
@@ -117,30 +124,27 @@
             return;
         }
 
-        if (mode === "register") {
-            await auth.register(email, password);
-            store.notify("Account created.");
-            return;
+        try {
+            await auth.login(email, password);
+            store.notify("Logged in.");
+        } catch (error) {
+            const code = error?.code || "";
+            if (code === "auth/user-not-found" || code === "auth/invalid-credential") {
+                await auth.register(email, password);
+                store.notify("Welcome! Account created.");
+            } else {
+                throw error;
+            }
         }
-
-        await auth.login(email, password);
-        store.notify("Logged in.");
     }
 
     document.addEventListener("DOMContentLoaded", function () {
         renderLocalSummaries();
-        renderAuthState();
 
         document.addEventListener("click", function (event) {
-            if (event.target.closest("#registerBtn")) {
-                event.preventDefault();
-                handleAuthSubmit("register").catch((error) => store.notify(error.message || "Unable to register.", "error"));
-                return;
-            }
-
             if (event.target.closest("#loginBtn")) {
                 event.preventDefault();
-                handleAuthSubmit("login").catch((error) => store.notify(error.message || "Unable to login.", "error"));
+                handleAuthSubmit().catch((error) => store.notify(error.message || "Unable to log in.", "error"));
                 return;
             }
 

@@ -44,11 +44,21 @@
         return document.getElementById(id);
     }
 
+    function getAddressLabel() {
+        var sel = $("addressLabelSelect");
+        var other = $("addressLabelOther");
+        if (!sel) return "Saved address";
+        if (sel.value === "Other" && other && other.value.trim()) {
+            return other.value.trim();
+        }
+        return sel.value || "Saved address";
+    }
+
     function getFormValuesFixed() {
         var saved = $("savedAddress");
         return {
             id: (saved && saved.value && String(saved.value).trim()) || "addr_" + Date.now(),
-            label: ($("addressLabel") && $("addressLabel").value.trim()) || "Saved address",
+            label: getAddressLabel(),
             name: ($("name") && $("name").value.trim()) || "",
             phone: ($("phone") && $("phone").value.trim()) || "",
             email: ($("email") && $("email").value.trim()) || "",
@@ -59,9 +69,31 @@
         };
     }
 
+    function setAddressLabel(label) {
+        var sel = $("addressLabelSelect");
+        var other = $("addressLabelOther");
+        if (!sel) return;
+
+        var preset = ["Home", "Office", "Other"];
+        if (preset.indexOf(label) !== -1) {
+            sel.value = label;
+            if (other) {
+                other.value = "";
+                other.classList.add("d-none");
+                other.required = false;
+            }
+        } else {
+            sel.value = "Other";
+            if (other) {
+                other.value = label || "";
+                other.classList.remove("d-none");
+                other.required = true;
+            }
+        }
+    }
+
     function fillForm(address) {
         var sa = $("savedAddress");
-        var al = $("addressLabel");
         var nm = $("name");
         var ph = $("phone");
         var em = $("email");
@@ -75,7 +107,7 @@
 
         if (!address) {
             sa.value = "";
-            if (al) al.value = "";
+            setAddressLabel("Home");
             if (nm) nm.value = "";
             if (ph) ph.value = "";
             if (em) em.value = "";
@@ -87,7 +119,7 @@
         }
 
         sa.value = address.id || "";
-        if (al) al.value = address.label || "";
+        setAddressLabel(address.label || "Home");
         if (nm) nm.value = address.name || "";
         if (ph) ph.value = address.phone || "";
         if (em) em.value = address.email || "";
@@ -318,6 +350,19 @@
                 if (!response.ok) {
                     throw new Error((data && data.error) || "Unable to create order.");
                 }
+
+                if (data.cod) {
+                    if (statusEl) {
+                        statusEl.textContent = "Order confirmed! Redirecting...";
+                    }
+                    store.clearCart();
+                    var thanksUrl = new URL("order-thanks.html?order=" + encodeURIComponent(data.orderId), window.location.href).href;
+                    window.setTimeout(function () {
+                        window.location.replace(thanksUrl);
+                    }, 0);
+                    return;
+                }
+
                 if (!data.keyId) {
                     throw new Error("Razorpay key missing from backend.");
                 }
@@ -472,6 +517,21 @@
         renderAddressOptions();
         renderCart();
         bindDocumentClickForCart();
+
+        var labelSelect = $("addressLabelSelect");
+        var labelOther = $("addressLabelOther");
+        if (labelSelect && labelOther) {
+            labelSelect.addEventListener("change", function () {
+                if (this.value === "Other") {
+                    labelOther.classList.remove("d-none");
+                    labelOther.required = true;
+                } else {
+                    labelOther.classList.add("d-none");
+                    labelOther.value = "";
+                    labelOther.required = false;
+                }
+            });
+        }
 
         var savedSelect = $("savedAddress");
         if (savedSelect) {

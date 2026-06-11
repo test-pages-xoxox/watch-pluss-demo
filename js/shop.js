@@ -1,6 +1,28 @@
 (function ($) {
     "use strict";
 
+    /* Category Data
+  -------------------------------------------------------------------------------------*/
+    var CATEGORIES = {
+        men: {
+            label: "Men",
+            brands: [
+                { label: "Casio", cat: "men-casio" },
+                { label: "Tissot", cat: "men-tissot" },
+                { label: "Armani", cat: "men-armani" },
+                { label: "Tommy Hilfiger", cat: "men-tommy" },
+            ]
+        },
+        women: {
+            label: "Women",
+            brands: [
+                { label: "Michael Kors", cat: "women-michael" },
+                { label: "Tommy Hilfiger", cat: "women-tommy" },
+                { label: "Casio", cat: "women-casio" },
+            ]
+        }
+    };
+
     /* Range Two Price
   -------------------------------------------------------------------------------------*/
     var rangeTwoPrice = function () {
@@ -143,7 +165,7 @@
             }
             if (filters.minPrice > minPrice || filters.maxPrice < maxPrice) {
                 appliedFilters.append(
-                    `<span class="filter-tag remove-tag" data-filter="price"><span class="icon icon-close"></span>Price: $${filters.minPrice} - $${filters.maxPrice}</span>`
+                    `<span class="filter-tag remove-tag" data-filter="price"><span class="icon icon-close"></span>Price: ₹${filters.minPrice} - ₹${filters.maxPrice}</span>`
                 );
             }
             if (filters.color) {
@@ -244,7 +266,7 @@
                 const product = $(this);
                 let showProduct = true;
 
-                const priceText = product.find(".price-new").text().replace("$", "");
+                const priceText = product.find(".price-new").text().replace(/[^0-9.]/g, "");
                 const price = parseFloat(priceText);
                 if (price < filters.minPrice || price > filters.maxPrice) {
                     showProduct = false;
@@ -276,7 +298,13 @@
                         showProduct = false;
                     }
                 }
-                product.toggle(showProduct);
+
+                const wrapper = product.parent();
+                if (wrapper.length && !wrapper.hasClass("wrapper-shop")) {
+                    wrapper.toggle(showProduct);
+                } else {
+                    product.toggle(showProduct);
+                }
 
                 if (showProduct) {
                     if (product.hasClass("grid")) {
@@ -360,12 +388,12 @@
             if (sortValue === "price-low-high") {
                 products.sort(
                     (a, b) =>
-                        parseFloat($(a).find(".price-new").text().replace("$", "")) - parseFloat($(b).find(".price-new").text().replace("$", ""))
+                        parseFloat($(a).find(".price-new").text().replace(/[^0-9.]/g, "")) - parseFloat($(b).find(".price-new").text().replace(/[^0-9.]/g, ""))
                 );
             } else if (sortValue === "price-high-low") {
                 products.sort(
                     (a, b) =>
-                        parseFloat($(b).find(".price-new").text().replace("$", "")) - parseFloat($(a).find(".price-new").text().replace("$", ""))
+                        parseFloat($(b).find(".price-new").text().replace(/[^0-9.]/g, "")) - parseFloat($(a).find(".price-new").text().replace(/[^0-9.]/g, ""))
                 );
             } else if (sortValue === "a-z") {
                 products.sort((a, b) => $(a).find(".name-product").text().localeCompare($(b).find(".name-product").text()));
@@ -704,7 +732,48 @@
     };
 
 
+    /* Dynamic Category Filter
+  -------------------------------------------------------------------------------------*/
+    var renderCategoryFilter = function () {
+        var container = document.getElementById("dynamic-category-filter");
+        if (!container) return;
+
+        var currentCat = new URLSearchParams(window.location.search).get("cat") || "all";
+        currentCat = currentCat.toLowerCase().trim();
+
+        var allProducts = (typeof products !== "undefined") ? products : [];
+
+        function countProducts(cat) {
+            if (!cat || cat === "all") return allProducts.length;
+            return filterProductsByCategory(allProducts, cat).length;
+        }
+
+        var html = "";
+
+        Object.keys(CATEGORIES).forEach(function (key) {
+            var group = CATEGORIES[key];
+            var mainCount = countProducts(key);
+            var mainActive = (currentCat === key) ? " active" : "";
+
+            html += '<li class="list-item">';
+            html += '<a href="latest-collection.html?cat=' + key + '" class="link h6 fw-bold' + mainActive + '">' + group.label + '<span class="count">' + mainCount + '</span></a>';
+            html += '</li>';
+
+            group.brands.forEach(function (brand) {
+                var brandCount = countProducts(brand.cat);
+                var brandActive = (currentCat === brand.cat) ? " active" : "";
+
+                html += '<li class="list-item" style="padding-left:12px;">';
+                html += '<a href="latest-collection.html?cat=' + brand.cat + '" class="link h6' + brandActive + '">' + brand.label + '<span class="count">' + brandCount + '</span></a>';
+                html += '</li>';
+            });
+        });
+
+        container.innerHTML = html;
+    };
+
     $(function () {
+        renderCategoryFilter();
         rangeTwoPrice();
         filterProducts();
         filterSort();

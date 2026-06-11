@@ -277,6 +277,11 @@
                                 </a>
                             </li>
                             <li class="d-none d-md-flex">
+                                <a class="nav-icon-item link position-relative" href="account.html" aria-label="Account">
+                                    <i class="icon icon-user"></i>
+                                </a>
+                            </li>
+                            <li class="d-none d-md-flex">
                                 <a class="nav-icon-item link position-relative" href="wishlist.html" aria-label="Wishlist">
                                     <i class="icon icon-heart"></i>
                                     <span class="count" data-wishlist-count style="display:none;">0</span>
@@ -325,14 +330,8 @@
                         <li class="tf-view-layout-switch sw-layout-3 d-none d-md-flex" data-value-layout="tf-col-3">
                             <i class="icon-grid-3"></i>
                         </li>
-                        <li class="tf-view-layout-switch sw-layout-4 d-none d-xl-flex" data-value-layout="tf-col-4">
+                        <li class="tf-view-layout-switch sw-layout-4 d-none d-xl-flex active" data-value-layout="tf-col-4">
                             <i class="icon-grid-4"></i>
-                        </li>
-                        <li class="tf-view-layout-switch sw-layout-5 d-none d-xxl-flex" data-value-layout="tf-col-5">
-                            <i class="icon-grid-5"></i>
-                        </li>
-                        <li class="tf-view-layout-switch sw-layout-6 d-none d-xxl-flex active" data-value-layout="tf-col-6">
-                            <i class="icon-grid-6"></i>
                         </li>
                         <li class="br-line type-vertical"></li>
                         <li class="tf-view-layout-switch sw-layout-list list-layout" data-value-layout="list">
@@ -376,7 +375,7 @@
                     <div class="tf-list-layout wrapper-shop" id="listLayout" style="display: none;">
                         <!-- Products will be dynamically rendered here -->
                     </div>
-                    <div class="wrapper-shop tf-grid-layout tf-col-6" id="gridLayout">
+                    <div class="wrapper-shop tf-grid-layout tf-col-4" id="gridLayout">
                         <!-- Products will be dynamically rendered here -->
                     </div>
                 </div>
@@ -550,17 +549,7 @@
                         <span class="icon icon-caret-down fs-20"></span>
                     </div>
                     <div id="category" class="collapse show">
-                        <ul class="collapse-body filter-group-check group-category">
-                            <li class="list-item">
-                                <a href="latest-collection.html?cat=men" class="link h6">Men<span class="count">23</span></a>
-                            </li>
-                            <li class="list-item">
-                                <a href="latest-collection.html?cat=women" class="link h6">Women<span class="count">44</span></a>
-                            </li>
-                            <li class="list-item">
-                                <a href="latest-collection.html?cat=kids" class="link h6">Kids<span class="count">75</span></a>
-                            </li>
-                        </ul>
+                        <ul class="collapse-body filter-group-check group-category" id="dynamic-category-filter"></ul>
                     </div>
                 </div>
                 <div class="widget-facet">
@@ -592,19 +581,11 @@
     <!-- Toolbar -->
     <div class="tf-toolbar-bottom">
         <div class="toolbar-item">
-            <a href="latest-collection.html?cat=men">
+            <a href="latest-collection.html?cat=all">
                 <span class="toolbar-icon">
-                    <i class="icon icon-user"></i>
+                    <i class="icon icon-storefront"></i>
                 </span>
-                <span class="toolbar-label">Men's</span>
-            </a>
-        </div>
-        <div class="toolbar-item">
-            <a href="latest-collection.html?cat=women">
-                <span class="toolbar-icon">
-                    <i class="icon icon-gift-2"></i>
-                </span>
-                <span class="toolbar-label">Women's</span>
+                <span class="toolbar-label">Shop</span>
             </a>
         </div>
         <div class="toolbar-item">
@@ -613,6 +594,14 @@
                     <i class="icon icon-magnifying-glass"></i>
                 </span>
                 <span class="toolbar-label">Search</span>
+            </a>
+        </div>
+        <div class="toolbar-item">
+            <a href="account.html">
+                <span class="toolbar-icon">
+                    <i class="icon icon-user"></i>
+                </span>
+                <span class="toolbar-label">Account</span>
             </a>
         </div>
         <div class="toolbar-item">
@@ -818,6 +807,9 @@
     <!-- Dynamic Products Scripts -->
     <script src="collections/js/products.js"></script>
     <script src="js/store.js"></script>
+    <script src="js/firebase-client-config.js"></script>
+    <script type="module" src="js/auth.js"></script>
+    <script src="js/auth-header.js"></script>
     <script src="collections/js/renderProducts.js"></script>
     <script src="js/common.js"></script>
     <script src="js/sub-menu-dynamic.js"></script>

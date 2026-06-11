@@ -124,23 +124,45 @@ function mergeWishlist(localItems, cloudItems) {
     return Array.from(merged.values());
 }
 
+function mergeAddresses(localItems, cloudItems) {
+    const merged = new Map();
+    [...cloudItems, ...localItems].forEach((item) => {
+        merged.set(item.id, {
+            id: item.id,
+            label: item.label || "",
+            name: item.name || "",
+            phone: item.phone || "",
+            email: item.email || "",
+            address: item.address || "",
+            landmark: item.landmark || "",
+            zip: item.zip || "",
+        });
+    });
+    return Array.from(merged.values());
+}
+
 async function syncLocalIntoCloud() {
     if (!store || !currentUser || !db) return;
 
     const localCart = store.getCart();
     const localWishlist = store.getWishlist();
+    const localAddresses = store.getAddresses();
     const cloudCart = await loadCollection("cartItems");
     const cloudWishlist = await loadCollection("wishlistItems");
+    const cloudAddresses = await loadCollection("addresses");
 
     const mergedCart = mergeCart(localCart, cloudCart);
     const mergedWishlist = mergeWishlist(localWishlist, cloudWishlist);
+    const mergedAddresses = mergeAddresses(localAddresses, cloudAddresses);
 
     store.replaceCart(mergedCart, { silent: true });
     store.replaceWishlist(mergedWishlist, { silent: true });
+    store.replaceAddresses(mergedAddresses, { silent: true });
 
     await Promise.all([
         replaceCollection(mergedCart, "cartItems", "slug"),
         replaceCollection(mergedWishlist, "wishlistItems", "slug"),
+        replaceCollection(mergedAddresses, "addresses", "id"),
         setDoc(doc(db, "users", currentUser.uid), {
             email: currentUser.email || "",
             name: currentUser.displayName || "",
@@ -156,6 +178,9 @@ async function handleLocalChange(type, payload) {
     }
     if (type === "wishlist") {
         await replaceCollection(payload || [], "wishlistItems", "slug");
+    }
+    if (type === "addresses") {
+        await replaceCollection(payload || [], "addresses", "id");
     }
 }
 
@@ -195,16 +220,16 @@ function initializeAuthState() {
     bootstrapped = true;
     onAuthStateChanged(auth, async (user) => {
         currentUser = user;
+        emitState();
 
         try {
             if (currentUser) {
                 await syncLocalIntoCloud();
+                emitState();
             }
         } catch (error) {
             console.error("auth sync failed", error);
         }
-
-        emitState();
     });
 }
 
@@ -237,6 +262,7 @@ window.WatchPlussAuth = {
     loadUserCollections: async () => ({
         cart: await loadCollection("cartItems"),
         wishlist: await loadCollection("wishlistItems"),
+        addresses: await loadCollection("addresses"),
     }),
 };
 

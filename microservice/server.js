@@ -23,7 +23,6 @@ const firestoreProjectId = process.env.FIREBASE_PROJECT_ID || "";
 const firestoreClientEmail = process.env.FIREBASE_CLIENT_EMAIL || "";
 const firestorePrivateKey = normalizePrivateKey(process.env.FIREBASE_PRIVATE_KEY || "");
 const firestoreOrdersCollection = process.env.FIRESTORE_COLLECTION_ORDERS || "orders";
-const authService = firestore ? admin.auth() : null;
 
 const razorpay = razorpayKeyId && razorpayKeySecret
     ? new Razorpay({
@@ -33,6 +32,7 @@ const razorpay = razorpayKeyId && razorpayKeySecret
     : null;
 
 const firestore = initializeFirestore();
+const authService = firestore ? admin.auth() : null;
 
 app.use(
     cors({
@@ -53,12 +53,6 @@ app.get("/health", (_req, res) => {
 
 app.post("/api/orders/create", async (req, res) => {
     try {
-        if (!razorpay) {
-            return res.status(500).json({
-                error: "Razorpay is not configured. Add RAZORPAY_KEY_ID and RAZORPAY_KEY_SECRET to microservice/.env.",
-            });
-        }
-
         if (!firestore) {
             return res.status(500).json({
                 error: "Firestore is not configured. Add FIREBASE_PROJECT_ID, FIREBASE_CLIENT_EMAIL, and FIREBASE_PRIVATE_KEY.",
@@ -94,6 +88,42 @@ app.post("/api/orders/create", async (req, res) => {
 
         const orderId = `wp_${Date.now()}_${crypto.randomBytes(3).toString("hex")}`;
         const receipt = `watchpluss_${Date.now()}`;
+
+        if (paymentMode === "COD") {
+            const orderRecord = {
+                id: orderId,
+                receipt,
+                userId: decodedUser?.uid || "",
+                userEmail: decodedUser?.email || customer.email || "",
+                status: "confirmed",
+                paymentStatus: "cod_pending",
+                paymentMode,
+                currency: "INR",
+                amount,
+                createdAt: new Date().toISOString(),
+                customer,
+                address,
+                items: normalizedItems,
+            };
+
+            await saveOrder(orderRecord);
+
+            return res.json({
+                success: true,
+                orderId,
+                cod: true,
+                amount,
+                currency: "INR",
+                customer,
+                address,
+            });
+        }
+
+        if (!razorpay) {
+            return res.status(500).json({
+                error: "Razorpay is not configured. Add RAZORPAY_KEY_ID and RAZORPAY_KEY_SECRET to microservice/.env.",
+            });
+        }
 
         const razorpayOrder = await razorpay.orders.create({
             amount,
@@ -222,7 +252,7 @@ app.get("/api/orders/me", async (req, res) => {
 
         const orders = snapshot.docs
             .map((entry) => entry.data())
-            .filter((entry) => entry.paymentStatus === "verified")
+            .filter((entry) => entry.paymentStatus === "verified" || entry.paymentStatus === "cod_pending")
             .sort((a, b) => new Date(b.verifiedAt || b.createdAt).getTime() - new Date(a.verifiedAt || a.createdAt).getTime());
 
         res.json({ success: true, orders });
