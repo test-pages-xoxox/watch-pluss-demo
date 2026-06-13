@@ -5997,5 +5997,33 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Sevenfriday%20all%20working%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dsevenfriday-all-working-generic-1d5797dd91fe%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Sevenfriday%20all%20working%20Generic%20%0ASKU%3A%20men%20%0APrice%3A%20%E2%82%B92700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Swatch For men's Generic ",
+        "slug": "swatch-for-men-s-generic-6b4febd980cb",
+        "sku": "men ",
+        "brand": "Swatch ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "Swatch All working ",
+        "details": "",
+        "tags": "men,formal,leather",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2500"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/swatch-for-men-s-generic-6b4febd980cb/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/swatch-for-men-s-generic-6b4febd980cb/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/swatch-for-men-s-generic-6b4febd980cb/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/swatch-for-men-s-generic-6b4febd980cb/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/swatch-for-men-s-generic-6b4febd980cb/other3.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/swatch-for-men-s-generic-6b4febd980cb/other4.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Swatch%20For%20men%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dswatch-for-men-s-generic-6b4febd980cb%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Swatch%20For%20men%27s%20Generic%20%0ASKU%3A%20men%20%0APrice%3A%20%E2%82%B92500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
