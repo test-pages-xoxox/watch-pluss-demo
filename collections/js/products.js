@@ -5969,5 +5969,33 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Ap%20Swatch%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dap-swatch-generic-fb9cad5b7640%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Ap%20Swatch%20Generic%20%0ASKU%3A%20Audemars%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Sevenfriday all working Generic ",
+        "slug": "sevenfriday-all-working-generic-1d5797dd91fe",
+        "sku": "men ",
+        "brand": "Sevenfriday ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "✨ *7 Friday Full Stock & Booking Open* ✨\r\n\r\nSEVENFRIDAY brings you a perfect combination of watch for formal occasions, Precisely designed for the fashion elites, this  watch will be an alluring addition to your accessory collection , It flaunts hour, minute and second hands that ensure an easy time telling.\r\n\r\n# Unisex\r\n\r\n*Features & Details*\r\n- Working Time\r\n- All Hands Working\r\n- Case diameter 35mm. \r\n- Case thickness 10.80 mm. \r\n- Water Resistant\r\n- Solid steel back\r\n- (Sapphire Glass)\r\n- Bracelet Genuine Brown Leather Strap\r\n-  all crno warking \r\n- Analog Type Timing\r\n- Original Lock & Steel Back\r\n- Branding On Time Setting Crown\r\n\r\n✨ New Model Updated & With Brand Name Box ✨",
+        "tags": "men,formal,leather",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2700"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/sevenfriday-all-working-generic-1d5797dd91fe/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/sevenfriday-all-working-generic-1d5797dd91fe/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/sevenfriday-all-working-generic-1d5797dd91fe/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/sevenfriday-all-working-generic-1d5797dd91fe/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/sevenfriday-all-working-generic-1d5797dd91fe/other3.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/sevenfriday-all-working-generic-1d5797dd91fe/other4.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Sevenfriday%20all%20working%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dsevenfriday-all-working-generic-1d5797dd91fe%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Sevenfriday%20all%20working%20Generic%20%0ASKU%3A%20men%20%0APrice%3A%20%E2%82%B92700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
