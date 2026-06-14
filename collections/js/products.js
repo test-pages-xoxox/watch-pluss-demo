@@ -6134,29 +6134,28 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Patek Phillipe Automatic Generic ",
-        "slug": "patek-phillipe-automatic-generic-2bdccdf0f719",
-        "sku": "Patek ",
-        "brand": "Patek philippe",
-        "badge": "Hot ",
+        "name": "Cartier  For men Generic ",
+        "slug": "cartier-for-men-generic-6861c655d21c",
+        "sku": "men ",
+        "brand": "Cartier",
+        "badge": "Trending ",
         "availability": "In stock ",
         "description": "",
-        "details": "",
-        "tags": "patek,formal,chain,men",
+        "details": "*The difference between style and fashion is CARTIER quality With heavy strap*⌚⌚\r\n\r\n*PREMIUM ORIGINAL QUALITY*💯\r\n\r\n*✅AVAILABLE✅*\r\n\r\n*Cartier\r\n* For men\r\n* 7A\r\n* Original model\r\n* Feature;\r\n* ⁠ all working\r\n* ⁠ Sowis moment\r\n* ⁠ open back \r\n-12 hr dial\r\n-Round case\r\n-still case\r\n-Og lock\r\n-High end quality  machinery Quartz",
+        "tags": "men,formal,chain",
         "price": {
             "old": "₹3800",
-            "new": "₹2100"
+            "new": "₹2200"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-2bdccdf0f719/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-2bdccdf0f719/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-for-men-generic-6861c655d21c/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-for-men-generic-6861c655d21c/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-2bdccdf0f719/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-2bdccdf0f719/other2.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-2bdccdf0f719/other3.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-for-men-generic-6861c655d21c/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-for-men-generic-6861c655d21c/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20Phillipe%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-phillipe-automatic-generic-2bdccdf0f719%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20Phillipe%20Automatic%20Generic%20%0ASKU%3A%20Patek%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Cartier%20%20For%20men%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcartier-for-men-generic-6861c655d21c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Cartier%20%20For%20men%20Generic%20%0ASKU%3A%20men%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
