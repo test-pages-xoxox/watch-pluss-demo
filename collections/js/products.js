@@ -6057,27 +6057,28 @@ const products = [
     },
     {
         "id": "#",
-        "name": "RICHARD MILLE Generic ",
-        "slug": "richard-mille-generic-44115968df81",
-        "sku": "men",
-        "brand": "Richard Mille",
+        "name": "Jacob & Co.  Generic ",
+        "slug": "jacob-co-generic-d823a5132447",
+        "sku": "men ",
+        "brand": "Jacob & co",
         "badge": "Trending ",
         "availability": "In stock ",
-        "description": "*RICHARD MILLE RM\r\n👉QUALITY GUARANTEE ✅\r\n👉PREMIUM QUALITY ✔️",
+        "description": "# Jacob & Co. \r\n# Casino Tourbillon \r\n# For men\r\n# Battery Operated \r\n# Premium Quality \r\n# Size:- 44MM \r\nAll caler avoʻ\r\nLader balt",
         "details": "",
         "tags": "men,formal,leather",
         "price": {
             "old": "₹4700",
-            "new": "₹1999"
+            "new": "₹2100"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-44115968df81/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-44115968df81/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/jacob-co-generic-d823a5132447/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/jacob-co-generic-d823a5132447/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-44115968df81/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/jacob-co-generic-d823a5132447/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/jacob-co-generic-d823a5132447/other2.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20RICHARD%20MILLE%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drichard-mille-generic-44115968df81%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20RICHARD%20MILLE%20Generic%20%0ASKU%3A%20men%0APrice%3A%20%E2%82%B91999%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Jacob%20%26%20Co.%20%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Djacob-co-generic-d823a5132447%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Jacob%20%26%20Co.%20%20Generic%20%0ASKU%3A%20men%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
