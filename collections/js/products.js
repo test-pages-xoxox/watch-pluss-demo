@@ -6157,5 +6157,34 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Cartier%20%20For%20men%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcartier-for-men-generic-6861c655d21c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Cartier%20%20For%20men%20Generic%20%0ASKU%3A%20men%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Omega classic look Generic ",
+        "slug": "omega-classic-look-generic-fab90e76238d",
+        "sku": "Omega",
+        "brand": "Omega ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "💝 *ALL MEN'S*💝\r\n\r\n“_Redefine the time_”\r\n\r\n* Brand Omega \r\n* For men’s \r\n* 7A quality \r\n* Original model\r\n* Feature-\r\n-Round case\r\n-12 hr dial analog\r\n- metal chain\r\n- Day&Date working \r\n*Orginal Quartz machinery*\r\n\r\n      *High quality*\r\n",
+        "tags": "omega,formal,chain,men",
+        "price": {
+            "old": "₹3200",
+            "new": "₹1700"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-classic-look-generic-fab90e76238d/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-classic-look-generic-fab90e76238d/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-classic-look-generic-fab90e76238d/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-classic-look-generic-fab90e76238d/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-classic-look-generic-fab90e76238d/other3.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-classic-look-generic-fab90e76238d/other4.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-classic-look-generic-fab90e76238d/other5.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Omega%20classic%20look%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Domega-classic-look-generic-fab90e76238d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Omega%20classic%20look%20Generic%20%0ASKU%3A%20Omega%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
