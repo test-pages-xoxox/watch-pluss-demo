@@ -6131,5 +6131,32 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20BREITLING%20Chronograph%20Working%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dbreitling-chronograph-working-generic-5cf4ff025cbb%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20BREITLING%20Chronograph%20Working%20Generic%20%0ASKU%3A%20men%20%0APrice%3A%20%E2%82%B92500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Patek Phillipe Automatic Generic ",
+        "slug": "patek-phillipe-automatic-generic-2bdccdf0f719",
+        "sku": "Patek ",
+        "brand": "Patek philippe",
+        "badge": "Hot ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "",
+        "tags": "patek,formal,chain,men",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2100"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-2bdccdf0f719/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-2bdccdf0f719/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-2bdccdf0f719/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-2bdccdf0f719/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-2bdccdf0f719/other3.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20Phillipe%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-phillipe-automatic-generic-2bdccdf0f719%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20Phillipe%20Automatic%20Generic%20%0ASKU%3A%20Patek%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
