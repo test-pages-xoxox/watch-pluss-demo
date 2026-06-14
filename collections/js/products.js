@@ -6080,5 +6080,33 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Jacob%20%26%20Co.%20%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Djacob-co-generic-d823a5132447%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Jacob%20%26%20Co.%20%20Generic%20%0ASKU%3A%20men%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": " RADO Automatic Generic ",
+        "slug": "rado-automatic-generic-e1d36542a7c1",
+        "sku": "Rado",
+        "brand": "Rado ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "*RADO open back machine hot selling New model*\r\n ⭐⭐⭐\r\n\r\nBrand-RADO \r\nAutomatic\r\nQuality-7a\r\nGender-Men’s \r\nMetal belt\r\nMovement-Automatic \r\nCase Diameter-42mm\r\nCase Thickness-12mm\r\nGlass-Mineral\r\nClasp type-Folding buckle \r\nAll working \r\n\r\n*( High Quality Automatic )*\r\n\r\n\r\n*All Self Clicked Picture *📸",
+        "tags": "rado,formal,chain,men",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2500"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rado-automatic-generic-e1d36542a7c1/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rado-automatic-generic-e1d36542a7c1/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rado-automatic-generic-e1d36542a7c1/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rado-automatic-generic-e1d36542a7c1/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rado-automatic-generic-e1d36542a7c1/other3.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rado-automatic-generic-e1d36542a7c1/other4.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20%20RADO%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drado-automatic-generic-e1d36542a7c1%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20%20RADO%20Automatic%20Generic%20%0ASKU%3A%20Rado%0APrice%3A%20%E2%82%B92500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
