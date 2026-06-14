@@ -6054,5 +6054,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Balgari%20automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dbalgari-automatic-generic-5e3b76e89f89%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Balgari%20automatic%20Generic%20%0ASKU%3A%20men%20%0APrice%3A%20%E2%82%B92500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "RICHARD MILLE Generic ",
+        "slug": "richard-mille-generic-44115968df81",
+        "sku": "men",
+        "brand": "Richard Mille",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "*RICHARD MILLE RM\r\n👉QUALITY GUARANTEE ✅\r\n👉PREMIUM QUALITY ✔️",
+        "details": "",
+        "tags": "men,formal,leather",
+        "price": {
+            "old": "₹4700",
+            "new": "₹1999"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-44115968df81/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-44115968df81/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-44115968df81/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20RICHARD%20MILLE%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drichard-mille-generic-44115968df81%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20RICHARD%20MILLE%20Generic%20%0ASKU%3A%20men%0APrice%3A%20%E2%82%B91999%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
