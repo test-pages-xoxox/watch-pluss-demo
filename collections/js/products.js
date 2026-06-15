@@ -6186,5 +6186,30 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Omega%20classic%20look%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Domega-classic-look-generic-fab90e76238d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Omega%20classic%20look%20Generic%20%0ASKU%3A%20Omega%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "OMEGA SEAMASTER AQUA TERRA",
+        "slug": "omega-seamaster-aqua-terra-7357a6bfe860",
+        "sku": "Omega",
+        "brand": "Omega ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "*OMEGA SEAMASTER AQUA TERRA*\r\n⭐️ ⭐️⭐️\r\n\r\n\r\nBrand-Omega\r\nModel-Aqua terra\r\nQuality-7a\r\nGender-Men’s \r\nBand-Rubber \r\nMovement-Quartz \r\nCase Diameter-40mm\r\nCase Thickness-12mm \r\nGlass- Sapphire\r\nDate Chrono working \r\n\r\n*(High Quality)*\r\n\r\n*Free Omega Printed box*🛍\r\n\r\n*All Self Clicked Picture and Video📸*",
+        "tags": "omega,formal,leather,men",
+        "price": {
+            "old": "₹4700",
+            "new": "₹1999"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-seamaster-aqua-terra-7357a6bfe860/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-seamaster-aqua-terra-7357a6bfe860/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/omega-seamaster-aqua-terra-7357a6bfe860/other1.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20OMEGA%20SEAMASTER%20AQUA%20TERRA.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Domega-seamaster-aqua-terra-7357a6bfe860%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20OMEGA%20SEAMASTER%20AQUA%20TERRA%0ASKU%3A%20Omega%0APrice%3A%20%E2%82%B91999%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
