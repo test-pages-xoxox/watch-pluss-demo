@@ -6236,5 +6236,32 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Luxury%20Richard%20Mille%20inspired%20%20generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dluxury-richard-mille-inspired-generic-0488f7bf02a0%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Luxury%20Richard%20Mille%20inspired%20%20generic%20%0ASKU%3A%20Rm%0APrice%3A%20%E2%82%B91750%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Seik o Persage Automatic Generic ",
+        "slug": "seik-o-persage-automatic-generic-fb6a6a31921d",
+        "sku": "Seiko ",
+        "brand": "Seiko",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "*Product Name: *Seik o Persage Automatic*\r\n\r\n",
+        "details": "",
+        "tags": "men,formal,chain,seiko",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2600"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seik-o-persage-automatic-generic-fb6a6a31921d/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seik-o-persage-automatic-generic-fb6a6a31921d/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seik-o-persage-automatic-generic-fb6a6a31921d/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seik-o-persage-automatic-generic-fb6a6a31921d/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seik-o-persage-automatic-generic-fb6a6a31921d/other3.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Seik%20o%20Persage%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dseik-o-persage-automatic-generic-fb6a6a31921d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Seik%20o%20Persage%20Automatic%20Generic%20%0ASKU%3A%20Seiko%20%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
