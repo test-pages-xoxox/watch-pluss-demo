@@ -6214,28 +6214,29 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Gucci Women's Generic ",
-        "slug": "gucci-women-s-generic-39d5f38aac2d",
-        "sku": "Gucci",
-        "brand": "Gucci",
-        "badge": "Hot ",
+        "name": "Tissot collection Generic ",
+        "slug": "tissot-collection-generic-b8105416e1e8",
+        "sku": "Tissot ",
+        "brand": "Tissot ",
+        "badge": "Trending ",
         "availability": "In stock ",
-        "description": "Gucci\r\nLadies watch \r\nGood Quality ",
+        "description": "Tissot \r\nAll crno warking \r\nGood Quality ",
         "details": "",
-        "tags": "women-chain, women-formal,women",
+        "tags": "tissot,formal,leather,men",
         "price": {
-            "old": "₹2600",
-            "new": "₹1400"
+            "old": "₹3800",
+            "new": "₹1999"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/gucci-women-s-generic-39d5f38aac2d/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/gucci-women-s-generic-39d5f38aac2d/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-collection-generic-b8105416e1e8/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-collection-generic-b8105416e1e8/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/gucci-women-s-generic-39d5f38aac2d/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/gucci-women-s-generic-39d5f38aac2d/other2.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-collection-generic-b8105416e1e8/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-collection-generic-b8105416e1e8/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-collection-generic-b8105416e1e8/other3.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Gucci%20Women%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dgucci-women-s-generic-39d5f38aac2d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Gucci%20Women%27s%20Generic%20%0ASKU%3A%20Gucci%0APrice%3A%20%E2%82%B91400%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20collection%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtissot-collection-generic-b8105416e1e8%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20collection%20Generic%20%0ASKU%3A%20Tissot%20%0APrice%3A%20%E2%82%B91999%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
