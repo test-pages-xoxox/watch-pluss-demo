@@ -6214,29 +6214,27 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Tissot collection Generic ",
-        "slug": "tissot-collection-generic-b8105416e1e8",
-        "sku": "Tissot ",
-        "brand": "Tissot ",
+        "name": "Luxury Richard Mille inspired  generic ",
+        "slug": "luxury-richard-mille-inspired-generic-0488f7bf02a0",
+        "sku": "Rm",
+        "brand": "Richard Mille",
         "badge": "Trending ",
         "availability": "In stock ",
-        "description": "Tissot \r\nAll crno warking \r\nGood Quality ",
-        "details": "",
-        "tags": "tissot,formal,leather,men",
+        "description": "",
+        "details": "*Luxury Richard Mille inspired wristwatch with a bold tonneau-shaped case, intricate skeleton dial showcasing multi-color 😍*\r\n\r\n- Richard mille Men-1828148907\r\n- ⁠Date working \r\n- ⁠Heavy quality \r\n- ⁠all crono working \r\n- Quartz movement \r\n- Back Open",
+        "tags": "men,formal,leather",
         "price": {
-            "old": "₹3800",
-            "new": "₹1999"
+            "old": "₹4700",
+            "new": "₹1750"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-collection-generic-b8105416e1e8/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-collection-generic-b8105416e1e8/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/luxury-richard-mille-inspired-generic-0488f7bf02a0/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/luxury-richard-mille-inspired-generic-0488f7bf02a0/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-collection-generic-b8105416e1e8/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-collection-generic-b8105416e1e8/other2.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tissot-collection-generic-b8105416e1e8/other3.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/luxury-richard-mille-inspired-generic-0488f7bf02a0/other1.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20collection%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtissot-collection-generic-b8105416e1e8%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20collection%20Generic%20%0ASKU%3A%20Tissot%20%0APrice%3A%20%E2%82%B91999%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Luxury%20Richard%20Mille%20inspired%20%20generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dluxury-richard-mille-inspired-generic-0488f7bf02a0%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Luxury%20Richard%20Mille%20inspired%20%20generic%20%0ASKU%3A%20Rm%0APrice%3A%20%E2%82%B91750%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
