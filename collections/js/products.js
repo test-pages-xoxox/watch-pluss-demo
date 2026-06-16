@@ -6293,5 +6293,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Richard%20Mille%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drichard-mille-generic-5b3f80c1103c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Richard%20Mille%20Generic%20%0ASKU%3A%20Rm%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Fossil  FS - 6132 Generic ",
+        "slug": "fossil-fs-6132-generic-7a88ee59e176",
+        "sku": "Fossil ",
+        "brand": "Fossil ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "*Checkout the Fossil FS-6132 Original quality.*❣🔥\r\n\r\n*ORIGINAL JAPAN QUALITY*💯✅\r\n\r\n*✅COD AVAILABLE✅*\r\n\r\n* Fossil \r\n* FS-6132\r\n* For men\r\n* 7AAA PREMIUM COLLECTION \r\n* Original Model\r\n* Feature;\r\n-12 hr dial\r\n-Working Chronograph \r\n-Steel case with blue dial & Gold bezel \r\n-Two tone Metal strap\r\n-case size-44mm\r\n-Band width-22mm\r\n-Quartz movement\r\n-Heavy machinery\r\n\r\n*JAPANESE MACHINERY GUARANTEED*✅\r\n\r\n*6 month seller machinery warranty* ✅\r\n\r\n",
+        "tags": "fossil,formal,chain,men",
+        "price": {
+            "old": "₹5800",
+            "new": "₹3500"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-fs-6132-generic-7a88ee59e176/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-fs-6132-generic-7a88ee59e176/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-fs-6132-generic-7a88ee59e176/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/fossil-fs-6132-generic-7a88ee59e176/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Fossil%20%20FS%20-%206132%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dfossil-fs-6132-generic-7a88ee59e176%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Fossil%20%20FS%20-%206132%20Generic%20%0ASKU%3A%20Fossil%20%0APrice%3A%20%E2%82%B93500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
