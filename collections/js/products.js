@@ -6263,5 +6263,35 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Seik%20o%20Persage%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dseik-o-persage-automatic-generic-fb6a6a31921d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Seik%20o%20Persage%20Automatic%20Generic%20%0ASKU%3A%20Seiko%20%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Richard Mille Generic ",
+        "slug": "richard-mille-generic-5b3f80c1103c",
+        "sku": "Rm",
+        "brand": "Richard Mille",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "😎Most Awaited Richard Mille Now Available 😎*\r\n\r\nRichard Mille\r\n\r\nFor Him\r\nAll crono working \r\nDate warking \r\nStop watch\r\nPremium Quality \r\n\r\nSilicone Band  \r\n\r\n\r\n*😎Book It Before Finish😎*",
+        "details": "",
+        "tags": "men,formal,leather",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2100"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-5b3f80c1103c/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-5b3f80c1103c/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-5b3f80c1103c/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-5b3f80c1103c/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-5b3f80c1103c/other3.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-5b3f80c1103c/other4.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-5b3f80c1103c/other5.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/richard-mille-generic-5b3f80c1103c/other6.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Richard%20Mille%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drichard-mille-generic-5b3f80c1103c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Richard%20Mille%20Generic%20%0ASKU%3A%20Rm%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
