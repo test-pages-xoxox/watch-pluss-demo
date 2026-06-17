@@ -6347,5 +6347,32 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Dior%20ladies%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Ddior-ladies-generic-2b19e89d80e1%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Dior%20ladies%20Generic%20%0ASKU%3A%20women%0APrice%3A%20%E2%82%B91500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Hublot Big Bang Generic ",
+        "slug": "hublot-big-bang-generic-8efcf6a8ed01",
+        "sku": "Hublot ",
+        "brand": "Hublot ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "*Hublot Big Bang Daimond cut model magic*\r\n⭐️ ⭐️⭐️\r\n\r\n\r\nBrand-Hublot \r\nModel-Big bang\r\nQuality-7a\r\nGender-Men’s\r\nBand- ,Black Silver \r\nDial-Wihte Black Blue\r\nMovement-Quartz\r\nCase Diameter-42mm\r\nCase Thickness-12mm\r\nHublot lock🔐 \r\nDate working \r\nGlass-Mineral\r\nLuxury watch style\r\n\r\n*METAL CHAIN*\r\n\r\n*(High quality)\r\n\r\n*All Self Clicked Picture and Video📸*",
+        "tags": "hublot,formal,men,chain",
+        "price": {
+            "old": "₹4700",
+            "new": "₹1800"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-big-bang-generic-8efcf6a8ed01/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-big-bang-generic-8efcf6a8ed01/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-big-bang-generic-8efcf6a8ed01/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-big-bang-generic-8efcf6a8ed01/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-big-bang-generic-8efcf6a8ed01/other3.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hublot%20Big%20Bang%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dhublot-big-bang-generic-8efcf6a8ed01%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Hublot%20Big%20Bang%20Generic%20%0ASKU%3A%20Hublot%20%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
