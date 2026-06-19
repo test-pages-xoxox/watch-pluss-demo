@@ -6458,5 +6458,32 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hublot%20New%20Model%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dhublot-new-model-generic-911fa7f30023%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Hublot%20New%20Model%20Generic%20%0ASKU%3A%20Hublot%20%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Seiko new edition generic ",
+        "slug": "seiko-new-edition-generic-da81096fcbab",
+        "sku": "Seiko ",
+        "brand": "Seiko",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "*The difference between style and fashion is SEIKO quality With heavy strap*⌚⌚\r\n\r\n*PREMIUM ORIGINAL QUALITY*💯\r\n\r\n*✅AVAILABLE✅*\r\n\r\n*SEIKO\r\n* For men\r\n* 7A\r\n* ⁠NEW Edison\r\n* Original model\r\n* Feature; all working \r\n* ⁠ date working\r\n* ⁠ Sowis moment\r\n* ⁠ open back \r\n-12 hr dial\r\n-Round case\r\n-still case\r\n-Og lock\r\n-High end quality  machinery Quartz\r\n",
+        "tags": "men,formal,chain,seiko",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2100"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seiko-new-edition-generic-da81096fcbab/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seiko-new-edition-generic-da81096fcbab/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seiko-new-edition-generic-da81096fcbab/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seiko-new-edition-generic-da81096fcbab/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/seiko-new-edition-generic-da81096fcbab/other3.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Seiko%20new%20edition%20generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dseiko-new-edition-generic-da81096fcbab%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Seiko%20new%20edition%20generic%20%0ASKU%3A%20Seiko%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
