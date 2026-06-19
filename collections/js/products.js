@@ -6432,5 +6432,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Omega%20SPEEDMASTER%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Domega-speedmaster-generic-16fbd5ba489d%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Omega%20SPEEDMASTER%20Generic%20%0ASKU%3A%20Omega%0APrice%3A%20%E2%82%B91500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Hublot New Model Generic ",
+        "slug": "hublot-new-model-generic-911fa7f30023",
+        "sku": "Hublot ",
+        "brand": "Hublot ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "*Hublot Champion New Model*🤩\r\n⭐️ ⭐️⭐️\r\n\r\n\r\nBrand-Hublot \r\nQuality-7a\r\nGender-Men’s\r\nCase- Black Metal\r\nBand- Green Leather Strap\r\nMovement-Quartz\r\nCase Thickness-12mm\r\nHublot Og Lock\r\nGlass-Crystal\r\nLuxury watch style\r\n\r\n*(High quality  )*\r\n\r\n\r\n*\r\n*All Self Clicked Picture and Video📸*",
+        "tags": "hublot,formal,men,leather",
+        "price": {
+            "old": "₹3800",
+            "new": "₹1700"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-new-model-generic-911fa7f30023/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-new-model-generic-911fa7f30023/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-new-model-generic-911fa7f30023/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/hublot-new-model-generic-911fa7f30023/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hublot%20New%20Model%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dhublot-new-model-generic-911fa7f30023%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Hublot%20New%20Model%20Generic%20%0ASKU%3A%20Hublot%20%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
