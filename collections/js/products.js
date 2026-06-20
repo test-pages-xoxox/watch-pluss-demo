@@ -6514,5 +6514,32 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Azan%20Watches%20Series.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dazan-watches-series-a1405dc4fe0c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Azan%20Watches%20Series%0ASKU%3A%20men%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Cartier mens Generic ",
+        "slug": "cartier-mens-generic-114c19c66439",
+        "sku": "men ",
+        "brand": "Cartier",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "*The difference between style and fashion is CARTIER quality With heavy strap*⌚⌚\r\n\r\n*PREMIUM ORIGINAL QUALITY*💯\r\n\r\n*✅AVAILABLE✅*\r\n\r\n*Cartier\r\n* For men\r\n* 7A\r\n* Original model\r\n* Feature;\r\n* ⁠ all working\r\n* ⁠ Sowis moment\r\n* ⁠ open back \r\n-12 hr dial\r\n-Round case\r\n-still case\r\n-Og lock\r\n-High end quality  machinery Quartz\r\n",
+        "tags": "men,formal,chain",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2200"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-mens-generic-114c19c66439/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-mens-generic-114c19c66439/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-mens-generic-114c19c66439/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-mens-generic-114c19c66439/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/cartier-mens-generic-114c19c66439/other3.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Cartier%20mens%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcartier-mens-generic-114c19c66439%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Cartier%20mens%20Generic%20%0ASKU%3A%20men%20%0APrice%3A%20%E2%82%B92200%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
