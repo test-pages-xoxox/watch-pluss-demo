@@ -6485,5 +6485,34 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Seiko%20new%20edition%20generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dseiko-new-edition-generic-da81096fcbab%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Seiko%20new%20edition%20generic%20%0ASKU%3A%20Seiko%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Azan Watches Series",
+        "slug": "azan-watches-series-a1405dc4fe0c",
+        "sku": "men",
+        "brand": "Azaan",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "\r\n\r\nAzan Watches Series\r\nAL-  salah Azan Watches: \r\nDUAL TIME \r\nSeveral forms of stylish watches\r\nDisplays time  – digital ), Worldwide prayer times\r\nremind you prayer time every day, Auto Direction Push of A button.\r\nWith Hijri calendar & Gregorian calendar, Dual-language Qibla \r\n(English-Arabic) for better use. The dial and LCD are. availablein\r\n.Stainless steel case, sapphire glass and full\r\nstainless steel strap.\r\nAL-SALAH watch is equipped with the latest Japanese \r\nmovementand rich cities choices (6000 cities) all round the world, \r\nTaqweem different systems in different regions, let you know the \r\n->> MAINE FEATURES\r\n->Azan times for most cities arround the world with qibla direction\r\n->Hijri & Gregorian calendar with day week\r\n->time (Digital )\r\n->Two language ( English & Arabic )\r\n->Quran book mark Daily alarms\r\n->Water resistant ( Waterproof )\r\n->Scratch resistant glass\r\n->Time can be displayed in 12 hours ( AM/PM ) or 24 hours\r\n->Daylight saving time option\r\n#AL-SALAH \r\n#HA-6102FSW\r\n#AZAN_WATCH\r\n#CALSSIC_MAN_WATCH\r\n#AL-salah \r\n#ISLAMIC_WATCH\r\n#ISLAMIC_AZAN_WATCH\r\n\r\n       *Original box*",
+        "tags": "men,formal,chain",
+        "price": {
+            "old": "₹4700",
+            "new": "₹2600"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/azan-watches-series-a1405dc4fe0c/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/azan-watches-series-a1405dc4fe0c/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/azan-watches-series-a1405dc4fe0c/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/azan-watches-series-a1405dc4fe0c/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/azan-watches-series-a1405dc4fe0c/other3.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/azan-watches-series-a1405dc4fe0c/other4.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/azan-watches-series-a1405dc4fe0c/other5.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Azan%20Watches%20Series.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dazan-watches-series-a1405dc4fe0c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Azan%20Watches%20Series%0ASKU%3A%20men%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
