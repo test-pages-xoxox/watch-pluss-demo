@@ -6542,5 +6542,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Hublot%20Men%27s%20Collection%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dhublot-men-s-collection-generic-5cb870207187%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Hublot%20Men%27s%20Collection%20Generic%20%0ASKU%3A%20Hublot%20%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Tommy Hilfiger Men's Generic ",
+        "slug": "tommy-hilfiger-men-s-generic-095b29695234",
+        "sku": "Tommy ",
+        "brand": "Tommy Hilfiger",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "✨ *_ HILFIGER Limited Stock & Booking Open_* ✨\r\n\r\n*Description*\r\nHILFIGER brings you a perfect combination of watch for formal occasions, Precisely designed for the fashion elites, this HILFIGER watch will be an alluring addition to your accessory collection , It flaunts hour, minute and second hands that ensure an easy time telling.\r\n\r\n# For men’s \r\n\r\n*Features & details*\r\n*Working* Time & Date.  \r\n*All working* (3 Hands working)\r\n*Case diameter* 42mm. \r\n*Case thickness*10.40 mm. \r\n*Water Resistant* \r\n*Solid steel back*(Sapphire Glass)\r\n*Strap*Metal. Chain. \r\n*Watch movement type*: quartz. *watch display type*: analogue. Luminescent hands & markers. \r\n*Case material*: stainless steel \r\n\r\n\r\n✨ New colour with updated price✨\r\n",
+        "details": "",
+        "tags": "tommy,formal,men,chain",
+        "price": {
+            "old": "₹3800",
+            "new": "₹2100"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-men-s-generic-095b29695234/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-men-s-generic-095b29695234/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-men-s-generic-095b29695234/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-men-s-generic-095b29695234/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Men%27s%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtommy-hilfiger-men-s-generic-095b29695234%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tommy%20Hilfiger%20Men%27s%20Generic%20%0ASKU%3A%20Tommy%20%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
