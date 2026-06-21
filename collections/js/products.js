@@ -6571,27 +6571,29 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Guess Top Quality Generic ",
-        "slug": "guess-top-quality-generic-89b5e88ef3fe",
-        "sku": "Men ",
-        "brand": "Guess ",
-        "badge": "Hot ",
+        "name": "Tommy Hilfiger Generic ",
+        "slug": "tommy-hilfiger-generic-eff52c9efa43",
+        "sku": "Tommy ",
+        "brand": "Tommy Hilfiger",
+        "badge": "Trending ",
         "availability": "In stock ",
-        "description": "All high \r\nGuess\r\n100% japn mumnt \r\nLadies watch \r\nAll crno warking ",
-        "details": "",
-        "tags": "men,formal,chain",
+        "description": "",
+        "details": "✅ *latest model*✅\r\n\r\n\r\n# Tommy Hilfiger\r\n# For Men\r\n# 7AA Premium Collection\r\n# Model - Modern original \r\n# Dial Size - 43mm\r\n# Features following -\r\n\r\n# all crono wrkng\r\n# new modal. Full function wrkng\r\n\r\n-Working 24 Hour Analog\r\n-Stainless Steel blue  silver blck. Body \r\n- full color.  \r\n-stainless steel😍\r\n-date.  Wrkng\r\n-original modal🔥\r\n-No colour issue and rusting\r\n- silicone Belt\r\n- *Original Japanese heavy Engine* ❤\r\n- 100% Satisfaction 💯\r\n",
+        "tags": "tommy,formal,men,leather",
         "price": {
-            "old": "₹7800",
-            "new": "₹4500"
+            "old": "₹3800",
+            "new": "₹1700"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-top-quality-generic-89b5e88ef3fe/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-top-quality-generic-89b5e88ef3fe/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-generic-eff52c9efa43/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-generic-eff52c9efa43/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/guess-top-quality-generic-89b5e88ef3fe/other1.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-generic-eff52c9efa43/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-generic-eff52c9efa43/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/tommy-hilfiger-generic-eff52c9efa43/other3.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Guess%20Top%20Quality%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dguess-top-quality-generic-89b5e88ef3fe%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Guess%20Top%20Quality%20Generic%20%0ASKU%3A%20Men%20%0APrice%3A%20%E2%82%B94500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtommy-hilfiger-generic-eff52c9efa43%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tommy%20Hilfiger%20Generic%20%0ASKU%3A%20Tommy%20%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
