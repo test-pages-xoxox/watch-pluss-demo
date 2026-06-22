@@ -6629,31 +6629,32 @@ const products = [
     },
     {
         "id": "#",
-        "name": "women bvlgari Generic ",
-        "slug": "women-bvlgari-generic-963a2535ed4c",
-        "sku": "bvlgari",
-        "brand": "Bvlgari ",
-        "badge": "Trending ",
+        "name": "Patek Phillipe Automatic Generic ",
+        "slug": "patek-phillipe-automatic-generic-40e8b3c3fced",
+        "sku": "Patek ",
+        "brand": "Patek philippe",
+        "badge": "Hot ",
         "availability": "In stock ",
         "description": "",
         "details": "",
-        "tags": "women-bvlgari",
+        "tags": "patek,formal,chain,men",
         "price": {
-            "old": "₹2300",
-            "new": "₹1500"
+            "old": "₹4700",
+            "new": "₹2600"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/women-bvlgari-generic-963a2535ed4c/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/women-bvlgari-generic-963a2535ed4c/hover.webp",
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-40e8b3c3fced/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-40e8b3c3fced/hover.webp",
             "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/women-bvlgari-generic-963a2535ed4c/other1.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/women-bvlgari-generic-963a2535ed4c/other2.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/women-bvlgari-generic-963a2535ed4c/other3.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/women-bvlgari-generic-963a2535ed4c/other4.webp",
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/women-bvlgari-generic-963a2535ed4c/other5.webp"
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-40e8b3c3fced/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-40e8b3c3fced/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-40e8b3c3fced/other3.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-40e8b3c3fced/other4.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-40e8b3c3fced/other5.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/patek-phillipe-automatic-generic-40e8b3c3fced/other6.webp"
             ]
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20women%20bvlgari%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dwomen-bvlgari-generic-963a2535ed4c%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20women%20bvlgari%20Generic%20%0ASKU%3A%20bvlgari%0APrice%3A%20%E2%82%B91500%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Patek%20Phillipe%20Automatic%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dpatek-phillipe-automatic-generic-40e8b3c3fced%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Patek%20Phillipe%20Automatic%20Generic%20%0ASKU%3A%20Patek%20%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
