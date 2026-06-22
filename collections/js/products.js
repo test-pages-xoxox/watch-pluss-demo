@@ -6595,5 +6595,34 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tommy%20Hilfiger%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtommy-hilfiger-generic-eff52c9efa43%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tommy%20Hilfiger%20Generic%20%0ASKU%3A%20Tommy%20%0APrice%3A%20%E2%82%B91700%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Rolex Chronograph Daytona generic ",
+        "slug": "rolex-chronograph-daytona-generic-15f0b8a66153",
+        "sku": "rolex ",
+        "brand": "Rolex ",
+        "badge": "Trending ",
+        "availability": "In stock ",
+        "description": "",
+        "details": "Exclusive Rolex Cosmograph Daytona Exclusively Design Now Available & Ready to ship same day\r\n\r\n# Rolex\r\n\r\n# For Men’s\r\n\r\n# Model:: Cosmographs Daytona\r\n\r\n# Original Model\r\n\r\nQuartz Machinery \r\n\r\n# Features following –\r\n\r\n– Working Chronographs\r\n\r\n– Full Stainless Steel\r\n\r\n– Sapphire Glass 100%\r\n\r\n– Gold Bazel Ring\r\n\r\n– 24 Hr Power reserve\r\n\r\n– ⁠Original modal \r\n\r\n– Stainless Steel Gold lock\r\n\r\n– Original Heavy Push Buckle\r\n\r\nNew Model with Price updated \r\n\r\n\r\nPlease Note – This is Original Stainless Steel Body , Loack & Back With Original Made Machinery Model , Not Alloy Case & China Machine , Market Cheap Quality",
+        "tags": "rolex,formal,men,leather",
+        "price": {
+            "old": "₹3200",
+            "new": "₹1800"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-chronograph-daytona-generic-15f0b8a66153/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-chronograph-daytona-generic-15f0b8a66153/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-chronograph-daytona-generic-15f0b8a66153/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-chronograph-daytona-generic-15f0b8a66153/other2.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-chronograph-daytona-generic-15f0b8a66153/other3.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-chronograph-daytona-generic-15f0b8a66153/other4.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/rolex-chronograph-daytona-generic-15f0b8a66153/other5.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Rolex%20Chronograph%20Daytona%20generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Drolex-chronograph-daytona-generic-15f0b8a66153%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Rolex%20Chronograph%20Daytona%20generic%20%0ASKU%3A%20rolex%20%0APrice%3A%20%E2%82%B91800%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
