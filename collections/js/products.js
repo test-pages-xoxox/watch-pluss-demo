@@ -6655,27 +6655,25 @@ const products = [
     },
     {
         "id": "#",
-        "name": "Nike SB Dunk 2024 generic ",
-        "slug": "nike-sb-dunk-2024-generic-66221e556d75",
+        "name": "Nike Mind 001 black color Generic ",
+        "slug": "nike-mind-001-black-color-generic-3aaafe8b23ff",
         "sku": "Shoe",
-        "brand": "Nike",
+        "brand": "Nike ",
         "badge": "Trending ",
         "availability": "In stock ",
         "description": "",
-        "details": "*Nike SB Dunk 2024 the year of the dragon*\r\n\r\n*Size:41 to 45*\r\n\r\n*Semi UA quality Imported*\r\n\r\n*Pickup available*\r\n\r\n*Wit og box available*\r\n\r\n*Book fast*",
+        "details": "*Nike Mind 001 black color*\r\n\r\n*Size:41 to 44*\r\n\r\n*Imported*\r\n\r\n*Pickup available*\r\n\r\n*book fast*",
         "tags": "shoes",
         "price": {
-            "old": "₹4700",
-            "new": "₹2600"
+            "old": "₹3800",
+            "new": "₹2350"
         },
         "images": {
-            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-sb-dunk-2024-generic-66221e556d75/main.webp",
-            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-sb-dunk-2024-generic-66221e556d75/hover.webp",
-            "others": [
-                "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-sb-dunk-2024-generic-66221e556d75/other1.webp"
-            ]
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-mind-001-black-color-generic-3aaafe8b23ff/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/nike-mind-001-black-color-generic-3aaafe8b23ff/hover.webp",
+            "others": []
         },
-        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Nike%20SB%20Dunk%202024%20generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dnike-sb-dunk-2024-generic-66221e556d75%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
-        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Nike%20SB%20Dunk%202024%20generic%20%0ASKU%3A%20Shoe%0APrice%3A%20%E2%82%B92600%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Nike%20Mind%20001%20black%20color%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dnike-mind-001-black-color-generic-3aaafe8b23ff%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Nike%20Mind%20001%20black%20color%20Generic%20%0ASKU%3A%20Shoe%0APrice%3A%20%E2%82%B92350%0AAvailability%3A%20In%20stock%20%0A%0APlease%20confirm%20my%20order."
     }
 ];
