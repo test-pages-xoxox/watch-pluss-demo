@@ -15,12 +15,12 @@ const products = [
         },
         "tags": "men,casio,formal",
         "images": {
-            "main": "images/products/watch/1/main.webp",
-            "hover": "images/products/watch/1/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/1/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/1/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/1/other1.webp",
-            "images/products/watch/1/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/1/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/1/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Gshock%20GM-2110D-2A%20Generic%20-%20Silver%20black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dgshock-gm-2110d-2a-generic-silver-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Gshock%20GM-2110D-2A%20Generic%20-%20Silver%20black%0ASKU%3A%20g-shock-metal-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -41,12 +41,12 @@ const products = [
         },
         "tags": "men,casio,formal",
         "images": {
-            "main": "images/products/watch/2/main.webp",
-            "hover": "images/products/watch/2/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/2/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/2/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/2/other1.webp",
-            "images/products/watch/2/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/2/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/2/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Ful%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-gm-2100bb-generic-ful-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Ful%20Black%0ASKU%3A%20shock%20full%20black%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -67,12 +67,12 @@ const products = [
         },
         "tags": "men,casio,formal",
         "images": {
-            "main": "images/products/watch/3/main.webp",
-            "hover": "images/products/watch/3/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/3/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/3/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/3/other1.webp",
-            "images/products/watch/3/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/3/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/3/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Grey.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-gm-2100bb-generic-silver-grey%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Grey%0ASKU%3A%20shock%20grey%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -93,12 +93,12 @@ const products = [
         },
         "tags": "men,casio,formal,popular",
         "images": {
-            "main": "images/products/watch/4/main.webp",
-            "hover": "images/products/watch/4/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/4/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/4/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/4/other1.webp",
-            "images/products/watch/4/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/4/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/4/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Full%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2300-1a-generic-full-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Full%20Black%0ASKU%3A%202300-A1%20Black%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -119,12 +119,12 @@ const products = [
         },
         "tags": "men,casio,formal",
         "images": {
-            "main": "images/products/watch/5/main.webp",
-            "hover": "images/products/watch/5/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/5/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/5/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/5/other1.webp",
-            "images/products/watch/5/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/5/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/5/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Full%20White.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2300-1a-generic-full-white%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Full%20White%0ASKU%3A%202300-A1%20white%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -145,12 +145,12 @@ const products = [
         },
         "tags": "men,casio,formal",
         "images": {
-            "main": "images/products/watch/6/main.webp",
-            "hover": "images/products/watch/6/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/6/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/6/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/6/other1.webp",
-            "images/products/watch/6/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/6/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/6/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Grey.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2300-1a-generic-grey%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Grey%0ASKU%3A%202300-A1.%20grey%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -171,12 +171,12 @@ const products = [
         },
         "tags": "men,casio,formal,popular",
         "images": {
-            "main": "images/products/watch/7/main.webp",
-            "hover": "images/products/watch/7/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/7/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/7/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/7/other1.webp",
-            "images/products/watch/7/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/7/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/7/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Pink.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2300-1a-generic-pink%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20Pink%0ASKU%3A%202300-A1%20pink%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -197,12 +197,12 @@ const products = [
         },
         "tags": "men,casio,formal,popular",
         "images": {
-            "main": "images/products/watch/8/main.webp",
-            "hover": "images/products/watch/8/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/8/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/8/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/8/other1.webp",
-            "images/products/watch/8/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/8/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/8/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Blue.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-steel-gm-2110d-2a-generic-silver-blue%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silvre-Blue%0ASKU%3A%20metal%20blue%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -223,12 +223,12 @@ const products = [
         },
         "tags": "men,casio,formal",
         "images": {
-            "main": "images/products/watch/9/main.webp",
-            "hover": "images/products/watch/9/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/9/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/9/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/9/other1.webp",
-            "images/products/watch/9/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/9/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/9/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Green.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-steel-gm-2110d-2a-generic-silver-green%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silvre-Green%0ASKU%3A%20metal%20gren%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -249,12 +249,12 @@ const products = [
         },
         "tags": "men,casio,formal",
         "images": {
-            "main": "images/products/watch/10/main.webp",
-            "hover": "images/products/watch/10/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/10/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/10/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/10/other1.webp",
-            "images/products/watch/10/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/10/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/10/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Orange.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-steel-gm-2110d-2a-generic-silver-orange%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silvre-Orange%0ASKU%3A%20metal%20orangge%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -275,12 +275,12 @@ const products = [
         },
         "tags": "men,casio,formal,popular",
         "images": {
-            "main": "images/products/watch/11/main.webp",
-            "hover": "images/products/watch/11/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/11/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/11/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/11/other1.webp",
-            "images/products/watch/11/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/11/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/11/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Gold-Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gm-2100g-1a9-generic-gold-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Gold-Black%0ASKU%3A%20gm%20gold%20black%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -300,12 +300,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/12/main.webp",
-            "hover": "images/products/watch/12/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/12/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/12/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/12/other1.webp",
-            "images/products/watch/12/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/12/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/12/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20CASIO%20G-SHOCK%20Master%20of%20G%20MUDMASTER%20GG-Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-master-of-g-mudmaster-gg-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20CASIO%20G-SHOCK%20Master%20of%20G%20MUDMASTER%20GG-Generic%0ASKU%3A%20casi-1%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -325,12 +325,12 @@ const products = [
             "new": "₹1600"
         },
         "images": {
-            "main": "images/products/watch/13/main.webp",
-            "hover": "images/products/watch/13/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/13/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/13/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/13/other1.webp",
-            "images/products/watch/13/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/13/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/13/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2300-1a-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2300-1A-Generic%20%0ASKU%3A%20gshock%20green%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -350,12 +350,12 @@ const products = [
             "new": "₹1499"
         },
         "images": {
-            "main": "images/products/watch/14/main.webp",
-            "hover": "images/products/watch/14/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/14/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/14/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/14/other1.webp",
-            "images/products/watch/14/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/14/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/14/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-gm-2100bb-generic-silver-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Black%0ASKU%3A%20gshock%20sblack%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -375,12 +375,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/15/main.webp",
-            "hover": "images/products/watch/15/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/15/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/15/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/15/other1.webp",
-            "images/products/watch/15/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/15/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/15/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-SHOCK%20GA2100RW%20With%20Rainbow%20Dial%2C%20Detailed%20with%20Perfection.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga2100rw-with-rainbow-dial-detailed-with-perfection%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GA2100RW%20With%20Rainbow%20Dial%2C%20Detailed%20with%20Perfection%0ASKU%3A%20GA4120-1%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -401,12 +401,12 @@ const products = [
             "new": "₹1499"
         },
         "images": {
-            "main": "images/products/watch/16/main.webp",
-            "hover": "images/products/watch/16/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/16/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/16/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/16/other1.webp",
-            "images/products/watch/16/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/16/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/16/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Green.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-gm-2100bb-generic-silver-green%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20GM-2100BB-Generic%20Silver-Green%0ASKU%3A%20gbm-2100BB-silver-green%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -427,12 +427,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/17/main.webp",
-            "hover": "images/products/watch/17/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/17/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/17/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/17/other1.webp",
-            "images/products/watch/17/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/17/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/17/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-SHOCK%20GA2100RW%2C%20Detailed%20with%20Perfection.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga2100rw-detailed-with-perfection%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GA2100RW%2C%20Detailed%20with%20Perfection%0ASKU%3A%20casio-2%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -453,12 +453,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/18/main.webp",
-            "hover": "images/products/watch/18/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/18/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/18/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/18/other1.webp",
-            "images/products/watch/18/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/18/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/18/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-SHOCK%20GA2100RW%20Detailed%20with%20Perfection.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga2100rw-detailed-with-perfection%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GA2100RW%20Detailed%20with%20Perfection%0ASKU%3A%20casio-3%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -479,12 +479,12 @@ const products = [
             "new": "₹1199"
         },
         "images": {
-            "main": "images/products/watch/19/main.webp",
-            "hover": "images/products/watch/19/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/19/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/19/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/19/other1.webp",
-            "images/products/watch/19/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/19/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/19/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Women%27s%20GM-S5600UPG-4%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-women-s-gm-s5600upg-4-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Women%27s%20GM-S5600UPG-4%20Generic%0ASKU%3A%20women-1%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -505,12 +505,12 @@ const products = [
             "new": "₹1699"
         },
         "images": {
-            "main": "images/products/watch/20/main.webp",
-            "hover": "images/products/watch/20/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/20/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/20/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/20/other1.webp",
-            "images/products/watch/20/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/20/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/20/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Dark%20Blue.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-steel-gm-2110d-2a-generic-silver-dark-blue%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Silver-Dark%20Blue%0ASKU%3A%20g-shock-metal-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -531,12 +531,12 @@ const products = [
             "new": "₹1399"
         },
         "images": {
-            "main": "images/products/watch/21/main.webp",
-            "hover": "images/products/watch/21/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/21/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/21/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/21/other1.webp",
-            "images/products/watch/21/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/21/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/21/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20AE-1200WHD-1AV%20Generic%20Silver.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-ae-1200whd-1av-generic-silver%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20AE-1200WHD-1AV%20Generic%20Silver%0ASKU%3A%20g-shock-metal-2%0APrice%3A%20%E2%82%B91399%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -557,12 +557,12 @@ const products = [
             "new": "₹1499"
         },
         "images": {
-            "main": "images/products/watch/22/main.webp",
-            "hover": "images/products/watch/22/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/22/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/22/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/22/other1.webp",
-            "images/products/watch/22/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/22/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/22/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Full%20Green.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gm-2100g-1a9-generic-full-green%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Full%20Green%0ASKU%3A%20gshock%20f%20green%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -583,12 +583,12 @@ const products = [
             "new": "₹1499"
         },
         "images": {
-            "main": "images/products/watch/23/main.webp",
-            "hover": "images/products/watch/23/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/23/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/23/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/23/other1.webp",
-            "images/products/watch/23/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/23/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/23/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Silver%20Blue.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gm-2100g-1a9-generic-silver-blue%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GM-2100G-1A9%20Generic%20Silver%20Blue%0ASKU%3A%20gshock%20sblue%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -609,12 +609,12 @@ const products = [
             "new": "₹1199"
         },
         "images": {
-            "main": "images/products/watch/24/main.webp",
-            "hover": "images/products/watch/24/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/24/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/24/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/24/other1.webp",
-            "images/products/watch/24/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/24/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/24/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20A168WGG-1ADF%20Generic%20Silver.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-a168wgg-1adf-generic-silver%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20A168WGG-1ADF%20Generic%20Silver%0ASKU%3A%20casio-4%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -635,12 +635,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/25/main.webp",
-            "hover": "images/products/watch/25/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/25/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/25/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/25/other1.webp",
-            "images/products/watch/25/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/25/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/25/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-SHOCK%20GA2100RW%20Detailed%20with%20Perfection.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga2100rw-detailed-with-perfection%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GA2100RW%20Detailed%20with%20Perfection%0ASKU%3A%20gshock%20%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -661,12 +661,12 @@ const products = [
             "new": "₹1199"
         },
         "images": {
-            "main": "images/products/watch/26/main.webp",
-            "hover": "images/products/watch/26/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/26/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/26/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/26/other1.webp",
-            "images/products/watch/26/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/26/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/26/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GBD-200-%201G-%20squad%20%E2%80%93%20Generic%20Full%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gbd-200-1g-squad-generic-full-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GBD-200-%201G-%20squad%20%E2%80%93%20Generic%20Full%20Black%0ASKU%3A%20casio-5%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -687,12 +687,12 @@ const products = [
             "new": "₹1199"
         },
         "images": {
-            "main": "images/products/watch/27/main.webp",
-            "hover": "images/products/watch/27/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/27/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/27/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/27/other1.webp",
-            "images/products/watch/27/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/27/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/27/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GBD-200-%201G-%20squad%20%E2%80%93%20Generic%20Purpel.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gbd-200-1g-squad-generic-purpel%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GBD-200-%201G-%20squad%20%E2%80%93%20Generic%20Purpel%0ASKU%3A%20casio-6%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -713,12 +713,12 @@ const products = [
             "new": "₹1199"
         },
         "images": {
-            "main": "images/products/watch/28/main.webp",
-            "hover": "images/products/watch/28/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/28/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/28/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/28/other1.webp",
-            "images/products/watch/28/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/28/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/28/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20DW-5610UU-3%20Generic%20Full%20Green.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-dw-5610uu-3-generic-full-green%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20DW-5610UU-3%20Generic%20Full%20Green%0ASKU%3A%20casio-7%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -739,12 +739,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/29/main.webp",
-            "hover": "images/products/watch/29/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/29/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/29/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/29/other1.webp",
-            "images/products/watch/29/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/29/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/29/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20Blue.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2100mng-manga-edition-blue%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20Blue%0ASKU%3A%20manga-b%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -765,12 +765,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/30/main.webp",
-            "hover": "images/products/watch/30/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/30/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/30/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/30/other1.webp",
-            "images/products/watch/30/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/30/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/30/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20White.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2100mng-manga-edition-white%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20White%0ASKU%3A%20manga-w%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -791,11 +791,11 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/31/main.webp",
-            "hover": "images/products/watch/31/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/31/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/31/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/31/other1.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/31/other1.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20Green.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-2100mng-manga-edition-green%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-2100MNG-%20Manga%20Edition-%20Green%0ASKU%3A%20manga-g%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -816,12 +816,12 @@ const products = [
             "new": "₹1499"
         },
         "images": {
-            "main": "images/products/watch/32/main.webp",
-            "hover": "images/products/watch/32/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/32/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/32/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/32/other1.webp",
-            "images/products/watch/32/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/32/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/32/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-2100SKE-7AER%20Generic-%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-2100ske-7aer-generic-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-2100SKE-7AER%20Generic-%20Black%0ASKU%3A%20trance-b%0APrice%3A%20%E2%82%B91499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -842,12 +842,12 @@ const products = [
             "new": "₹1600"
         },
         "images": {
-            "main": "images/products/watch/33/main.webp",
-            "hover": "images/products/watch/33/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/33/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/33/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/33/other1.webp",
-            "images/products/watch/33/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/33/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/33/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GM-110-1A-Generic%20Sliver-%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gm-110-1a-generic-sliver-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GM-110-1A-Generic%20Sliver-%20Black%0ASKU%3A%20gm110%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -868,11 +868,11 @@ const products = [
             "new": "₹1600"
         },
         "images": {
-            "main": "images/products/watch/34/main.webp",
-            "hover": "images/products/watch/34/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/34/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/34/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/34/other1.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/34/other1.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20110G-1A9-Generic%20Gold.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-110g-1a9-generic-gold%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20110G-1A9-Generic%20Gold%0ASKU%3A%20110g-g%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -893,12 +893,12 @@ const products = [
             "new": "₹1199"
         },
         "images": {
-            "main": "images/products/watch/35/main.webp",
-            "hover": "images/products/watch/35/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/35/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/35/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/35/other1.webp",
-            "images/products/watch/35/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/35/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/35/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-shock%20Casio%20A168WG-9W%20Generic-%20Gold.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-a168wg-9w-generic-gold%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-shock%20Casio%20A168WG-9W%20Generic-%20Gold%0ASKU%3A%20casiio%20womens%0APrice%3A%20%E2%82%B91199%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -919,12 +919,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/36/main.webp",
-            "hover": "images/products/watch/36/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/36/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/36/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/36/other1.webp",
-            "images/products/watch/36/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/36/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/36/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-SHOCK%20GMA-P2100SA-1A2%20Generic%20Detailed%20with%20Perfection.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gma-p2100sa-1a2-generic-detailed-with-perfection%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GMA-P2100SA-1A2%20Generic%20Detailed%20with%20Perfection%0ASKU%3A%20ga2100%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -945,12 +945,12 @@ const products = [
             "new": "₹1600"
         },
         "images": {
-            "main": "images/products/watch/37/main.webp",
-            "hover": "images/products/watch/37/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/37/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/37/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/37/other1.webp",
-            "images/products/watch/37/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/37/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/37/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GA-110CD-1A2-Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-ga-110cd-1a2-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GA-110CD-1A2-Generic%0ASKU%3A%20110cd-b%0APrice%3A%20%E2%82%B91600%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -971,12 +971,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/38/main.webp",
-            "hover": "images/products/watch/38/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/38/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/38/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/38/other1.webp",
-            "images/products/watch/38/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/38/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/38/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-SHOCK%20GAE-2100WE-3A%20Millitary%20Edition%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gae-2100we-3a-millitary-edition-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-SHOCK%20GAE-2100WE-3A%20Millitary%20Edition%20Generic%0ASKU%3A%20army%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -997,12 +997,12 @@ const products = [
             "new": "₹1399"
         },
         "images": {
-            "main": "images/products/watch/39/main.webp",
-            "hover": "images/products/watch/39/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/39/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/39/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/39/other1.webp",
-            "images/products/watch/39/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/39/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/39/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20Brown.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-ae-1200whl-5av-generic-brown%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20Brown%0ASKU%3A%20casi-brwn%0APrice%3A%20%E2%82%B91399%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1023,11 +1023,11 @@ const products = [
             "new": "₹1399"
         },
         "images": {
-            "main": "images/products/watch/40/main.webp",
-            "hover": "images/products/watch/40/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/40/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/40/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/40/other1.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/40/other1.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20Silver-Brown.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-ae-1200whl-5av-generic-silver-brown%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%20Silver-Brown%0ASKU%3A%20casi-sbrown%0APrice%3A%20%E2%82%B91399%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1048,12 +1048,12 @@ const products = [
             "new": "₹1399"
         },
         "images": {
-            "main": "images/products/watch/41/main.webp",
-            "hover": "images/products/watch/41/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/41/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/41/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/41/other1.webp",
-            "images/products/watch/41/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/41/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/41/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dcasio-g-shock-ae-1200whl-5av-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Casio%20G-Shock%20AE-1200WHL-5AV%20Generic%0ASKU%3A%20casi%20mix%0APrice%3A%20%E2%82%B91399%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1074,12 +1074,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/42/main.webp",
-            "hover": "images/products/watch/42/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/42/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/42/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/42/other1.webp",
-            "images/products/watch/42/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/42/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/42/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Silver%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-gm-5600-generic-silver-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Silver%20Black%0ASKU%3A%20casi-s%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1100,12 +1100,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/43/main.webp",
-            "hover": "images/products/watch/43/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/43/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/43/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/43/other1.webp",
-            "images/products/watch/43/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/43/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/43/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Full%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-gm-5600-generic-full-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Full%20Black%0ASKU%3A%20casi-b%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1126,11 +1126,11 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/44/main.webp",
-            "hover": "images/products/watch/44/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/44/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/44/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/44/other1.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/44/other1.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Gold%20Black.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-casio-gm-5600-generic-gold-black%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20Casio%20GM%205600%20Generic%20Gold%20Black%0ASKU%3A%20casi-g%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1151,12 +1151,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/45/main.webp",
-            "hover": "images/products/watch/45/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/45/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/45/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/45/other1.webp",
-            "images/products/watch/45/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/45/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/45/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-2100-1A%20Generic%20.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-2100-1a-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-2100-1A%20Generic%20%0ASKU%3A%20ga4210%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1177,12 +1177,12 @@ const products = [
             "new": "₹1899"
         },
         "images": {
-            "main": "images/products/watch/46/main.webp",
-            "hover": "images/products/watch/46/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/46/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/46/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/46/other1.webp",
-            "images/products/watch/46/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/46/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/46/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GR-B300-8A2%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gr-b300-8a2-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GR-B300-8A2%20Generic%0ASKU%3A%20big-1%0APrice%3A%20%E2%82%B91899%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1203,12 +1203,12 @@ const products = [
             "new": "₹1899"
         },
         "images": {
-            "main": "images/products/watch/47/main.webp",
-            "hover": "images/products/watch/47/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/47/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/47/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/47/other1.webp",
-            "images/products/watch/47/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/47/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/47/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GR-B300-1A4%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-gr-b300-1a4-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GR-B300-1A4%20Generic%0ASKU%3A%20big-2%0APrice%3A%20%E2%82%B91899%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1229,12 +1229,12 @@ const products = [
             "new": "₹1899"
         },
         "images": {
-            "main": "images/products/watch/48/main.webp",
-            "hover": "images/products/watch/48/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/48/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/48/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/48/other1.webp",
-            "images/products/watch/48/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/48/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/48/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-700BP-1A%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-700bp-1a-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-700BP-1A%20Generic%0ASKU%3A%20big-blu%0APrice%3A%20%E2%82%B91899%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1255,12 +1255,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/49/main.webp",
-            "hover": "images/products/watch/49/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/49/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/49/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/49/other1.webp",
-            "images/products/watch/49/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/49/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/49/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-B2100CY-1A%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-b2100cy-1a-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-B2100CY-1A%20Generic%0ASKU%3A%20shock%20yellow%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1281,12 +1281,12 @@ const products = [
             "new": "₹1899"
         },
         "images": {
-            "main": "images/products/watch/50/main.webp",
-            "hover": "images/products/watch/50/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/50/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/50/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/50/other1.webp",
-            "images/products/watch/50/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/50/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/50/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-110CD-1A9%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-110cd-1a9-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-110CD-1A9%20Generic%0ASKU%3A%20big-5%0APrice%3A%20%E2%82%B91899%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1307,12 +1307,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/51/main.webp",
-            "hover": "images/products/watch/51/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/51/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/51/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/51/other1.webp",
-            "images/products/watch/51/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/51/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/51/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-B2100FC%20-1A%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga-b2100fc-1a-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-B2100FC%20-1A%20Generic%0ASKU%3A%20gshock%20%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1333,12 +1333,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/52/main.webp",
-            "hover": "images/products/watch/52/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/52/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/52/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/52/other1.webp",
-            "images/products/watch/52/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/52/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/52/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA2100-2A2%20Generic-%20Blue.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga2100-2a2-generic-blue%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA2100-2A2%20Generic-%20Blue%0ASKU%3A%20casi-6%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1359,12 +1359,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/53/main.webp",
-            "hover": "images/products/watch/53/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/53/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/53/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/53/other1.webp",
-            "images/products/watch/53/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/53/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/53/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA2100-2A2%20Generic-%20yellow.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga2100-2a2-generic-yellow%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA2100-2A2%20Generic-%20yellow%0ASKU%3A%20casi-6%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1385,12 +1385,12 @@ const products = [
             "new": "₹1299"
         },
         "images": {
-            "main": "images/products/watch/54/main.webp",
-            "hover": "images/products/watch/54/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/54/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/54/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/54/other1.webp",
-            "images/products/watch/54/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/54/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/54/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA2100-2A2%20Generic-%20white.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-ga2100-2a2-generic-white%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA2100-2A2%20Generic-%20white%0ASKU%3A%20casi-7%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1411,12 +1411,12 @@ const products = [
             "new": "₹1699"
         },
         "images": {
-            "main": "images/products/watch/55/main.webp",
-            "hover": "images/products/watch/55/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/55/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/55/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/55/other1.webp",
-            "images/products/watch/55/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/55/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/55/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Full%20Gold.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dg-shock-steel-gm-2110d-2a-generic-full-gold%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20steel%20GM-2110D-2A%20-Generic%20Full%20Gold%0ASKU%3A%20mera%20gold%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1437,12 +1437,12 @@ const products = [
             "new": "₹2599"
         },
         "images": {
-            "main": "images/products/watch/56/main.webp",
-            "hover": "images/products/watch/56/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/56/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/56/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/56/other1.webp",
-            "images/products/watch/56/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/56/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/56/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Tissot%20PRX%20Blue%20Dial%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dtissot-prx-blue-dial-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Tissot%20PRX%20Blue%20Dial%20Generic%0ASKU%3A%20tosst-1%0APrice%3A%20%E2%82%B92599%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1463,12 +1463,12 @@ const products = [
             "new": "₹1599"
         },
         "images": {
-            "main": "images/products/watch/57/main.webp",
-            "hover": "images/products/watch/57/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/57/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/57/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/57/other1.webp",
-            "images/products/watch/57/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/57/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/57/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Omega%20%C3%97%20Swatch%20MoonSwatch-%20Grey%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Domega-swatch-moonswatch-grey-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Omega%20%C3%97%20Swatch%20MoonSwatch-%20Grey%20Generic%0ASKU%3A%20om-1%0APrice%3A%20%E2%82%B91599%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1489,12 +1489,12 @@ const products = [
             "new": "₹2499"
         },
         "images": {
-            "main": "images/products/watch/58/main.webp",
-            "hover": "images/products/watch/58/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/58/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/58/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/58/other1.webp",
-            "images/products/watch/58/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/58/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/58/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Michael%20Kors%20Bradshaw%20Rose%20Gold%20Womens%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Dmichael-kors-bradshaw-rose-gold-womens-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Michael%20Kors%20Bradshaw%20Rose%20Gold%20Womens%20Generic%0ASKU%3A%20women-1%0APrice%3A%20%E2%82%B92499%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1515,12 +1515,12 @@ const products = [
             "new": "₹2100"
         },
         "images": {
-            "main": "images/products/watch/59/main.webp",
-            "hover": "images/products/watch/59/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/59/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/59/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/59/other1.webp",
-            "images/products/watch/59/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/59/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/59/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20-%20Minimalist%20Chronograph%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-minimalist-chronograph-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20-%20Minimalist%20Chronograph%20Generic%0ASKU%3A%20armani-1%0APrice%3A%20%E2%82%B92100%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1541,12 +1541,12 @@ const products = [
             "new": "₹1699"
         },
         "images": {
-            "main": "images/products/watch/60/main.webp",
-            "hover": "images/products/watch/60/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/60/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/60/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/60/other1.webp",
-            "images/products/watch/60/other2.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/60/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/60/other2.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20must-have%20wrist%20essential%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-must-have-wrist-essential-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20must-have%20wrist%20essential%20Generic%0ASKU%3A%20armani-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1567,11 +1567,11 @@ const products = [
             "new": "₹1699"
         },
         "images": {
-            "main": "images/products/watch/61/main.webp",
-            "hover": "images/products/watch/61/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/61/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/61/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/61/other1.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/61/other1.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20Black%20AR11398%20Wristwatch%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-black-ar11398-wristwatch-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20Black%20AR11398%20Wristwatch%20Generic%0ASKU%3A%20armani-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
@@ -1592,11 +1592,11 @@ const products = [
             "new": "₹1699"
         },
         "images": {
-            "main": "images/products/watch/62/main.webp",
-            "hover": "images/products/watch/62/hover.webp"
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/62/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/62/hover.webp"
         },
         "otherImages": [
-            "images/products/watch/62/other1.webp"
+            "https://raw.githubusercontent.com/test-pages-xoxox/watch-pluss-demo/master/images/products/watch/62/other1.webp"
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Emporio%20Armani%20AR2429%20is%20a%20men%27s%20Generic.%0AProduct%20link%3A%0Ahttps%3A//watchpluss.in/product-detail.html%3Fpid%3Demporio-armani-ar2429-is-a-men-s-generic%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Emporio%20Armani%20AR2429%20is%20a%20men%27s%20Generic%0ASKU%3A%20armani-1%0APrice%3A%20%E2%82%B91699%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
